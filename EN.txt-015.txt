@@ -1,0 +1,100 @@
+Angel's Mercy
+Devil's Hatred
+Energy Charge
+Finish Blast
+Holy Blessing
+Dark Impulse
+Machine Brand
+Shift Avoid
+Hero Sigil
+Insanity
+Adds a critical-hit effect.
+Increases stun value dealt to enemies.
+Increases the speed of attacks.
+Increases defense.
+Grants a discount at the Resistance shops.
+Grants a discount at the machine shops.
+Cutting through projectiles restores HP.
+Adds a high probability of stunning enemies.
+Adds a beast effect to close-range attacks.
+Chance of restoring HP when damaging enemies.
+Adds a shock wave when striking enemy projectiles.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Lowers skill-gauge cooldown when attacking.
+Does more damage as you defeat enemies. (Max 500.)
+Decreases chance of staggering from attacks.
+Adds a shock wave when striking enemy projectiles.
+Adds a beast effect to close-range attacks.
+Chance of restoring HP when damaging enemies.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Does more damage as you defeat enemies. (Max 500.)
+Chance of restoring HP when damaging enemies.
+Adds a beast effect to close-range attacks.
+Increases power of mid-air attacks.
+Chance to subjugate foes when attacking them.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Does more damage as you defeat enemies. (Max 500.)
+Restores HP when finishing off enemies.
+Adds a shock wave when finishing off enemies.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Does more damage as you defeat enemies. (Max 500.)
+Changes damage values and your evade maneuver.
+Changes damage values and treasure chests.
+Swing these weapons to hear Emil's voice!
+R010: Laser
+R010: Laser
+R020: Mirage
+R020: Mirage
+R030: Hammer
+R030: Hammer
+R040: Blade
+R040: Blade
+R050: Spear
+R050: Spear
+R070: M Shield
+R070: M Shield
+A060: P Shield
+A060: P Shield
+A080: Wave
+A080: Wave
+A090: Wire
+A090: Wire
+A100: Decoy
+A100: Decoy
+A110: Slow
+A110: Slow
+A120: Repair
+A120: Repair
+A130: Bomb
+A130: Bomb
+A140: Gravity
+A140: Gravity
+A150: Volt
+A150: Volt
+A160: Missile
+A160: Missile
+A170: Scanner
+A170: Scanner
+Fires a powerful laser in the\ndirection that the Pod is facing.
+Analyzes all enemies in a fixed\nradius, allowing combatants to\ndeliver a series of deadly slashes\nto all who are caught within.
+Summons a mass of energy that\nunleashes a devastating blow\nupon its target.
+Spins a Pod around the player at\nhigh speed, wreaking havoc on\nany enemies it touches.
+Produces a mass of energy that\nsprouts from the ground in the\nshape of deadly spears.
+Deploys a protective barrier that\nblocks projectile attacks.
+Deploys a protective barrier that\nblocks melee attacks.
+Generates a powerful shock wave\nby slamming a Pod to the ground\nfrom an elevated height.
+Fires a wire in the direction that\nthe Pod is facing. If it hits a foe,\nit launches the combatant right to\nthe target for an up-close assault.
+Creates an image of the user,\ndrawing the attention of foes\nand firing upon them with\nthe Pod's ranged attack.
+Creates a field that distorts time,\nslowing down all enemies that\nenter its vicinity.

@@ -1,0 +1,100 @@
+A restored photo. It's much clearer now.
+A package that was kept in the\nResistance's materials storeroom.\nThe contents are unknown.
+Created by humans, this broken toy\nno longer works.
+A book humans used for recording\nfamily finances.
+A small shoe thought to have been\nworn by a human girl.
+A cable with three colored connectors.\nUsed for creating games.
+A cable with four colored connectors.\nUsed for creating games.
+A cable with five colored connectors.\nUsed for creating games.
+A tool humans used to brush their teeth.\nReduces the probability of cavities.
+A cosmetic item humans would rub on\ntheir lips to make themselves beautiful.
+Used by humans to reduce fat levels\ncaused by consuming more energy\nthan necessary.
+A tool for recording information.\nRecords indicate these were believed\nto be mightier than swords.
+A book of pharmaceuticals for living\norganisms that already existed in the\nPod's database.
+Unlocks a Tower sub-unit in the\nForest Kingdom.
+Unlocks a Tower sub-unit in the\nFlooded City.
+Unlocks a Tower sub-unit in the\nAmusement Park.
+Part of a machine lifeform. May have\nsomething to do with the treasure\nof the forest.
+A stamp from the amusement park.
+A card used for collecting stamps at\nthe amusement park.
+A stick of unknown purpose.
+A slab with the laws of an ancient\ncountry written upon it. Many of\nthem don't make any sense.
+A weighty stone mask. It's as dirty as\nit is heavy.
+A statue in the shape of a young girl.
+Materials necessary for building toys.
+Necessary for restoring a machine\nlifeform's memory banks.
+A plug-in chip containing classified\ninformation.
+Taken from a plant with tough bark.\nNecessary for creating a fuel filter.
+Grants the bearer access to the\ngambling arena.
+A lost bag belonging to\nthe Resistance.
+A key that unlocks an elevator in\nthe shopping mall.
+A book of philosophy that Anemone\ngave you. Its title means "thoughts"\nin an ancient language.
+A filter used by androids to refine\nfuel.
+High-viscosity oil used by machine\nlifeforms.
+This can be traded for a single\nitem at a shop.
+A pouch that emits a scent animals\nlove. Prevents them from running\nwhen approached.
+A pouch that emits a scent animals\nlove. Lets you ride them anytime\nyou want.
+A pouch that emits a scent animals\nlove. Causes them to approach and\nwait for you.
+Listen to nice BGM on the jukebox.\nPart 1 of a set of 5.
+Unlock more BGM on the jukebox.\nPart 2 of a set of 5 amazing\nsoundtracks.
+Unlock more BGM on the jukebox.\nPart 3 of a set of 5 soundtracks \nin extremely high demand.
+Unlock more BGM on the jukebox.\nPart 4 of a set of 5 highly anticipated\nsoundtracks.
+Unlock more BGM on the jukebox.\nThe final part in possibly the best \nsoundtrack series ever.
+Use this to change your costume.\nTaking damage will not remove your \nclothes in any way.
+[Equipment]\nProtective armor formally issued\nto YoRHa troops. 2B can equip this\ncostume.
+[Equipment]\nProtective armor formally issued\nto YoRHa troops. 2B can equip this\ncostume.
+[Accessory]\nA head covering worn by machine\nlifeforms.
+[Accessory]\nThis head covering belongs to Emil.
+[Accessory]\nEmil gave you this wearable \nLunar Tear.
+[Accessory]\nA mask bearing Emil's likeness.
+[Accessory]\nGlasses worn by Adam. Equip them\nto instantly feel more intelligent.
+[Accessory]\nA mask of an alien face.
+[Pod Skin]\nShaped after a common household\nappliance vital for survival.
+[Pod Model]\nA high-capacity device used in the\nGestalt Project. It exudes a vague \naura of pompousness.
+[Pod Skin]\nShaped after a very sturdy box used\nfor transporting goods in the jungle.
+[Pod Skin]\nWhite and blue stripes with a dash\nof pink. Common in the Far East.
+[Pod Skin]\nA retro Pod skin that looks like an\nancient device from the East.
+[Pod Skin]\nMake your Pod look like an\nindestructible entertainment\ndevice.
+[Pod Skin]\nA Pod skin powered by some kind\nof ancient blast-based processing\ntechnology.
+[Pod Skin]\nA super nostalgic four-color \npattern on a bed of grey.
+[Pod Skin]\nA purple Pod skin filled with the\nhopes and dreams of millions of\nchildren.
+[Accessory]\nA valve-shaped accessory.\nUse in left eye only.
+[Accessory]\nA valve-shaped accessory.\nUse in right eye only.
+[Accessory]\nA valve-shaped accessory.\nCan be equipped in both eyes.
+[Accessory]\nA valve-shaped accessory.\nCan be equipped on your head.
+[Accessory]\nA long-haired wig for A2.
+[Accessory]\nGoggles with so much camouflage\nthey became entirely invisible.
+[Accessory]\nA trendy pink ribbon with a simple\ndesign. Popular among androids of\nall ages.
+[Accessory]\nA cool blue ribbon with an elegant\ndesign. Goes well with rough jackets.
+The core of a machine lifeform\ncontaining a copious amount of data. \nCan be exchanged for money.
+The cores of children from Pascal's\nvillage. It is clear they were cherished \nby the villagers.\nCan be exchanged for money.
+A book on life and death. It was\nlying outside of Pascal's house,\nin a thoroughly used state.\nCan be exchanged for money.
++8 storage
++8 storage
++8 storage
++8 storage
++16 storage
++16 storage
++24 storage
+Increases plug-in\nchip capacity by 8.
+Increases plug-in\nchip capacity by 8.
+Increases plug-in\nchip capacity by 8.
+Increases plug-in\nchip capacity by 8.
+Increases plug-in\nchip capacity by 16.
+Increases plug-in\nchip capacity by 16.
+Increases plug-in\nchip capacity by 24.
+All Items
+Restorative Items
+Enhancement Items
+Support Items
+Materials
+Key Items
+Caught Fish
+View all items.
+View all healing items.
+View all enhancement items.
+View all support items.
+View all materials.
+View all key items.
+View all caught fish.
+All Weapons

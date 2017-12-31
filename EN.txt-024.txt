@@ -1,0 +1,100 @@
+Heal Drops Up +5
+Heal Drops Up +6
+Heal Drops Up +7
+Heal Drops Up +8
+Death Rattle
+HUD: HP Gauge
+HUD: Sound Waves
+HUD: Enemy Data
+OS Chip
+Evasive System
+Continuous Combo
+Bullet Detonation
+Auto-collect Items
+HUD: Skill Gauge
+HUD: Text Log
+HUD: Mini-map
+HUD: EXP Gauge
+HUD: Save Points
+HUD: Damage Values
+HUD: Objectives
+HUD: Control
+Alien Cells
+Alien Heart
+HUD: Fishing Spots
+Auto-Attack
+Auto-Fire
+Auto-Evade
+Auto-Program
+Auto-Weapon Switch
+Achievement 1
+Achievement 2
+Achievement 3
+Achievement 4
+Achievement 5
+Achievement 6
+Achievement 7
+Achievement 8
+Achievement 9
+Achievement 10
+Achievement 11
+Achievement 12
+Achievement 13
+Achievement 14
+Achievement 15
+Achievement 16
+Achievement 17
+Achievement 18
+Achievement 19
+Achievement 20
+Achievement 21
+Achievement 22
+Achievement 23
+Achievement 24
+Achievement 25
+Achievement 26
+Achievement 27
+Achievement 28
+Achievement 29
+Achievement 30
+Achievement 31
+Achievement 32
+Achievement 33
+Achievement 34
+Achievement 35
+Achievement 36
+Achievement 37
+Achievement 38
+Achievement 39
+Achievement 40
+Achievement 41
+Achievement 42
+Achievement 43
+Achievement 44
+Achievement 45
+Achievement 46
+Achievement 47
+Trophy 01
+Trophy 02
+Trophy 03
+Trophy 04
+Trophy 05
+Trophy 06
+Trophy 07
+Trophy 08
+Trophy 09
+Trophy 10
+Trophy 11
+Trophy 12
+Trophy 13
+Trophy 14
+Trophy 15
+Trophy 16
+Trophy 17
+Trophy 18
+Trophy 19
+Trophy 20
+Trophy 21
+Trophy 22
+Trophy 23
+Trophy 24

@@ -1,0 +1,100 @@
+Max HP Up +4
+Max HP Up +5
+Max HP Up +6
+Max HP Up +7
+Max HP Up +8
+Offensive Heal
+Offensive Heal +1
+Offensive Heal +2
+Offensive Heal +3
+Offensive Heal +4
+Offensive Heal +5
+Offensive Heal +6
+Offensive Heal +7
+Offensive Heal +8
+Deadly Heal
+Deadly Heal +1
+Deadly Heal +2
+Deadly Heal +3
+Deadly Heal +4
+Deadly Heal +5
+Deadly Heal +6
+Deadly Heal +7
+Deadly Heal +8
+Auto-Heal
+Auto-Heal +1
+Auto-Heal +2
+Auto-Heal +3
+Auto-Heal +4
+Auto-Heal +5
+Auto-Heal +6
+Auto-Heal +7
+Auto-Heal +8
+Evade Range Up
+Evade Range Up +1
+Evade Range Up +2
+Evade Range Up +3
+Evade Range Up +4
+Evade Range Up +5
+Evade Range Up +6
+Evade Range Up +7
+Evade Range Up +8
+Moving Speed Up
+Moving Speed Up +1
+Moving Speed Up +2
+Moving Speed Up +3
+Moving Speed Up +4
+Moving Speed Up +5
+Moving Speed Up +6
+Moving Speed Up +7
+Moving Speed Up +8
+Drop Rate Up
+Drop Rate Up +1
+Drop Rate Up +2
+Drop Rate Up +3
+Drop Rate Up +4
+Drop Rate Up +5
+Drop Rate Up +6
+Drop Rate Up +7
+Drop Rate Up +8
+EXP Gain Up
+EXP Gain Up +1
+EXP Gain Up +2
+EXP Gain Up +3
+EXP Gain Up +4
+EXP Gain Up +5
+EXP Gain Up +6
+EXP Gain Up +7
+EXP Gain Up +8
+Shock Wave
+Shock Wave +1
+Shock Wave +2
+Shock Wave +3
+Shock Wave +4
+Shock Wave +5
+Shock Wave +6
+Shock Wave +7
+Shock Wave +8
+Last Stand
+Last Stand +1
+Last Stand +2
+Last Stand +3
+Last Stand +4
+Last Stand +5
+Last Stand +6
+Last Stand +7
+Last Stand +8
+Damage Absorb
+Damage Absorb +1
+Damage Absorb +2
+Damage Absorb +3
+Damage Absorb +4
+Damage Absorb +5
+Damage Absorb +6
+Damage Absorb +7
+Damage Absorb +8
+Vengeance
+Vengeance +1
+Vengeance +2
+Vengeance +3
+Vengeance +4

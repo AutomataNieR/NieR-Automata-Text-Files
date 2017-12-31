@@ -1,0 +1,100 @@
+Movement speed increases for\n30 seconds.
+Increases the power of \nweapon-based attacks \nby 50% for 30 seconds. \nAlso restores 100% HP.
+Give to an animal in order to ride them.
+Enemies drop more money for\n30 seconds.
+Enemies drop more money for\n60 seconds.
+Disrupts auditory & visual feed for\n30 seconds while generating other\nrandom effects.
+Skin acquired from a wild beast.
+Meat procured from a boar.\nCan be exchanged for money.
+Meat procured from a moose.\nCan be exchanged for money.
+Meat from a white-furred wild boar.\nCan be exchanged for money.
+Meat from a white-furred moose.\nCan be exchanged for money.
+A worn-down, unusable screw.
+A newly made screw.
+A small gear for something.
+A large gear for something.
+Rusted, beat-up ore.
+A piece of a meteorite that fell to\nthe earth.
+Alloy composed of rare metals.
+Alloy composed of rare metals.
+A broken, unusable winding key.
+A broken, unusable battery.
+A long-lasting battery.
+A cut, unusable cable.
+A newly made cable.
+A newly made bolt.
+A newly made nut.
+The arm unit of a machine lifeform.
+The leg unit of a machine lifeform.
+The torso unit of a machine lifeform.
+The head unit of a machine lifeform.
+A gadget so simple you don't\nknow what it's for.
+A gadget so elaborate you don't\nknow what it's for.
+A gadget so complex you don't\nknow what it's for.
+Use this to make your Pod stronger.
+Use this to make your Pod stronger.
+Use this to make your Pod stronger.
+A chip with nothing saved on it.
+Ore containing copper.\nIt's usually mined, but\nfor some reason, this stuff \nis lying around everywhere.
+Mined ore containing iron. \nIron can be extracted by heating \nit to 3000 degrees in a furnace.
+Mined ore containing silver.\nHuman history states silver was\nused to defeat demons, but\nmachines seem impervious.
+Mined ore containing gold. Humans\ntreasured gold as a valuable mineral,\nbut to machines it's worthless.
+A heavily dented metal plate.
+A seed of some plant. Seems it would\nbe tricky to grow.
+A sticky substance secreted from\ntree stumps.
+Clear, pure water.
+A seed fallen from a tree.
+A rose that bloomed in the desert.\nCan be exchanged for money.
+A fungus that grows at the roots of\ntrees.
+A book too worn to read.
+Oil that leaked from machines.
+A compound used when producing\nleather.
+A metal used in welding.
+A liquid used for coloring.
+Mined ore that sets off sparks when hit.
+Mined ore. A semi-translucent jewel\ncreated from petrified tree sap.
+An elastic substance extracted from\nplants.
+A rusted, beat-up bolt.
+A crushed, flattened nut.
+Very large for a chicken.
+Eggs laid by an eagle.
+A large pearl with a black luster. \nExtremely rare.
+An earring worn by humans.\nCan be exchanged for money.
+A bracelet worn by humans.\nCan be exchanged for money.
+A socket to be used in a plug.
+A completely bent, twisted wire.
+A stretched out, unusable coil.
+A dented, unusable socket.
+A broken, unusable circuit.
+A cluster of mined crystals.
+A choker used by humans.\nCan be exchanged for money.
+An old mask left behind by a \nmachine lifeform.\nCan be exchanged for money.
+Earrings worn by humans.\nCan be exchanged for money.
+A tech manual written in letters you\ncan't understand.
+A thick book thought to be \na dictionary.
+A brilliantly shining pearl.
+Mined ore. A beautiful green jewel.
+A piece of meteor, fallen from outer\nspace.
+A part obtained from a special\nmachine lifeform. \nCan be exchanged for money.
+A letter addressed to Sartre that\nseems to contain a question.\nYou shouldn't read it.
+A letter addressed to Jean-Paul that\nseems to contain a question.\nYou shouldn't read it.
+Beautifully polished glass intended for\nSartre.
+Beautifully polished glass intended for\nJean-Paul.
+An old, rusty machine fossil intended\nfor Sartre.
+An old, rusty machine fossil intended\nfor Jean-Paul.
+Sartre's letter. It reads: \n"I've left to seek the truth of the world.\nThrow that trash away!"
+Jean-Paul's letter. It reads: \n"I've left to seek the truth of the world.\nThrow that trash away!"
+The bloodied memory chip of a\nmachine lifeform. Says its allies\nwere destroyed by the resistance.
+A journal left behind by a man.\nThoughts about his fallen comrades are\nspelled out within.
+A chip containing a data log on A2.\nHeavily damaged, there is little that\ncan be analyzed.
+A chip containing a data log on A2.\nHeavily damaged, there is little that\ncan be analyzed.
+A chip containing a data log on A2.\nHeavily damaged, there is little that\ncan be analyzed.
+A chip containing a data log on A2.\nHeavily damaged, there is little that\ncan be analyzed.
+A chip containing a data log on A2.\nHeavily damaged, there is little that\ncan be analyzed.
+Dog tag of a member of the Resistance.
+Dog tag of a member of the Resistance.
+Dog tag of a member of the Resistance.
+Dog tag of a member of the Resistance.
+A rusted musical box that can no\nlonger play.
+A restored photo. It's much clearer now.
+A restored photo. It's much clearer now.

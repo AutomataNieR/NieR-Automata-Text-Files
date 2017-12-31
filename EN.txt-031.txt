@@ -1,0 +1,100 @@
+10 UNITS
+00 UNITS_FIREARM
+01 UNIT_FIREARM
+02 UNITS_FIREARM
+03 UNITS_FIREARM
+04 UNITS_FIREARM
+05 UNITS_FIREARM
+06 UNITS_FIREARM
+07 UNITS_FIREARM
+08 UNITS_FIREARM
+09 UNITS_FIREARM
+10 UNITS_FIREARM
+YORHA SHORT SWORD
+TYPE-4O SHORT SWORD
+TYPE-4O GREATSWORD
+TYPE-4O SPEAR
+TYPE-4O BRASS KNUCKLES
+BARE HANDS
+STANDARD
+SNAKE
+COIL
+DRILL
+STRAIGHT LINE
+SNAKE COIL
+STANDARD
+ALWAYS WANDERING
+ALWAYS RUNNING AWAY
+FIX POSITION
+WILL NOT DASH
+CANNOT BE STUNNED
+WILL NOT ATTACK EVEN IF DAMAGED
+WILL NOT ATTACK UNTIL DAMAGED
+WILL NOT ATTACK UNTIL DAMAGE (NO NOTIFICATION)
+WILL NOT EXPLODE
+WILL NOT WANDER WHILE ON STANDBY
+ADD INSANITY BEHAVIOR
+file\EN\messending.new.txt.txt
+NieR:Automata
+flowers for m[A]chines
+or not to [B]e
+meaningless [C]ode
+chil[D]hood's end
+the [E]nd of YoRHa
+mission [F]ailed
+hun[G]ry for knowledge
+a mountain too [H]igh
+no [I] in team
+bad [J]udgment
+aji wo [K]utta
+[L]one wolf
+break ti[M]e
+[N]o man's village
+just y[O]u and me
+corru[P]tion
+[Q]uestionable actions
+mave[R]ick
+city e[S]cape
+fa[T]al error
+deb[U]nked
+reckless bra[V]ery
+broken [W]ings
+time to rela[X]
+head[Y] battle
+over[Z]ealous
+ENDING
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Developed by PlatinumGames
+Director: YOKO TARO
+Senior Game Designer: Takahisa Taura
+Music Director: Keiichi Okabe
+Lead Game Designer: Isao Negishi
+Lead Programmer: Ryo Onishi
+Producer: Yosuke Saito
+Produced by SQUARE ENIX
+GAME DESIGN

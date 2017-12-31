@@ -1,0 +1,100 @@
+file\EN\messcore_2.new.txt.txt
+Bare android fists are passable weapons, but it can be\ndifficult to land effective blows with them.
+A blade once held by an attendant who cared deeply for \nhis lord. Like his loyalty, its blade is unbent.
+A rusty iron pipe covered in the vital fluids of machine\nlifeforms.
+A sword decorated with a bestial motif.\nShort and thin, it easily goes unnoticed.
+A ceremonial implement allegedly made from phoenix\nfeathers. Mostly decorative. Untested in combat.
+Long ago, a cruel lord used this sword on his own\nsubjects in a vain attempt to attain immortality.
+An advanced blade, issued to elite YoRHa on the\nfront lines. Its power increases with its charge.
+A dated YoRHa blade trusted by android veterans.\nNot the latest model, but proven in combat.
+A white sword like those carried by samurai of\nold. Looks flashy, but the blade is top quality.
+A black oriental sword. Its no-frills\ndesign gives it an aura of serious weaponry.
+This common blade is a standard-issue weapon\ngiven to all YoRHa troops.
+An improvised blade used by machine lifeforms. It\nmay be made from scraps, but it gets the job done.
+The blade is dull - Its power comes from mass alone.\nDoes it smell of iron, or is that human blood...?
+A giant, cursed axe, anointed with the blood of\ninnocent twins to assuage the wrath of the gods.
+Bearing a bestial design, this sword cuts down\nany who would challenge its bearer's authority.
+A sword allegedly made from phoenix feathers, used\nby temple guards. As yet untested in combat.
+An advanced YoRHa weapon designed to defeat giant\nmachine lifeforms. Its power increases with its charge.
+A durable, older model YoRHa weapon, time-tested\nand proven for turning machine lifeforms into scrap.
+This samurai sword's pure white blade is not yet\nsullied by a single drop of blood.
+This warrior's sword has been stained jet black\nwith the blood of years of conflict.
+Though cobbled together from scrap metal, this\nmachine lifeform's axe packs a terrifying punch.
+Monks carried this decorative spear, said to be\nmade from phoenix feathers, on pilgrimages.
+A spear emblazoned with a bestial motif, once used\nby a lord to quell rebellion among his subjects.
+A spear symbolic of the covenant between a\nmighty warlord and an ancient dragon.
+A prince's body double used this spear to slay his\nliege, and met his own fate on the same edge.
+YoRHa commanders' guards wield this advanced spear.\nIts power increases as it charges with energy.
+An old YoRHa spear, built to imitate ancient human\nweaponry. Old-fashioned, but reliable.
+This pure white spear shines with the pride\nof the haughty samurai who once bore it.
+Its pitch-black spearhead gleams with the\nruthlessness of a warrior who never knew mercy.
+A spear used by machine lifeforms, specially\nformed from scrap metal to destroy androids.
+Weapons fashioned in parts unknown to resemble\nthe holy wings of angels.
+Weapons fashioned in realms unseen to resemble\nthe unholy fangs of demons.
+First introduced in A.D. 11940, these YoRHa knuckle\nweapons become powerful with more energy.
+These old YoRHa weapons have a crude but reliable\nmechanism that imparts blows with explosive power.
+Stark white samurai gauntlets, kept pristine.\nTheir master never saw a moment of conflict.
+Samurai gauntlets worn by a commander infamous\nfor cruelty, blackened with the blood of his foes.
+Fist weapons made from the heads of machines.\nThough simple, they have notable power due to their mass.
+A sword passed down and continously improved among \nthe royal family of a land where magic prospers.
+A stick made of cypress wood. Can hardly be called \na weapon, but somehow grants courage to its user.
+Weapons shaped like Emil's head,  made of an unknown\nsingular element.
+Adds a critical-hit effect.
+Increases stun value dealt to enemies.
+Increases the speed of attacks.
+Increases defense.
+Grants a discount at the Resistance shops.
+Grants a discount at the machine shops.
+Cutting through projectiles restores HP.
+Adds a high probability of stunning enemies.
+Adds a beast effect to close-range attacks.
+Chance of restoring HP when damaging enemies.
+Adds a shock wave when striking enemy projectiles.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Lowers skill-gauge cooldown when attacking.
+Does more damage as you defeat enemies. (Max 500.)
+Decreases chance of staggering from attacks.
+Adds a shock wave when striking enemy projectiles.
+Adds a beast effect to close-range attacks.
+Chance of restoring HP when damaging enemies.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Does more damage as you defeat enemies. (Max 500.)
+Chance of restoring HP when damaging enemies.
+Adds a beast effect to close-range attacks.
+Increases power of mid-air attacks.
+Chance to subjugate foes when attacking them.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Does more damage as you defeat enemies. (Max 500.)
+Restores HP when finishing off enemies.
+Adds a shock wave when finishing off enemies.
+Charges on standby. Increases Attack for a time.
+Detonates the final hit of close-range combos.
+Increases attack power when HP is full.
+Increases attack power when HP is 30% or less.
+Does more damage as you defeat enemies. (Max 500.)
+Changes damage values and your evade maneuver.
+Changes damage values and treasure chests.
+Swing these weapons to hear Emil's voice!
+Fires a powerful laser in the\ndirection that the Pod is facing.
+Analyzes all enemies in a fixed\nradius, allowing combatants to\ndeliver a series of deadly slashes\nto all who are caught within.
+Summons a mass of energy that\nunleashes a devastating blow\nupon its target.
+Spins a Pod around the player at\nhigh speed, wreaking havoc on\nany enemies it touches.
+Produces a mass of energy that\nsprouts from the ground in the\nshape of deadly spears.
+Deploys a protective barrier that\nblocks projectile attacks.
+Deploys a protective barrier that\nblocks melee attacks.
+Generates a powerful shock wave\nby slamming a Pod to the ground\nfrom an elevated height.
+Fires a wire in the direction that\nthe Pod is facing. If it hits a foe,\nit launches the combatant right to\nthe target for an up-close assault.
+Creates an image of the user,\ndrawing the attention of foes\nand firing upon them with\nthe Pod's ranged attack.
+Creates a field that distorts time,\nslowing down all enemies that\nenter its vicinity.
+Emits a temporary beam \ncapable of healing the \ncombatants as long as they \nremain within its radius.
+Throws a volley of small\nexplosive charges over a set\nperiod of time.
+Unleashes a blast that sucks in\nany enemies in the vicinity.

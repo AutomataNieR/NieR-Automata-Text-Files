@@ -1,0 +1,100 @@
+Park Ruins: Above Theater
+Park Ruins: Above Theater
+Park Ruins: Theater
+Park Ruins: Theater
+Pascal's Village
+Pascal's Village
+Forest Zone: Center
+Forest Zone: Center
+Forest Castle: Front
+Forest Castle: Front
+Forest Castle: Royal Chamber
+Forest Castle: Royal Chamber
+Factory: Entrance
+Factory: Entrance
+Factory: Hangar
+Factory: Hangar
+Factory: Furnace
+Factory: Furnace
+Flooded City: Coast
+Flooded City: Coast
+City Ruins: Cave
+City Ruins: Cave
+Pascal
+Pascal
+???
+???
+Current Location
+Current Destination
+Area Name
+Item Shop
+Emil's Shop
+Weapon Shop
+Maintenance Shop
+Access Point
+Current Destination
+Quest Destination
+Event Marker
+Custom Marker
+Body
+View areas.
+View item shops.
+View Emil's shop.
+View weapons dealers.
+View maintenance shops.
+View access points.
+View current destination.
+View quest destinations.
+View event markers.
+View custom markers.
+View your previous body.
+Area Names
+Item Shops
+Emil's Shop
+Weapon Shops
+Maintenance Shops
+Access Points
+Destinations
+Quest Destinations
+Event Markers
+Show on Map
+Product List
+Display Icon
+Hide Icon
+List
+Select the area you wish to check.
+Select the item shop you wish to check.
+Select the weapon shop you wish to check.
+Select the maintenance shop you wish to check.
+Select the access point you wish to check.
+Select the destination you wish to check.
+Select the quest destination you wish to check.
+Select the event marker you wish to check.
+LOADING
+LOADING
+LOADING
+BOOTING SYSTEM
+-
+.
+_
+CHECKING SYSTEM
+HACKING SYSTEM
+HACKING SYSTEM
+BOOTING SYSTEM
+SAVING
+Commencing System Check
+Memory Unit: Green
+Initializing Tactics Log
+Loading Geographic Data
+Vitals: Green
+Remaining MP: 100%
+Black Box Temperature: Normal
+Black Box Internal Pressure: Normal
+Activating IFF
+Activating FCS
+Initializing Pod Connection
+Launching DBU Setup
+Activating Inertia Control System
+Activating Environmental Sensors
+Equipment Authentication: Complete
+Equipment Status: Green

@@ -1,0 +1,100 @@
+Swordfish Machine
+Starfish Machine
+Bream Machine
+Coelacanth Machine
+Mackerel Machine
+Horseshoe Crab Machine
+Arowana Machine
+Basking Shark Machine
+Freshwater Ray Machine
+Machine Lifeform Head
+Tire
+Gas Cylinder
+Battery
+Broken firearm
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in a river.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+Caught in the sea.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+An aquatic machine.\nCan be exchanged for money.
+Just some old junk.\nCan be exchanged for money.
+Just some old junk.\nCan be exchanged for money.
+Just some old junk.\nCan be exchanged for money.
+Just some old junk.\nCan be exchanged for money.
+Just some old junk.\nCan be exchanged for money.
+Critical +
+Stun Up
+ATK Speed Up
+Endurance Up
+Discount
+Robot Discount
+Bullet Absorb
+High Stun
+Beast's Roar
+Phoenix Flash
+Bullet Rupture
+Energy Charge
+Finish Blast
+Holy Blessing
+Dark Impulse
+Pod Charge
+Machine Brand
+Steel Spine
+Bullet Rupture
+Beast's Roar
+Phoenix Flash
+Energy Charge
+Finish Blast
+Holy Blessing
+Dark Impulse
+Machine Brand
+Phoenix Flash
+Beast's Roar
+Dragon Wings
+Turncoat
+Energy Charge
+Finish Blast
+Holy Blessing
+Dark Impulse
+Machine Brand
+Angel's Mercy
+Devil's Hatred
+Energy Charge
+Finish Blast
+Holy Blessing
+Dark Impulse
+Machine Brand
+Shift Avoid
+Hero Sigil
+Insanity

@@ -1,0 +1,100 @@
+All Systems Green
+Combat Preparations Complete
+Authentication Code: YoRHa Number 9 Type-S
+Vitals: Green
+Black Box Temperature: Normal
+Remaining Energy: 100%
+Loading Geographic Data
+Target Acquired
+Infiltration Route Lookup Complete
+Activating IFF
+Synchronizing Field of Vision
+Connecting Nerves
+Synchronization Rate: 100%
+Releasing Safety Lock
+Hacking Device Activation Complete
+System Check Complete
+Vitals: Green
+Black Box Temperature: Normal
+Remaining Energy: 100%
+Attack
+Defense
+Support
+Hacking
+System
+Weapon Attack Up
+Weapon Attack Up +1
+Weapon Attack Up +2
+Weapon Attack Up +3
+Weapon Attack Up +4
+Weapon Attack Up +5
+Weapon Attack Up +6
+Weapon Attack Up +7
+Weapon Attack Up +8
+Down-Attack Up
+Down-Attack Up +1
+Down-Attack Up +2
+Down-Attack Up +3
+Down-Attack Up +4
+Down-Attack Up +5
+Down-Attack Up +6
+Down-Attack Up +7
+Down-Attack Up +8
+Critical Up
+Critical Up +1
+Critical Up +2
+Critical Up +3
+Critical Up +4
+Critical Up +5
+Critical Up +6
+Critical Up +7
+Critical Up +8
+Ranged Attack Up
+Ranged Attack Up +1
+Ranged Attack Up +2
+Ranged Attack Up +3
+Ranged Attack Up +4
+Ranged Attack Up +5
+Ranged Attack Up +6
+Ranged Attack Up +7
+Ranged Attack Up +8
+Fast Cooldown
+Fast Cooldown +1
+Fast Cooldown +2
+Fast Cooldown +3
+Fast Cooldown +4
+Fast Cooldown +5
+Fast Cooldown +6
+Fast Cooldown +7
+Fast Cooldown +8
+Melee Defense
+Melee Defense +1
+Melee Defense +2
+Melee Defense +3
+Melee Defense +4
+Melee Defense +5
+Melee Defense +6
+Melee Defense +7
+Melee Defense +8
+Ranged Defense
+Ranged Defense +1
+Ranged Defense +2
+Ranged Defense +3
+Ranged Defense +4
+Ranged Defense +5
+Ranged Defense +6
+Ranged Defense +7
+Ranged Defense +8
+Anti Chain Damage
+Anti Chain Damage +1
+Anti Chain Damage +2
+Anti Chain Damage +3
+Anti Chain Damage +4
+Anti Chain Damage +5
+Anti Chain Damage +6
+Anti Chain Damage +7
+Anti Chain Damage +8
+Max HP Up
+Max HP Up +1
+Max HP Up +2
+Max HP Up +3

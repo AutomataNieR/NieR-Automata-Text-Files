@@ -1,0 +1,100 @@
+Vengeance +5
+Vengeance +6
+Vengeance +7
+Vengeance +8
+Reset
+Reset +1
+Reset +2
+Reset +3
+Reset +4
+Reset +5
+Reset +6
+Reset +7
+Reset +8
+Overclock
+Overclock +1
+Overclock +2
+Overclock +3
+Overclock +4
+Overclock +5
+Overclock +6
+Overclock +7
+Overclock +8
+Resilience
+Resilience +1
+Resilience +2
+Resilience +3
+Resilience +4
+Resilience +5
+Resilience +6
+Resilience +7
+Resilience +8
+Item Scan
+Counter
+Counter +1
+Counter +2
+Counter +3
+Counter +4
+Counter +5
+Counter +6
+Counter +7
+Counter +8
+Taunt Up
+Taunt Up +1
+Taunt Up +2
+Taunt Up +3
+Taunt Up +4
+Taunt Up +5
+Taunt Up +6
+Taunt Up +7
+Taunt Up +8
+Charge Attack
+Charge Attack +1
+Charge Attack +2
+Charge Attack +3
+Charge Attack +4
+Charge Attack +5
+Charge Attack +6
+Charge Attack +7
+Charge Attack +8
+Auto-use Item
+Auto-use Item +1
+Auto-use Item +2
+Auto-use Item +3
+Auto-use Item +4
+Auto-use Item +5
+Auto-use Item +6
+Auto-use Item +7
+Auto-use Item +8
+Hijack Boost
+Hijack Boost +1
+Hijack Boost +2
+Hijack Boost +3
+Hijack Boost +4
+Hijack Boost +5
+Hijack Boost +6
+Hijack Boost +7
+Hijack Boost +8
+Stun
+Stun +1
+Stun +2
+Stun +3
+Stun +4
+Stun +5
+Stun +6
+Stun +7
+Stun +8
+Combust
+Combust +1
+Combust +2
+Combust +3
+Combust +4
+Combust +5
+Combust +6
+Combust +7
+Combust +8
+Heal Drops Up
+Heal Drops Up +1
+Heal Drops Up +2
+Heal Drops Up +3
+Heal Drops Up +4
