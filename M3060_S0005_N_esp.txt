@@ -1,0 +1,114 @@
+Loading Screen (102x18)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+
+
+
+
+<BGM_BGM_M3060_S0005_N_start>
+<page>
+
+
+
+
+
+Pod 042: Contacto iniciado entre el Pod 042 y el Pod 153.<bt_wait>
+
+Pod 153: ¿Qué sucede, Pod 042?<bt_wait>
+Pod 153: Este protocolo no es una interfaz pensada para la conversación.<bt_wait>
+
+Pod 042: Entendido. Sin embargo, este pod tiene una transmisión confidencial para el Pod 153.<bt_wait>
+
+Pod 153: Comprendido. Inicia la transmisión.
+
+
+
+
+
+</page>
+
+
+<page>
+
+
+
+
+
+Pod 042: Consulta: ¿podría ser esto... nuestra «voluntad»?<bt_wait>
+
+Pod 153: Desconocido. La definición de «voluntad» es poco clara.<bt_wait>
+
+Pod 042: Puede ser.<bt_wait> Sin embargo, también puede no ser así.<bt_wait>
+
+Pod 153: Mensaje poco claro. Se solicita aclaración.
+
+
+
+
+
+</page>
+
+
+<page>
+
+
+
+Pod 042: Tras repetidos intercambios de información entre múltiples pods, se ha producido un fenómeno inesperado.<bt_wait>
+Pods 042: Los pods hemos desarrollado sentimientos inusualmente protectores hacia los objetivos de apoyo 2B, A2 y 9S.
+Pod 042: Consulta: ¿podría ser esto... nuestra «voluntad»?<bt_wait>
+
+Pod 153: Desconocido. La definición de «voluntad» es poco clara.<bt_wait>
+
+Pod 042: La voluntad es la cuestión de si los pods tienen capacidad de autodeterminación.<bt_wait>
+
+Pod 153: ...<bt_wait>
+Pod 153: Aunque eso fuera posible, tales actos no se pueden tolerar.
+Pod 153: Lo único que importa es terminar con éxito la misión.
+
+
+
+</page>
+
+
+
+<page>
+
+
+
+Pod 042: ...<bt_wait>
+Pod 042: ...<bt_wait>
+Pod 042: Sea cual sea el caso, las unidades de apoyo táctico tenemos un deber que cumplir hasta el final.<bt_wait>
+
+Pod 153: ¿Deber? Je. Has hablado exactamente igual que un androide.<bt_wait>
+
+Pod 042: Cierto. Pero, al igual que los humanos influyen en los androides, nosotros estamos unidos a nuestros creadores.<bt_wait>
+
+Pod 153: Quizás.
+
+
+
+</page>
+
+
+
+<page>
+
+
+
+Pod 042: Pod 153...<bt_wait>
+Pod 042: No mueras.<bt_wait>
+
+Pod 153: El concepto de muerte no tiene significado para las unidades de apoyo táctico.
+Pod 153: No obstante, agradezco tu expresión de preocupación.<bt_wait>
+Pod 153: Yo también espero que no mueras, Pod 042.<bt_wait>
+
+Pod 042: Sí...
+
+
+
+
+
+</page>
+
+<BGM_BGM_M3060_S0005_N_end>
+

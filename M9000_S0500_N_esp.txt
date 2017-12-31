@@ -1,0 +1,71 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+..M9000_S0500_N.txt
+
+
+
+<label_A>
+<page>
+Voluntad. ¿De dónde viene nuestra voluntad?
+<sele_D>・Nace de la nada.
+<sele_B>・Nos la entrega Dios.
+<sele_Z>・Me da igual. ¡No me hace falta nada de esto!
+</page>
+
+<label_B>
+<page>
+Dios. ¿Cómo nos creó Dios?
+<sele_C>・Por puro azar.
+<sele_D>・A partir de la nada.
+<sele_Z>・Me da igual. ¡No me hace falta nada de esto!
+</page>
+
+<label_C>
+<page>
+Azar. ¿Acaso fue este mundo creado por azar?
+<sele_A>・Todo sucede según la voluntad de Dios.
+<sele_D>・No fue aleatorio. Este mundo está lleno de nada.
+<sele_Z>・Me da igual. ¡No me hace falta nada de esto!
+</page>
+
+<label_D>
+<page>
+Nada. ¿Tiene la vida en este mundo algún sentido?
+<sele_B>・Rezar a Dios.
+<sele_A>・Seguir tu propia voluntad.
+<sele_Z>・Me da igual. ¡No me hace falta nada de esto!
+</page>
+
+
+
+<label_END>
+<page>
+El tiempo se nos echa encima.
+¿Quién sabe qué luchas están por llegar...?
+
+</page>
+<EXIT>
+※白ＦＯ
+
+<label_Z>
+<page>
+El juego está siendo instalado.
+No se puede continuar el juego hasta que la instalación se ha completado.
+¿Quieres descartar todo y volver a la pantalla del título?
+Si lo haces, perderás los datos no guardados.
+<sele_Y>・Sí
+<sele_A>・No
+</page>
+
+<label_Y><STATEON_playgo_backtitle>
+<page>
+Volviendo a la pantalla del título.
+</page>
+
+
+
+
+
+
+

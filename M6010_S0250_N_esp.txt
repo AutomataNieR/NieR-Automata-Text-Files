@@ -1,0 +1,240 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+..M6010_S0150_N
+
+<BGM_BGM_M6010_S0250_N_start>
+<page>
+
+
+
+
+[XIV Guerra de las Máquinas — Ataque de Pearl Harbor]<bt_wait>
+El nombre de la misión confiada a los soldados de YoRHa.
+
+
+
+
+</page>
+
+
+<page>
+¿Hubo alguna vez tiroteos tan intensos? ¿Tantos bombardeos sin pausa?<bt_wait>
+Vamos tras el servidor de las máquinas bajo el monte Ka'ala... y no nos va bien.<bt_wait>
+
+«Necesitamos refuerzos. Solicitamos despliegue de inmediato».<bt_wait><BGM_BGM_M6010_S0250_N_0010>
+Número 2 habla con rapidez, aunque calmada... lo que tiene mérito, teniendo
+en cuenta el ejército enemigo que se nos aproxima. Pero el centro de mando
+en el satélite orbital nos informa de que los refuerzos no llegarán.<bt_wait>
+
+Nos han abandonado.<bt_wait> Estamos solas.<bt_wait>
+
+Es tan fácil hacerlo desde allá arriba. Desde el satélite. Desde la Luna.
+</page>
+No podemos volver y no podemos avanzar. Así que nos dividimos en dos.<bt_wait>
+
+La vanguardia se infiltrará y destruirá el servidor.<bt_wait>
+La retaguardia contendrá a las formas de vida mecánicas cuanto puedan.<bt_wait>
+
+Eso deja a cuatro de nosotras: Lilly, Dahlia, Margaret y Número 16.
+</page>
+
+<page>
+«Haré lo que sea necesario», dice Lilly con una sonrisa sombría.<bt_wait> Dahlia y
+Margaret asienten rápidamente, igual que Número 16. Deciden unirse a la
+retaguardia, quedarse atrás y ser nuestro escudo, aunque les cueste la vida.
+En cualquier caso, han aceptado sin dudarlo.<bt_wait>
+En la vanguardia, pronto nos uniremos a ellas en la muerte.<bt_wait>
+Sin mediar otra palabra, nos damos la vuelta y tomamos posición.<bt_wait>
+
+Sabemos que es el fin.
+</page>
+
+<page>
+Dahlia y las demás ganarán tiempo para que lleguemos a la puerta en la cima.<bt_wait><BGM_BGM_M6010_S0250_N_0020>
+Tras ella, hay un ascensor y, después... está el servidor.<bt_wait>
+
+Si lo destruimos, será un golpe devastador para las formas de vida mecánicas
+de toda la región del Pacífico.<bt_wait>
+
+Pero al ver a Número 21 protestar ante el ascensor, tengo un mal presentimiento
+sobre la parte final de nuestra misión.
+</page>
+
+<page>
+«Venga», dice. «Puedo hacerlo».<bt_wait>
+
+Nos metemos en el ascensor mientras empieza a piratear el terminar. No tiene
+que decirnos lo que ocurre: está claro que el ascensor no bajará hasta
+el servidor a menos que alguien se quede atrás para controlarlo.<bt_wait>
+
+«Enemigos aproximándose... Ya casi están aquí...».<bt_wait>
+Mientras pronuncio estas palabras, me sorprendo saliendo del ascensor y
+situándome junto a Número 21, casi como si mi cuerpo estuviese fuera de control.<bt_wait>
+Algo va mal. Algo...
+</page>
+
+<page>
+«¡Yo cubriré a Número 21!», exclamo. «El resto, ¡acabad con el servidor!».<bt_wait>
+
+Las puertas se cierran. Lo último que veo es la cara de mi capitana, Rose.
+Parece... preocupada. Pero el ascensor se pone en marcha y ella desaparece.<bt_wait>
+
+No volveré a verlos más.<bt_wait>
+
+Pero no pasa nada. Esto acaba aquí, de una forma o de otra.
+</page>
+
+<page>
+Los únicos sonidos que oímos son explosiones distantes y la respiración de 21.<bt_wait><BGM_BGM_M6010_S0250_N_0030>
+
+«Gracias por quedarte conmigo», me susurra.<bt_wait>
+
+La miro a los ojos y veo el rojo delator de una infección de virus lógico.<bt_wait>
+
+Resulta que tenía razón.<bt_wait>
+
+Suspiro mientras desenfundo mi arma.
+</page>
+
+<page>
+He visto a camaradas infectados antes.<bt_wait>
+Por eso no podía dejarla morir sola.<bt_wait>
+
+La vacuna que le dio a Lilly ya no es efectiva. El enemigo ha evolucionado.<bt_wait>
+Estudiaron los patrones de Número 21 y desarrollaron una resistencia.<bt_wait>
+
+Ya nadie puede salvarla.
+</page>
+
+<page>
+«C-Cuando el ascensor... llegue al servidor», empieza a decir Número 21, muy débil.<bt_wait>
+
+«Entonces, te daré la paz», le respondo.<bt_wait>
+
+El ascensor baja cada vez más, dando pie a una cuenta atrás en la vida de Número 21.<bt_wait>
+¿Cuánto tiempo ha pasado? ¿Cuánto quedará?<bt_wait>
+Demasiado para esperar, pero no lo suficiente para arrepentirse.
+</page>
+
+<page>
+Una explosión descomunal retumba a lo lejos y hace temblar la sala.<bt_wait>
+
+Es el sacrificio final de Lilly y los demás en la retaguardia.<bt_wait>
+Han sobrecargado sus reactores de fusión.
+</page>
+
+<page>
+El sonido de la caída de nuestras camaradas se acalla despacio.<bt_wait>
+Mientras lo hace, Número 21 se quita las gafas lentamente.<bt_wait>
+
+«Me... alegro de haberte conocido», dice.<bt_wait>
+
+Sus ojos están muy rojos, pero no completamente. Aún queda una parte de ella.<bt_wait>
+Aunque sea...<bt_wait>
+
+«No te preocupes. Nos reuniremos pronto», le respondo.<bt_wait>
+
+Me sonríe al escuchar mis palabras.
+</page>
+
+<page><BGM_BGM_M6010_S0250_N_0040>
+En cuanto el ascensor llega al fondo, le pego un tiro en la cabeza a Número 21.<bt_wait>
+Veo cómo el cuerpo de mi amiga cae al suelo.<bt_wait>
+Miro el arma en mis manos temblorosas.<bt_wait>
+
+La pongo contra mi sien.<bt_wait>
+
+Esto acabará con todo.<bt_wait>
+
+La guerra.<bt_wait> Mi existencia sin sentido.<bt_wait> Todo.<bt_wait>
+
+Por fin se habrá acabado.
+</page>
+No puedo hacerlo.<bt_wait> No puedo apretar el gatillo.<bt_wait>
+Mis sistemas parecen normales, pero se me ha acelerado la respiración y sudo.<bt_wait>
+Mis ojos están secos y recibo unas lecturas extrañas de mis constantes vitales.<bt_wait>
+No puedo mover las piernas, como si estuviesen atrapadas en el barro.<bt_wait>
+
+Oigo una voz.
+</page>
+
+<page>
+<i>Imperdonable. <bt_wait>Imperdonable. <bt_wait>Imperdonable. <bt_wait>Imperdonable. <bt_wait>Imperdonable.</i><BGM_BGM_M6010_S0250_N_0050>
+
+<i>Tus camaradas se han sacrificado y luchado hasta el último aliento.</i><bt_wait>
+<i>Sufren. Sienten tristeza. Sienten dolor y terror.</i><bt_wait>
+<i>Y, aun así, ¿te rendirías? ¡Imperdonable!</i><bt_wait>
+
+La voz es una maldición del campo de batalla, que les dice a los supervivientes
+que deben completar la misión sin importar el coste.<bt_wait>
+
+Es otra yo, gritando.
+</page>
+
+<page>
+Grito con todas mis fuerzas y corro por el vestíbulo.<bt_wait>
+Ya lo verás.<bt_wait> Si quieres forzarme, te vas a enterar.<bt_wait>
+Solo estarás satisfecha si esto acaba con más muertes.<bt_wait>
+
+
+
+Me meto de lleno en el combate con armas en ambas manos.<bt_wait>
+
+Aquí estoy.<bt_wait>
+¡Aquí estoy!<bt_wait>
+¡Matadme!<bt_wait>
+
+Una explosión repentina ahoga mis gritos y arrasa con todo.
+</page>
+
+<page>
+Una brisa suave acaricia mi mejilla.<bt_wait> Huelo el fuego.<bt_wait> Huelo las cenizas.<bt_wait>
+La explosión del servidor ha sido tan potente que ha arrasado el propio
+monte Ka'ala. La cima ha quedado reducida a un cráter humeante.
+
+Las máquinas caen al suelo y dejan de moverse inmediatamente.<bt_wait>
+
+Contemplo la tierra abrasada.<bt_wait> ¿Lilly? ¿Número 16? ¿Rose? ¿Número 2? ¿Estáis...?<bt_wait>
+
+Soy la única que queda.<bt_wait> La única.<bt_wait>
+Sigo con vida porque me daba miedo la muerte.
+</page>
+
+<page>
+Empiezo a reírme. Es una locura, incluso para mis propios oídos.<bt_wait>
+
+<i>Pronto me uniré a vosotras... ¡Has prometido unirte a ellas!</i><bt_wait>
+
+¿Cómo pude decir esas palabras tan vanas, tan ridículas? ¿Esas mentiras?<bt_wait>
+Me río. De pie entre el humo y las llamas, me río hasta que mi garganta
+parece que va a rajarse por la mitad.
+</page>
+
+<page>
+Parpadeo.<bt_wait> La luz de la mañana atraviesa el humo.<bt_wait>
+
+Llevo toda la noche aquí de pie.<bt_wait>
+
+Al fin se me acaba la risa. Obligo a mis pies a moverse.<bt_wait>
+Soy la cobarde que ha quedado atrás. La cobarde que ha sobrevivido.
+Ahora es mi deber llevar a cabo la voluntad de quienes lucharon a mi lado.<bt_wait>
+Como no puedo suicidarme, tendré que luchar hasta que alguien me mate.
+Superaré todos los escollos. Mataré a todas las máquinas que encuentre.<bt_wait>
+
+Es la cruz con la que cargo.
+</page>
+
+<page>
+
+
+
+
+Camino despacio hacia el oeste arrastrando mi cuerpo roto.<BGM_BGM_M6010_S0250_N_0060>
+
+
+
+</page>
+<BGM_BGM_M6010_S0250_N_end>
+
+...SiD_end

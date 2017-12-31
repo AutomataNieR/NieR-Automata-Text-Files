@@ -1,0 +1,46 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0020_N_start>
+<page>
+Estoy en una extraña zona de almacenamiento de memoria que se extiende más allá de mi vista.<bt_wait>
+
+Es un laberinto.
+Un rompecabezas.
+Una inmensa red interconectada.
+Nunca había visto nada igual.<bt_wait>
+
+Debe de haber sido creada por las máquinas.<bt_wait>
+
+Pero... ¿qué estoy haciendo aquí?
+</page>
+
+
+
+<page>
+Soy... 9S.
+Eso es cuanto puedo recordar.<bt_wait>
+
+Grandes secciones de mi memoria han sido destruidas...<bt_wait>
+
+¿Y si lo olvido todo? ¿Mis recuerdos? ¿A mí mismo? Mi...<bt_wait>
+
+Bueno, calma.<bt_wait> Calma, calma, calma.<bt_wait>
+
+
+Sigue el manual de emergencia y ejecuta el programa de recuperación de memoria.
+</page>
+
+
+<page>
+El programa de recuperación comienza a rellenar los huecos en mi memoria.<bt_wait>
+Todo regresa como las letras que van completando una palabra.<bt_wait>
+
+El búnker...
+El plan de 2B...
+Una colosal forma de vida mecánica...
+El impacto de misil como último recurso...<bt_wait>
+
+El modo de preservación se activó en el momento de la explosión.
+Detuvo la mayor parte de las medidas de seguridad de la red.
+</page>
+<BGM_BGM_M1070_S0020_N_end>

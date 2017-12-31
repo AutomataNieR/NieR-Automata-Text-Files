@@ -1,0 +1,195 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+...M6010_S0150_N
+
+
+<BGM_BGM_M6010_S0150_N_start>
+<page>
+Según el equipo de YoRHa, hay un servidor enemigo bajo el monte Ka'ala.<BGM_BGM_M6010_S0150_N_0010>
+Si lográramos eliminarlo, podríamos al fin ganar terreno en esta guerra inacabable.<bt_wait>
+Pero, para ello, tenemos que colaborar.<bt_wait>
+
+Tras sopesarlo, Rose decide unirse a los nuevos modelos.<bt_wait>
+Es una relación que va cambiando a lo largo del tiempo.
+</page>
+
+<page>
+«Eh... ¿Qué haces, Dahlia?».<bt_wait>
+«¡Solo... enseño a esta idiota... lo débil que es!», replica sin aliento.<bt_wait>
+«¡Ja!», resopla su rival, Número 16. «¡Estás claramente... superada!».<bt_wait>
+
+Las dos se turnan arreándose golpes.<bt_wait>
+Para ser lo que es, parece bastante amistoso.<bt_wait>
+Además, llevaban tanto tiempo pegándose que las dos estaban casi sin
+energía. Es posible que ya ni fueran capaces de atravesar una hoja de papel.
+</page>
+
+<page>
+El resto del grupo observa a las combatientes e intenta no sonreír.<bt_wait>
+Dahlia y Número 16 parecen enfrentarse hasta por el asunto más nimio.<bt_wait>
+Tal vez sea por lo parecidas que son.<bt_wait>
+
+Casi resulta molesto lo rápido que se atraen las montañas de músculos.
+</page>
+
+<page>
+Los demás conversamos mientras Dahlia y 16 siguen a lo suyo.<bt_wait>
+
+«Nosotros nos llamamos por nombres que yo asigné», explica Rose.<bt_wait>
+«Ya veo», responde Número 4. «Me pareció extraño que no usarais códigos numéricos».<bt_wait>
+
+Asiente mientras habla, como si todo esto tuviera sentido.
+</page>
+
+<page>
+De pronto, la capitana Rose sonríe de oreja a oreja. «¿Sabes qué?», dice.<bt_wait>
+«¡Creo que también debería daros nombre a vosotras!».<bt_wait>
+
+«No», dice Número 2. «Sería un desperdicio».<bt_wait>
+
+Rose la mira con cautela. «Mmm, ¿un desperdicio?».
+</page>
+
+<page>
+«Podrás darme nombre cuando la misión haya acabado», responde mientras el rubor
+asoma a sus mejillas. Sé que sus palabras también son un deseo de éxito.<bt_wait>
+
+«Muy bien», responde Rose. «Pensaré entonces un nombre para ti».<bt_wait>
+
+Sabe que es una promesa pasajera, como lo son la mayoría. Pero no importa.
+Puedo ver cómo nos vamos acercando al equipo de YoRHa.<bt_wait>
+
+O por lo menos mis amigas se van acercando a ellas.
+</page>
+
+<page>
+«Estáis siendo descuidadas», afirmo con más fuerza de la que quería.<bt_wait>
+Por suerte, las otras no me oyen o deciden ignorarlo.<bt_wait>
+
+No me malinterpretéis, no hablo de contradecir el juicio de la capitana.<bt_wait>
+Pero eso no quiere decir que baje los brazos y confíe en nuestras nuevas «amigas».
+</page>
+
+<page>
+La nuestra es una existencia solitaria y hace ya mucho que la Luna nos abandonó.
+Por mucho que gritaran, lloraran o lucharan, la voz de nuestros camaradas perdidos
+quedó sin respuesta.<bt_wait>
+
+¿Cómo vas, pues, a confiar en un escuadrón de nuevos modelos que acabas de conocer?
+</page>
+
+<page>
+«¿Qué sucede, Anémona?».<bt_wait><bt_wait><BGM_BGM_M6010_S0150_N_0020>
+Lilly me está llamando. Seguramente le preocupa que esté apartada
+del resto del grupo.<bt_wait>
+«Nada», empiezo. «Estoy bi...».<bt_wait>
+Antes de poder terminar la frase, Lilly abre la boca y suelta
+un grito terrible.
+
+«¡Aaah!».
+</page>
+
+<page>
+El grito de Lilly resuena por todo el campamento.<BGM_BGM_M6010_S0150_N_0030>
+Es sobrecogedor. Es agónico. Es... <bt_wait>horrible.<bt_wait>
+
+«¡Está infectada!», exclama Rose. «¡Lilly está infectada!».<bt_wait>
+
+Sacamos nuestras armas más por instinto que otra cosa y apuntamos
+a nuestra compañera, que no deja de gritar, gritar y gritar.<bt_wait>
+
+Sabemos lo que ocurre. Ya lo hemos visto antes. <bt_wait>Es un virus lógico...
+Un arma de las máquinas que piratea los sistemas y sobrescribe sus datos.<bt_wait>
+Y como no hay cura conocida... <bt_wait>también es una sentencia de muerte.
+</page>
+
+<page>
+Tengo que tener piedad.<bt_wait> Tengo que liberarla.<bt_wait>
+
+Mi dedo descansa en el gatillo, pero dudo. Y, antes de tomar la decisión final,
+oigo una voz alzarse detrás de mí.<bt_wait>
+
+«¡Para! ¡No puedes hacer esto! ¡No puedes dejar morir a tu amiga!».<bt_wait>
+
+Es Número 21. La chica a la que creía fría y serena
+ahora me suplica que le perdone la vida a Lilly.<bt_wait>
+
+¿Qué hago?<bt_wait> ¿Qué demonios puedo hacer?
+</page>
+
+<page>
+«¡Lilly dijo que eras como su familia! No se abandona a la familia.
+¡No sin haberlo intentado todo antes!».<bt_wait>
+«¿Qué puedes hacer, pues?».<bt_wait>
+«¡Usaré mi poder para eliminar el virus!».<bt_wait>
+«¡Eso es imposible!».
+</page>
+
+<page>
+Rose dijo lo que pensábamos, pero antes de que pudiésemos hacer nada,
+Lilly lanza por los aires a quienes tenía más cerca con una fuerza imposible.<bt_wait>
+No es la primera vez que veo androides infectados... Pueden causar muchos daños
+cuando el virus desactiva sus limitadores. Luchan hasta que quedan destruidos.<bt_wait>
+
+Dahlia y Número 16 corren hacia la pelea para contener a su antigua amiga,
+pero las aparta como si fueran moscas.
+</page>
+
+<page>
+¿Cuántos hemos resultado infectados?<bt_wait>
+
+¿A cuántos amigos me han obligado a matar?<bt_wait>
+
+El corazón que no debería tener se sobrecoge al pensarlo. Duele mientras
+recuerdo todos los números de identificación que he retirado.<bt_wait>
+
+¿Cuándo empecé a ponerles nombre?<bt_wait>
+¿Cuándo decidí que ya no podía aguantar más?
+</page>
+
+<page>
+«¡Iniciando secuencia de reprogramación!».<bt_wait>
+
+Esa voz... ¿Número 21? Está gritando algo sobre... ¿reprogramación?<bt_wait>
+
+No sé qué hacer.<bt_wait>
+Estoy perdida.<bt_wait>
+
+Al aclarárseme la vista, veo a Número 21 introduciendo comandos en su terminal
+mientras Número 2 y Número 4 la sujetan. La sujetan mientras se retuerce y...<bt_wait>
+
+Rose me mira sorprendida. <bt_wait>Oh, no. <bt_wait>También estoy sujetando a Lilly.
+</page>
+«¡Aguanta, Lilly!», grita Número 21. «¡Voy a salvarte!».<bt_wait>
+
+Está arriesgando la vida por Lilly. Todas lo hacen.
+
+«¡Cargando conjunto de datos ya!».<bt_wait>
+
+Su grito me llega hasta el alma, si es que tengo algo parecido.
+
+Quiero creer en ellas. Por favor, que funcione. Por favor...
+</page>
+El cuerpo de Lilly se agita con violencia bajo nuestro peso. Intenta
+quitarse de encima a Número 2, pero esta consigue aguantar.<bt_wait>
+
+Sujeto a Lilly con todas mis fuerzas.<bt_wait>
+No la soltaré.<bt_wait>
+¡No perderé a nadie más!<bt_wait>
+
+De repente, el cuerpo de Lilly queda inerte. Número 21 mira la terminal y
+lanza un suspiro áspero y cansado.
+
+«Eliminación del virus... completada».<BGM_BGM_M6010_S0150_N_0040>
+</page>
+Ha vuelto.<bt_wait>
+Lilly ha vuelto.<bt_wait>
+
+Mis compañeras de la Resistencia gritan de alegría. Le doy a Lilly un abrazo
+que me aturde por su ferocidad. Entonces, miro a Número 21, con lágrimas en los ojos.<bt_wait>
+
+Hay que ver. Casi parece sonreír.
+</page>
+<BGM_BGM_M6010_S0150_N_end>
+...SID_end

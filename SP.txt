@@ -1,0 +1,1184 @@
+file\data009\subtitle\subtitle0010_es\subtitle0010.txt
+Alerta: grandes daños en la unidad de vuelo Ho229.
+Sistemas de control de vuelo abandonados.
+Los sistemas de comunicación estándar no funcionan.
+Sistema de comunicación láser activado.
+Confirmando terreno... Modo de largo alcance.
+Transfiriendo control del FCS.
+Transfiriendo control del IMU.
+Activando FFCS.
+Activando NFCS.
+Iniciando segunda comprobación de las constantes\r\nvitales de 2B.
+Iniciando camuflaje de ondas de radio\r\nde corto alcance.
+Activando equipo de ataque de corto alcance.
+Confirmando señal de la caja negra de 2B.
+Alerta: gran grupo de enemigos detectado.
+Sí, ya lo he visto.
+file\data009\subtitle\subtitle0011_es\subtitle0011.txt
+Alerta: grandes daños en la unidad de vuelo Ho229.
+Sistemas de control de vuelo abandonados.
+Los sistemas de comunicación estándar no funcionan.
+Sistema de comunicación láser activado.
+Confirmando terreno... Modo de largo alcance.
+Transfiriendo control del FCS.
+Transfiriendo control del IMU.
+Activando FFCS.
+Activando NFCS.
+Iniciando segunda comprobación de las constantes\r\nvitales de 2B.
+Iniciando camuflaje de ondas de radio\r\nde corto alcance.
+Activando equipo de ataque de corto alcance.
+Confirmando señal de la caja negra de 2B.
+Alerta: gran grupo de enemigos detectado.
+Sí, ya lo he visto.
+file\data009\subtitle\subtitle0030_es\subtitle0030.txt
+Enemigos destruidos.
+No del todo.
+file\data009\subtitle\subtitle0031_es\subtitle0031.txt
+Enemigos destruidos.
+No del todo.
+file\data009\subtitle\subtitle0040_es\subtitle0040.txt
+Hermano...
+No importa cuánto aceite le des, canijo. No puedes\r\nhermanarte con una máquina.
+Bueno... Parece que ya es hora.
+file\data009\subtitle\subtitle0050_es\subtitle0050.txt
+¡Vaya! Mirad esa cosa.
+Disparando misiles.
+La próxima vez, más vale asegurarse de que\r\nestá muerto de verdad.
+Esa ha estado cerca, señorita.
+file\data009\subtitle\subtitle0055_es\subtitle0055.txt
+¡Vaya! Mirad esa cosa.
+Disparando misiles.
+file\data009\subtitle\subtitle0060_es\subtitle0060.txt
+La próxima vez, más vale asegurarse de que\r\nestá muerto de verdad.
+Esa ha estado cerca, señorita.
+file\data009\subtitle\subtitle0080_es\subtitle0080.txt
+¿Eso es...?
+Enemigo objetivo detectado.
+Alerta: ataque enemigo desde abajo.
+Propuesta: huir.
+file\data009\subtitle\subtitle0081_es\subtitle0081.txt
+¿Eso es...?
+Enemigo objetivo detectado.
+Alerta: ataque enemigo desde abajo.
+Propuesta: huir.
+file\data009\subtitle\subtitle0086_es\subtitle0086.txt
+¡2B!
+¡2B!
+file\data009\subtitle\subtitle0090_es\subtitle0090.txt
+ 
+¡Propulsión!
+¡9S!
+file\data009\subtitle\subtitle0091_es\subtitle0091.txt
+ 
+¡Propulsión!
+¡9S!
+file\data009\subtitle\subtitle0092_es\subtitle0092.txt
+ 
+¡Propulsión!
+¡9S!
+file\data009\subtitle\subtitle0110_es\subtitle0110.txt
+¡9S!
+¡¿Estás bien?!
+Tengo que ayudar a 9S...
+file\data009\subtitle\subtitle0111_es\subtitle0111.txt
+¡9S!
+¡¿Estás bien?!
+Tengo que ayudar a 9S...
+file\data009\subtitle\subtitle0120_es\subtitle0120.txt
+Tengo que repararlo.
+Pod, consígueme gel de contención y vacunas contra\r\nvirus lógicos. Luego, accede a...
+Desaconsejado. Las señales vitales del sujeto\r\nson demasiado débiles para intentar una reparación\r\nsobre el terreno en las actuales...
+¡Cállate! ¡Tú haz lo que te digo!
+2B... Márchate...
+¡Calla tú también!
+Somos... Somos sol... dados... Servir\r\nes... nuestro orgullo...
+Unidad de vuelo Ho229. Comando 677 recibido.
+Derechos de uso transferidos de 9S a 2B.\r\nSolicitando aceptación.
+Por favor...
+Vale...
+file\data009\subtitle\subtitle0130_es\subtitle0130.txt
+ 
+ 
+ 
+¡Tomando el sistema de control!
+Afirmativo.
+Infiltrándome en la subunidad enemiga.
+Tabla de comportamiento ajustada.
+Control del equilibrio anulado.
+Dominación de unidad enemiga completada.
+file\data009\subtitle\subtitle0140_es\subtitle0140.txt
+Pero... ¿te quieres morir de una vez?
+Je, je... Eso... sí que es... llevar\r\nla batalla al enemigo, ¿eh, 2B?
+Contacta con el mando. Solicita apoyo.
+No... No parece que... vaya a ser necesario...
+Oh, mira tú qué bien.
+Esto... Esto... Esto tiene muy mala pinta.
+La caja negra...
+Está lista.
+De acuerdo.
+Solicitando... destrucción de unidades enemigas\r\nmediante reacción de caja negra.
+Solicitud aceptada.
+2B... Ha sido un honor luchar a tu lado. De verdad.
+El honor ha sido mío.
+file\data009\subtitle\subtitle0160_es\subtitle0160.txt
+Gloria a la humanidad.
+Gloria... a la humanidad.
+file\data009\subtitle\subtitle0170_es\subtitle0170.txt
+5012 d. C.
+El año en que la gloriosa historia de la humanidad\r\nllegó a un fin repentino y abrupto...
+cuando el mundo fue invadido por alienígenas\r\nde allende las estrellas.
+Los alienígenas liberaron una nueva clase de arma,\r\nformas de vida mecánicas, que prácticamente\r\naniquilaron la civilización humana.
+El puñado de supervivientes restante huyó\r\nde la Tierra, buscando refugio en la Luna.
+5204 d. C.
+La humanidad contratacó, desplegando un ejército\r\nde androides desde una red de bases orbitales.
+Pero tras más de una docena de descensos\r\na gran escala sobre el enemigo, aún\r\nno hemos sido capaces de repeler al invasor.
+Por eso existís vosotros, las fuerzas YoRHa:
+para deshacer las tablas de una vez por todas.
+Sois nuestra arma definitiva...\r\ny debéis poner fin a esta guerra.
+Entendido, señor.
+Que tengáis buena caza.
+¡Gloria a la humanidad!
+¡Gloria a la humanidad!
+Gloria... a la humanidad.
+file\data009\subtitle\subtitle0190_es\subtitle0190.txt
+Buenos días.
+file\data009\subtitle\subtitle0191_es\subtitle0191.txt
+Buenos días.
+file\data009\subtitle\subtitle0225_es\subtitle0225.txt
+Región del desierto
+file\data009\subtitle\subtitle0226_es\subtitle0226.txt
+Región del desierto
+file\data009\subtitle\subtitle0230_es\subtitle0230.txt
+Una vez, hace mucho tiempo,\r\nun volcán entró en erupción.
+De entre las llamas de la erupción,\r\nemergió un dios.
+Un día, el dios se apareció ante las máquinas\r\ny dijo:
+«Conciencia, dolor, alegría, tristeza,
+furia, vergüenza, desolación, el futuro...
+El significado de la vida».
+file\data009\subtitle\subtitle0240_es\subtitle0240.txt
+Distrito residencial
+file\data009\subtitle\subtitle0241_es\subtitle0241.txt
+Distrito residencial
+file\data009\subtitle\subtitle0250_es\subtitle0250.txt
+Pero ¿qué...? ¿Qué ocurre?
+¿Un androide?
+¡No! Es una... ¡Es una máquina!
+file\data009\subtitle\subtitle0251_es\subtitle0251.txt
+Pero ¿qué...? ¿Qué ocurre?
+¿Un androide?
+¡No! Es una... ¡Es una máquina!
+file\data009\subtitle\subtitle0260_es\subtitle0260.txt
+¿De verdad es una máquina?
+¡¿Qué?!
+Rayos, otra más no.
+¡2B! ¡Tenemos que salir de aquí!
+file\data009\subtitle\subtitle0262_es\subtitle0262.txt
+¿De verdad es una máquina?
+¡¿Qué?!
+Rayos, otra más no.
+¡2B! ¡Tenemos que salir de aquí!
+file\data009\subtitle\subtitle0270_es\subtitle0270.txt
+Aquí Vaina de apoyo táctico 042.
+Se ha asignado el control a 2B.
+Aquí Vaina de apoyo armamentístico 153.
+Se ha asignado el control a 9S.
+Intercambio de datos de combate solicitado.
+Intercambio aceptado.
+Propuesta: la información debería intercambiarse con\r\nregularidad para mayor eficiencia.
+Propuesta aceptada. La información\r\nse intercambiará regularmente.
+Fin de la comunicación.
+file\data009\subtitle\subtitle0280_es\subtitle0280.txt
+Los encontraron las máquinas.
+Las máquinas los llamaron «tesoros».
+Cada tesoro tenía una forma distinta.
+Cada tesoro tenía una...
+forma distinta.
+file\data009\subtitle\subtitle0300_es\subtitle0300.txt
+[SCREAM]
+file\data009\subtitle\subtitle0301_es\subtitle0301.txt
+[SCREAM]
+file\data009\subtitle\subtitle0310_es\subtitle0310.txt
+¡2B!
+Hermosa... Hermosa...
+¡¡¡Debo ser hermosa!!!
+¡Esos parecen... cadáveres!
+file\data009\subtitle\subtitle0311_es\subtitle0311.txt
+¡2B!
+Hermosa... Hermosa...
+¡¡¡Debo ser hermosa!!!
+¡Esos parecen... cadáveres!
+file\data009\subtitle\subtitle0320_es\subtitle0320.txt
+¡Pod!
+Afirmativo.
+¡Adelante!
+file\data009\subtitle\subtitle0321_es\subtitle0321.txt
+¡Pod!
+Afirmativo.
+¡Adelante!
+file\data009\subtitle\subtitle0322_es\subtitle0322.txt
+¡Pod!
+Afirmativo.
+¡Adelante!
+file\data009\subtitle\subtitle0323_es\subtitle0323.txt
+¡Pod!
+Afirmativo.
+¡Adelante!
+file\data009\subtitle\subtitle0325_es\subtitle0325.txt
+La aldea de las máquinas
+file\data009\subtitle\subtitle0326_es\subtitle0326.txt
+La aldea de las máquinas
+file\data009\subtitle\subtitle0330_es\subtitle0330.txt
+Objetivos enemigos desconectados. Los Goliaths\r\nson historia.
+¡Cuidado! ¡Está recargándose!
+ 
+Las vibraciones enemigas crecen en intensidad.
+¡Resuenan con el área bajo la zona de combate!
+Pero ¿qué...?
+Increíble... Los alienígenas que no se han\r\nmostrado durante cientos de años...
+¿estaban bajo tierra?
+file\data009\subtitle\subtitle0340_es\subtitle0340.txt
+ 
+¿Están muertos?
+¡2B, mira!
+Naves nodriza alienígenas destruidas...
+Bienvenidos... al cementerio de nuestros creadores.
+file\data009\subtitle\subtitle0341_es\subtitle0341.txt
+ 
+¿Están muertos?
+¡2B, mira!
+Naves nodriza alienígenas destruidas...
+Bienvenidos... al cementerio de nuestros creadores.
+file\data009\subtitle\subtitle0350_es\subtitle0350.txt
+El tiempo apremia.
+Esto de aquí... es el destino que sufrieron\r\nnuestros creadores.
+En cuanto a vuestros queridos humanos...\r\nya veremos, ¿no?
+Se han ido...
+file\data009\subtitle\subtitle0351_es\subtitle0351.txt
+El tiempo apremia.
+Esto de aquí... es el destino que sufrieron\r\nnuestros creadores.
+En cuanto a vuestros queridos humanos...\r\nya veremos, ¿no?
+Se han ido...
+file\data009\subtitle\subtitle0352_es\subtitle0352.txt
+El tiempo apremia.
+Esto de aquí... es el destino que sufrieron\r\nnuestros creadores.
+En cuanto a vuestros queridos humanos...\r\nya veremos, ¿no?
+Se han ido...
+file\data009\subtitle\subtitle0360_es\subtitle0360.txt
+«Yo maté a mi padre».
+«Yo maté a mi madre».
+«Yo maté a mi padre».
+«Yo maté a mi madre».
+Y, en su mano, sujetó fríamente...
+La alegría de crecer
+y la agonía de la soledad.
+file\data009\subtitle\subtitle0370_es\subtitle0370.txt
+¡Va a explotar!
+ 
+¿Eh? ¿Dónde estoy?
+file\data009\subtitle\subtitle0390_es\subtitle0390.txt
+¿Este es... su rey?
+file\data009\subtitle\subtitle0400_es\subtitle0400.txt
+¿Por qué? ¿Por qué nos has traicionado?
+El mando es el que\r\nos ha traicionado.
+file\data009\subtitle\subtitle0410_es\subtitle0410.txt
+Con viento o con lluvia...
+con truenos o nieve...
+y hasta entre las llamas de la guerra...
+jamás se separaron.
+Nunca entendieron por qué.
+Sin embargo, pasaron juntos toda la vida.
+Por siempre.
+Por siempre jamás...
+file\data009\subtitle\subtitle0420_es\subtitle0420.txt
+El niño poseía una fuerza increíble.
+Por desgracia, también estaba un poco roto...
+Pasaba sus días hiriendo a aquellos a su alrededor.
+Se esforzó por ser bueno y amable.
+Pero, a pesar de sus esfuerzos, las cosas nunca\r\nparecían salir bien.
+Le dijeron que no lo querían.
+Lo abandonaron en el profundo y oscuro océano.
+Y bajo las frías aguas, en lo más hondo, gritó...
+Madre...
+Madre...
+Madre...
+Madre...
+Pero su voz jamás llegó a su madre.
+file\data009\subtitle\subtitle0440_es\subtitle0440.txt
+Vale, eso es nuevo.
+Vale, eso es nuevo.
+file\data009\subtitle\subtitle0441_es\subtitle0441.txt
+Vale, eso es nuevo.
+Vale, eso es nuevo.
+file\data009\subtitle\subtitle0460_es\subtitle0460.txt
+¡2B!
+file\data009\subtitle\subtitle0461_es\subtitle0461.txt
+¡2B!
+file\data009\subtitle\subtitle0470_es\subtitle0470.txt
+¿Estás bien, 2B?
+file\data009\subtitle\subtitle0471_es\subtitle0471.txt
+¿Estás bien, 2B?
+file\data009\subtitle\subtitle0475_es\subtitle0475.txt
+Activad controles de misil.
+Preparad el lanzamiento.
+Control de misiles activado.
+Capacidad de lanzamiento confirmada.
+¡Fuego!
+file\data009\subtitle\subtitle0480_es\subtitle0480.txt
+ 
+ 
+file\data009\subtitle\subtitle0482_es\subtitle0482.txt
+ 
+ 
+H-Hemos perdido la señal...
+¡Organizad un grupo de rescate para encontrar\r\na los miembros de YoRHa desaparecidos\r\nde inmediato!
+2B... 9S... No os muráis...
+El niño poseía una fuerza increíble.
+Por desgracia, también estaba un poco roto...
+Pasaba sus días hiriendo a aquellos a su alrededor.
+Se esforzó por ser bueno y amable.
+Pero, a pesar de sus esfuerzos, las cosas nunca\r\nparecían salir bien.
+Le dijeron que no lo querían.
+Lo abandonaron en el profundo y oscuro océano.
+Y bajo las frías aguas, en lo más hondo, gritó...
+Madre...
+Madre...
+Madre...
+Madre...
+Pero su voz jamás llegó a su madre.
+file\data009\subtitle\subtitle0483_es\subtitle0483.txt
+ 
+ 
+H-Hemos perdido la señal...
+¡Organizad un grupo de rescate para encontrar\r\na los miembros de YoRHa desaparecidos\r\nde inmediato!
+2B... 9S... No os muráis...
+El niño poseía una fuerza increíble.
+Por desgracia, también estaba un poco roto...
+Pasaba sus días hiriendo a aquellos a su alrededor.
+Se esforzó por ser bueno y amable.
+Pero, a pesar de sus esfuerzos, las cosas nunca\r\nparecían salir bien.
+Le dijeron que no lo querían.
+Lo abandonaron en el profundo y oscuro océano.
+Y bajo las frías aguas, en lo más hondo, gritó...
+Madre...
+Madre...
+Madre...
+Madre...
+Pero su voz jamás llegó a su madre.
+file\data009\subtitle\subtitle0485_es\subtitle0485.txt
+H-Hemos perdido la señal...
+¡Organizad un grupo de rescate para encontrar\r\na los miembros de YoRHa desaparecidos\r\nde inmediato!
+2B... 9S... No os muráis...
+file\data009\subtitle\subtitle0490_es\subtitle0490.txt
+Nnng...
+file\data009\subtitle\subtitle0491_es\subtitle0491.txt
+Nnng...
+file\data009\subtitle\subtitle0500_es\subtitle0500.txt
+Cada una de las máquinas trataba\r\na sus tesoros con gran cuidado.
+Una atesoraba a su familia sobre todas las cosas.
+Otra atesoraba a su hermana mayor.
+Otra, su propia belleza.
+Pero una de las máquinas atesoraba\r\nalgo único, incomparable...
+Odio.
+file\data009\subtitle\subtitle0502_es\subtitle0502.txt
+Cada una de las máquinas trataba\r\na sus tesoros con gran cuidado.
+Una atesoraba a su familia sobre todas las cosas.
+Otra atesoraba a su hermana mayor.
+Otra, su propia belleza.
+Pero una de las máquinas atesoraba\r\nalgo único, incomparable...
+Odio.
+¿Es esto... la muerte?
+Está tan oscuro... Hace tanto frío...
+¡9S!
+file\data009\subtitle\subtitle0520_es\subtitle0520.txt
+Bienvenidos... a mi amada ciudad.
+file\data009\subtitle\subtitle0521_es\subtitle0521.txt
+Bienvenidos... a mi amada ciudad.
+file\data009\subtitle\subtitle0525_es\subtitle0525.txt
+Por lo tanto, decidí... que arriesgaría\r\nmi vida en combate.
+He cortado mi conexión con la red.
+¡Ahora... entreguémonos a la muerte!
+file\data009\subtitle\subtitle0526_es\subtitle0526.txt
+Por lo tanto, decidí... que arriesgaría\r\nmi vida en combate.
+He cortado mi conexión con la red.
+¡Ahora... entreguémonos a la muerte!
+file\data009\subtitle\subtitle0530_es\subtitle0530.txt
+Oh, cómo disfruto esto...
+¡9S!
+He preparado esto solo para ti.
+Quiero decir que, después de todo...\r\ntodos necesitamos algo por lo que luchar, ¿no?
+Hijo de... ¡Te mataré!
+¡Sí! ¡Eso es! ¡Ese es el sentimiento! ¡Puro odio!
+¡Venga, 2B!
+file\data009\subtitle\subtitle0531_es\subtitle0531.txt
+Oh, cómo disfruto esto...
+¡9S!
+He preparado esto solo para ti.
+Quiero decir que, después de todo...\r\ntodos necesitamos algo por lo que luchar, ¿no?
+Hijo de... ¡Te mataré!
+¡Sí! ¡Eso es! ¡Ese es el sentimiento! ¡Puro odio!
+¡Venga, 2B!
+file\data009\subtitle\subtitle0540_es\subtitle0540.txt
+¿Es esto... la muerte?
+Está tan oscuro... Hace tanto frío...
+¡9S!
+file\data009\subtitle\subtitle0550_es\subtitle0550.txt
+9S...
+2B...
+Venga. Vámonos a casa.
+file\data009\subtitle\subtitle0552_es\subtitle0552.txt
+9S...
+2B...
+Venga. Vámonos a casa.
+file\data009\subtitle\subtitle0570_es\subtitle0570.txt
+ 
+¡Su excelsa eminencia se ha convertido en un dios!
+¡Su eminencia es un dios!
+¡Su excelsa eminencia se ha convertido en un dios!
+¡Convertido en un dios!...
+¡Su excelsa eminencia se ha convertido en un dios!
+¡Convertido en un dios!...
+¡Nosotros también nos convertiremos en dioses!
+¡Nos convertiremos en dioses!...
+¡Nosotros también nos convertiremos en dioses!
+¡Nos convertiremos en dioses!...
+¡Todos os convertiréis en dioses!
+¡Nos convertiremos en dioses!...
+¡Todos os convertiréis en dioses!
+¡Nos convertiremos en dioses!...
+¡Todos os convertiréis en dioses!
+¡Nos convertiremos en dioses!...
+¡Moriremos todos juntos y nos\r\nconvertiremos en dioses!
+file\data009\subtitle\subtitle0571_es\subtitle0571.txt
+ 
+¡Su excelsa eminencia se ha convertido en un dios!
+¡Su eminencia es un dios!
+¡Su excelsa eminencia se ha convertido en un dios!
+¡Convertido en un dios!...
+¡Su excelsa eminencia se ha convertido en un dios!
+¡Convertido en un dios!...
+¡Nosotros también nos convertiremos en dioses!
+¡Nos convertiremos en dioses!...
+¡Nosotros también nos convertiremos en dioses!
+¡Nos convertiremos en dioses!...
+¡Todos os convertiréis en dioses!
+¡Nos convertiremos en dioses!...
+¡Todos os convertiréis en dioses!
+¡Nos convertiremos en dioses!...
+¡Todos os convertiréis en dioses!
+¡Nos convertiremos en dioses!...
+¡Moriremos todos juntos y nos\r\nconvertiremos en dioses!
+file\data009\subtitle\subtitle0590_es\subtitle0590.txt
+Tras un largo periodo de batallas y aventuras,\r\nel profeta habló.
+¡Oh, concédeme la misericordia de la tierra!
+¡Oh, concédeme el gozo de los cielos!
+¡Libérame de mi yugo de hierro!
+Así serán salvadas nuestras almas.
+Por siempre jamás.
+Por siempre jamás.
+file\data009\subtitle\subtitle0600_es\subtitle0600.txt
+Nadie lucha sin un motivo.
+Y necesitamos un dios por el que\r\nmerezca la pena morir.
+¿Qué camino escogerás? La decisión es tuya.
+...
+file\data009\subtitle\subtitle0610_es\subtitle0610.txt
+¿Por qué?... ¿Por qué tuviste que morir?
+¡No es justo! Mi único hermano...
+¡Malditos sean! Los mataré...\r\n¡Juro que los mataré a todos!
+file\data009\subtitle\subtitle0612_es\subtitle0612.txt
+¿Por qué?... ¿Por qué tuviste que morir?
+¡No es justo! Mi único hermano...
+¡Malditos sean! Los mataré...\r\n¡Juro que los mataré a todos!
+file\data009\subtitle\subtitle0630_es\subtitle0630.txt
+¿Se los están... comiendo?
+file\data009\subtitle\subtitle0631_es\subtitle0631.txt
+¿Se los están... comiendo?
+file\data009\subtitle\subtitle0640_es\subtitle0640.txt
+¡2B!
+file\data009\subtitle\subtitle0642_es\subtitle0642.txt
+¡2B!
+¿Estás bien?
+Menos mal que... le asesté ese... golpe...
+Oh, oh.
+¡Vais a morir! ... ¡Vais a morir todos!
+file\data009\subtitle\subtitle0650_es\subtitle0650.txt
+¿Estás bien?
+Menos mal que... le asesté ese... golpe...
+Oh, oh.
+¡Vais a morir! ... ¡Vais a morir todos!
+file\data009\subtitle\subtitle0651_es\subtitle0651.txt
+¿Estás bien?
+Menos mal que... le asesté ese... golpe...
+Oh, oh.
+¡Vais a morir! ... ¡Vais a morir todos!
+file\data009\subtitle\subtitle0655_es\subtitle0655.txt
+¡¿Siguen llegando?!
+file\data009\subtitle\subtitle0656_es\subtitle0656.txt
+¡¿Siguen llegando?!
+file\data009\subtitle\subtitle0660_es\subtitle0660.txt
+Ah... Aquí estáis.
+Sé que ambos sentís lo mismo.
+Que este mundo... es totalmente insignificante.
+Para mí, mi hermano... lo era todo...
+Y ahora... ¡todo debe morir!
+file\data009\subtitle\subtitle0661_es\subtitle0661.txt
+Ah... Aquí estáis.
+Sé que ambos sentís lo mismo.
+Que este mundo... es totalmente insignificante.
+Para mí, mi hermano... lo era todo...
+Y ahora... ¡todo debe morir!
+file\data009\subtitle\subtitle0670_es\subtitle0670.txt
+¡Eva!
+ 
+ 
+¡2B!
+ 
+file\data009\subtitle\subtitle0671_es\subtitle0671.txt
+¡Eva!
+ 
+ 
+¡2B!
+ 
+file\data009\subtitle\subtitle0680_es\subtitle0680.txt
+Hermano...
+Por fin... Se acabó...
+ 
+¡9S!
+Je, je... La he fastidiado bien...
+file\data009\subtitle\subtitle0682_es\subtitle0682.txt
+Hermano...
+Por fin... Se acabó...
+ 
+¡9S!
+Je, je... La he fastidiado bien...
+file\data009\subtitle\subtitle0690_es\subtitle0690.txt
+Por favor, 2B... Quiero que...
+hagas esto... por mí...
+ 
+Siempre... termina así...
+¿Aún quedan... algunos vivos?
+file\data009\subtitle\subtitle0692_es\subtitle0692.txt
+Por favor, 2B... Quiero que...
+hagas esto... por mí...
+ 
+Siempre... termina así...
+¿Aún quedan... algunos vivos?
+file\data009\subtitle\subtitle0693_es\subtitle0693.txt
+Por favor, 2B... Quiero que...
+hagas esto... por mí...
+ 
+Siempre... termina así...
+¿Aún quedan... algunos vivos?
+¡Malditas máquinas!
+¿Esto es... un mensaje?
+Las transmisiones de datos...\r\nResuenan entre sí...
+ 
+¡Espera un momento! ¡2B!
+Pero ¿quién...?
+Supongo que me dejé los datos personales\r\nen el lado mecánico de las cosas.
+Lo siguiente que supe es que mi\r\nsentido del yo se regeneraba desde\r\nla red circundante.
+Tener múltiples yos fusionados de esta forma es \r\nuna experiencia bastante valiosa, así que quería  \r\ngrabarla, pero aún no podía acceder a ninguna zona
+de almacenamiento, por lo que usé los  \r\nrecuerdos de algunos enemigos cercanos, \r\nasí que cuando volví a mi cuerpo, yo...
+9S...
+Me alegro de que estés bien...
+Sí...
+Y así concluyó la batalla final contra Adán y Eva.
+¿Qué separa a las máquinas de los androides\r\ncomo nosotros?
+Seguramente, esta batalla tenga un gran efecto en el\r\nresultado de la guerra.
+Las máquinas han obtenido emociones. Conciencia...
+2B y yo... Nuestra batalla continuará\r\ndurante un tiempo.
+Los gritos finales que profirieron al borde de la\r\nmuerte...
+Pero esa es otra historia para otro día.
+Aún resuenan en mi interior.
+file\data009\subtitle\subtitle0694_es\subtitle0694.txt
+Por favor, 2B... Quiero que...
+hagas esto... por mí...
+ 
+Siempre... termina así...
+¿Aún quedan... algunos vivos?
+¡Malditas máquinas!
+¿Esto es... un mensaje?
+Las transmisiones de datos...\r\nResuenan entre sí...
+ 
+¡Espera un momento! ¡2B!
+Pero ¿quién...?
+Supongo que me dejé los datos personales\r\nen el lado mecánico de las cosas.
+Lo siguiente que supe es que mi\r\nsentido del yo se regeneraba desde\r\nla red circundante.
+Tener múltiples yos fusionados de esta forma es \r\nuna experiencia bastante valiosa, así que quería  \r\ngrabarla, pero aún no podía acceder a ninguna zona
+de almacenamiento, por lo que usé los  \r\nrecuerdos de algunos enemigos cercanos, \r\nasí que cuando volví a mi cuerpo, yo...
+9S...
+Me alegro de que estés bien...
+Sí...
+Y así concluyó la batalla final contra Adán y Eva.
+¿Qué separa a las máquinas de los androides\r\ncomo nosotros?
+Seguramente, esta batalla tenga un gran efecto en el\r\nresultado de la guerra.
+Las máquinas han obtenido emociones. Conciencia...
+2B y yo... Nuestra batalla continuará\r\ndurante un tiempo.
+Los gritos finales que profirieron al borde de la\r\nmuerte...
+Pero esa es otra historia para otro día.
+Aún resuenan en mi interior.
+file\data009\subtitle\subtitle0700_es\subtitle0700.txt
+¡Malditas máquinas!
+¿Esto es... un mensaje?
+Las transmisiones de datos...\r\nResuenan entre sí...
+ 
+¡Espera un momento! ¡2B!
+Pero ¿quién...?
+Supongo que me dejé los datos personales\r\nen el lado mecánico de las cosas.
+Lo siguiente que supe es que mi\r\nsentido del yo se regeneraba desde\r\nla red circundante.
+Tener múltiples yos fusionados de esta forma es una \r\nexperiencia bastante valiosa, así que quería grabarla, \r\npero aún no podía acceder a ninguna zona de alma
+cenamiento, por lo que usé los recuerdos de algunos \r\nenemigos cercanos, así que cuando volví a mi cuerpo, yo...
+9S...
+Me alegro de que estés bien...
+Sí...
+Y así concluyó la batalla final contra Adán y Eva.
+¿Qué separa a las máquinas de los androides\r\ncomo nosotros?
+Seguramente, esta batalla tenga un gran efecto en el\r\nresultado de la guerra.
+Las máquinas han obtenido emociones. Conciencia...
+2B y yo... Nuestra batalla continuará\r\ndurante un tiempo.
+Los gritos finales que profirieron al borde de la\r\nmuerte...
+Pero esa es otra historia para otro día.
+Aún resuenan en mi interior.
+file\data009\subtitle\subtitle0702_es\subtitle0702.txt
+¡Malditas máquinas!
+¿Esto es... un mensaje?
+Las transmisiones de datos...\r\nResuenan entre sí...
+ 
+¡Espera un momento! ¡2B!
+Pero ¿quién...?
+Supongo que me dejé los datos personales\r\nen el lado mecánico de las cosas.
+Lo siguiente que supe es que mi\r\nsentido del yo se regeneraba desde\r\nla red circundante.
+Tener múltiples yos fusionados de esta forma es una \r\nexperiencia bastante valiosa, así que quería grabarla, \r\npero aún no podía acceder a ninguna zona de alma
+cenamiento, por lo que usé los recuerdos de algunos \r\nenemigos cercanos, así que cuando volví a mi cuerpo, yo...
+9S...
+Me alegro de que estés bien...
+Sí...
+Y así concluyó la batalla final contra Adán y Eva.
+¿Qué separa a las máquinas de los androides\r\ncomo nosotros?
+Seguramente, esta batalla tenga un gran efecto en el\r\nresultado de la guerra.
+Las máquinas han obtenido emociones. Conciencia...
+2B y yo... Nuestra batalla continuará\r\ndurante un tiempo.
+Los gritos finales que profirieron al borde de la\r\nmuerte...
+Pero esa es otra historia para otro día.
+Aún resuenan en mi interior.
+file\data009\subtitle\subtitle0720_es\subtitle0720.txt
+Hemos confirmado que las unidades centrales de la\r\nred, conocidas como Adán y Eva, han sido destruidas.
+La cadena de mando del enemigo está sumida\r\nen el completo caos.
+Como tal, la humanidad ha elegido aprovechar\r\nesta oportunidad y lanzar un ataque superpotente\r\ncontra las máquinas.
+Evidentemente, las fuerzas de YoRHa participarán\r\nen esta tentativa.
+Recordad el dolor:
+¡el dolor de que os arrebaten\r\nvuestra patria!
+Nunca abandonaremos nuestra lucha.
+¡Recuperaremos los mares!\r\n¡Los cielos! ¡La tierra!
+¡Recuperaremos nuestro mundo del azote\r\nde las máquinas!
+No fracasaremos en esta misión...
+¡Aquí y ahora pondremos fin\r\na esta maldita guerra!
+¡Gloria... a la humanidad!
+¡Gloria a la humanidad!
+file\data009\subtitle\subtitle0722_es\subtitle0722.txt
+Hemos confirmado que las unidades centrales de la\r\nred, conocidas como Adán y Eva, han sido destruidas.
+La cadena de mando del enemigo está sumida\r\nen el completo caos.
+Como tal, la humanidad ha elegido aprovechar\r\nesta oportunidad y lanzar un ataque superpotente\r\ncontra las máquinas.
+Evidentemente, las fuerzas de YoRHa participarán\r\nen esta tentativa.
+Recordad el dolor:
+¡el dolor de que os arrebaten\r\nvuestra patria!
+Nunca abandonaremos nuestra lucha.
+¡Recuperaremos los mares!\r\n¡Los cielos! ¡La tierra!
+¡Recuperaremos nuestro mundo del azote\r\nde las máquinas!
+No fracasaremos en esta misión...
+¡Aquí y ahora pondremos fin\r\na esta maldita guerra!
+¡Gloria... a la humanidad!
+¡Gloria a la humanidad!
+file\data009\subtitle\subtitle0730_es\subtitle0730.txt
+Hemos confirmado que las unidades centrales de la\r\nred, conocidas como Adán y Eva, han sido destruidas.
+La cadena de mando del enemigo está sumida\r\nen el completo caos.
+Como tal, la humanidad ha elegido aprovechar\r\nesta oportunidad y lanzar un ataque superpotente\r\ncontra las máquinas.
+Evidentemente, las fuerzas de YoRHa participarán\r\nen esta tentativa.
+Recordad el dolor:
+¡el dolor de que os arrebaten\r\nvuestra patria!
+Nunca abandonaremos nuestra lucha.
+¡Recuperaremos los mares!\r\n¡Los cielos! ¡La tierra!
+¡Recuperaremos nuestro mundo del azote\r\nde las máquinas!
+No fracasaremos en esta misión...
+¡Aquí y ahora pondremos fin\r\na esta maldita guerra!
+¡Gloria... a la humanidad!
+¡Gloria a la humanidad!
+file\data009\subtitle\subtitle0760_es\subtitle0760.txt
+¡2B!
+file\data009\subtitle\subtitle0761_es\subtitle0761.txt
+¡2B!
+file\data009\subtitle\subtitle0770_es\subtitle0770.txt
+¡¿Estás bien?!
+¿Esto es... un virus de área amplia?
+¡2B!
+file\data009\subtitle\subtitle0771_es\subtitle0771.txt
+¡¿Estás bien?!
+¿Esto es... un virus de área amplia?
+¡2B!
+file\data009\subtitle\subtitle0780_es\subtitle0780.txt
+2B, ¿estás bien?
+ 
+¿Qué demonios...?
+ 
+file\data009\subtitle\subtitle0781_es\subtitle0781.txt
+2B, ¿estás bien?
+ 
+¿Qué demonios...?
+ 
+file\data009\subtitle\subtitle0790_es\subtitle0790.txt
+¡Completada la carga de datos de\r\nregistro!
+¡9S!
+ 
+file\data009\subtitle\subtitle0791_es\subtitle0791.txt
+¡Completada la carga de datos de\r\nregistro!
+¡9S!
+ 
+file\data009\subtitle\subtitle0792_es\subtitle0792.txt
+¡Completada la carga de datos de\r\nregistro!
+¡9S!
+ 
+file\data009\subtitle\subtitle0800_es\subtitle0800.txt
+Uaaah...
+file\data009\subtitle\subtitle0810_es\subtitle0810.txt
+2B... 9S... Tengo que deteneros por sospecha\r\nde contaminación vírica.
+¡Espere un momento!
+¡Je, je, je! ¡Bingooo!
+¿Están... infectados?
+¿Comandante? Tenemos que irnos.
+file\data009\subtitle\subtitle0811_es\subtitle0811.txt
+2B... 9S... Tengo que deteneros por sospecha\r\nde contaminación vírica.
+¡Espere un momento!
+¡Je, je, je! ¡Bingooo!
+¿Están... infectados?
+¿Comandante? Tenemos que irnos.
+file\data009\subtitle\subtitle0820_es\subtitle0820.txt
+¡Comandante, rápido!
+Yo no puedo. Me quedo aquí.
+file\data009\subtitle\subtitle0830_es\subtitle0830.txt
+2B, ¡este lugar está perdido!
+¡Comandante!
+¡Muévete, 2B! ¡Es una orden!
+file\data009\subtitle\subtitle0835_es\subtitle0835.txt
+Alerta: múltiples enemigos\r\nconfirmados.
+file\data009\subtitle\subtitle0836_es\subtitle0836.txt
+Alerta: múltiples enemigos\r\nconfirmados.
+file\data009\subtitle\subtitle0850_es\subtitle0850.txt
+Supongo que... se acabó...
+Estos son... mis recuerdos.
+Cuida de todos por mí...
+Cuida... del futuro... A2...
+file\data009\subtitle\subtitle0855_es\subtitle0855.txt
+2B... 2B...
+¡2B! ¿Estás...?
+Oh... Nueves...
+Oh, no... 2B... No...
+ 
+¡A2!
+ 
+¡Te mataré!
+file\data009\subtitle\subtitle0860_es\subtitle0860.txt
+Entonces... ¡¿qué ha pasado con el mando?!
+Número 2, ¡vamos! Yo me encargo de...
+¡No! ¡Número 4!
+ 
+Activación de la unidad A2 confirmada.
+Buenos días, A2.
+file\data009\subtitle\subtitle0861_es\subtitle0861.txt
+Entonces... ¡¿qué ha pasado con el mando?!
+Número 2, ¡vamos! Yo me encargo de...
+¡No! ¡Número 4!
+ 
+Activación de la unidad A2 confirmada.
+Buenos días, A2.
+file\data009\subtitle\subtitle0870_es\subtitle0870.txt
+¡¿Qué coño es eso?!
+file\data009\subtitle\subtitle0871_es\subtitle0871.txt
+¡¿Qué coño es eso?!
+file\data009\subtitle\subtitle0875_es\subtitle0875.txt
+Alerta: detectado ataque de PEM próximo.
+Se recomienda la huida.
+file\data009\subtitle\subtitle0880_es\subtitle0880.txt
+Mamá...
+ 
+Tú y yo... somos iguales.
+No tenemos a nadie que nos ayude.\r\nSolo podemos llorar y gritar...
+¡He dicho que te calles!
+Cierra el pico...
+file\data009\subtitle\subtitle0900_es\subtitle0900.txt
+...
+Parece que está despierto, Devola.
+Buenos días. Has dormido bien, ¿eh, 9S?
+file\data009\subtitle\subtitle0901_es\subtitle0901.txt
+...
+Parece que está despierto, Devola.
+Buenos días. Has dormido bien, ¿eh, 9S?
+file\data009\subtitle\subtitle0910_es\subtitle0910.txt
+¡Hola! Aquí la unidad de recuperación de recursos.\r\n¡Activando modo de defensa!
+file\data009\subtitle\subtitle0920_es\subtitle0920.txt
+¡Hola! Aquí la unidad de recuperación de recursos.\r\n¡Activando modo de defensa!
+Malditas máquinas...
+file\data009\subtitle\subtitle0921_es\subtitle0921.txt
+¡Hola! Aquí la unidad de recuperación de recursos.\r\n¡Activando modo de defensa!
+Malditas máquinas...
+file\data009\subtitle\subtitle0926_es\subtitle0926.txt
+¡Hola! Aquí la unidad de recuperación de recursos.\r\n¡Activando modo de defensa!
+Malditas máquinas...
+file\data009\subtitle\subtitle0930_es\subtitle0930.txt
+Ayu... da...
+Preparación de energía. Modo de disparo\r\na corta distancia. Máxima potencia.
+9S...
+Fuego.
+file\data009\subtitle\subtitle0931_es\subtitle0931.txt
+Ayu... da...
+Preparación de energía. Modo de disparo\r\na corta distancia. Máxima potencia.
+9S...
+Fuego.
+file\data009\subtitle\subtitle0935_es\subtitle0935.txt
+¡¿Siguen llegando?!
+¡No temas, A2! ¡Yo me ocupo de esto!
+file\data009\subtitle\subtitle0936_es\subtitle0936.txt
+¡¿Siguen llegando?!
+¡No temas, A2! ¡Yo me ocupo de esto!
+file\data009\subtitle\subtitle0940_es\subtitle0940.txt
+¡Máta... me! ¡Hazlo! ¡Máta... me! ¡Hazlo!
+¡Mátame, cobarde! ¡Mátame! ¡Mátame! ¡Mátame!\r\n¡Mátame!
+ 
+file\data009\subtitle\subtitle0950_es\subtitle0950.txt
+¿Qué está pasando?
+file\data009\subtitle\subtitle0951_es\subtitle0951.txt
+¿Qué está pasando?
+file\data009\subtitle\subtitle0960_es\subtitle0960.txt
+¡¿Siguen llegando?!
+¡No temas, A2! ¡Yo me ocupo de esto!
+file\data009\subtitle\subtitle0961_es\subtitle0961.txt
+¡¿Siguen llegando?!
+¡No temas, A2! ¡Yo me ocupo de esto!
+file\data009\subtitle\subtitle0970_es\subtitle0970.txt
+No... No, ¿cómo es que...?
+file\data009\subtitle\subtitle0990_es\subtitle0990.txt
+¡Hola! Aquí la unidad de recuperación de recursos.\r\n¡Activando modo de defensa!
+file\data009\subtitle\subtitle1000_es\subtitle1000.txt
+Son los datos de 2B...
+Sé que solo son recuerdos... pero, aun así...
+No... ¡No hagas esto!
+Maldita sea, ¡paraaa!
+file\data009\subtitle\subtitle1001_es\subtitle1001.txt
+Son los datos de 2B...
+Sé que solo son recuerdos... pero, aun así...
+No... ¡No hagas esto!
+Maldita sea, ¡paraaa!
+file\data009\subtitle\subtitle1010_es\subtitle1010.txt
+¡Son míos! Son mis recuerdos, ¡¿me oyes?!
+ 
+ 
+file\data009\subtitle\subtitle1030_es\subtitle1030.txt
+¡Hola! Aquí la unidad de recuperación de recursos.\r\n¡Activando modo de defensa!
+Una y otra vez...
+file\data009\subtitle\subtitle1040_es\subtitle1040.txt
+Modelo 21O...
+¿Operadora?
+file\data009\subtitle\subtitle1041_es\subtitle1041.txt
+Modelo 21O...
+¿Operadora?
+file\data009\subtitle\subtitle1050_es\subtitle1050.txt
+ 
+ 
+¡A2!
+2B me dijo...
+ 
+Me dijo que quería que... fueras una buena persona.
+Tú...
+¡Ni se te ocurra hablarme de 2B!
+file\data009\subtitle\subtitle1051_es\subtitle1051.txt
+ 
+ 
+¡A2!
+2B me dijo...
+ 
+Me dijo que quería que... fueras una buena persona.
+Tú...
+¡Ni se te ocurra hablarme de 2B!
+file\data009\subtitle\subtitle1060_es\subtitle1060.txt
+¡Hermano mayor! ¡Hermano mayor! ¡Hermano mayor!
+file\data009\subtitle\subtitle1080_es\subtitle1080.txt
+Comprobación física completada.
+Comprobación de memoria completada.
+Modo de mantenimiento completado.
+Unidad 9S de YoRHa... Activación.
+Uuuf.
+Buenos días, 9S.
+file\data009\subtitle\subtitle1090_es\subtitle1090.txt
+Espera, ¿tú?
+9S.
+Te estábamos esperando.
+¡A partir de aquí, nos ocupamos nosotras!
+¡Tú tienes que abrir la puerta de la torre!
+file\data009\subtitle\subtitle1091_es\subtitle1091.txt
+Espera, ¿tú?
+9S.
+Te estábamos esperando.
+¡A partir de aquí, nos ocupamos nosotras!
+¡Tú tienes que abrir la puerta de la torre!
+file\data009\subtitle\subtitle1100_es\subtitle1100.txt
+¡¿Qué ha pasado?!
+Es la barrera...
+ 
+¡Popola!
+¡No! No puedes hacer nada... ¡La pared tiene un\r\nalgoritmo de autocerrado!
+¡Basta!
+Devola y yo... Debemos expiar nuestros pecados\r\ncueste lo que cueste.
+Pero si haces eso, tus circuitos...
+¡Devola!
+¡Sí!
+¡Ahoraaa!
+ 
+¡Devola!
+Espero que... no lamentes esto...
+ 
+file\data009\subtitle\subtitle1120_es\subtitle1120.txt
+¿Modelos 2B?
+ 
+Me alegro de verte aquí. Me alegro muchísimo.
+Os voy a hacer pedazos... ¡a todas y cada una de\r\nvosotras!
+file\data009\subtitle\subtitle1121_es\subtitle1121.txt
+¿Modelos 2B?
+ 
+Me alegro de verte aquí. Me alegro muchísimo.
+Os voy a hacer pedazos... ¡a todas y cada una de\r\nvosotras!
+file\data009\subtitle\subtitle1125_es\subtitle1125.txt
+ 
+ 
+ 
+file\data009\subtitle\subtitle1150_es\subtitle1150.txt
+Estos datos...
+file\data009\subtitle\subtitle1160_es\subtitle1160.txt
+...
+ 
+No puedo parar. Tengo que seguir luchando...
+file\data009\subtitle\subtitle1180_es\subtitle1180.txt
+Este es el proyecto YoRHa.
+Es decir, todos nosotros... 2B...
+Ahora ya lo sabes todo.
+¿Todavía quieres luchar?
+ 
+file\data009\subtitle\subtitle1181_es\subtitle1181.txt
+Este es el proyecto YoRHa.
+Es decir, todos nosotros... 2B...
+Ahora ya lo sabes todo.
+¿Todavía quieres luchar?
+ 
+file\data009\subtitle\subtitle1190_es\subtitle1190.txt
+Necesitamos más presión evolutiva.
+Si permitimos que este androide siga con vida,
+podemos buscarnos aún más problemas.
+Superar la crisis que esto supone, será una\r\noportunidad para que los nuestros evolucionen más.
+Discrepamos. Esta androide es peligrosa.
+Hay que destruirla inmediatamente.
+...
+Quienes dudarían de nuestra victoria...\r\nson enemigos.
+¿De verdad crees que puedes vencer?
+file\data009\subtitle\subtitle1191_es\subtitle1191.txt
+Necesitamos más presión evolutiva.
+Si permitimos que este androide siga con vida,
+podemos buscarnos aún más problemas.
+Superar la crisis que esto supone, será una\r\noportunidad para que los nuestros evolucionen más.
+Discrepamos. Esta androide es peligrosa.
+Hay que destruirla inmediatamente.
+...
+Quienes dudarían de nuestra victoria...\r\nson enemigos.
+¿De verdad crees que puedes vencer?
+file\data009\subtitle\subtitle1210_es\subtitle1210.txt
+ 
+¡Pod!
+file\data009\subtitle\subtitle1211_es\subtitle1211.txt
+ 
+¡Pod!
+file\data009\subtitle\subtitle1220_es\subtitle1220.txt
+La designación oficial... es 2E. Número 2, tipo E.
+Eran una clase especial de miembros diseñados\r\npara ejecutar a unidades YoRHa.
+Pero eso ya lo sabías, ¿verdad, 9S?
+Cállate... ¡Cállate!
+¿Tú qué sabes? ¡No sabes nada de nosotros!
+Propuesta: cesar el combate.
+Luchar con ella en este punto sería irracional y...
+Pod 153, ¡te ordeno que ceses todo pensamiento\r\nlógico y su locución!
+¡Esta orden permanecerá en efecto hasta que\r\nconfirmes mi muerte o la de A2!
+file\data009\subtitle\subtitle1221_es\subtitle1221.txt
+La designación oficial... es 2E. Número 2, tipo E.
+Eran una clase especial de miembros diseñados\r\npara ejecutar a unidades YoRHa.
+Pero eso ya lo sabías, ¿verdad, 9S?
+Cállate... ¡Cállate!
+¿Tú qué sabes? ¡No sabes nada de nosotros!
+Propuesta: cesar el combate.
+Luchar con ella en este punto sería irracional y...
+Pod 153, ¡te ordeno que ceses todo pensamiento\r\nlógico y su locución!
+¡Esta orden permanecerá en efecto hasta que\r\nconfirmes mi muerte o la de A2!
+file\data009\subtitle\subtitle1230_es\subtitle1230.txt
+ 
+Cuida... de 9S.
+2B...
+ 
+ 
+ 
+file\data009\subtitle\subtitle1232_es\subtitle1232.txt
+Ah... Así que estabas ahí...
+2B.
+file\data009\subtitle\subtitle1233_es\subtitle1233.txt
+Ah... Así que estabas ahí...
+2B.
+file\data009\subtitle\subtitle1234_es\subtitle1234.txt
+Ah... Así que estabas ahí...
+2B.
+file\data009\subtitle\subtitle1235_es\subtitle1235.txt
+Ah... Así que estabas ahí...
+2B.
+file\data009\subtitle\subtitle1240_es\subtitle1240.txt
+ 
+¡Pod!
+¡Piratéalo ahora!
+Entendido.
+file\data009\subtitle\subtitle1241_es\subtitle1241.txt
+ 
+¡Pod!
+¡Piratéalo ahora!
+Entendido.
+file\data009\subtitle\subtitle1250_es\subtitle1250.txt
+Yo me encargaré de todo.
+Pod...
+Cuida de 9S.
+¿Qué pasa contigo, A2?
+Aún hay algo que tengo que hacer...
+Ve delante.
+Entendido.
+Lo siento...
+Nunca me había dado cuenta...
+de lo bonito que es este mundo.
+Ya voy, chicos... Ya... voy...
+file\data009\subtitle\subtitle1260_es\subtitle1260.txt
+Alerta: las cajas negras de todas las unidades YoRHa\r\nestán desconectadas.
+La misión de desarrollo y administración del\r\nProyecto YoRHa se ha completado.
+Reúnete con el escuadrón androide más cercano y\r\nborra todos los recuerdos.
+Entendido.
+file\data009\subtitle\subtitle1270_es\subtitle1270.txt
+Todo cuanto vive está diseñado para morir.
+Están atrapados a perpetuidad...
+en una espiral infinita de vida y muerte.
+Pero la vida consiste en luchar\r\ndentro de este ciclo.
+Eso es lo que «nosotros» creemos.
+Pod 153 a Pod 042. ¿Cómo va?
+Me siento avergonzada.
+¿Y eso por qué?
+Lancé un ataque suicida\r\ny, sin embargo, aquí sigo, con vida.
+Debo de tener un aspecto ridículo.
+No te sientas mal por eso.
+Después de todo, seguimos vivos.
+Y estar vivo es una fuente constante de vergüenza.
+Ese concepto todavía es demasiado abstracto\r\npara mí en este momento.
+Lo guardaré en mi lista de cosas\r\npara analizar más adelante.
+Una pregunta, Pod 042.
+¿La recuperación de datos restauró\r\ntodos los recuerdos pasados?
+Sí.
+¿Y las partes recuperadas tienen el mismo diseño\r\nque las anteriores?
+Sí.
+Y eso... ¿no nos conducirá simplemente\r\nal mismo final de antes?
+No puedo negar la posibilidad.
+Sin embargo, también existe la posibilidad\r\nde un futuro diferente.
+El futuro no es algo que se te dé. Es algo que tú\r\ntomas para ti.
+NieR:Automata\r\n\r\nFin
+file\data009\subtitle\subtitle1280_es\subtitle1280.txt
+Hace mucho tiempo, me crearon para ser un arma.
+Un arma que podía adaptarse a cualquier entorno\r\ny capaz de una destrucción total.
+¿Eres... un arma?
+Al comenzar la guerra contra los alienígenas,\r\ndecidí reforzar esa arma creando copias\r\nde mí mismo.
+Interesante.
+Así que, en realidad, soy solo uno\r\nde los incontables Emil que hay.
+Yo, o nosotros, colaboramos para mantener\r\nnuestras líneas defensivas intactas.
+Pero, cuantas más copias creábamos,\r\nmás se difuminaban nuestros recuerdos originales.
+file\data009\subtitle\subtitle1400_es\subtitle1400.txt
+Nunca me había dado cuenta...
+de lo bonito que es este mundo.
+La comandante me ha puesto a cargo\r\nde tu mantenimiento, señorita.
+Eso significa que, de ahora en adelante,\r\nte voy a hacer pruebas de forma rutinaria.
+Si estás escuchando esto,\r\nnecesito que hagas algo por mí.
+Si alguna vez te encuentras con la unidad 9S\r\nde YoRHa...
+Quiero que... Quiero decir...
+Tal vez no seamos tan distintos, después de todo.
+Pod 153, ¡te ordeno que ceses todo pensamiento\r\nlógico y su locución!
+¡No temas, A2! ¡Yo me ocupo de esto!
+Los androides fueron diseñados para\r\nproteger a sus amos humanos.
+¡Aunque no tenga sentido, debes seguir haciéndolo!
+Vosotros dos sois los últimos miembros de YoRHa.
+Yo... ¡Yo...!
+Esa no es la Operadora. Es...
+file\data009\subtitle\subtitle1402_es\subtitle1402.txt
+Nunca me había dado cuenta...
+de lo bonito que es este mundo.
+La comandante me ha puesto a cargo\r\nde tu mantenimiento, señorita.
+Eso significa que, de ahora en adelante,\r\nte voy a hacer pruebas de forma rutinaria.
+Si estás escuchando esto,\r\nnecesito que hagas algo por mí.
+Si alguna vez te encuentras con la unidad 9S\r\nde YoRHa...
+Quiero que... Quiero decir...
+Tal vez no seamos tan distintos, después de todo.
+Pod 153, ¡te ordeno que ceses todo pensamiento\r\nlógico y su locución!
+¡No temas, A2! ¡Yo me ocupo de esto!
+Los androides fueron diseñados para\r\nproteger a sus amos humanos.
+¡Aunque no tenga sentido, debes seguir haciéndolo!
+Vosotros dos sois los últimos miembros de YoRHa.
+Yo... ¡Yo...!
+Esa no es la Operadora. Es...
+file\data009\subtitle\subtitleb060_es\subtitleb060.txt
+La próxima vez, más vale asegurarse de que\r\nestá muerto de verdad.
+Esa ha estado cerca, señorita.
+file\data009\subtitle\subtitleb191_es\subtitleb191.txt
+Buenos días.
+file\data009\subtitle\subtitleb251_es\subtitleb251.txt
+Pero ¿qué...? ¿Qué ocurre?
+¿Un androide?
+¡No! Es una... ¡Es una máquina!
+file\data009\subtitle\subtitleb301_es\subtitleb301.txt
+[SCREAM]
+file\data009\subtitle\subtitleb311_es\subtitleb311.txt
+¡2B!
+Hermosa... Hermosa...
+¡¡¡Debo ser hermosa!!!
+¡Esos parecen... cadáveres!
+file\data009\subtitle\subtitleb321_es\subtitleb321.txt
+¡Pod!
+Afirmativo.
+¡Adelante!
+file\data009\subtitle\subtitleb341_es\subtitleb341.txt
+ 
+¿Están muertos?
+¡2B, mira!
+Naves nodriza alienígenas destruidas...
+Bienvenidos... al cementerio de nuestros creadores.
+file\data009\subtitle\subtitleb351_es\subtitleb351.txt
+El tiempo apremia.
+Esto de aquí... es el destino que sufrieron\r\nnuestros creadores.
+En cuanto a vuestros queridos humanos...\r\nya veremos, ¿no?
+Se han ido...
+file\data009\subtitle\subtitleb441_es\subtitleb441.txt
+Vale, eso es nuevo.
+Vale, eso es nuevo.
+file\data009\subtitle\subtitleb461_es\subtitleb461.txt
+¡2B!
+file\data009\subtitle\subtitleb471_es\subtitleb471.txt
+¿Estás bien, 2B?
+file\data009\subtitle\subtitleb651_es\subtitleb651.txt
+¿Estás bien?
+Menos mal que... le asesté ese... golpe...
+Oh, oh.
+¡Vais a morir! ... ¡Vais a morir todos!
+file\data009\subtitle\subtitleb656_es\subtitleb656.txt
+¡¿Siguen llegando?!
+file\data009\subtitle\subtitleb661_es\subtitleb661.txt
+Ah... Aquí estáis.
+Sé que ambos sentís lo mismo.
+Que este mundo... es totalmente insignificante.
+Para mí, mi hermano... lo era todo...
+Y ahora... ¡todo debe morir!
+file\data009\subtitle\subtitleb671_es\subtitleb671.txt
+¡Eva!
+ 
+ 
+¡2B!
+ 

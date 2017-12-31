@@ -1,0 +1,4795 @@
+file\messchapter.new.txt.txt
+Progreso misión
+Común
+:
+├
+└
+SELECCIÓN DE CAPÍTULO
+SELECCIÓN DE CAPÍTULO
+Elige el capítulo inicial.
+Prólogo
+Campamento de la Resistencia
+Adán y Eva
+Cantante chalada
+Tierra excavada
+Rey del Bosque
+Hijo perdido
+Ciudad copiada
+Religión perturbada
+Derrota
+Ataque a gran escala
+Recuerdos de arena
+Caja de carne
+Desesperación de Pascal
+Caja de alma
+Caja de dios
+La torre
+El ataque de YoRHA
+La batalla aérea de 2B
+9S desarma la defensa
+La fábrica abandonada
+Batalla de máquinas
+9S fuera de la fábrica
+2B dentro de la fábrica
+Batalla de máquinas 2
+La batalla de Goliath
+La batalla terrestre de 2B
+El combate aéreo de 9S
+El combate aéreo de 2B
+El búnker
+El despertar de 2B
+9S configura a 2B
+La misión
+En las ruinas de la ciudad
+Viajando al desierto
+En el desierto
+Dist. residencial del desierto
+Batalla con Adán
+Reconocimiento de YoRHa
+Parque de atracciones
+Jefe del tanque
+La llegada de la cantante
+Aparece el mensajero
+Aldea de Pascal
+El ataque de Goliath
+La nave alienígena
+La batalla con Adán y Eva
+Informando a la comandante
+Hacia la instalación comercial
+Registrando el bosque
+Castillo del bosque
+La venganza de A2
+Informando a Pascal
+El portaaviones
+La batalla sobre el océano
+Monstruo
+Un joven prisionero
+2B busca a 9S
+La batalla de 2B con Adán
+La zona de memoria de 9S
+Aquellos que creen
+El análisis de 9S
+Nuevo comportamiento
+2B negocia la paz
+La huida
+9S apoya a 2B
+2B escapa de la fábrica
+Batalla con Goliath multipata
+La verdad
+Goliath multipata destruido
+9S averigua la verdad
+Máquinas fuera de control
+9S en medio de la batalla
+2B pide refuerzos
+2B ayuda a la Resistencia
+Batalla con Goliath multipata
+Batalla con máquina esférica
+Ataque a aldea de Pascal
+Lucha contra Eva
+2B y 9S
+El final de la batalla
+El comienzo de la batalla
+Comienza la invasión de 2B
+9S piratea la defensa
+Batalla de 2B por el control
+YoRHa contaminada
+2B escapa del búnker
+Los últimos momentos de 2B
+9S se separa
+El despertar de A2
+Batalla en el desierto de A2
+9S se despierta
+9S entra en la torre
+La determinación de 9S
+9S y la caja de carne
+A2 y el filtro de aceite
+Un día en la vida de Pascal
+Pascal necesita ayuda
+Máquinas caníbales
+A2 y los niños
+9S sigue luchando
+9S y la caja de alma
+9S herido
+9S reparado
+9S y la unidad de recursos
+A2 y la unidad de recursos
+9S y la caja de dios
+A2 y los hermanos máquina
+9S se dirige a la torre
+9S busca la torre
+A2 se dirige a la torre
+A2 busca la torre
+9S se autorrepara
+Las chicas rojas
+Hacia la cima
+Máquina multipata combinada
+9S y A2
+El fin
+Últimos momentos de 9S
+Últimos momentos de A2
+El fin del proyecto YoRHa
+Capítulo 01
+Capítulo 02
+Capítulo 03
+Capítulo 04
+Capítulo 05
+Capítulo 06
+Capítulo 07
+Capítulo 08
+Capítulo 09
+Capítulo 10
+Capítulo 11
+Capítulo 12
+Capítulo 13
+Capítulo 14
+Capítulo 15
+Capítulo 16
+Capítulo 17
+Capitulo 01-01
+Capitulo 01-01_1
+Capitulo 01-01_2
+Capitulo 01-02
+Capitulo 01-02_1
+Capitulo 01-02_2
+Capitulo 01-02_3
+Capitulo 01-02_4
+Capitulo 01-03
+Capitulo 01-03_1
+Capitulo 01-03_2
+Capitulo 01-03_3
+Capitulo 01-04
+Capitulo 01-04_1
+Capitulo 01-04_2
+Capitulo 01-05
+Capitulo 02-01
+Capitulo 02-02
+Capitulo 03-01
+Capitulo 03-02
+Capitulo 03-03
+Capitulo 03-04
+Capitulo 04-01
+Capitulo 04-02
+Capitulo 04-03
+Capitulo 04-04
+Capitulo 05-01
+Capitulo 05-02
+Capitulo 05-03
+Capitulo 05-04
+Capitulo 06-01
+Capitulo 06-02
+Capitulo 06-03
+Capitulo 06-04
+Capitulo 06-05
+Capitulo 07-01
+Capitulo 07-02
+Capitulo 07-03
+Capitulo 07-04
+Capitulo 08-01
+Capitulo 08-01_1
+Capitulo 08-01_2
+Capitulo 08-01_3
+Capitulo 09-01
+Capitulo 09-01_1
+Capitulo 09-01_2
+Capitulo 09-01_3
+Capitulo 09-02
+Capitulo 09-02_1
+Capitulo 09-02_2
+Capitulo 09-02_3
+Capitulo 09-03
+Capitulo 09-03_1
+Capitulo 09-03_2
+Capitulo 10-01
+Capitulo 10-01_1
+Capitulo 10-01_2
+Capitulo 10-01_3
+Capitulo 10-01_4
+Capitulo 10-02
+Capitulo 10-03
+Capitulo 10-04
+Capitulo 10-05
+Capitulo 10-05_1
+Capitulo 10-05_2
+Capitulo 11-01
+Capitulo 11-02
+Capitulo 11-03
+Capitulo 11-04
+Capitulo 11-05
+Capitulo 11-06
+Capitulo 11-07
+Capitulo 12-01
+Capitulo 12-02
+Capitulo 13-01
+Capitulo 13-02
+Capitulo 13-03
+Capitulo 13-04
+Capitulo 14-01
+Capitulo 14-02
+Capitulo 14-03
+Capitulo 14-04
+Capitulo 14-05
+Capitulo 15-01
+Capitulo 15-02
+Capitulo 15-03
+Capitulo 15-04
+Capitulo 16-01
+Capitulo 16-02
+Capitulo 16-03
+Capitulo 16-04
+Capitulo 17-01
+Capitulo 17-02
+Capitulo 17-03
+Capitulo 17-04
+Capitulo 17-05
+Capitulo 17-06
+Capitulo 17-07
+Capitulo 17-08
+Capitulo 17-09
+Capitulo 17-10
+Capitulo 17-10_1
+Capitulo 17-10_2
+Capitulo 17-11
+file\messcore.new.txt.txt
+OK
+Sí
+Sí
+No
+No
+Sí
+Sí
+No
+No
+NEW
+Nv
+Nv
+G
+Fondos (G)
+Total
+Número disponible
+Tasa de adquisición
+Tasa de encuentro
+Tasa de recolección
+Misiones completadas
+Equipar
+Tipo
+Habilidades especiales
+L
+L
+F
+F
+EQUIP
+EN USO
+Máx
+Coste de creación
+Informe corporal
+Cuerpo
+Cuerpo
+Cuerpo anterior
+Cuerpo anterior
+Recompensa de misión
+Recompensa de misión
+Resultados de la recuperación
+Resultados de la recuperación
+Rango
+Coste
+Total de fases superadas
+NUEVO RÉCORD
+Recompensa
+NADA
+NADA
+Arma ligera
+Arma pesada
+Número de animación
+Objetos obtenidos
+Objetos obtenidos
+Cargando pantalla de sistema
+Precio
+Enemigos derrotados
+a. m.
+p. m.
+Categoría
+/
+:
+:
+～
++
+《
+》
+-
+-
+_
+■
+■
+%
+%
+●
+『
+』
+◆
+◆
+#
+1
+1
+2
+2
+MODO AUTO
+MODO AUTO
+EN PAUSA
+SIN DATOS
+SIN DATOS
+GRABANDO
+SIN IMAGEN
+SIN IMAGEN
+INFORMACIÓN SECRETA
+INFORMACIÓN SECRETA
+Datos dañados
+Datos dañados
+MENSAJE DEL SISTEMA
+RESULTADO
+Se ha producido un error de red. Se han desactivado las funciones de red.
+Conectando con la red...
+Seleccionar
+Confirmar
+Atrás
+Usar
+Usar
+Animación
+Cambiar equipo
+Omitir
+Mantén para omitir
+Mover
+Girar
+Restablecer
+Marcador
+Acercar
+Alejar
+Repetir
+Cerrar
+Siguiente
+Visor de modelos
+Desplazar texto
+Ocultar texto
+Mostrar texto
+Mostrar otro
+Atrás / Siguiente
+Estado
+Ataque
+Defensa
+EXP
+PV
+Combo
+Ataq. distancia
+Def. distancia
+Ataque ligero
+Ataque fuerte
+ATQ
+DEF
+Combo
+Fácil
+Normal
+Difícil
+Extrema
+Enemigos débiles y chips automáticos.
+La dificultad estándar, la más agradable. Quizá.
+Batallas más difíciles sin fijado.
+No puedes fijar objetivos y morirás de un golpe.
+Equilibrado
+Corta distancia
+Larga distancia
+Agresivo
+Cauto
+Pasivo
+2B
+9S
+A2
+Tanque parque atrac.
+Tanque clase Goliath
+Vuelo clase Goliath
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eva
+Adán
+Chica roja
+21O
+Copia de 2B
+A2
+9S
+Emil
+Clones de Emil
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eva
+Adán
+CARGAR PARTIDA
+CARGAR PARTIDA
+Tiempo
+Selecciona un archivo para cargar.
+Final
+GUARDAR PARTIDA
+GUARDAR PARTIDA
+NUEVA PARTIDA
+NUEVA PARTIDA
+Selecciona una ranura para guardar.
+Selecciona ranura para iniciar una partida nueva.
+Editar conjunto de armas
+GAME OVER
+Pantalla de carga
+Volver a la pantalla de título
+Cambiar mensaje
+Continuar
+Mover a la pantalla de edición de mensajes después de morir.
+Reanudar partida.
+Rezar y continuar
+Continuar
+Recuperar
+Reparar
+Cancelar
+Reza por el cuerpo.
+Transición a la siguiente pantalla.
+Recuperar cuerpo.
+Reparar cuerpo.
+Cancelar y regresar a la pantalla del juego.
+NO HAY ERRORES
+ERROR
+Visual
+Audit.
+Motor
+MAPA
+MAPA
+MISIÓN
+MISIÓN
+OBJETO
+OBJETO
+ARMAS
+ARMAS
+MEJORAS
+MEJORAS
+DATOS
+DATOS
+SISTEMA
+SISTEMA
+RED
+RED
+PUNTO DE ACCESO
+PUNTO DE ACCESO
+ESTADÍSTICAS
+ESTADÍSTICAS
+Ver el mapa o guardar rápido.
+Confirmar detalles y objetivos de misión.
+Ver y usar los objetos de tu inventario.
+Cambiar arma equipada.
+Fijar habilidades especiales de pod o jugador.
+Ver datos diversos.
+Cargar o guardar partida o cambiar configuración.
+Guardado rápido
+Modo mapa
+Leyenda
+Guardando...
+La función de guardado se ha desactivada.
+No puedes guardar ahora.
+Guarda el progreso actual.
+Ver el mapa con más detalle.
+Ver una lista de iconos usados en el mapa.
+Misiones activ.
+Misiones: todas
+Misiones compl.
+Misiones impos.
+Ver las misiones en curso.
+Ver todas las misiones aceptadas.
+Ver las misiones completadas.
+Ver las misiones que no se pueden completar.
+Chips de ampliación
+Programas de pod
+Esta función no puede utilizarse en este momento.
+Instala chips de ampliación para mejorar func.
+Fija las capacidades especiales del pod.
+Armas
+Conjunto de armas 1
+Conjunto de armas 1
+Conjunto de armas 2
+Conjunto de armas 2
+Ver todas las armas que posees.
+Cambiar las armas del conjunto de armas 1.
+Cambiar las armas del conjunto de armas 2.
+Selecciona qué arma quieres equipar.
+Selecciona qué punto quieres equipar.
+Cambia tu arma ligera.
+Cambia tu arma pesada.
+Archivos
+Datos de la unidad
+Tutoriales
+Historias de armas
+Libros de ilus.
+Encic. de pesca
+Novela
+Ver los archivos de información.
+Ver información de unidades y enemigos hallados.
+Ver los tutoriales aparecidos en el juego.
+Ver historias de armas.
+Ver libros de ilustraciones.
+Ver información sobre capturas de pesca.
+Ver la novela.
+Configuración
+Guardar
+Volver a la pantalla de título
+Controles
+Red
+Cargar
+Estadísticas de juego
+Salir del juego
+Configura varios ajustes.
+Guarda el progreso actual.
+Volver a la pantalla de título.
+Selecciona los controles y personaliza los botones.
+Cambiar ajustes de red.
+Carga partidas guardadas.
+Ver estadísticas de juego.
+Cierra el juego y vuelve al escritorio.
+Funciones de red
+Fijar mensaje muerte
+Editar mensaje de muerte
+Activar/Desactivar funciones de red.
+Activar habilidad de dejar mensajes tras muerte.
+Cambiar el mensaje dejado tras muerte.
+Transporte
+Buzón de entrada
+Archivos adjuntos
+Infor. de cuerpo en línea
+Seleccionar capítulo
+Arcade
+Seleccionar destino de transporte.
+Viajar a otro terminal de acceso.
+Ver los mensajes recibidos.
+Añadir o quitar archivos adjuntos.
+Ver información sobre tu cuerpo en línea.
+Seleccionar capítulo e iniciar partida.
+Juega a juegos de pirateo que ya te has pasado.
+No puedes salir del área de la misión.
+No se han recibido mensajes.
+No disponible debido a interferencias de radio.
+Las transferencias no se permiten en este momento.
+«No me apetece ir allí ahora mismo».
+ARCADE
+ARCADE
+Modo Desafío
+Entrenamiento
+Supera tantos pirateos como puedas.
+Juega a pirateos ya superados.
+Selecciona una fase para jugar.
+Objetos recogidos
+Número de muertes
+Enemigos derrotados
+Objetos usados
+Pirateos completados
+Misiones sec. de androides
+Misiones sec. de máquinas
+Estas son tus estadísticas de juego.
+Dif.
+Personaje
+Resor. (P)
+Bípedo (M)
+Multipata (M)
+Volad. (P)
+Volad. (M)
+Bípedo (G)
+Bípedo (P)
+Cuadrúp. (M)
+Revés (G)
+Multipata
+Enlace esfér.
+Esfera (P)
+Cuerpos reunidos
+Cuerpos cargados
+Oraciones recibidas
+Cuerpos reunidos
+Cuerpos reparados
+Cuerpos dañados
+Muertes por corrupción
+Cuerpos infectados
+Cuer. infectad. sometidos
+Terminar
+Terminar de introducir el mensaje.
+Selecciona un punto para editar.
+Elige una frase para introducir.
+Elige una conjunción para introducir.
+Elige tu ubicación.
+Espíritu de fuego
+Objetos preciados
+Parricidio
+El rey amable
+Bajo el mar
+Motivo para vivir
+Juntos
+Recuerdos bélicos
+Registro de Pearl Harbor
+YoRHa: artillero 16
+YoRHa: escaneador 21
+YoRHa: atacante 4
+YoRHa: atacante 2
+Resistencia: Rose
+Resistencia: Anémona
+Resumen de Pearl Harbor
+Recuerdos
+Recuerd. de una cantante
+Recuerdos Devola y Popola
+Recuerdos de 9S
+Anémona: encuentro
+Anémona: acuerdo
+Anémona: separación
+Carta al Rey del Bosque
+Plan de fuga de 11B
+Receta bomba de Pirada
+Registros de la máquina
+Índice de la biblioteca
+Reg. del servidor humano
+Sistema de la torre
+Reg. médico paciente clase 1
+[Secreto] Proyecto YoRHa
+[Secreto] Caja negra
+[Secreto] Modelo Nº 2
+[Secreto] Purga YoRHa
+Folleto tienda de armas
+Recuerdos de Engels
+Engels 0005 Reg. 110-B
+Engels 0010 Reg. 110-B
+Engels 0020 Reg. 110-B
+Recuerdos infante mecánico
+Datos en el servidor
+Reg. de envío
+Reg. almacén cuerpos YoRHa
+Concilio/Proyecto YoRHa
+Testamento de robot pío
+Registro de máquina bestial
+Infor. del mundo antiguo
+Fáb. abandonada: nota
+Cartel cafetería
+Periódico
+Boleto de lotería sucio
+Folleto destrozado
+Folleto podrido
+Muñeca rara
+Boletín
+Papel sobre vehículo
+DVD
+Folleto de tienda
+Manual de armas nucleares
+Litografía misteriosa 1
+Litografía misteriosa 2
+Litografía misteriosa 3
+Litografía misteriosa 4
+Inf. proyecto Gestalt 1
+Inf. proyecto Gestalt 2
+Inf. proyecto Gestalt 3
+Inf. proyecto Gestalt 4
+Inf. proyecto Gestalt 5
+Inf. proyecto Gestalt 6
+Inf. proyecto Gestalt 7
+Inf. proyecto Gestalt 8
+Inf. proyecto Gestalt 9
+Inf. proyecto Gestalt 10
+Inf. proyecto Gestalt 11
+Forma de vida mecánica
+Pod A
+Pod A
+Pod B
+Pod B
+Pod C
+Pod C
+Gatling
+Gatling
+Láser
+Láser
+Misil
+Misil
+POD-040 a
+POD-040 b
+POD-040 c
+POD-041 a
+POD-041 b
+POD-041 c
+POD-042 a
+POD-042 b
+POD-042 c
+POD-043 a
+POD-043 b
+POD-043 c
+POD-044 a
+POD-044 b
+POD-044 c
+POD-150 a
+POD-150 b
+POD-150 c
+POD-151 a
+POD-151 b
+POD-151 c
+POD-152 a
+POD-152 b
+POD-152 b
+POD-153 a
+POD-153 b
+POD-153 c
+POD-154 a
+POD-154 b
+POD-154 c
+Recuperador v1
+Recuperador v1
+Recuperador v2
+Recuperador v2
+Recuperador v3
+Recuperador v3
+Recuperador v4
+Recuperador v4
+Bálsamo aislante
+Bálsamo aislante
+Cura visual
+Cura visual
+Cura auditiva
+Cura auditiva
+Curar manipul.
+Curar manipul.
+Cura todo estado
+Cura todo estado
+Cura y sana todo
+Cura y sana todo
+Atq. físico v1
+Atq. físico v1
+Atq. físico v2
+Atq. físico v2
+Atq. distancia v1
+Atq. distancia v1
+Atq. distancia v2
+Atq. distancia v2
+Def. física v1
+Def. física v1
+Def. física v2
+Def. física v2
+Def. distancia v1
+Def. distancia v1
+Def. distancia v2
+Def. distancia v2
+Refrigeración v1
+Refrigeración v1
+Refrigeración v2
+Refrigeración v2
+Anclaje v1
+Anclaje v1
+Anclaje v2
+Anclaje v2
+Bálsamo vel. v1
+Bálsamo vel. v1
+Bálsamo vel. v2
+Bálsamo vel. v2
+Bebida de Popola
+Bebida de Popola
+Cebo animal
+Cebo animal
+Amuleto v1
+Amuleto v1
+Amuleto v2
+Amuleto v2
+Droga E
+Droga E
+Piel de bestia
+Carne jabalí
+Carne alce
+Carne jabalí bl.
+Carne alce bl.
+Tornillo prís.
+Tornillo orig.
+Engranaje peq.
+Engranaje gra.
+Pila de óxido
+Fragm. meteor.
+Aleac. titanio
+Aleac. memoria
+Llave rota
+Batería rota
+Batería grande
+Cable cortado
+Cable prístino
+Tornillo nuevo
+Tuerca limpia
+Brazo mecánico
+Pierna mecánica
+Torso mecánico
+Cabeza mecànica
+Disp. sencillo
+Disp. elab.
+Disp. complejo
+Potenciador v1
+Potenciador v2
+Potenciador v3
+Chip vacío
+Mineral cobre
+Mineral hierro
+Mineral plata
+Mineral oro
+Placa abollada
+Semilla planta
+Savia
+Agua pura
+Semilla árbol
+Rosa desierto
+Seta
+Libro roto
+Aceite máquina
+Curtidor
+Metal de aporte
+Tintes
+Pirita
+Ámbar
+Goma natural
+Tornillo oxid.
+Perno aplast.
+Huevo gigante
+Huevos águila
+Perla negra
+Pendiente roto
+Brazalete soso
+Enchufe fuerte
+Cable torcido
+Cable estirado
+Enchufe defor.
+Circuito roto
+Cristal
+Gargant. linda
+Máscara antig.
+Pendientes bonitos
+Manual técnico
+Diccion. gordo
+Perla
+Moldavita
+Meteorito
+Núcleo máquina
+Carta para Sartre
+Carta para Jean-Paul
+Cristal hermoso
+Fósil mecánico
+Carta de Sartre
+Carta de Jean-Paul
+Chip de memoria
+Diario de hombre
+Chip de datos A
+Chip de datos B
+Chip de datos C
+Chip de datos D
+Chip de datos E
+Chapa oxidada
+Chapa sucia
+Chapa dañada
+Chapa con sangre
+Caja música oxid.
+Foto del desierto
+Foto del parque
+Foto del bosque
+Paquete
+Juguete roto
+Libro de cuentas
+Zapato pequeño
+Cable 3 colores
+Cable 4 colores
+Cable 5 colores
+Cepillo dental
+Cosméticos
+Prod. dietéticos
+Lápiz
+Diario médico
+Clave acc. bosque
+Clave acc. océano
+Clave acc. parque
+Pieza de máquina
+Sello
+Tarjeta de sellos
+Palo viejo
+Tab. mandamientos
+Máscara sucia
+Estatua de chica
+Material juguete
+Elem. almacenaje
+Chip de amp.
+Corteza rígida
+Tarjeta miembro
+Bolsa sucia
+Llave ascensor
+Libro: «Pensées»
+Filtro combust.
+Aceite viscoso
+Vale regalo
+Zurrón
+Zurrón bueno
+Zurrón de calidad
+Sonido 1
+Sonido 2
+Sonido 3
+Sonido 4
+Sonido 5
+Módulo de atuendo
+Armadura pesada A
+Armadura pesada B
+Máscara máquina
+Cabeza de Emil
+Lágrima lunar
+Máscara de Emil
+Gafas de Adán
+Máscara alieníg.
+Pod consola
+Grimoire Weiss
+Pod caja
+Pod blanquiazul
+Pod retro rojo
+Pod retro blanco
+Pod retro negro
+Pod retro gris
+Pod retro morado
+Valve: ojo izqdo.
+Valve: ojo dcho.
+Valve: ambos ojos
+Valve: cabeza
+Peluca de A2
+Gafas de camuflaje
+Lazo rosa
+Lazo azul
+Núcleo de Pascal
+Núcleos de niños
+Libro de Pascal
+Cabeza de amazarashi
+Restaura el 25 %\nde los PV.
+Restaura el 50 %\nde los PV.
+Restaura el 75 %\nde los PV.
+Restaura el 100 %\nde los PV.
+Anula ataques eléctricos\ndurante 30 segundos.
+Cura estados alterados\nvisuales.
+Cura estados alterados\nauditivos.
+Cura anomalías de\ncontrol.
+Cura todos los estados\nalterados.
+Cura el 100 % de los PV\ny todos los estados\nalterados.
+Los ataques de armas\ncausan daño doble durante\n15 segundos.
+Los ataques de armas\ncausan daño doble durante\n30 segundos.
+Los ataques de\nproyectiles de pod\ncausan daño doble\ndurante 15 segundos.
+Los ataques de\nproyectiles de pod\ncausan daño doble\ndurante 30 segundos.
+El daño físico sufrido\nse reduce un 50 %\ndurante 15 segundos.
+El daño físico sufrido\nse reduce un 50 %\ndurante 30 segundos.
+El daño de proyectiles\nsufrido se reduce un 50 %\ndurante 15 segundos.
+El daño de proyectiles\nsufrido se reduce un 50 %\ndurante 30 segundos.
+El indicador de programa\nse rellena el doble\nde rápido durante\n15 segundos.
+El indicador de programa\nse rellena el doble\nde rápido durante\n30 segundos.
+Evita recular ante\nun ataque durante\n15 segundos.
+Evita recular ante\nun ataque durante\n30 segundos.
+Aumenta la velocidad\nde movimiento durante\n15 segundos.
+Aumenta la velocidad\nde movimiento durante\n30 segundos.
+Aumenta el poder de \nataques con arma un 50 %\ndurante 30 segundos.\nRestaura el 100 % de PV.
+Dáselo a un animal\npara que te deje\nmontarlo.
+Los enemigos sueltan\nmás dinero durante\n30 segundos.
+Los enemigos sueltan\nmás dinero durante\n60 segundos.
+Interrumpe la información\nvisual y auditiva durante\n30 segundos y genera\nefectos aleatorios.
+Piel obtenida de\nun animal salvaje.
+Carne obtenida de un jabalí. \nPuede venderse.
+Carne obtenida de un alce.\nPuede venderse.
+Carne de un jabalí blanco\nsalvaje. Puede venderse.
+Carne de un alce blanco\nsalvaje. Puede venderse.
+Tornillo gastado\ne inútil.
+Un tornillo nuevo.
+Un engranaje pequeño\npara algo.
+Un engranaje grande\npara algo.
+Mineral gastado y\noxidado.
+Trozo de meteorito\nque cayó a la Tierra.
+Aleación compuesta de\nmetales raros.
+Aleación compuesta de\nmetales raros.
+Llave de cuerda \nrota e inútil.
+Batería rota e inútil.
+Batería de larga\nduración.
+Cable cortado e inútil.
+Un cable nuevo.
+Un perno nuevo.
+Una tuerca nueva.
+Brazo de una forma\nde vida mecánica.
+Pierna de una forma\nde vida mecánica.
+Torso de una forma\nde vida mecánica.
+Cabeza de una forma\nde vida mecánica.
+Un artilugio tan simple\nque no sabes para qué\nsirve.
+Un artilugio tan\ndetallado que no sabes\npara qué sirve.
+Un artilugio tan complejo\nque no sabes para qué\nsirve.
+Usa esto para fortalecer\ntu pod un poco.
+Usa esto para fortalecer\ntu pod.
+Usa esto para fortalecer\ntu pod mucho.
+Un chip que no tiene\nnada guardado.
+Mineral con cobre.\nSe suele extraer pero,\npor alguna razón,\nestá por todas partes.
+Mineral con hierro.\nPuede extraerse hierro\nde él al calentarlo en un\nhorno a 2000 °C.
+Mineral con plata.\nAntaño, se usaba la plata\ncontra los demonios, pero\nno afecta a las máquinas.
+Mineral con oro.\nLos humanos apreciaban\nmucho el oro, pero es\ninútil para las máquinas.
+Placa de metal\nmuy dentada.
+Semilla de una planta.\nParece difícil de\ncultivar.
+Sustancia pegajosa\nque segregan los tocones\nde los árboles.
+Agua pura y cristalina.
+Semilla caída de\nun árbol.
+Rosa crecida en el desierto.\nPuede venderse.
+Hongo que crece en las\nraíces de los árboles.
+Libro demasiado gastado\npara leerlo.
+Aceite que gotea de\nmáquinas.
+Compuesto utilizado al\nproducir cuero.
+Metal usado para soldar.
+Líquido para tintar.
+Mineral que suelta\nchispas al golpearlo.
+Mineral.\nUna joya semitraslúcida\ncreada a partir\nde savia petrificada.
+Sustancia elástica que\nprocede de las plantas.
+Tuerca gastada y oxidada.
+Un perno aplastado.
+Muy grande para un pollo.
+Huevos de águila.
+Perla enorme con\nun brillo negro.\nExtremadamente rara.
+Pendiente usado por\nlos humanos. Puede venderse.
+Brazalete usado por\nlos humanos. Puede venderse.
+Toma de corriente para\nun enchufe.
+Alambre completamente\nretorcido.
+Una bobina estirada\ne inútil.
+Un enchufe deforme\ne inútil.
+Un circuito roto\ne inútil.
+Mineral cristalino\napiñado.
+Gargantilla usada por\nlos humanos. Puede venderse.
+Vieja máscara abandonada\npor una forma de vida mecánica.\nPuede venderse.
+Pendientes usados por\nlos humanos. Puede venderse.
+Manual técnico escrito\ncon unas letras que\nno comprendes.
+Libro gordo que podría\nser un diccionario.
+Perla con un brillo\nresplandeciente.
+Mineral. Una hermosa\njoya verde.
+Mineral. Un pedazo de\nmeteorito caído del\nespacio exterior.
+Pieza obtenida de\nuna forma de vida\nmecánica especial.\nSe cambia por dinero.
+Una carta dirigida a\nSartre que parece\ncontener una pregunta.\nNo deberías leerla.
+Una carta dirigida a\nJean-Paul que parece\ncontener una pregunta.\nNo deberías leerla.
+Hermoso vidrio pulido\ndestinado a Sartre.
+Hermoso vidrio pulido\ndestinado a Jean-Paul.
+Un viejo fósil mecánico\noxidado destinado\na Sartre.
+Un viejo fósil mecánico\noxidado destinado\na Jean-Paul.
+Carta de Sartre. Dice: \n«Parto para buscar la \nverdad del mundo. \n¡Tira esa basura!».
+Carta de Jean-Paul. Dice: \n«Parto para buscar la \nverdad del mundo. \n¡Tira esa basura!».
+Chip de memoria cubierto\nde sangre de una máquina.\nDice que la Resistencia\ndestruyó a sus aliados.
+Un diario abandonado por\nun hombre. Contiene\npensamientos sobre sus\ncamaradas caídos.
+Chip que contiene datos\nsobre A2. Está muy dañado\ny no hay mucho que\nanalizar.
+Chip que contiene datos\nsobre A2. Está muy dañado\ny no hay mucho que\nanalizar.
+Chip que contiene datos\nsobre A2. Está muy dañado\ny no hay mucho que\nanalizar.
+Chip que contiene datos\nsobre A2. Está muy dañado\ny no hay mucho que\nanalizar.
+Chip que contiene datos\nsobre A2. Está muy dañado\ny no hay mucho que\nanalizar.
+Chapas de identificación\nde un miembro de\nla Resistencia.
+Chapas de identificación\nde un miembro de\nla Resistencia.
+Chapas de identificación\nde un miembro de\nla Resistencia.
+Chapas de identificación\nde un miembro de\nla Resistencia.
+Caja de música oxidada\nque ya no suena.
+Foto restaurada. Ahora la\nimagen se aprecia mejor.
+Foto restaurada. Ahora la\nimagen se aprecia mejor.
+Foto restaurada. Ahora la\nimagen se aprecia mejor.
+Un paquete guardado en\nel almacén de materiales\nde la Resistencia.\nContenido desconocido.
+Este juguete roto creado\npor los humanos ya no\nfunciona.
+Un libro que los humanos\nusaban para registrar\nlas finanzas familiares.
+Un pequeño zapato que\nse cree que llevó una\nniña humana.
+Un cable con tres\nconectores coloreados.\nSirve para crear juegos.
+Un cable con cuatro\nconectores coloreados.\nSirve para crear juegos.
+Un cable con cinco\nconectores coloreados.\nSirve para crear juegos.
+Una herramienta con la\nque los humanos se\nlavaban los dientes.\nPreviene las caries.
+Un objeto cosmético\nque los humanos usaban\npara pintar sus labios\ncon fines estéticos.
+Los humanos usaban eso\npara reducir la grasa\ngenerada al ingerir más\nenergía de la necesaria.
+Una herramienta de\nregistro. Se dice que\npodía escribir todos los\nlos versos del mundo.
+Un libro de medicamentos\npara organismos vivos\nque ya estaba en la\nbase de datos.
+Desbloquea una\nsubunidad de torre\nen el reino del bosque.
+Desbloquea una\nsubunidad de torre\nen la ciudad inundada.
+Desbloquea una\nsubunidad de torre\nen el parque de\natracciones.
+Pieza de una forma de\nvida mecánica.
+Un sello del parque de\natracciones.
+Una tarjeta empleada para\ncoleccionar sellos del\nparque de atracciones.
+Un palo de función\ndesconocida.
+Una losa con las leyes\nde un país antiguo\nescritas sobre ella.\nMuchas no tienen sentido.
+Máscara de piedra.\nTan sucia como\npesada.
+Una estatua con la forma\nde una jovencita.
+Materiales necesarios\npara fabricar juguetes.
+Indispensable para\nrecuperar la memoria de\nuna forma de vida mecán.
+Chip de ampliación con\ninformación confidencial.
+Se obtiene de una planta\ncon la corteza dura.\nIndispensable para crear\nun filtro de combustible.
+Da al portador acceso\na la zona de apuestas.
+Una bolsa perdida de\nla Resistencia.
+Desbloquea el ascensor\ndel centro comercial.
+Libro de filosofía que te \ndio Anémona. El título \nsignifica «pensamientos» \nen otro idioma.
+Un filtro empleado por\nlos androides para\nrefinar combustible.
+Aceite de alta viscosidad\nusado por las formas\nde vida mecánicas.
+Se puede cambiar por un\nobjeto en una tienda.
+Una bolsita que emite un\nolor para los animales.\nEvita que escapen al\nacercarte.
+Una bolsita que emite un\nolor para los animales.\nTe permite montar en\nellos cuando quieras.
+Una bolsita que emite un\nolor para los animales.\nHace que se te acerquen\ny esperen.
+Escucha música agradable\nen el tocadiscos.\nParte 1 de 5.
+Desbloquea más música en\nel tocadiscos. Parte 2\nde 5 temas increíbles.
+Desbloquea más música en\nel tocadiscos. Parte 3\nde 5 temas muy\nsolicitados.
+Desbloquea más música en\nel tocadiscos. Parte 4\nde 5 temas muy\nesperados.
+Desbloquea más música en\nel tocadiscos. La última\nparte de la mejor banda\nsonora de la historia.
+Úsalo para cambiar de\ntraje. Recibir daños\nno hará que pierdas\nla ropa.
+[Equipo]\nArmadura protectora\nde las tropas YoRHa.\n2B puede equipársela.
+[Equipo]\nArmadura protectora\nde las tropas YoRHa.\n2B puede equipársela.
+[Accesorio]\nCobertura de cabeza\nde las formas de vida\nmecánicas.
+[Accesorio]\nEsta cobertura de cabeza\npertenece a Emil.
+[Accesorio]\nEmil te dio esta\nlágrima lunar.
+[Accesorio]\nMáscara que se parece\na Emil.
+[Accesorio]\nLas gafas de Adán.\nEquípalas para sentirte\nmás inteligente.
+[Accesorio]\nLa máscara de\nun rostro alienígena.
+[Aspecto de pod]\nCon forma de\nelectrodoméstico vital\npara la supervivencia.
+[Modelo de pod]\nDispositivo de gran\ncapacidad usado en el\nproyecto Gestalt.
+[Aspecto de pod]\nCon forma de caja muy\nrobusta para transportar\nbienes en la jungla.
+[Aspecto de pod]\nRayas blancas y azules\ncon un toque de rosa.\nComún en el lejano este.
+[Aspecto de pod]\nUna apariencia de pod\nretro parecida a un viejo\ndispositivo del este.
+[Aspecto de pod]\nConfiere a tu pod el\naspecto de un dispositivo\nlúdico indestructible.
+[Aspecto de pod]\nUna apariencia de 16 bits\ncon megaalmacenamiento.
+[Aspecto de pod]\nUn patrón cuatricolor muy\nnostálgico sobre un fondo\ngris.
+[Aspecto de pod]\nApariencia morada, cuna\nde esperanzas y sueños\nde millones de niños.
+[Accesorio]\nAccesorio en forma de\nválvula. Usar solo en\nel ojo izquierdo.
+[Accesorio]\nAccesorio en forma de\nválvula. Usar solo en\nel ojo derecho.
+[Accesorio]\nAccesorio en forma de\nválvula. Puede equiparse\nen ambos ojos.
+[Accesorio]\nAccesorio en forma de\nválvula. Puede equiparse\nen la cabeza.
+[Accesorio]\nUna peluca de pelo largo\npara A2.
+[Accesorio]\nUnas gafas de camuflaje\ntan bien hechas que\nson invisibles.
+[Accesorio]\nUn moderno lazo rosa.\nLo llevan androides\nde todas las edades.
+[Accesorio]\nUn elegante lazo azul.\nVa bien con chaquetas.
+Núcleo de forma de vida\nmecánica que contiene una\ngran cantidad de datos.\nSe cambia por dinero.
+Núcleos de niños de la aldea \nde Pascal. Está claro que eran \nqueridos por los aldeanos. \nPuede venderse.
+Libro sobre la vida y la muerte. \nEstaba fuera de la casa de \nPascal, se ve que está muy \nusado. Puede venderse.
++8 almacenamiento
++8 almacenamiento
++8 almacenamiento
++8 almacenamiento
++16 almacenamiento
++16 almacenamiento
++24 almacenamiento
+Aumenta la cap. del\nchip de amp. en 8.
+Aumenta la cap. del\nchip de amp. en 8.
+Aumenta la cap. del\nchip de amp. en 8.
+Aumenta la cap. del\nchip de amp. en 8.
+Aumenta la cap. del\nchip de amp. en 16.
+Aumenta la cap. del\nchip de amp. en 16.
+Aumenta la cap. del\nchip de amp. en 24.
+Todos los objetos
+Objetos de restauración
+Objetos de mejora
+Objetos de apoyo
+Materiales
+Objetos clave
+Capturas de pesca
+Ver todos los objetos.
+Ver todos los objetos curativos.
+Ver todos los objetos de mejora.
+Ver todos los objetos de apoyo.
+Ver todos los materiales.
+Ver todos los objetos importantes.
+Ver capturas de pesca.
+Todas
+Espadas pequeñas
+Espadones
+Lanzas
+Brazales de combate
+Puños desnudos
+Puños desnudos
+Fe
+Fe
+Tubería de hierro
+Tubería de hierro
+Azote de bestias
+Azote de bestias
+Daga fénix
+Daga fénix
+Señor antiguo
+Señor antiguo
+Espada tipo 4O
+Espada tipo 4O
+Espada tipo 3
+Espada tipo 3
+Contrato virtuoso
+Contrato virtuoso
+Juramento cruel
+Juramento cruel
+Hoja de YoRHa
+Hoja de YoRHa
+Espada mecánica
+Espada mecánica
+Voluntad férrea
+Voluntad férrea
+Colmillo gemelas
+Colmillo gemelas
+Señor de bestias
+Señor de bestias
+Espada fénix
+Espada fénix
+Hoja tipo 4O
+Hoja tipo 4O
+Hoja tipo 3
+Hoja tipo 3
+Tratado virtuoso
+Tratado virtuoso
+Jur. sangre cruel
+Jur. sangre cruel
+Hacha mecánica
+Hacha mecánica
+Lanza fénix
+Lanza fénix
+Maldición bestial
+Maldición bestial
+Lanza dracónica
+Lanza dracónica
+Lanza del usurpador
+Lanza del usurpador
+Lanza tipo 4O
+Lanza tipo 4O
+Lanza tipo 3
+Lanza tipo 3
+Dignidad virtuosa
+Dignidad virtuosa
+Arrogancia cruel
+Arrogancia cruel
+Lanza mecánica
+Lanza mecánica
+Locura angélica
+Locura angélica
+Grito de demonio
+Grito de demonio
+Puños tipo 4O
+Puños tipo 4O
+Puños tipo 3
+Puños tipo 3
+Pesar virtuoso
+Pesar virtuoso
+Lamento cruel
+Lamento cruel
+Cabezas mecán.
+Cabezas mecán.
+Ex Machina
+Ex Machina
+Porra de ciprés
+Porra de ciprés
+Cabezas de Emil
+Cabezas de Emil
+Los puños de androide son armas pasables, pero es\ndifícil golpear bien a una forma vida mecánica.
+Una hoja de un asistente que amaba a su señor. Es\nrecta como su lealtad y aún cumple su cometido.
+Una tubería de hierro oxidada y cubierta con\nfluidos vitales de formas de vida mecánicas.
+Una espada decorada con un diseño animal.\nCorta y fina, pasa desapercibida.
+Instrumento ceremonial supuestamente hecho\nde plumas de fénix. No se ha probado en combate.
+Hace mucho, un señor cruel usó esta espada\nen sus súbditos para intentar volverse inmortal.
+Hoja avanzada entregada a la élite de YoRHa\nen el frente. Su poder aumenta con su carga.
+Vieja espada de YoRHa confiada a los veteranos.\nNo es el último modelo, pero es efectiva.
+Espada blanca como las de los antiguos\nsamuráis. Llamativa, pero la hoja es de calidad.
+Espada oriental negra de guerrero. Su diseño\nsin adornos le da un aura de sobriedad.
+Esta espada común es el arma estándar de\nlas tropas YoRHa.
+Espada improvisada utilizada por formas de vida\nmecánicas. Parece chatarra, pero cumple.
+La hoja está roma. Su poder procede de su masa.\n¿Huele a hierro o es sangre humana?
+Hacha gigante maldita, ungida con la sangre de\ngemelos inocentes para aplacar la ira divina.
+Espada con un diseño bestial capaz de rajar a\nquien desafíe la autoridad de su portador.
+Espada supuestamente hecha de plumas de fénix para\nguardias de templos. No se ha probado en combate.
+Arma avanzada de YoRHa diseñada para derrotar\nmáquinas gigantes. Su poder aumenta al cargarla.
+Modelo viejo y duradero de YoRHa, usada durante\nmucho tiempo e ideal para destruir máquinas.
+La hoja blanca de esta espada de samurái aún\nno se ha visto manchada de sangre.
+La sangre de años de conflicto ha ennegrecido\nesta espada de guerrero.
+Aunque está hecha a partir de chatarra, esta hacha\nde las máquinas tiene una potencia aterradora.
+Esta lanza decorativa portada por monjes está\nhecha, supuestamente, de plumas de fénix.
+Lanza decorada con diseños animales usada\npor un señor para acabar con una rebelión.
+Lanza que simboliza el pacto entre un gran\nguerrero y un dragón antiguo.
+El doble de un príncipe usó esta lanza para\nacabar con él... y compartió su mismo destino.
+Los guardias de los comandantes YoRHa portan esta\nlanza avanzada. Su poder aumenta al cargarse.
+Una vieja lanza YoRHa que imita el armamento\nhumano antiguo. Anticuada, pero fiable.
+Esta lanza blanca brilla con el orgullo del\nsamurái que una vez la empuñó.
+Su punta negra brilla con la crueldad de un\nguerrero despiadado.
+Lanza de formas de vida mecánicas, fabricada con\nchatarra especialmente para destruir androides.
+Arma fabricada en un lugar desconocido que se\nasemeja a las alas de los ángeles.
+Arma fabricada en reinos ocultos que se asemeja\na los colmillos de los demonios.
+Estas nudilleras de YoRHa, usadas por primera vez\nen el 11940 d. C. ganan potencia con la energía.
+Estas viejas armas YoRHa tienen un mecanismo\ntosco pero fiable que da golpes explosivos.
+Guantelete blanco de samurái impoluto.\nSu dueño nunca llegó a ver un combate.
+Guantelete de samurái de un infame y cruel\ncomandante, ennegrecido por la sangre.
+Arma de puño hecha con una cabeza de máquina.\nSencilla, pero potente por su masa.
+Una espada siempre mejorada y transmitida entre \nla realeza de un país donde la magia prospera.
+Un palo de madera de ciprés. No es un arma,\npero de alguna forma aporta coraje a su usuario.
+Armas con forma de la cabeza de Emil,\nde un elemento desconocido único.
+Sin armas.
+La espada de un\nfiel servidor.
+Una tubería de hierro.
+Una espada con motivo\ndel rey de las bestias.
+Un objeto ritual hecho\nde pluma de fénix.
+Una espada con un aura\nextraña e incómoda.
+Último modelo de YoRHa.
+Modelo YoRHa antiguo.
+Espada blanca de\nlos samuráis del este.
+Espada negra de\nlos guerreros del este.
+Una espada de\nYoRHa estándar.
+Espada de formas\nde vida mecánicas.
+Colosal hoja de hierro.
+Ofrenda divina de\nhacha colosal.
+Un espadón con forma\ndel rey de las bestias.
+Un espadón hecho de\npluma de fénix.
+Último modelo de YoRHa.
+Modelo YoRHa antiguo.
+Katana blanca de\nlos samuráis del este.
+Katana negra de los\nmonjes del este.
+Hacha de formas\nde vida mecánicas.
+Una lanza hecha de\npluma de fénix.
+Una lanza con motivo\ndel rey de las bestias.
+Símbolo del vínculo de\nun señor con un dragón.
+Lanza que el doble\nde un príncipe usó.
+Último modelo de YoRHa.
+Modelo YoRHa antiguo.
+Una lanza blanca de\nlos samuráis del este.
+Lanza negra de monjes\nguerreros del este.
+Lanza de formas de\nvida mecánicas.
+Armas basadas en las\nalas de un ángel.
+Armas basadas en\ncolmillos de demonio.
+Último modelo de YoRHa.
+Modelo YoRHa antiguo.
+Armas hechas de armad.\nblanca del este.
+Armas hechas de armad.\nnegra del este.
+Armas de cabeza de\nforma de vida mecánica.
+Una espada mágica usada\npor una familia real.
+Un palo de madera\nde ciprés.
+Armas con forma\nde la cabeza de Emil.
+Hab. esp.
+Crítico +
+Aturdir +
+Vel. atq. +
+Res. +
+Descuento
+Desc. de robot
+Absorber balas
+Aturdir alto
+Grito bestia
+Fulgor fénix
+Ruptura balas
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Carga pod
+Marca máquina
+Esp. acero
+Ruptura balas
+Grito bestia
+Fulgor fénix
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Marca máquina
+Fulgor fénix
+Grito bestia
+Alas dragón
+Renegado
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Marca máquina
+Piedad divina
+Odio demoníaco
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Marca máquina
+Esquivar
+Sello héroe
+Locura
+Añade efecto de golpe crítico.
+Mejora valor de aturdimiento contra enemigos.
+Aumenta la velocidad de ataque.
+Aumenta la defensa del jugador.
+Da un descuento en tiendas de la Resistencia.
+Da un descuento en tienda de máquinas.
+Atravesar proyectiles restaura PV.
+Da alta probabilidad de aturdir a enemigos.
+Da efecto de ataque bestial a corto alcance.
+Prob. de restaurar PV al dañar enemigos.
+Da onda expansiva al golpear proyectiles.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Reduce recuperación de programa al atacar.
+Daño aumenta al derrotar enemigos (máx. 500).
+Menor probabilidad de recular ante ataques.
+Da onda expansiva al golpear proyectiles.
+Da efecto de ataque bestial a corto alcance.
+Prob. de restaurar PV al dañar enemigos.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Daño aumenta al derrotar enemigos (máx. 500).
+Prob. de restaurar PV al dañar enemigos.
+Da efecto de ataque bestial a corto alcance.
+Aumenta el poder de los ataques aéreos.
+Probabilidad de someter a enemigos al atacar.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Daño aumenta al derrotar enemigos (máx. 500).
+Restaura PV al rematar a enemigos.
+Añade onda expansiva al rematar a enemigos.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Daño aumenta al derrotar enemigos (máx. 500).
+Cambia n.º de daño y movimiento de evasión.
+Cambia n.º de daño y los cofres de tesoro.
+¡Blande esta espada para oír la voz de Emil!
+R010: Láser
+R010: Láser
+R020: Espejismo
+R020: Espejismo
+R030: Martillo
+R030: Martillo
+R040: Espada
+R040: Espada
+R050: Lanza
+R050: Lanza
+R070: Escudo m.
+R070: Escudo m.
+A060: Escudo f.
+A060: Escudo f.
+A080: Ola
+A080: Ola
+A090: Cable
+A090: Cable
+A100: Señuelo
+A100: Señuelo
+A110: Lento
+A110: Lento
+A120: Reparar
+A120: Reparar
+A130: Bomba
+A130: Bomba
+A140: Gravedad
+A140: Gravedad
+A150: Voltio
+A150: Voltio
+A160: Misil
+A160: Misil
+A170: Escáner
+A170: Escáner
+Dispara un potente láser\nhacia donde\nmira el pod.
+Analiza a los enemigos\nen un radio fijo para\nasestar cortes letales\na todos a su alcance.
+Invoca una masa de\nenergía que asesta un\ngolpe devastador.
+Un pod gira muy\nrápido alrededor del\njugador y causa estragos\nal tocar a los enemigos.
+Produce una masa de\nenergía que brota del\nsuelo en forma de\nlanzas mortales.
+Despliega una barrera\nprotectora que bloquea\nataques de proyectiles.
+Despliega una barrera\nprotectora que bloquea\nataques físicos.
+Genera una potente onda\nde choque al golpear\nel pod contra el suelo\ndesde gran altura.
+Dispara un cable hacia\ndonde mira el pod.\nSi acierta al enemigo, lanza\nal combatiente hacia él.
+Crea imagen del usuario\nque distrae al enemigo y\nle dispara con el ataque\na distancia del pod.
+Lanza un disparo que crea\nun campo que distorsiona\nel tiempo, ralentizando a\nlos enemigos cercanos.
+Emite un rayo láser\ntemporal capaz de sanar\na los combatientes que\nestén en contacto con él.
+Escupe una salva de\npequeños explosivos\ndurante un periodo\nde tiempo.
+Libera una explosión que\nabsorbe a los enemigos\ncercanos.
+Electrocuta y apresa a un\nenemigo cercano, lo que\nprovoca daño continuado\ndurante un tiempo.
+Permite a un combatiente\nsubirse a un pod (con\nun control limitado) y\ncargar hacia el combate.
+Usa ondas ultrasónicas\npara emitir un rayo capaz\nde mostrar objetos\ninvisibles cercanos.
+Defensas caídas
+Defensas caídas
+Defensas caídas
+Defensas caídas
+Apoyo de asalto
+Apoyo de asalto
+Recon. fábrica
+Recon. fábrica
+Recon. fábrica
+Recon. fábrica
+Recon. fábrica
+Recon. fábrica
+Destruir Goliath
+Destruir Goliath
+Destruir Goliath
+Destruir Goliath
+Destruir Goliath
+Destruir Goliath
+Destruir Goliath
+Destruir Goliath
+Reiniciar
+Reiniciar
+Reiniciar
+Reiniciar
+Reiniciar
+Reiniciar
+Reunir informac.
+Reunir informac.
+Reunir informac.
+Reunir informac.
+Reunir informac.
+Reunir informac.
+Aumento mecánico
+Aumento mecánico
+Aumento mecánico
+Aumento mecánico
+Aumento mecánico
+Aumento mecánico
+Aumento mecánico
+Aumento mecánico
+Búsqueda YoRHa
+Búsqueda YoRHa
+Búsqueda YoRHa
+Búsqueda YoRHa
+Recon. máquinas
+Recon. máquinas
+Recon. máquinas
+Recon. máquinas
+Petición máquina
+Petición máquina
+Cambio máquina
+Cambio máquina
+Asalto
+Asalto
+Asalto
+Asalto
+Asalto
+Asalto
+Ciudad anegada
+Ciudad anegada
+Ciudad anegada
+Ciudad anegada
+Ciudad anegada
+Ciudad anegada
+Encuentros
+Encuentros
+Informe alieníg.
+Informe alieníg.
+Informe alieníg.
+Informe alieníg.
+Recon. máquinas
+Recon. máquinas
+Recon. máquinas
+Recon. máquinas
+Recon. máquinas
+Recon. máquinas
+Recon. bosque
+Recon. bosque
+Recon. bosque
+Recon. bosque
+Recon. bosque
+Recon. bosque
+Informe sobre A2
+Informe sobre A2
+Reposta
+Reposta
+Recupera misiles
+Recupera misiles
+9S desaparecido
+9S desaparecido
+Androide rojo
+Androide rojo
+Búsqueda YoRHa
+Búsqueda YoRHa
+Busca a 9S
+Busca a 9S
+Busca a 9S
+Busca a 9S
+9S cautivo
+9S cautivo
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Rescata a 2B
+Confesión
+Confesión
+Confirmar misión
+Confirmar misión
+Tratado de paz
+Tratado de paz
+Tratado de paz
+Tratado de paz
+Tratado de paz
+Tratado de paz
+Religión loca
+Religión loca
+Religión loca
+Religión loca
+Religión loca
+Religión loca
+Religión loca
+Religión loca
+Máquinas raras
+Máquinas raras
+Máquinas raras
+Máquinas raras
+Máquinas raras
+Máquinas raras
+Máquinas raras
+Máquinas raras
+Revuelta máquinas
+Revuelta máquinas
+Máquinas raras
+Máquinas raras
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Elimina amenazas
+Convergencia
+Convergencia
+El búnker
+El búnker
+A la guerra
+A la guerra
+A la guerra
+A la guerra
+A la guerra
+A la guerra
+A por las ruinas
+A por las ruinas
+A por las ruinas
+A por las ruinas
+A por las ruinas
+A por las ruinas
+A por las ruinas
+A por las ruinas
+Informe
+Informe
+Derrota
+Derrota
+Derrota
+Derrota
+Derrota
+Derrota
+Derrota
+Derrota
+Destruir máquinas
+Destruir máquinas
+Destruir máquinas
+Destruir máquinas
+Destruir máquinas
+Destruir máquinas
+Mantenimiento
+Mantenimiento
+Una máquina rara
+Una máquina rara
+Ruego de Pascal
+Ruego de Pascal
+Ruego de la aldea
+Ruego de la aldea
+Ruego de la aldea
+Ruego de la aldea
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Aldea en peligro
+Prot. a los niños
+Prot. a los niños
+Prot. a los niños
+Prot. a los niños
+Prot. a los niños
+Prot. a los niños
+Aldea melancólica
+Aldea melancólica
+Investiga torre
+Investiga torre
+Investiga torre
+Investiga torre
+Investiga torre
+Investiga torre
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Recupera NFCS
+Recupera NFCS
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Obtén las llaves
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Entra en la torre
+Al piso superior
+Al piso superior
+Al piso superior
+Al piso superior
+Al piso superior
+Al piso superior
+Batalla final
+Batalla final
+Batalla final
+Batalla final
+Batalla final
+Batalla final
+Batalla final
+Batalla final
+Usar unid. vuelo
+Usar unid. vuelo
+Biblioteca
+Biblioteca
+Ruinas ciudad
+Ruinas ciudad
+El búnker
+El búnker
+Zona desértica
+Zona desértica
+Resid. desierto
+Resid. desierto
+Parque atracc.
+Parque atracc.
+Cast. bosque
+Ciudad sumergida
+Ciudad sumergida
+Fábrica abandonada
+Unid. Recursos
+Unid. Recursos
+La torre
+La torre
+Campamento resistencia
+Campamento resistencia
+Aldea de Pascal
+Aldea de Pascal
+Aldea mecánica
+Aldea mecánica
+Zona boscosa
+Zona boscosa
+Sala depuración
+Centro comercial
+Cueva profunda
+Nave alienígena
+Ciudad copiada
+Ciudad copiada
+Mazmorra oculta
+Resid. de Emil
+Sala nostálgica
+¿?
+Área fronteriza
+Cueva de arena
+Complejo residen.
+Caverna
+Plaza principal
+Zona de atracc.
+Teatro
+Bajo el teatro
+Castillo inferior
+Castillo superior
+Aposentos Em.ª
+Zona subterránea
+Caja de carne
+Caja de alma
+Caja de dios
+Sección inferior
+Sección superior
+Cima
+Ascensor
+¿?
+Tienda campamento
+Tienda campamento
+Tienda de Devola
+Tienda de Devola
+Tienda del búnker
+Tienda del búnker
+Tienda de la aldea
+Tienda de la aldea
+Tienda mat. espacio
+Tienda mat. espacio
+Tienda del bosque
+Tienda del bosque
+Tienda del desierto
+Tienda del desierto
+Tienda del oasis
+Tienda del oasis
+Tienda del barranco
+Tienda del barranco
+Tienda herr. fábrica
+Tienda herr. fábrica
+Tienda de Pascal
+Tienda de Pascal
+Tienda parque atrac.
+Tienda parque atrac.
+Tienda de Emil
+Tienda de Emil
+Tienda armas campam.
+Tienda armas campam.
+Tienda armas aldea
+Tienda armas aldea
+Tien. armas castillo
+Tien. armas castillo
+Tienda mejoras corp.
+Tienda mejoras corp.
+Tienda manten. búnker
+Tienda manten. búnker
+Tienda secreta
+Tienda secreta
+Búnker
+Búnker
+Campamento resistencia
+Campamento resistencia
+Ciudad: centro
+Ciudad: centro
+Ciudad: fábrica
+Ciudad: fábrica
+Ciudad: torre
+Ciudad: torre
+Desierto: campamento
+Desierto: campamento
+Desierto: centro
+Desierto: centro
+Desierto: campo petrolífero
+Desierto: campo petrolífero
+Desierto: residencia
+Desierto: residencia
+Parque: zona de atracc.
+Parque: zona de atracc.
+Parque: montaña rusa
+Parque: montaña rusa
+Parque: sobre teatro
+Parque: sobre teatro
+Parque: teatro
+Parque: teatro
+Aldea de Pascal
+Aldea de Pascal
+Bosque: centro
+Bosque: centro
+Castillo: enfrente
+Castillo: enfrente
+Castillo: cámara real
+Castillo: cámara real
+Fábrica: entrada
+Fábrica: entrada
+Fábrica: hangar
+Fábrica: hangar
+Fábrica: horno
+Fábrica: horno
+Ciudad anegada: costa
+Ciudad anegada: costa
+Ciudad: cueva subterránea
+Ciudad: cueva subterránea
+Pascal
+Pascal
+¿?
+¿?
+Ubicación actual
+Destino actual
+Nombre de área
+Tienda de objetos
+Tienda de Emil
+Tienda de armas
+Tienda mantenim.
+Punto de acceso
+Destino actual
+Destino de misión
+Marcador evento
+Marcador person.
+Cuerpo
+Ver área.
+Ver tienda de objetos.
+Ver tienda de Emil.
+Ver tienda de armas.
+Ver tiendas de mantenimiento.
+Ver puntos de acceso.
+Ver destino.
+Ver destino de misión.
+Ver marcadores de evento.
+Ver marcadores personalizados.
+Ver tu cuerpo anterior.
+Nombres de área
+Tiendas de objetos
+Tiendas de Emil
+Tiendas de armas
+Tiendas de mantenimiento
+Puntos de acceso
+Destinos
+Destinos de misión
+Marcadores de evento
+Ver en mapa
+Lista artíc.
+Mostr. icono
+Ocult. icono
+Lista
+Elige el área que quieres ver.
+Elige el objeto que quieres ver.
+Elige la tienda de armas que quieres ver.
+Elige la tienda de mantenimiento que quieres ver.
+Elige el punto de acceso que quieres ver.
+Elige el destino que quieres ver.
+Elige el destino de misión que quieres ver.
+Elige el marcador de evento que quieres ver.
+CARGANDO
+CARGANDO
+CARGANDO
+INICIANDO SISTEMA
+-
+.
+_
+COMPROBANDO SISTEMA
+PIRATEANDO SISTEMA
+PIRATEANDO SISTEMA
+INICIANDO SISTEMA
+GUARDANDO
+Iniciar comprobación del sistema
+Comprobación de la unidad de memoria: verde
+Registro de tácticas: iniciado
+Datos geográficos: carga iniciada
+Comprobación de signos vitales: verde
+Comprobación de MP restante: 100 %
+Temperatura de caja negra: normal
+Presión interna de caja negra: normal
+Activar IFF
+Activar FCS
+Iniciando conexión para transferencia de pod
+Configuración UD
+Activar sistema de control de inercia
+Activar sensor ambiental
+Verificación de equipo: completada
+Comprobación de estado de equipo: verde
+Sistemas: verde
+Preparativos de combate completados
+Código de verificación: modelo S de YoRHa
+Comprobación de signos vitales: verde
+Temperatura de caja negra: normal
+Comprobación de energía restante: 100 %
+Datos geográficos: carga iniciada
+Objetivo adquirido
+Consulta de ruta de infiltración completada
+Activar IFF
+Campo de visión sincronizado
+Nervios conectados
+Tasa de sincronización: 100 %
+Seguridad desbloqueada
+Activación de dispositivo de pirateo completada
+Comprobación de sistema completada
+Signos vitales: verde
+Temperatura de caja negra: normal
+Comprobación de energía restante: 100 %
+Ataque
+Defensa
+Apoyo
+Pirateo
+Sistema
+Ofensiva v0
+Ofensiva v1
+Ofensiva v2
+Ofensiva v3
+Ofensiva v4
+Ofensiva v5
+Ofensiva v6
+Ofensiva v7
+Ofensiva v8
+Derribo v0
+Derribo v1
+Derribo v2
+Derribo v3
+Derribo v4
+Derribo v5
+Derribo v6
+Derribo v7
+Derribo v8
+Crítico v0
+Crítico v1
+Crítico v2
+Crítico v3
+Crítico v4
+Crítico v5
+Crítico v6
+Crítico v7
+Crítico v8
+Balística v0
+Balística v1
+Balística v2
+Balística v3
+Balística v4
+Balística v5
+Balística v6
+Balística v7
+Balística v8
+Enfriamiento v0
+Enfriamiento v1
+Enfriamiento v2
+Enfriamiento v3
+Enfriamiento v4
+Enfriamiento v5
+Enfriamiento v6
+Enfriamiento v7
+Enfriamiento v8
+Escudo v0
+Escudo v1
+Escudo v2
+Escudo v3
+Escudo v4
+Escudo v5
+Escudo v6
+Escudo v7
+Escudo v8
+Antibalas v0
+Antibalas v1
+Antibalas v2
+Antibalas v3
+Antibalas v4
+Antibalas v5
+Antibalas v6
+Antibalas v7
+Antibalas v8
+Blindaje v0
+Blindaje v1
+Blindaje v2
+Blindaje v3
+Blindaje v4
+Blindaje v5
+Blindaje v6
+Blindaje v7
+Blindaje v8
+Vitalidad v0
+Vitalidad v1
+Vitalidad v2
+Vitalidad v3
+Vitalidad v4
+Vitalidad v5
+Vitalidad v6
+Vitalidad v7
+Vitalidad v8
+Metabolizador v0
+Metabolizador v1
+Metabolizador v2
+Metabolizador v3
+Metabolizador v4
+Metabolizador v5
+Metabolizador v6
+Metabolizador v7
+Metabolizador v8
+Cura mortal v0
+Cura mortal v1
+Cura mortal v2
+Cura mortal v3
+Cura mortal v4
+Cura mortal v5
+Cura mortal v6
+Cura mortal v7
+Cura mortal v8
+Autocura v0
+Autocura v1
+Autocura v2
+Autocura v3
+Autocura v4
+Autocura v5
+Autocura v6
+Autocura v7
+Autocura v8
+Evasión v0
+Evasión v1
+Evasión v2
+Evasión v3
+Evasión v4
+Evasión v5
+Evasión v6
+Evasión v7
+Evasión v8
+Velocidad v0
+Velocidad v1
+Velocidad v2
+Velocidad v3
+Velocidad v4
+Velocidad v5
+Velocidad v6
+Velocidad v7
+Velocidad v8
+Saqueo v0
+Saqueo v1
+Saqueo v2
+Saqueo v3
+Saqueo v4
+Saqueo v5
+Saqueo v6
+Saqueo v7
+Saqueo v8
+Experiencia v0
+Experiencia v1
+Experiencia v2
+Experiencia v3
+Experiencia v4
+Experiencia v5
+Experiencia v6
+Experiencia v7
+Experiencia v8
+Laceración v0
+Laceración v1
+Laceración v2
+Laceración v3
+Laceración v4
+Laceración v5
+Laceración v6
+Laceración v7
+Laceración v8
+Temeridad v0
+Temeridad v1
+Temeridad v2
+Temeridad v3
+Temeridad v4
+Temeridad v5
+Temeridad v6
+Temeridad v7
+Temeridad v8
+Absorción v0
+Absorción v1
+Absorción v2
+Absorción v3
+Absorción v4
+Absorción v5
+Absorción v6
+Absorción v7
+Absorción v8
+Venganza v0
+Venganza v1
+Venganza v2
+Venganza v3
+Venganza v4
+Venganza v5
+Venganza v6
+Venganza v7
+Venganza v8
+Restablecer v0
+Restablecer v1
+Restablecer v2
+Restablecer v3
+Restablecer v4
+Restablecer v5
+Restablecer v6
+Restablecer v7
+Restablecer v8
+Sobreacelerar v0
+Sobreacelerar v1
+Sobreacelerar v2
+Sobreacelerar v3
+Sobreacelerar v4
+Sobreacelerar v5
+Sobreacelerar v6
+Sobreacelerar v7
+Sobreacelerar v8
+Adaptación v0
+Adaptación v1
+Adaptación v2
+Adaptación v3
+Adaptación v4
+Adaptación v5
+Adaptación v6
+Adaptación v7
+Adaptación v8
+Escáner objetos
+Contraataque v0
+Contraataque v1
+Contraataque v2
+Contraataque v3
+Contraataque v4
+Contraataque v5
+Contraataque v6
+Contraataque v7
+Contraataque v8
+Provocar v0
+Provocar v1
+Provocar v2
+Provocar v3
+Provocar v4
+Provocar v5
+Provocar v6
+Provocar v7
+Provocar v8
+Carga v0
+Carga v1
+Carga v2
+Carga v3
+Carga v4
+Carga v5
+Carga v6
+Carga v7
+Carga v8
+Autobjeto v0
+Autobjeto v1
+Autobjeto v2
+Autobjeto v3
+Autobjeto v4
+Autobjeto v5
+Autobjeto v6
+Autobjeto v7
+Autobjeto v8
+Secuestrar v0
+Secuestrar v1
+Secuestrar v2
+Secuestrar v3
+Secuestrar v4
+Secuestrar v5
+Secuestrar v6
+Secuestrar v7
+Secuestrar v8
+Aturdir v0
+Aturdir v1
+Aturdir v2
+Aturdir v3
+Aturdir v4
+Aturdir v5
+Aturdir v6
+Aturdir v7
+Aturdir v8
+Incinerar v0
+Incinerar v1
+Incinerar v2
+Incinerar v3
+Incinerar v4
+Incinerar v5
+Incinerar v6
+Incinerar v7
+Incinerar v8
+Botiquín v0
+Botiquín v1
+Botiquín v2
+Botiquín v3
+Botiquín v4
+Botiquín v5
+Botiquín v6
+Botiquín v7
+Botiquín v8
+Repiqueteo mortal
+IU: Medidor de PV
+IU: Onda acústica
+IU: Datos enemigo
+Chip de SO
+Sistema evasivo
+Cadena
+Detonación bala
+Autorrecoger
+IU: Enfriamiento
+IU: Regis. texto
+IU: Minimapa
+IU: Medidor EXP
+IU: Puntos guard.
+IU: Valor daño
+IU: Destinos
+IU: Control
+Células alieníg.
+Corazón alieníg.
+IU: Punto pesca
+Autoataque
+Autodisparo
+Autoesquiva
+Autoprograma
+Autocambio armas
+Logro 1
+Logro 2
+Logro 3
+Logro 4
+Logro 5
+Logro 6
+Logro 7
+Logro 8
+Logro 9
+Logro 10
+Logro 11
+Logro 12
+Logro 13
+Logro 14
+Logro 15
+Logro 16
+Logro 17
+Logro 18
+Logro 19
+Logro 20
+Logro 21
+Logro 22
+Logro 23
+Logro 24
+Logro 25
+Logro 26
+Logro 27
+Logro 28
+Logro 29
+Logro 30
+Logro 31
+Logro 32
+Logro 33
+Logro 34
+Logro 35
+Logro 36
+Logro 37
+Logro 38
+Logro 39
+Logro 40
+Logro 41
+Logro 42
+Logro 43
+Logro 44
+Logro 45
+Logro 46
+Logro 47
+Trofeo 01
+Trofeo 02
+Trofeo 03
+Trofeo 04
+Trofeo 05
+Trofeo 06
+Trofeo 07
+Trofeo 08
+Trofeo 09
+Trofeo 10
+Trofeo 11
+Trofeo 12
+Trofeo 13
+Trofeo 14
+Trofeo 15
+Trofeo 16
+Trofeo 17
+Trofeo 18
+Trofeo 19
+Trofeo 20
+Trofeo 21
+Trofeo 22
+Trofeo 23
+Trofeo 24
+Trofeo 25
+Trofeo 26
+Trofeo 27
+Trofeo 28
+Trofeo 29
+Trofeo 30
+Trofeo 31
+Trofeo 32
+Trofeo 33
+Trofeo 34
+Trofeo 35
+Trofeo 36
+Trofeo 37
+Trofeo 38
+Trofeo 39
+Trofeo 40
+Trofeo 41
+Trofeo 42
+Trofeo 43
+Trofeo 44
+Trofeo 45
+Trofeo 46
+Trofeo 47
+Gasta dinero para obtener ciertas cosas.
+Gasta dineropara obtener ciertas cosas.
+Descripción:\n????\n*Esta descripción\npuede contener spoilers.
+Descripción:\nCuerpo resucitado
+Descripción:\nVestigios de prosperidad
+Descripción:\n¡Es un niño sano!
+Descripción:\nEsperamos tu visita
+Descripción:\nCreación e insurrección
+Descripción:\nEl reino mecánico
+Descripción:\nRey de las profundidades
+Descripción:\nLos que aman a humanos
+Descripción:\nAlma de hierro
+Descripción:\nTermina una batalla
+Descripción:\nComienza otra batalla
+Descripción:\nÚltimo deseo
+Descripción:\nHoja traicionera
+Descripción:\nAdiós, Pascal
+Descripción:\nJusticia
+Descripción:\nCrimen y castigo
+Descripción:\nHacia el Nuevo Mundo
+Descripción:\nMundo hermoso
+Descripción:\nLas mentes emergentes
+Descripción:\nEl círculo de la muerte
+Descripción:\nAprecia nuestros recursos
+Descripción:\nPrimer encargo
+Descripción:\nEl mercenario
+Descripción:\nMaestro de la información
+Descripción:\nDestruir es mi trabajo
+Descripción:\nColeccionista de chips
+Descripción:\nLoco de las armas
+Descripción:\nHerramientas del oficio
+Descripción:\nHoja inorgánica
+Descripción:\nArmas de apoyo supremas
+Descripción:\nLuchar no es lo mío
+Descripción:\nEl poder de un escaneador
+Descripción:\nMáquinas contra máquinas
+Descripción:\nEl poder del odio
+Descripción:\nRey de los cielos
+Descripción:\nRey de la cosecha
+Descripción:\nBuscador de pod
+Descripción:\nDeseo sin emoción
+Descripción:\nJinete de animales
+Descripción:\nRonda por el estanque
+Descripción:\n¡Espera! ¡No me mates!
+Descripción:\n¿Qué estás haciendo?
+Descripción:\nNo es que me importe...
+Descripción:\n¡Ven a ver esto!
+Descripción:\nNiños traviesos
+Descripción:\nSer trascendental
+Descripción:\nLágrima lunar
+Arawana
+Pez mellizo
+Killi
+Carpa
+Pez hinchado
+Carpa koi
+Carpa peluda
+Raya gigante chaophraya
+Arapaima
+Sardina
+Pulga de agua
+Dos caras
+Celacanto
+Pez globo
+Pez espada
+Caballa
+Cangrejo herradura
+Pez escarabajo
+Estrella de mar
+Brema
+Tiburón peregrino
+Killi mecánico
+Carpa koi mecánica
+Arapaima mecánica
+Carpa mecánica
+Pez hinchado mecánico
+Pez globo mecánico
+Pez espada mecánico
+Estrella de mar mecánica
+Brema mecánica
+Celacanto mecánico
+Caballa mecánica
+Cangrejo herradura mecán.
+Arawana mecánica
+Tiburón peregrino mecán.
+Raya gigante mecánica
+Cabeza mecánica
+Rueda
+Tanque de gas
+Batería
+Arma de fuego rota
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el río.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Pescado en el mar.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Máquina acuática.\nPuede venderse.
+Solo es un trasto viejo.\nPuede venderse.
+Solo es un trasto viejo.\nPuede venderse.
+Solo es un trasto viejo.\nPuede venderse.
+Solo es un trasto viejo.\nPuede venderse.
+Solo es un trasto viejo.\nPuede venderse.
+Crítico +
+Aturdir +
+Vel. atq. +
+Res. +
+Descuento
+Desc. de robot
+Absorber balas
+Aturdir alto
+Grito bestia
+Fulgor fénix
+Ruptura balas
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Carga pod
+Marca máquina
+Esp. acero
+Ruptura balas
+Grito bestia
+Fulgor fénix
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Marca máquina
+Fulgor fénix
+Grito bestia
+Alas dragón
+Renegado
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Marca máquina
+Piedad divina
+Odio demoníaco
+Carga energía
+Explosión final
+Bendición
+Impulso negro
+Marca máquina
+Esquivar
+Sello héroe
+Locura
+file\messcore_2.new.txt.txt
+Los puños de androide son armas pasables, pero es\ndifícil golpear bien a una forma vida mecánica.
+Una hoja de un asistente que amaba a su señor. Es\nrecta como su lealtad y aún cumple su cometido.
+Una tubería de hierro oxidada y cubierta con\nfluidos vitales de formas de vida mecánicas.
+Una espada decorada con un diseño animal.\nCorta y fina, pasa desapercibida.
+Instrumento ceremonial supuestamente hecho\nde plumas de fénix. No se ha probado en combate.
+Hace mucho, un señor cruel usó esta espada\nen sus súbditos para intentar volverse inmortal.
+Hoja avanzada entregada a la élite de YoRHa\nen el frente. Su poder aumenta con su carga.
+Vieja espada de YoRHa confiada a los veteranos.\nNo es el último modelo, pero es efectiva.
+Espada blanca como las de los antiguos\nsamuráis. Llamativa, pero la hoja es de calidad.
+Espada oriental negra de guerrero. Su diseño\nsin adornos le da un aura de sobriedad.
+Esta espada común es el arma estándar de\nlas tropas YoRHa.
+Espada improvisada utilizada por formas de vida\nmecánicas. Parece chatarra, pero cumple.
+La hoja está roma. Su poder procede de su masa.\n¿Huele a hierro o es sangre humana?
+Hacha gigante maldita, ungida con la sangre de\ngemelos inocentes para aplacar la ira divina.
+Espada con un diseño bestial capaz de rajar a\nquien desafíe la autoridad de su portador.
+Espada supuestamente hecha de plumas de fénix para\nguardias de templos. No se ha probado en combate.
+Arma avanzada de YoRHa diseñada para derrotar\nmáquinas gigantes. Su poder aumenta al cargarla.
+Modelo viejo y duradero de YoRHa, usada durante\nmucho tiempo e ideal para destruir máquinas.
+La hoja blanca de esta espada de samurái aún\nno se ha visto manchada de sangre.
+La sangre de años de conflicto ha ennegrecido\nesta espada de guerrero.
+Aunque está hecha a partir de chatarra, esta hacha\nde las máquinas tiene una potencia aterradora.
+Esta lanza decorativa portada por monjes está\nhecha, supuestamente, de plumas de fénix.
+Lanza decorada con diseños animales usada\npor un señor para acabar con una rebelión.
+Lanza que simboliza el pacto entre un gran\nguerrero y un dragón antiguo.
+El doble de un príncipe usó esta lanza para\nacabar con él... y compartió su mismo destino.
+Los guardias de los comandantes YoRHa portan esta\nlanza avanzada. Su poder aumenta al cargarse.
+Una vieja lanza YoRHa que imita el armamento\nhumano antiguo. Anticuada, pero fiable.
+Esta lanza blanca brilla con el orgullo del\nsamurái que una vez la empuñó.
+Su punta negra brilla con la crueldad de un\nguerrero despiadado.
+Lanza de formas de vida mecánicas, fabricada con\nchatarra especialmente para destruir androides.
+Arma fabricada en un lugar desconocido que se\nasemeja a las alas de los ángeles.
+Arma fabricada en reinos ocultos que se asemeja\na los colmillos de los demonios.
+Estas nudilleras de YoRHa, usadas por primera vez\nen el 11940 d. C. ganan potencia con la energía.
+Estas viejas armas YoRHa tienen un mecanismo\ntosco pero fiable que da golpes explosivos.
+Guantelete blanco de samurái impoluto.\nSu dueño nunca llegó a ver un combate.
+Guantelete de samurái de un infame y cruel\ncomandante, ennegrecido por la sangre.
+Arma de puño hecha con una cabeza de máquina.\nSencilla, pero potente por su masa.
+Una espada siempre mejorada y transmitida entre \nla realeza de un país donde la magia prospera.
+Un palo de madera de ciprés. No es un arma,\npero de alguna forma aporta coraje a su usuario.
+Armas con forma de la cabeza de Emil,\nde un elemento desconocido único.
+Añade efecto de golpe crítico.
+Mejora valor de aturdimiento contra enemigos.
+Aumenta la velocidad de ataque.
+Aumenta la defensa del jugador.
+Da un descuento en tiendas de la Resistencia.
+Da un descuento en tienda de máquinas.
+Atravesar proyectiles restaura PV.
+Da alta probabilidad de aturdir a enemigos.
+Da efecto de ataque bestial a corto alcance.
+Prob. de restaurar PV al dañar enemigos.
+Da onda expansiva al golpear proyectiles.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Reduce recuperación de programa al atacar.
+Daño aumenta al derrotar enemigos (máx. 500).
+Menor probabilidad de recular ante ataques.
+Da onda expansiva al golpear proyectiles.
+Da efecto de ataque bestial a corto alcance.
+Prob. de restaurar PV al dañar enemigos.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Daño aumenta al derrotar enemigos (máx. 500).
+Prob. de restaurar PV al dañar enemigos.
+Da efecto de ataque bestial a corto alcance.
+Aumenta el poder de los ataques aéreos.
+Probabilidad de someter a enemigos al atacar.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Daño aumenta al derrotar enemigos (máx. 500).
+Restaura PV al rematar a enemigos.
+Añade onda expansiva al rematar a enemigos.
+Cargas en espera. Aumenta ATQ por un tiempo.
+Detona último golpe de combos corto alcance.
+Aumenta el poder de ataque con PV al 100 %.
+Aumenta poder de atq. con PV al 30 % o menos.
+Daño aumenta al derrotar enemigos (máx. 500).
+Cambia n.º de daño y movimiento de evasión.
+Cambia n.º de daño y los cofres de tesoro.
+¡Blande esta espada para oír la voz de Emil!
+Dispara un potente láser\nhacia donde\nmira el pod.
+Analiza a los enemigos\nen un radio fijo para\nasestar cortes letales\na todos a su alcance.
+Invoca una masa de\nenergía que asesta un\ngolpe devastador.
+Un pod gira muy\nrápido alrededor del\njugador y causa estragos\nal tocar a los enemigos.
+Produce una masa de\nenergía que brota del\nsuelo en forma de\nlanzas mortales.
+Despliega una barrera\nprotectora que bloquea\nataques de proyectiles.
+Despliega una barrera\nprotectora que bloquea\nataques físicos.
+Genera una potente onda\nde choque al golpear\nel pod contra el suelo\ndesde gran altura.
+Dispara un cable hacia\ndonde mira el pod.\nSi acierta al enemigo, lanza\nal combatiente hacia él.
+Crea imagen del usuario\nque distrae al enemigo y\nle dispara con el ataque\na distancia del pod.
+Lanza un disparo que crea\nun campo que distorsiona\nel tiempo, ralentizando a\nlos enemigos cercanos.
+Emite un rayo láser\ntemporal capaz de sanar\na los combatientes que\nestén en contacto con él.
+Escupe una salva de\npequeños explosivos\ndurante un periodo\nde tiempo.
+Libera una explosión que\nabsorbe a los enemigos\ncercanos.
+Electrocuta y apresa a un\nenemigo cercano, lo que\nprovoca daño continuado\ndurante un tiempo.
+Permite a un combatiente\nsubirse a un pod (con\nun control limitado) y\ncargar hacia el combate.
+Usa ondas ultrasónicas\npara emitir un rayo capaz\nde mostrar objetos\ninvisibles cercanos.
+Descripción:\n????\n*Esta descripción\npuede contener spoilers.
+Descripción:\nCuerpo resucitado
+Descripción:\nVestigios de prosperidad
+Descripción:\n¡Es un niño sano!
+Descripción:\nEsperamos tu visita
+Descripción:\nCreación e insurrección
+Descripción:\nEl reino mecánico
+Descripción:\nRey de las profundidades
+Descripción:\nLos que aman a humanos
+Descripción:\nAlma de hierro
+Descripción:\nTermina una batalla
+Descripción:\nComienza otra batalla
+Descripción:\nÚltimo deseo
+Descripción:\nHoja traicionera
+Descripción:\nAdiós, Pascal
+Descripción:\nJusticia
+Descripción:\nCrimen y castigo
+Descripción:\nHacia el Nuevo Mundo
+Descripción:\nMundo hermoso
+Descripción:\nLas mentes emergentes
+Descripción:\nEl círculo de la muerte
+Descripción:\nAprecia nuestros recursos
+Descripción:\nPrimer encargo
+Descripción:\nEl mercenario
+Descripción:\nMaestro de la información
+Descripción:\nDestruir es mi trabajo
+Descripción:\nColeccionista de chips
+Descripción:\nLoco de las armas
+Descripción:\nHerramientas del oficio
+Descripción:\nHoja inorgánica
+Descripción:\nArmas de apoyo supremas
+Descripción:\nLuchar no es lo mío
+Descripción:\nEl poder de un escaneador
+Descripción:\nMáquinas contra máquinas
+Descripción:\nEl poder del odio
+Descripción:\nRey de los cielos
+Descripción:\nRey de la cosecha
+Descripción:\nBuscador de pod
+Descripción:\nDeseo sin emoción
+Descripción:\nJinete de animales
+Descripción:\nRonda por el estanque
+Descripción:\n¡Espera! ¡No me mates!
+Descripción:\n¿Qué estás haciendo?
+Descripción:\nNo es que me importe...
+Descripción:\n¡Ven a ver esto!
+Descripción:\nNiños traviesos
+Descripción:\nSer trascendental
+Descripción:\nLágrima lunar
+Objetos recogidos
+Número de muertes
+Enemigos derrotados
+Objetos usados
+Pirateos completados
+Misiones sec. de androides
+Misiones sec. de máquinas
+Cuerpos reunidos
+Cuerpos cargados
+Oraciones recibidas
+Cuerpos reunidos
+Cuerpos reparados
+Cuerpos dañados
+Muertes por corrupción
+Cuerpos infectados
+Cuer. infectad. sometidos
+Equilibrado
+Corta distancia
+Larga distancia
+Agresivo
+Cauto
+Pasivo
+Tanque parque atrac.
+Tanque clase Goliath
+Vuelo clase Goliath
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eva
+Adán
+Chica roja
+21O
+Copia de 2B
+A2
+9S
+Emil
+Clones de Emil
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eva
+Adán
+file\messcredit.new.txt.txt
+CRÉDITOS
+file\messdbg.new.txt.txt
+MENÚ DE DEBUG
+HERRAMIENTAS DE CONFIGURACIÓN DE MODELOS SIMPLES (LÍMITE 20)
+HERRAMIENTAS DE SEÑALIZACIÓN
+--
+:
+[
+]
+>
+@
+nulo
+Error: límite de colocación alcanzado (20)
+TIPO DE MODELO
+NÚMERO DE MODELO
+ÁNGULO DE UBICACIÓN
+FIJAR TIPO
+NIVEL DEL ENEMIGO
+NÚMERO DE COMPORTAMIENTO
+SEÑAL
+ESCALA
+NÚMERO DE PASE
+COLOCAR
+FIJAR SOBRE EL SUELO, FIJAR CON [c:-32736/]
+DBG
+DBG_PLAYER_NO_DAMAGE
+DBG_PLAYER_INVINCIBLE
+DBG_PL_HP_1
+DBG_PL_LV_FIX
+DBG_PL_9S_HACKING
+DBG_EM_NO_DAMAGE
+DBG_EM_WAIT_MODE
+DBG_EM_WAIT_MODE
+DBG_EM_MORE_DAMAGE
+DBG_EM_NO_STUN
+DBG_HACKING_ACCELERATION
+DBDISP_OBJ_NO_DISP
+DBDISP_PL_NO_DISP
+DBDISP_EM_NO_DISP
+DBDISP_ETCOBJ_NO_DISP
+DBDISP_EM_NO_DISP
+DBGRAPHIC_WIRE_FRAME_MODE
+GAME_STOP_PL_ATK_S
+GAME_STOP_PL_ATK_L
+GAME_STOP_PL_JUMP
+GAME_STOP_PL_GUN
+GAME_STOP_PL_SKILL_A
+GAME_STOP_PL_ESCAPE
+GAME_STOP_PL_MOVE
+BGM_HOLY_EFX
+BGM_CHORUS_EFX
+BGM_PITCH_SHIFT+
+BGM_PITCH_SHIFT-
+BGM_TIME_STRETCH_SLOW
+BGM_8BIT_TEST
+BGM_RECORD_EFX
+BGM_TRY_VOCAL_ON
+BGM_POD_TEMPO_SCALING
+LOS PV DEL JUGADOR NO DISMINUYEN
+EL JUGADOR IGNORA EL DAÑO
+PV DEL JUGADOR 1
+BLOQUEAR NIVEL DEL JUGADOR
+DEBUG DEL PIRATEO DE 9S (MÁX. NIVEL CONTROL ALIADO)
+EL ENEMIGO NO RECIBE DAÑO
+EL ENEMIGO ESTÁ SIEMPRE EN ESPERA
+ENEMIGO CALIBRADO PARA MÁX. ATURDIMIENTO
+EL ENEMIGO RECIBE MÁS DAÑO
+EL ENEMIGO NO PUEDE SER ATURDIDO
+PIRATEO FIJADO A MÁXIMA VELOCIDAD
+NO DIBUJAR OBJETO
+NO DIBUJAR JUGADOR
+NO DIBUJAR ENEMIGO
+NO DIBUJAR OTROS MODELOS
+NO DIBUJAR EFECTOS
+DIBUJAR WIREFRAMES
+EL JUGADOR NO PUEDE USAR ATAQUES LIGEROS
+EL JUGADOR NO PUEDE USAR ATAQUES PESADOS
+EL JUGADOR NO PUEDE SALTAR
+EL JUGADOR NO PUEDE DISPARAR PROYECTILES
+EL JUGADOR NO PUEDE USAR UNA HABILIDAD
+EL JUGADOR NO PUEDE ESQUIVAR
+EL JUGADOR NO PUEDE MOVERSE
+PROCESO DE REVERBERACIÓN
+EFECTO DE CORO
+SUBIR EL TONO
+BAJAR EL TONO
+BAJAR EL TEMPO
+SIEMPRE EN 8 BITS (AUTOGENERADO SI NO SE ENCUENTRA)
+GRABAR SIMULACIÓN
+FORZAR REPRODUCCIÓN SI LAS VOCES ESTÁN PRESENTES
+ESCALAR POD CON EL TEMPO
+RESORTE PEQUEÑO
+RESORTE PEQUEÑO - DESIERTO
+RESORTE PEQUEÑO - PARQUE DE ATRACCIONES
+RESORTE PEQUEÑO - BOSQUE
+RESORTE PEQUEÑO - FÁBRICA ABANDONADA
+RESORTE PEQUEÑO - VERSIÓN MEJORADA
+RESORTE PEQUEÑO CON BOMBA
+BÍPEDO MEDIANO
+BÍPEDO MEDIANO - DESIERTO
+BÍPEDO MEDIANO - PARQUE DE ATRACCIONES
+BÍPEDO MEDIANO - REINO DEL BOSQUE
+BÍPEDO MEDIANO - FÁBRICA ABANDONADA
+BÍPEDO MEDIANO - VERSIÓN MEJORADA
+AUTODESTRUCTIVO MEDIANO
+ENEMIGO PEQUEÑO MULTIPATA
+ENEMIGO PEQUEÑO MULTIPATA VERSIÓN MEJORADA
+VUELO PEQUEÑO
+VUELO PEQUEÑO - DESIERTO
+VUELO PEQUEÑO - PARQUE DE ATRACCIONES
+VUELO PEQUEÑO - REINO DEL BOSQUE
+VUELO PEQUEÑO - FÁBRICA ABANDONADA
+VUELO PEQUEÑO - VERSIÓN MEJORADA
+GOLIATH BÍPEDO
+GOLIATH BÍPEDO - DESIERTO
+GOLIATH BÍPEDO - VERSIÓN MEJORADA
+BÍPEDO PEQUEÑO
+BÍPEDO PEQUEÑO - DESIERTO
+BÍPEDO PEQUEÑO PARQUE DE ATRACCIONES
+BÍPEDO PEQUEÑO - REINO DEL BOSQUE
+BÍPEDO PEQUEÑO - FÁBRICA ABANDONADA
+BÍPEDO PEQUEÑO - VERSIÓN MEJORADA
+AUTODESTRUCTIVO PEQUEÑO
+BÍPEDO PEQUEÑO CON BOMBA
+CUADRÚPEDO - MEDIANO
+CUADRÚPEDO - MEDIANO - REINO DEL BOSQUE
+CUADRÚPEDO - MEDIANO - FÁBRICA ABANDONADA
+CUADRÚPEDO - MEDIANO - VERSIÓN MEJORADA
+GOLIATH MULTIARTICULADO
+GOLIATH MULTIARTICULADO MEJORADO
+GOLIATH BÍPEDO - TIPO B
+GOLIATH BÍPEDO - TIPO B - DESIERTO
+GOLIATH BÍPEDO - TIPO B - REINO DEL BOSQUE
+GOLIATH BÍPEDO - TIPO B - VERSIÓN MEJORADA
+MULTIPATA
+MULTIPATA MEJORADO
+2B ENEMIGA
+YORHA ENEMIGO
+ARMAS PESADAS ENEMIGAS
+ENLACE ESFÉRICO
+JABALÍ
+ALCE
+PALOMA
+PUÑOS DESNUDOS
+PISTOLA
+ESCUDO
+SIERRA
+BANDERA BLANCA
+PUÑOS DESNUDOS
+LANZA
+HACHA
+ESPADA
+PISTOLA
+BANDERA BLANCA
+CUCHILLO
+PISTOLA
+ESTÁNDAR
+UNIDADES DE ARMAS DE FUEGO X 4
+UNIDADES DE AUTODESTRUCCIÓN X 4
+ARMAS DE FUEGO X 2 AUTODESTRUCCIÓN X 2
+BANDERA BLANCA
+ESTÁNDAR
+VARIACIÓN POSIBLE
+PUÑOS DESNUDOS
+LANZA
+HACHA
+ESPADA
+ANTORCHA
+BANDERA BLANCA
+SIN MONTAR
+CON MONTAJE
+SIN MONTAR, TRANSFORMABLE
+CON MONTAJE, TRANSFORMABLE
+FIJAR A FORMA HUMANA
+ESTÁNDAR
+ESTÁNDAR
+00 UNIDADES
+01 UNIDAD
+02 UNIDADES
+03 UNIDADES
+04 UNIDADES
+05 UNIDADES
+06 UNIDADES
+07 UNIDADES
+08 UNIDADES
+09 UNIDADES
+10 UNIDADES
+00 UNIDADES_ARMA DE FUEGO
+01 UNIDAD_ARMA DE FUEGO
+02 UNIDADES_ARMA DE FUEGO
+03 UNIDADES_ARMA DE FUEGO
+04 UNIDADES_ARMA DE FUEGO
+05 UNIDADES_ARMA DE FUEGO
+06 UNIDADES_ARMA DE FUEGO
+07 UNIDADES_ARMA DE FUEGO
+08 UNIDADES_ARMA DE FUEGO
+09 UNIDADES_ARMA DE FUEGO
+10 UNIDADES_ARMA DE FUEGO
+ESPADA CORTA YORHA
+ESPADA CORTA TIPO 4O
+ESPADÓN TIPO 4O
+LANZA TIPO 4O
+PUÑO DE ACERO TIPO 4O
+PUÑOS DESNUDOS
+ESTÁNDAR
+SERPIENTE
+BOBINA
+TALADRO
+LÍNEA RECTA
+BOBINA DE SERPIENTE
+ESTÁNDAR
+SIEMPRE VAGANDO
+SIEMPRE HUYENDO
+FIJAR POSICIÓN
+NO CORRERÁ
+NO PUEDE ATURDIRSE
+NO ATACARÁ NI CUANDO RECIBA DAÑO
+NO ATACARÁ SI NO RECIBE DAÑO
+NO ATACARÁ SI NO RECIBE DAÑO (SIN NOTIFICACIÓN)
+NO EXPLOTARÁ
+NO VAGARÁ MIENTRAS PERMANEZCA EN STANDBY
+AÑADIR COMPORTAMIENTO ENLOQUECIDO
+file\messending.new.txt.txt
+NieR:Automata
+flowers for m[A]chines
+or not to [B]e
+meaningless [C]ode
+chil[D]hood's end
+the [E]nd of YoRHa
+mission [F]ailed
+hun[G]ry for knowledge
+a mountain too [H]igh
+no [I] in team
+bad [J]udgment
+aji wo [K]utta
+[L]one wolf
+break ti[M]e
+[N]o man's village
+just y[O]u and me
+corru[P]tion
+[Q]uestionable actions
+mave[R]ick
+city e[S]cape
+fa[T]al error
+deb[U]nked
+reckless bra[V]ery
+broken [W]ings
+time to rela[X]
+head[Y] battle
+over[Z]ealous
+FIN
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Desarrollado por PlatinumGames
+Director: YOKO TARO
+Diseñador de juego sénior: Takahisa Taura
+Director musical: Keiichi Okabe
+Jefe de diseño de juego: Isao Negishi
+Jefe de programación: Ryo Onishi
+Productor: Yosuke Saito
+Producido por SQUARE ENIX
+DISEÑADOR DE JUEGO
+Mari Fujita
+Shohei Takada
+Kazuhide Kawamura
+ARTISTA CONCEPTUAL
+Kazuma Koda
+Yuki Suda
+MODELADOR DE PERSONAJES
+Kazunori Tazaki
+Hito Matsudaira
+Yoshikaze Matsushita
+ARTISTA DE ENTORNOS
+Yasuyuki Kaji
+Shohei Kameoka
+Junpei Mashiba
+ANIMADOR
+Takayuki Muranaka
+Toshiki Araki
+Ayaka Daito
+ARTISTA DE EFECTOS VISUALES
+Shion Nakajima
+Naoki Tsuta
+Koji Tanaka
+ARTISTA DE IU
+Hisayoshi Kijima
+PROGRAMADOR
+Shuhei Rokumoto
+Yuji Hagiyama
+EQUIPO DE TECNOLOGÍA
+Tsuyoshi Odera
+Ryoichi Takahashi
+IMPLEMENTACIÓN DE MÚSICA
+Masami Ueda
+DISEÑADOR DE SONIDO
+Masato Shindo
+Yuji Honda
+Yasuhiro Naka
+SECUENCIAS DE VÍDEO
+Tomohiro Nakano
+Kunihiko Tsuda
+Masanori Takashima
+Takahiro Iwagami
+PRODUCTOR de PlatinumGames
+Eijiro Nishimura
+PlatinumGames Inc.
+ILCA, Inc.
+HIGHESTAR Inc
+MONACA
+8-4, Ltd.
+ALVION Inc.
+AVANT Inc.
+beBlue Co., Ltd.
+bee tribe inc.
+BUZZ Co., Ltd.
+Beginning Software Inc.
+Binari Sonori
+Black Beard Design Studio
+CREEK & RIVER Co., Ltd.
+Closure Object Inc.
+Cup of Tea Productions, Inc.
+CyDesignation, Inc.
+Forcewick Sound Design Co., Ltd.
+IMAGICA DIGITALSCAPE Co., Ltd.
+JellyThink Inc.
+JEMA (Japan Xtreme Martial Arts Association)
+Japan-izm Inc.
+KAO=S/IDEAL
+Keywords International
+Klein Computer Entertainment Co.
+Lakshya Digital Pvt. Ltd.
+Mox Co., Ltd.
+Neo Agency Co., Ltd.
+quack-luck Inc.
+SHIROGUMI Inc.
+TOEI ZUKUN LAB.
+Tuetue Kombinato Co., Ltd.
+XAX ENTERTAINMENT Inc.
+Zinou Pharmaceutics, Inc.
+SQUARE ENIX CO., LTD.
+SQUARE ENIX, INC.
+SQUARE ENIX LTD.
+Pole To Win Co., Ltd.
+TESTRONIC LABORATORIES LTD.
+BUKKORO
+DIRECTOR
+PRODUCTOR EJECUTIVO
+PRODUCTOR
+ASISTENTE DE PRODUCCIÓN
+JEFE DE DISEÑO DE JUEGO
+DISEÑADOR DE JUEGO
+JEFE DE ARTE CONCEPTUAL
+ARTISTA DE ENEMIGOS Y ENTORNOS
+ILUSTRADOR DE CINEMÁTICAS
+ARTISTA CONCEPTUAL DE ARMAS
+ARTISTA CONCEPTUAL PARA ENTORNOS
+JEFE DE MODELACIÓN DE PERSONAJES
+MODELADOR DE PERSONAJES
+DIRECTOR ARTÍSTICO DE ENTORNOS
+ARTISTA DE ENTORNOS
+JEFE DE ANIMACIÓN
+DIRECTOR ARTÍSTICO DE EFECTOS VISUALES
+ARTISTA DE EFECTOS VISUALES
+DIRECTOR ARTÍSTICO DE IU
+ARTISTA DE IU
+JEFE DE PROGRAMACIÓN
+PROGRAMADOR
+Director tecnológico
+EQUIPO DE TECNOLOGÍA
+ARTISTA TECNOLÓGICO
+IMPLEMENTACIÓN
+JEFE DE DISEÑO DE SONIDO
+DISEÑO DE SONIDOS DE ENEMIGOS
+DISEÑO DE SONIDO AMBIENTAL
+DISEÑO DE SONIDO DE LA INTERFAZ
+PROGRAMADOR DE SONIDO
+DIRECTOR DE CINEMÁTICAS
+ARTISTA DE CINEMÁTICAS
+JEFE DE ANIMACIÓN FACIAL
+ANIMADOR FACIAL
+SUPERVISOR DE EXTERNALIZACIÓN
+GERENTE DE EXTERNALIZACIÓN
+JEFE DE LOCALIZACIÓN
+APOYO DE LOCALIZACIÓN
+LOCALIZACIÓN
+APOYO DE DESARROLLO
+AYUDANTE DE GUION
+DIRECTOR Y COMPOSITOR MUSICAL
+COMPOSITOR
+COMPOSITOR
+ARREGLISTA
+CORO
+CANCIONES, LETRAS
+CANCIONES (VOZ DE NIÑO)
+VIOLÍN
+VIOLA
+VIOLONCHELO
+CONTRABAJO
+GUITARRA
+TROMPETA
+FLAUTA, PICCOLO
+GRABACIÓN, MEZCLA Y OPERACIÓN DE ProTools
+INGENIERO ASISTENTE
+2B
+9S
+A2
+Eva
+Adán
+Comandante
+Pod 042
+Pod 153
+Emil
+Pascal
+Devola / Popola
+Terminal α / Terminal β
+Anémona, Operadora 21O
+Operadora 6O
+Beauvoir, Pirada
+Anuncio, unidad de recuperación de recursos
+DIRECTOR ACÚSTICO
+PRODUCTOR ACÚSTICO
+MEZCLA DE SONIDO
+ASISTENTE DE MEZCLA DE SONIDO
+PRODUCTOR DE LOCALIZACIÓN
+COORDINADOR DE LOCALIZACIÓN
+EDITOR
+TRADUCTORES
+APOYO DE LOCALIZACIÓN
+GESTIÓN DE CALIDAD Y PROGRESO
+ANIMADOR
+ARTISTA DE FOLEY, EDITOR DE SONIDO
+GESTOR DE PROYECTOS SÉNIOR
+JEFE LINGÜÍSTICO DE PROYECTO
+JEFE DE INGENIERÍA DE PROYECTO
+ARTISTA DE ENTORNOS/JEFE
+ARTISTA DE ENTORNOS/SUBJEFE
+GESTOR DE PROYECTOS
+DIRECTOR DE ENTORNOS
+INGENIERO DE SONIDO
+EDITOR DE SONIDO
+DIRECTOR DE VOZ
+DISEÑO DE PERSONAJE
+DISEÑADOR DE SONIDO
+ARTISTA DE PERSONAJES SÉNIOR
+ACTORES DE CAPTURA DE MOVIMIENTOS
+DIRECTOR DE CONTROL DE CALIDAD DE LOCALIZACIÓN
+GESTOR DE PROYECTOS DE TESTEO
+JEFE DE CONTROL DE CALIDAD DE LOCALIZACIÓN
+TESTERS DE INGLÉS
+TESTERS DE FRANCÉS
+TESTERS DE ITALIANO
+TESTERS DE ALEMÁN
+TESTERS DE ESPAÑOL
+VICEPRESIDENTE
+DIRECTOR NACIONAL, JAPÓN
+DIRECTOR CREATIVO
+ARTE 3D SÉNIOR
+JEFE DE ARTE
+JEFE DE ARTE ASISTENTE
+ARTE
+ACTORES DE CAPTURA DE MOVIMIENTOS
+DIRECTOR DE CGI
+ARTISTA DIGITAL
+DIRECTOR TÉCNICO
+DISEÑADOR DE MOVIMIENTO
+GESTOR DE PROYECTOS
+GUION GRÁFICO
+MODELADOR DE PERSONAJES
+PRODUCTOR DE CGI
+JEFE DE ANIMACIÓN CGI
+ANIMADOR DE CGI
+Presidente y director general
+COPRODUCCIÓN
+DISEÑO DE PERSONAJE
+DIRECTOR EJECUTIVO
+JEFE DE RR. PP.
+PLANIFICACIÓN DE RR. PP.
+JEFE DE VENTAS
+PERSONAL DE VENTAS
+JEFE SÉNIOR
+COORDINADOR DE LA WEB
+COORDINADOR JEFE DE RR.PP. INTERNACIONAL
+COORDINADOR RR. PP. INTERNACIONAL
+COORDINADOR JEFE DE MARKETING Y RR. PP. EN ASIA
+COORDINADOR DE MARKETING Y RR. PP. EN ASIA
+PLANIFICACIÓN DE VENTAS
+DIRECTOR DE SONIDO
+DISEÑO DE SONIDO
+ASISTENTE DEL PROYECTO
+JEFE SÉNIOR
+PERSONAL
+JEFE GENERAL
+JEFE SÉNIOR
+JEFE
+CONSEJERO DE VALORACIONES
+COORDINADOR JEFE
+COORDINADOR
+INGENIERO TÉCNICO
+ANALISTA DEL JUEGO
+EDITOR EN JEFE
+ADMINISTRACIÓN
+SOCIO DE PRODUCCIÓN TÉCNICA
+JEFE DEL PROYECTO
+DIRECTOR ASISTENTE DE CONTROL DE CALIDAD
+JEFE SÉNIOR DE CONTROL DE CALIDAD
+COORDINADOR SÉNIOR DE CONTROL DE CALIDAD
+JEFE ASOCIADO DE CONTROL DE CALIDAD
+ADMINISTRADOR DE CONTROL DE CALIDAD
+EQUIPO DE CONTROL DE CALIDAD
+DIRECTOR DE LOCALIZACIÓN Y CONTROL DE CALIDAD
+COMUNIDAD Y SERVICIO
+DIRECTOR, JEFE DE NEGOCIO Y ASUNTOS LEGALES
+DIRECTOR ASOCIADO DE NEGOCIO Y ASUNTOS LEGALES
+ASESOR SÉNIOR
+ASESORES
+ASISTENTE LEGAL
+ADMINISTRADOR LEGAL
+DIRECTOR ASOCIADO DE MARKETING DE PRODUCTO
+JEFE DE MARKETING DE PRODUCTO
+JEFE ASOCIADO DE MARKETING DE PRODUCTO
+DIRECTOR DE RR. PP.
+JEFE DE RR. PP.
+DIRECTOR SÉNIOR DE VENTAS
+JEFE SÉNIOR DE VENTAS
+JEFE SÉNIOR DE OPERACIONES DE VENTAS
+JEFE DE OPERACIONES DE VENTAS
+COORDINADORES DE OPERACIONES DE VENTAS
+COORDINADORES DE VENTAS Y RECLAMACIONES
+JEFE DE ANÁLISIS DE VENTAS
+ANALISTA DE VENTAS
+DIRECTOR SÉNIOR DE MARKETING
+JEFE DE MARKETING DE CANAL
+JEFE DE MARKETING SOCIAL
+JEFE SÉNIOR DE COMERCIO ELECTRÓNICO
+JEFE ASOCIADO DE COMERCIO ELECTRÓNICO
+PRODUCTOR SÉNIOR DE WEB Y MARKETING INTERACTIVO
+DISEÑADOR WEB
+JEFE SÉNIOR DE MARKETING DIGITAL CENTRAL
+JEFE GENERAL DE VENTAS DIGITALES
+RESPONSABLE DE VENTAS DIGITALES
+JEFE COMERCIAL DE VENTAS DIGITALES
+JEFE ASOCIADO DE VENTAS DIGITALES
+PRODUCTOR DIGITAL DE VENTAS DIGITALES
+JEFE DE COMERCIO ELECTRÓNICO
+ASISTENTE DIGITAL Y DE COMERCIO ELECTRÓNICO
+JEFE ASISTENTE DE MERCADOTECNIA
+JEFE SÉNIOR DE COMUNICACIONES
+JEFES ASISTENTES DE COMUNICACIONES
+DIRECTOR DE EVENTOS
+JEFE DE EVENTOS
+DIRECTOR SÉNIOR DE VENT., MERC., COM. Y EVENTOS
+DIRECTOR DE SERVICIOS CREATIVOS
+JEFE SÉNIOR DE SERVICIOS CREATIVOS
+DISEÑADOR SÉNIOR DE SERVICIOS CREATIVOS
+DISEÑADOR GRÁFICO
+JEFE DE ACTIVOS Y TRÁFICO
+DIRECTOR DE OPERACIONES
+JEFE SÉNIOR DE LOCALIZACIÓN Y GESTIÓN DE PROYECTO
+PRODUCTOR SÉNIOR DE LOCALIZACIÓN
+PRODUCTOR DE LOCALIZACIÓN
+PRODUCTOR ASISTENTE DE LOCALIZACIÓN
+JEFE DE CONTROL DE CALIDAD
+JEFE DE LOCALIZACIÓN Y CONTROL DE CALIDAD
+JEFE SÉNIOR DE CONTROL DE CALIDAD (REINO UNIDO)
+JEFE SÉNIOR DE CONTROL DE CALIDAD (FRANCIA)
+JEFE SÉNIOR DE CONTROL DE CALIDAD (ITALIA)
+JEFE SÉNIOR DE CONTROL DE CALIDAD (ALEMANIA)
+JEFE SÉNIOR DE CONTROL DE CALIDAD (ESPAÑA)
+JEFE DE MASTERIZACIÓN
+TRADUCCIÓN/REVISIÓN AL FRANCÉS
+TRADUCCIÓN/REVISIÓN AL ITALIANO
+TRADUCCIÓN/REVISIÓN AL ALEMÁN
+TRADUCCIÓN/REVISIÓN AL ESPAÑOL
+JEFE DE LA TRADUCCIÓN JAPONESA
+TRADUCTORES EMPRESARIALES DEL JAPONÉS
+JEFE SÉNIOR DE SERVICIOS CREATIVOS
+DISEÑADOR
+JEFE DE MARCA
+DIRECTOR DE MARCA
+EJECUTIVO DE RR. PP., SEJ WEST
+GESTOR DE LA COMUNIDAD, SEJ WEST
+DIRECTOR DE RR. PP. Y COMUNICACIÓN
+DIRECTOR EJECUTIVO, SEJ WEST
+DIRECTOR GENERAL DE OPERACIONES
+DIRECTOR EJECUTIVO
+JEFE DE CALIDAD DE LOCALIZACIÓN
+COORDINADOR CALIDAD DE LOCALIZACIÓN
+TÉCNICO JEFE CALIDAD LOCALIZACIÓN
+ANALISTA DE CALIDAD DE LOCALIZACIÓN
+RESPONSABLE LÍDER
+PERSONAL DE COMPROBACIÓN
+Voces adicionales
+Anémona
+Operadora 21O
+Beauvoir
+Pirada
+Presidente y director de SQUARE ENIX CO., LTD.
+DIRECTOR ART. / ARTISTA DE CONCEP.
+ARTISTA DE ILUMINACIÓN
+JEFE DE IMPLEMENTACIÓN DE MÚSICA
+ARTISTA DE FOLEY, EDITOR DE SONIDO
+PRODUCCIÓN DE TRÁILERES
+DISEÑADOR DE JUEGO SÉNIOR
+CANCIONES
+Simone, Pirada
+Simone
+PRODUCTOR
+DISEÑADOR DE JUEGO
+ARTISTA CONCEPTUAL
+MODELADOR DE PERSONAJES
+ARTISTA DE ENTORNOS
+ANIMADOR
+ARTISTA DE EFECTOS VISUALES
+ARTISTA DE IU
+PROGRAMADOR
+EQUIPO DE TECNOLOGÍA
+IMPLEMENTACIÓN
+DISEÑADOR DE SONIDO
+SECUENCIAS DE VÍDEO
+ARTISTA DE CINEMÁTICAS
+EXTERNALIZACIÓN
+LOCALIZACIÓN
+RR. PP./MARKETING
+APOYO DE DESARROLLO
+MONACA
+INSTRUMENTACIÓN
+GRABACIÓN DE VOZ
+DIVISIÓN DE NEGOCIO VI
+DISEÑO DE PERSONAJES
+DIVISIÓN DE MARKETING
+DESARROLLO DE NEGOCIO ONLINE
+DIVISIÓN DE NEGOCIO DE MERCADOTECNIA
+CONTROL DE CALIDAD
+DIVISIÓN DE LOCALIZACIÓN
+EDICIÓN EDITORIAL
+DIVISIÓN LEGAL Y DE PROPIEDAD INTELECTUAL
+DIVISIÓN DE APOYO DE DESARROLLO
+AGRADECIMIENTOS ESPECIALES
+Voces japonesas
+Voces inglesas
+CANCIÓN
+DIRECTOR
+PRODUCTOR EJECUTIVO
+PRODUCTOR
+PRESIDENTE Y DIRECTOR GENERAL
+Yoko Taro
+Atsushi Inaba
+Eijiro Nishimura
+Santiago Schueri
+Takahisa Taura
+Isao Negishi
+Mari Fujita
+Shohei Takada
+Kazuhide Kawamura
+Akira Otsuka
+Yuki Suda
+Tomoko Nishii
+Yonghee Cho
+Kazuma Koda
+Kazunori Tazaki
+Hito Matsudaira
+Yoshikaze Matsushita
+Eiji Funahashi
+Shohei Kameoka
+Junpei Mashiba
+Yasuyuki Kaji
+Kana Yamamoto
+Namie Higa
+Tatsuya Ohigashi
+Takayuki Muranaka
+Shion Nakajima
+Naoki Tsuta
+Koji Tanaka
+Takuo Yamamoto
+Hisayoshi Kijima
+Kenta Okura
+Ryo Onishi
+Takashi Wagatsuma
+Kazunori Inoue
+Shuhei Rokumoto
+Shuichiro Chiboshi
+Takenobu Okabe
+Shoichi Hirakawa
+Yicheng Xiao
+Misa Yasui
+Kazunori Morita
+Ayaka Sato
+Yuji Hagiyama
+Tsuyoshi Odera
+Ryoichi Takahashi
+Takuya Sakamoto
+Keisuke Kamakami
+Daisuke Sueyoshi
+Yoshiomi Kure
+Masami Ueda
+Satoshi Igarashi
+Naofumi Harada
+Masato Shindo
+Yuji Honda
+Yasuhiro Naka
+Masataka Jogo
+Shuji Kohata
+Tomohiro Nakano
+Kunihiko Tsuda
+Masanori Takashima
+Takahiro Iwagami
+Tetsuya Sasano
+Masaharu Niimi
+Tokuma Nakazawa
+Tim van Ingen
+Andrew Brasher
+John Neal
+Koichi Hidaka
+Ayumi Terada
+Masami Ichikawa
+Kazuyo Tsukuma
+Tatsumi Inui
+Keiichi Hirata
+Takuya Iwasaki
+Hideyuki Mizutani
+Nao Takahashi
+Hana Kikuchi
+Keiichi Okabe
+Keigo Hoashi
+Kuniyuki Takahashi
+Syotaro Seo
+Hidekazu Tanaka
+Keiichi Hirokawa
+Yuri Misumi
+Y
+Emi Evans
+J'Nique Nichole
+Nami Nakagawa
+Saki Ishii
+Yu Manabe
+Masahiko Toudou
+Tunehiro Shigyou
+Risa Yamamoto
+Emiko Ujikawa
+Akane Irie
+Naomi Urushihara
+Kiyo Kido
+Misato Futaki
+Ayaka Jyoumoto
+Toshiyuki Muranaka
+Masateru Nishikata
+Kento Takasugi
+Takanori Goto
+Taihei Awaji
+Maki Honoka
+Keiji Kondo
+Satoshi Igarashi
+Yui Ishikawa
+Natsuki Hanae
+Ayaka Suwa
+Tatsuhisa Suzuki
+Daisuke Namikawa
+Chiaki Kanou
+Hiroki Yasumoto
+Kaoru Akiyama
+Mai Kadowaki
+Aoi Yuki
+Ryoko Shiraishi
+Jouji Nakata
+Mary Hatsumi
+Keiko Isobe
+Kaori Kawabuchi
+Ruka Endo
+Katsuyuki Yamazaki
+Yuka Nagayoshi
+Saori Okamoto
+Yu Seki
+Kenichi Hoshino
+Takuya Inagaki
+Saki Yonemoto
+Tomohiro Fujitaka
+Aki Nagao
+Noboru Haraguchi
+Kouhei Yamamoto
+Toshihiro Yoshida
+Minoru Shinji
+Hajime Takagi
+Mutsumi Mizutani
+Yumiko Shibusawa
+Tomohiro Matsuda
+Yasutomo Yamana
+John Ricciardi
+Roy Blakely
+Alan Averill
+Kevin Gifford
+Graeme Howard
+D. Scott Miller
+Dermot Creegan
+Justin "JJ" Epperson
+Hiroko Minamoto
+Masanobu Suto
+Koji Oshiro
+Takashi Naito
+Yujiro Hiraoka
+Takeshi Uchiyama
+Toshiki Araki
+Toshiharu Honda
+Ayaka Daito
+Atsuhito Shirai
+Kazutaka Someya
+Daiki Tsuboi
+Soma Oguri
+Masumi Takino
+Hajime Saito
+Bidda Poulsen
+Kazuteru Sonoyama
+Hideaki Nakata
+Andrea Bandova
+Marco Locatelli
+Mariella Baldussi
+Yuji Saito
+Yuta Tokorodani
+Yuichiro Takao
+Toru Nishimura
+Masanori Inoue
+Eriksson Mattias
+Viktor Ivanov
+Ramos Roberio Junio Yuki
+Shouei Shimabukuro
+Freddy Kurnia
+Kaoru Fujimura
+Ryo Kokusho
+Takashi Ishibashi
+Misao Kubota
+Aya Aburatani
+Satoshi Yamashita
+Danielle Hunt
+Lainie Bushey
+Jean-Luc Dub
+Wendee Lee
+Akihiko Yoshida
+Yuya Nagai
+Masayuki Endou
+Masayoshi Umezu
+Ryo Inakura
+Yoko Uchida
+Yuki Kato
+Takaaki Fukuoka
+Hiroyuki Uchida
+Hideki Sugiguchi
+Sandeep Sharma
+Devender Rawat
+Kaori Kawabuchi
+Thomas Barth
+Takayuki Tsuji
+Chris Mitsumori
+Tatsuji Michihiro
+Juan Garcia
+Dahman Coombes
+Thomas Doble
+Nicolas Leon Flores
+Robin Delors
+Katia Giacomozzi
+Pietro Leonardo Brogneri
+Christian Frenzel
+Tilman Hotel
+Antonio Fajardo
+Angela M. Bernal Torres
+Pau Lopez Guerras
+Hiroya Hasegawa
+Kazunobu Kuroe
+Manvendra Shukul
+Mike Wallen
+Kai Gushima
+Robert Olson
+Eric Berger
+Mike Wasilewski
+Sachin Saluja
+Rohit Jain
+Puneet Punj
+Garima Verma
+Bhanu Babbar
+Sautik Chandra
+N. Ranjit Singh
+Aman Kumar
+Nitesh Kumar
+Mohit Bisht
+Hideyuki Kato
+Katsuyuki Yamazaki
+Asuka Yoshikawa
+Yoshio Miyaki
+Hiromasa Inoue
+Akira Iwamoto
+Masahito Honda
+Atsushi Yamaki
+Motosuke Kuroda
+Suguru Tanaka
+Ryosuke Kojima
+Masayo Ono
+Kenya Miki
+Yuuka Tomita
+Kouta Isomura
+Syoki Tou
+Wataru Kobayashi
+Kaori Fujino
+Sawami Takahashi
+Akemi Nakashima
+Haruka Utsui
+Yoshihisa Shimizu
+Airi Suzuki
+Koichi Nobuta
+Satoru Ohori
+Kazuki Kodama
+Taisuke Isogai
+Takuya Oki
+Shota Deguchi
+Yosuke Matsuda
+Yuu Miyake
+Yosuke Saito
+Junichi Ehara
+Takahiro Iino
+Toshiyuki Itahana
+Tomoyoshi Oosaki
+Ryutaro Sasaki
+Tomoaki Takano
+Yoshiyuki Takahashi
+Tsutomu Yamada
+Yoshiki Yamada
+Kenji Ishiwata
+Chiaki Yamauchi
+Shinsuke Takeda
+Aki Ogasawara
+Shunichi Hashimoto
+Ayako Kawamoto
+Yuko Endo
+Wataru Ninomiya
+Maiko Shimizu
+Kumiko Ishida
+Munehiro Ohsawa
+Yuka Sugano
+Tomohiro Yajima
+Kazuhiro Hosoe
+Kazuki Hamamoto
+Yuko Sakae
+Shihoko Karube
+Ayako Tsuchiya
+Hirokuni Matsuyama
+Nobuyoshi Kunii
+Kayo Irisawa
+Koji Yamashita
+Yukihiro Shibuya
+Hideyuki Kato
+Reiko Kondo
+Naoki Muto
+Kengo Murata
+Satoru Matsuo
+Toyokazu Takehara
+Hiroyuki Ogura
+Taisuke Yahisa
+Noboru Taniguchi
+Hisato Iwatsuki
+Toshimitu Umezawa
+Keigo Kouno
+Kazuya Abuku
+Kazuyoshi Tashiro
+Michael-Christopher Koji Fox
+Thoré Émilie
+Kazuhiro Ooya
+Takeshi Aoshima
+Tomoko Hatakeyama
+Takuji Tada
+Masami Satoh
+Ayako Hino
+Tomokazu Otani
+Akitada Sakamoto
+Kazuya Okamoto
+Taisuke Sazaki
+Seung Dong "Sunz" Kim
+Mieko Isozaki
+Hitomi Shoda
+David "Ribs" Carrillo
+Aaron J. Adams
+Mathew A. Clift
+Keith P. Christensen-Martz
+Louis Sedeno III
+Greg R. Buchold
+Jonathan Rende
+Yutaka Sano
+Yasu Kurosawa
+Yuki Ushiba
+Brendan Hee
+Kenny Yoshinaga
+Stephen Harding
+Chris Farmer
+Josue Munoz
+Justin Chan
+Jonella Landry
+Iryna Miller
+Steve Nguyen
+Kumiko Yamaguchi
+Jose Osio
+Chris Ichikawa
+Gregory Toyosaka
+Michael Somerville
+Joshua Hochner
+Sai Higashi
+Sachiko Sato
+Reiko Caraway
+Adam Sullivan
+Brian Finkelstein
+Noi Sasaki
+Patrick Soon
+Andrew Bardi
+Stephanie Pimental
+Timothy Yang
+Ryan Lacina
+Neal Pabon
+Francis Santos
+David Yang
+Stephanie Chang
+Ron Kurtz
+Eric Rosenberger
+Jennifer Park
+Johnny Lam
+Valerie Dipraseuth
+Andrea Domingo
+Kasim Somers
+Max Mena
+Josh England
+Jessica Ma
+Mike Silbowitz
+Marc Terada
+Kaori Takasue
+Shinri Matsuoka
+John Siy
+Richard Cerow
+Aaron Pathammavong
+Chris Van Hook
+Doug Bone
+Andrew Larcombe
+Diego Hernandez
+Hannah Diehl
+Toby Coleman
+Jason Brooks
+Matthew Vaux
+Kelsey Britt
+Ami Funaki
+Aimi Tokutake
+Aileen Matsuoka
+Jyun Takagi
+Wilbur Lin
+Alfred Holz
+Kanji Romeo Tashiro
+Michael Bannon
+Brett Wooldridge
+James Cunningham
+Raul Encarnacion
+Natasha Watford
+Seb Ohsan Berthelsen
+Yuko Tomizawa
+Alex Moresby
+Elisa Giribaldi
+Giulia Isnenghi
+André Woitczyk
+Dario De Cesare
+Shailesh Iyer
+Kevin Balon
+Antonio Malafronte
+Hoi-yee Leung
+Jesús Díez García
+Jason Walker
+Marie Pierre Martin
+Federica Lusardi
+Katharina Klamt
+Raquel Uzal-Gómez
+Andii Yamanaka
+Kyoko Hotta Gowlett
+Sumiko Okada
+Gavin Poffley
+Stéphanie Journau
+Emma Featherstone
+Thach Quach
+Kathryn Cala
+Amy Hughes
+Daniel Seto
+Alex Huhtala
+Larry Sparks
+Mike Sherlock
+Phil Rogers
+Edward Buffery
+Thomas Gillmann
+Carlos Sagasti
+Bo van der Burgt
+Clara Bausson
+Gennaro Boccia
+Erik Bursian
+TBD
+TBD
+Norifumi Wasada
+Masahiro Okamoto
+Hirotsugu Yasui
+Tatuya Ozaki
+Kunikazu Yanagisawa
+Kazuhiro Dosaka
+Mieko Nakajima
+Manish Bhandari
+Jacob J K
+Lalitha Chandran
+Sujanitha Shankar
+Bhavna Dhawan
+Anshu Almeida
+Yui
+Kazuhiro Fukagaya
+Akiko Wada
+Chieko Tsurunaga
+Hitoshi Nishio
+Tomoko Kasahara
+Takashi Kamimura
+MASAMUNE Inc.
+Createch Inc.
+Jun Eishima
+Shoya Ofuku
+Yuu Furuike
+Masahiro Takeuchi
+Masaya Kitagawa
+Kentaro Motojima
+Mizuho Hamakawa
+Kousuke Ujiie
+Shin Morii
+Haruo Hotta
+Masatoshi Kaji
+Noriko Hamaguchi
+Kira Buckland
+Kyle McCarley
+Cherami Leigh
+Greg Chun
+Ray Chase
+DC Douglas
+Abby Trott
+Julie Ann Taylor
+Alexis Tipton
+Claudia Lenz
+Darin De Paul
+Erica Lindbeck
+Cassandra Lee Morris
+Connor Kelly
+Erin Fitzgerald
+Amanda Miller
+Robbie Daymond
+Ben Diskin
+Kyle Hebert
+David Keefir
+Carrie Keranen
+Lauren Landa
+Wendee Lee
+Julie Maddalena
+Matt Mercer
+Max Mittelman
+Russell Nash
+Bryce Papenbrook
+Nicolas Roye
+Michelle Ruff
+Tara Sands
+Rena Strober
+Sarah Ann Williams
+Naoya Yokoyama
+Hiromu Akita
+Noriyuki Nakanishi
+Kouhei Ogura
+Yoshiho Akabane
+Maho Miyata
+Ayane Naka
+Chisayo Harada
+Mikoto Naka
+Sakurako Kamiya
+Syuto Yamamoto
+Yuki Yamaguchi
+Yuzu Nakagoshi
+Kentaro Mizumoto
+Tim Prebble (HISS and a ROAR)
+Takuto Aoki
+Tomoyo Shichita
+YOKO TARO
+Marina Kawano
+file\messevent.new.txt.txt
+12H ABATIDA
+file\messhud.new.txt.txt
+Cambiar equipo
+Usar objeto
+Prohibidos ataques contra aliados
+Disparar
+■
+-
+:
+NIVEL DE OPERACIÓN DEL SISTEMA DE DEFENSA AÉREA
+ACTIVADO SISTEMA DE AUTODESTRUCCIÓN
+DETONACIÓN
+Guardado posible
+Alguien ha rezado sobre\ntu cadáver.
+PV recuperados por completo
+Tiempo restante
+Tiempo hasta la autodestrucción de Emil
+LIMITADOR LIBERADO
+FRENESÍ
+DETONAR ENEMIGOS SUBYUGADOS
+Sistema dañado
+Chips automáticos
+Programa de pod: descargando...
+Programa de pod: descarga completada
+Tiempo para impacto de misil:
+DESTRUIR ALIADO ANDROIDE
+DESTRUIR ALIADO ANDROIDE/MÁQUINA
+Punt.
+Bonificación
+1.º
+2.º
+3.º
+Unidad de cañón de raíles
+CNTL
+CONF
+MENÚ
+OK
+Modo manual
+Carga:
+MISIÓN
+TIENDA
+AVISO
+IFF: AMISTOSO
+SUBIDA DE NIVEL
+EXP
+EXP
+PSC
+BONIFICACIÓN
+BONIFICACIÓN
+INFO SISTEMA
+INFO SISTEMA
+HABLAR
+HAB
+ARM
+LSR
+MSL
+MANUAL
+Movimiento
+Controles de cámara
+Disparar
+Esquivar
+Esquivar (tocar dos veces)
+Correr
+Correr (tocar dos veces)
+Ataque ligero
+Ataque fuerte
+Saltar
+Fijado (Sí/No)
+Cambiar dirección
+Luz (Sí/No)
+Usar programa de pod
+(Mant.) Activar escáner
+Cambiar de pod
+Cambiar conjunto de armas
+Cancelar
+Menú de atajos
+Provocar (mantener)
+Esquiva perfecta (con tiempo preciso)
+Contraataque (durante esquiva perfecta)
+Autopirateo
+Dirección de disparo
+Pirateo
+Correr
+Desmontar
+Empezar a pescar
+Lanzar / Recoger
+Dejar de pescar
+Menú de debug
+Modo frenético
+Cambiar de arma
+Andanada de misiles
+Cambiar objetivo fijado
+Menú del sistema
+(Mantener) Autodestrucción
+(Machacar) Provocar
+ERROR
+No tienes autoridad para usar ese comando.
+El comando no se ha ejecutado correctamente.
+Sensores visuales anormales
+Sensores aurales anormales
+FCS de combate cuerpo a cuerpo caído
+Sistemas de maniobras evasivas caídos
+Sistema de movimiento anormal
+No se pueden iniciar los sistemas de pirateo
+Sistema de apuntado anormal
+Sistema de salto desactivado
+Todos los sistemas de control anormales
+MENSAJE
+IFF: MODO 2
+12H
+11B
+7E
+1D
+4B
+2B
+file\messhud_hacking.new.txt.txt
+PIRATEO COMPLETADO
+Detonar
+Subyugar
+Control remoto
+PIRATEO CORRECTO. SELECCIONAR MÉTODO DE ELIMINACIÓN.
+Volar objetivo.
+Subyugar objetivo para que ataque a los enemigos.
+Secuestrar objetivo y operarlo de forma remota.
+SISTEMA SUSPENDIDO
+_
+COMENZAR PIRATEO
+Sistema de comportamiento
+Sistema de cambio de armas
+Sistema visual
+Sistema vocal
+Sistema de identificación de YoRHa
+Sistema de memoria
+Servidor
+¿Esto es... un entorno de pirateo?
+Pero ¿cómo he...?
+Espera, ¡debe de haber sido la explosión de PEM!
+Ha debido conectarme a la red de las máquinas.
+Las máquinas están... ¿imitando a los humanos?
+Pero ¿por qué harían algo así?
+¿Qué rayos ha sido eso?
+¿Están... hablando?
+Maldita sea...
+Nos crearon para proteger a la humanidad.
+¡No somos como vosotras, máquinas!
+No... somos... iguales...
+Detente... detente...
+No es culpa mía, ¿vale?
+Maldita sea... Yo... Yo...
+¡Para! ¡Para! ¡Detente! ¡Para! ¡Para!
+¡Yo! ¡Yo! ¡Yo, yo! ¡Yo, yo, yo, yo, yo!
+Ayúdame... Ayúdame... Ayuda...
+¡Nononononononononono!
+¡Por favor, que alguien me ayude!
+Mmm, este lugar sí que es complejo.
+Vaya... Es incluso más complejo que antes.
+file\messoption.new.txt.txt
+CONFIGURACIÓN
+CONFIGURACIÓN
+CONTROLES
+CONTROLES
+Japonés
+Inglés
+日本語
+English
+Français
+Italiano
+Deutsch
+Español
+Idioma
+Juego
+Cámara
+Pantalla
+Sonido
+Otro
+Ajusta la configuración de idioma.
+Ajusta la configuración del juego.
+Ajusta la configuración de la cámara.
+Ajusta la configuración de pantalla.
+Ajusta la configuración del sonido.
+Ajustar otras configuraciones.
+Solo se puede cambiar en el menú de título.
+Este ajuste solo se cambia en el menú de inicio.
+Este ajuste solo se cambia en el juego.
+Se puede cambiar en los menús de título y de inicio.
+Se puede cambiar en juego y en el menú de inicio.
+Voces
+Texto
+Disposición del teclado.
+Selecciona el idioma de las voces.
+Selecciona el idioma del menú, los subtítulos...
+Selecciona la disposición del teclado.
+Dificultad
+Estilo de combate del PNJ
+Rotación del minimapa
+Vibración
+Juego inactivo
+Ajusta la dificultad.
+Elige un estilo de combate para tus aliados.
+Elige si el minimapa gira o permanece estático.
+Activa o desactiva la función de vibración.
+Comportamiento de controles cuando no es pantalla activa.
+Orientación horizontal
+Orientación vertical
+Velocidad giro horizontal
+Velocidad giro vertical
+Distancia (estándar)
+Distancia (combate)
+Velocidad de zoom
+Autoajuste vertical
+Autoajuste horizontal
+Rastreo de enemigo libre
+Velocidad de persecución
+Rastreo de enemigo fijado
+Autofijado Goliath
+Restablecer pred.
+Control mapa horizontal
+Control mapa vertical
+Control joystick izquierdo
+Cambia los controles de la cámara.
+Cambia los controles de la cámara.
+Ajusta la velocidad de giro horizontal de la cámara.
+Ajusta la velocidad de giro vertical de la cámara.
+Ajusta la distancia entre la cámara y el jugador.
+Ajusta cuánto se distancia la cámara si hay enemigos cerca.
+Ajusta velocidad a la que se acerca y aleja la cámara.
+Ajusta la velocidad de la cámara en vertical.
+Ajusta la velocidad de la cámara en horizontal.
+Ajusta veloc. a la que se sigue a enemigos sin fijar blanco.
+Ajusta la velocidad a la que la cámara sigue al jugador.
+Ajusta veloc. a la que se sigue a enemigos fijando blanco.
+Activa autofijado para enemigos de clase Goliath.
+Restablece los ajustes predeterminados de la cámara.
+Cambia controles horizontales del joystick derecho en el mapa.
+Cambia controles verticales del joystick derecho en el mapa.
+Cambia controles del joystick izquierdo en mapa.
+Brillo de pantalla
+Resolución
+Modo de pantalla
+Preajustes gráficos
+Sincronización vertical
+Antialiasing
+Filtro de texturas
+Difuminado
+Sombras
+Efectos
+Oclusión ambiental
+Seleccionar monitor
+Ajusta hasta que solo veas el icono derecho.
+Ajusta el nivel de brillo del monitor.
+Ajusta la resolución de la pantalla.
+Ajusta el método de visualización.
+Ajusta la calidad gráfica.
+Ajusta la sincronización vertical.
+Ajusta el antialiasing.
+Ajusta la configuración del filtrado de texturas.
+Ajusta el difuminado de movimiento.
+Ajusta la calidad de las sombras.
+Ajusta la calidad de los efectos.
+Ajusta la calidad de la oclusión ambiental.
+Elige qué monitor quieres usar.
+Volumen de la música
+Volumen de los efectos
+Volumen de las voces
+Sonido inactivo
+Salida de audio
+Ajusta el volumen de la música.
+Ajusta el volumen de los efectos.
+Ajusta el volumen de las voces.
+Comportamiento del sonido cuando no es pantalla activa.
+Selecciona la salida de audio preferida.
+Autodest.
+Modulador de voz
+Restablecer pred.
+Establece la función de autodestrucción.
+Añade efectos a la reproducción de voces
+Restablece todos los ajustes predeterminados.
+Normal
+Invertido
+Alto
+Medio
+Bajo
+Monitor
+Submonitor 1
+Submonitor 2
+Submonitor 3
+Submonitor 4
+Completa
+Ventana
+Estéreo
+Monoaural
+Auto (5.1)
+Auto (Estér.)
+Personalizado
+QWERTY
+AZERTY
+QWERTZ
+***AVISO*** Este juego solo \nadmite teclados «QWERTY».
+Solapado
+Cambiado
+Asigna una tecla para cada opción.
+Las teclas se solapan.
+Camb. tecla
+Restablecer pred.
+Ninguna
+Ataque fuerte
+Ataque ligero
+Acción
+Saltar
+Fijado
+Prog. pod
+Esquivar
+Fuego
+Rest. cámara
+Autodestruc.
+Cambiar armas
+Pod siguiente
+Pod anterior
+Usar objetos
+Menú sistema
+Atajos
+Linterna
+Pirateo
+Modo F (man.)
+Cont. autom.
+Tipo A
+Tipo B
+Tipo C
+Personalizado
+Personalizar teclado
+Usa el modo de control Tipo A.
+Usa el modo de control Tipo B.
+Usa el modo de control Tipo C.
+Crea un modo de control personalizado.
+Cambia libremente la disposición del teclado.
+Selecciona el botón que quieres cambiar.
+No puedes omitir la escena, 2B tiene el control.
+file\messpause.new.txt.txt
+Selecciona un objeto.
+Usar
+Descartar
+N.º descartes
+Objetivo
+Cliente
+Descripción
+Arma ligera
+Arma pesada
+N/A
+Equipar
+Quitar
+Detalles
+Historia
+Seleccionar pod.
+Selecciona un programa de pod para equipar.
+Cambiar
+Salir
+Tipo A
+Tipo B
+Tipo C
+Destruir chip
+Seleccionar tipo de conjunto de armas.
+Selecciona y destruye un chip.
+Selecciona un chip para destruirlo.
+:
+Almacenam. usado
+Equipar
+Personalizar
+Automático
+Mover
+Quitar
+Orden: Categ.
+Orden: Coste
+Orden: Equip.
+Cambia la configuración de los chips.
+Foco de equilibrio
+Foco de ataque
+Foco de defensa
+Selecciona y equipa chips automáticamente.
+Todos
+Ataque
+Defensa
+Apoyo
+Pirateo
+Sistema
+Optimizar
+Equipados
+Selecciona la categoría de los chips.
+Optimiza la configuración de los chips.
+JUEGO DE PIRATEO 01
+JUEGO DE PIRATEO 02
+JUEGO DE PIRATEO 03
+JUEGO DE PIRATEO 04
+JUEGO DE PIRATEO 05
+JUEGO DE PIRATEO 06
+JUEGO DE PIRATEO 07
+JUEGO DE PIRATEO 08
+JUEGO DE PIRATEO 09
+JUEGO DE PIRATEO 10
+JUEGO DE PIRATEO 11
+JUEGO DE PIRATEO 12
+JUEGO DE PIRATEO 13
+JUEGO DE PIRATEO 14
+JUEGO DE PIRATEO 15
+JUEGO DE PIRATEO 16
+JUEGO DE PIRATEO 17
+JUEGO DE PIRATEO 18
+JUEGO DE PIRATEO 19
+JUEGO DE PIRATEO 20
+JUEGO DE PIRATEO 21
+JUEGO DE PIRATEO 22
+JUEGO DE PIRATEO 23
+JUEGO DE PIRATEO 24
+JUEGO DE PIRATEO 25
+JUEGO DE PIRATEO 26
+JUEGO DE PIRATEO 27
+JUEGO DE PIRATEO 28
+JUEGO DE PIRATEO 29
+JUEGO DE PIRATEO 30
+JUEGO DE PIRATEO 31
+JUEGO DE PIRATEO 32
+JUEGO DE PIRATEO 33
+JUEGO DE PIRATEO 34
+JUEGO DE PIRATEO 35
+JUEGO DE PIRATEO 36
+JUEGO DE PIRATEO 37
+JUEGO DE PIRATEO 38
+JUEGO DE PIRATEO 39
+JUEGO DE PIRATEO 40
+JUEGO DE PIRATEO 41
+JUEGO DE PIRATEO 42
+JUEGO DE PIRATEO 43
+JUEGO DE PIRATEO 44
+JUEGO DE PIRATEO 45
+JUEGO DE PIRATEO 46
+JUEGO DE PIRATEO 47
+JUEGO DE PIRATEO 48
+Remitente
+Prueba
+Ya sabes qué
+Notificación de misión
+¡Recompensas!
+¡Gracias!
+Misión confidencial
+La fortuna de Júpiter
+¡Es broma!
+Recompensa
+Petición
+Gracias
+Misión confidencial
+Verificación normal
+Verificación normal
+Busca la anulación de pedido
+Correspondencia programada
+Correspondencia programada 2
+Correspondencia especial
+Correspondencia especial
+Correspondencia programada
+Muuuy aburrido
+Información de pesca
+Pescar
+Información importante
+Nuevos productos
+Servidor
+Pirateo
+Equipo perdido
+Nuevo comportamiento
+¡Gracias por tu ayuda el otro día!
+Ver mensajes recibidos.
+Selecciona una unidad para verla.
+La melancolía de Sartre
+La melancolía de Jean-Paul
+Examen de máquina 1
+Examen de máquina 2
+Riña familiar
+De bestias y máquinas
+Cuidado animal
+Guerra territorial
+Robo-dojo: cinturón blanco
+Robo-dojo: cinturón marrón
+Robo-dojo: cinturón negro
+Robo-dojo: cinturón rojo y blanco
+Robo-dojo: cinturón rojo
+Chica perdida
+La petición del vendedor de suministros
+La petición de la directora
+Desarrollo del campamento
+El pasado de Anémona
+Amnesia
+Desaparición de la Resistencia
+La investigación de Pirada
+Mejorando las comunicaciones
+Investigando las comunicaciones
+Repara los terminales
+Encuentra un regalo
+La fiebre del análisis de datos
+La fiebre del análisis de datos 2
+El Señor del Valle
+Doblega al robot malvado
+¡Juega con nosotros!
+Elemento de almacenaje
+Inventor tonto
+Sabio imbécil
+Máquina de desarrollo de juegos Nv. 1
+Máquina de desarrollo de juegos Nv. 2
+Máquina de desarrollo de juegos Nv. 3
+Estrella veloz
+Recuerdos de Emil
+Fotografías
+En un lugar alto
+El guerrero vengativo
+El regreso del guerrero vengativo
+El final del guerrero vengativo
+Recuerdo de 11B
+Búsqueda de tesoros en el castillo
+La pareja errante
+Información del mundo antiguo
+Investigador culinario
+Traidor de YoRHa
+Escuadrón de reconocimiento
+La petición de Devola
+El recado de Popola
+La petición de las gemelas
+Herencia del pasado
+Recupera los datos confidenciales
+Problemas de clasificación
+Problemas de clasificación 2
+Problemas de clasificación 3
+Coleccionismo de sellos
+Escolta de desfile
+Reunión de recuerdos
+La petición del comerciante de armas
+El recluso
+El recluso se queda en casa
+El recluso permanente
+La determinación de Emil
+Una auténtica ganga
+Máquinas estándar
+Máquinas del desierto
+Máquinas parque atrac.
+Máquinas Reino Bosque
+Máquinas de la fábrica
+Máquinas mejoradas
+Máquinas de la aldea
+Máquinas de ataq. de PEM
+Máquinas unidad especial
+Androides
+Máquinas peculiares
+Máquinas afables
+¿?
+Resorte pequeño
+Resorte pequeño desbocado
+Con sierra
+Con pistola
+Con escudo
+Con escudo electromagnético
+Bípedo mediano
+Bípedo mediano desbocado
+Con espada
+Con antorcha
+Con lanza
+Con hacha
+Con pistola
+Con escudo
+Con escudo electromagnético
+Autodestructivo mediano
+Modelo mediano multipata
+Larga distancia
+Corta distancia
+Vuelo pequeño
+Vuelo mediano
+Unidad kamikaze
+Artillero x2, kamikaze x2
+Goliath bípedo
+Modelo de mejora motriz
+Modelo variable
+Bípedo pequeño
+Bípedo pequeño desbocado
+Con espada
+Con antorcha
+Con lanza
+Con hacha
+Autodestructivo pequeño
+Cuadrúpedo mediano
+Goliath multiarticulado
+Modelo multifase
+Con pistola
+Enlace esférico
+Con espinas
+Con sierra
+Con taladro
+Con pistola
+Esfera pequeña
+Con hacha
+Con taladro
+Con pistola
+YoRHa (armadura normal)
+YoRHa (armad. pesada)
+YoRHa (unidad de vuelo)
+YoRHa (Operadora)
+Tanque Goliath (parque)
+Tanque Goliath
+Vuelo Goliath
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-Shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eva
+Primer encuentro
+Batalla nave alienígena
+Batalla final
+Adán
+Primer encuentro
+Batalla nave alienígena
+Batalla final
+Chica roja
+21O
+Copia de 2B
+A2
+9S
+Emil
+Clones de Emil
+Sartre
+Jean-Paul
+Immanuel
+Ernst
+Kierkegaard
+Pascal
+Máquina animal
+Hermano valiente
+Hermana odiosa
+Hijo vengativo
+Tanque dorado
+Goliath bípedo dorado
+Guardatumbas
+Máquina animalista
+Padre Servo
+Cinturón blanco
+Cinturón marrón
+Cinturón negro
+Cinturón rojo y blanco
+Cinturón rojo
+Máq. empapada en sangre
+Conejo parque de atrac.
+Tanque salvaje
+Pistolero bípedo
+Pistolero de vuelo
+Pistolero de resorte
+Payaso zombi
+Goliath bípedo moribundo
+Modelo de dinosaurio
+8B
+22B
+64B
+Máquina maquillada
+Máquina con un sueño
+Máquina enamorada
+Máquina padre
+Máquina madre
+Máquina niño
+Máquina hermana mayor
+Máquina hermana menor
+Máquina de alta velocidad
+Máquina catedrática
+Máquina rara
+Romeo
+Julieta
+Masamune
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-Shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eva
+Adán
+Immanuel
+Ernst
+Kierkegaard
+Controles básicos
+Controles de combate
+Pirateo
+Controles de unidad aérea
+Controles montar animales
+Menú del sistema
+Minimapa
+Punto de acceso
+P. acceso: teletransporte
+P. acceso: no disponible
+Punto de acceso: buzón
+Punto de acceso: arcade
+Sistema del relicario
+Sist. relicario: carga
+Cuerpos otros jugadores
+Misiones secundarias
+Progreso misión secun.
+Menú de debug
+file\messshop.new.txt.txt
+AGOTADO
+Comprar
+Fusionar chips
+Vender
+Mejora
+Mejorar pod
+Cantidad
+Cantidad
+Comprar objetos.
+Combinar objetos.
+Vende objetos en tu inventario.
+Selecciona objetos para comprarlos.
+Selecciona objetos para venderlos.
+Comprar armas.
+Mejorar armas.
+Elige armas para comprar.
+Elige armas para mejorar.
+Comprar programas de pods u objs. de almacenaje.
+Crear chips de ampliación.
+Mejorar pod.
+Selecciona objetos para comprarlos.
+Elige el chip base.
+Elige el chip de amp. para fusionar con el básico.
+Elige pod para mejorar.
+BASE
+Chip básico
+Creable
+No creable
+Requerido:
+Tienda de objetos
+Tienda de objetos
+Comerciante de armas
+Comerciante de armas
+Garaje mantenimiento
+Garaje mantenimiento
+Tienda secreta
+Tienda secreta
+file\messtitle.new.txt.txt
+© 2017 SQUARE ENIX CO., LTD. All Rights Reserved.
+Pulsa cualquier botón
+Continuar
+Nueva partida
+Iniciar partida
+Configuración
+Controles
+Seleccionar capítulo
+Sala de debug
+Nombre de usuario
+Licencia
+Configuración
+Salir del juego
+Elige la dificultad. Modificable desde el juego.
+Empieza a jugar.
+Ajusta la configuración del juego.
+Ajusta y personaliza los controles.
+Selecciona un capítulo y empieza a jugar.
+Usa el menú de debug para colocar enemigos.
+Introducir nombre de usuario para funciones en línea.
+SELECCIONAR DIFICULTAD
+SELECCIONAR DIFICULTAD
+MENÚ PRINCIPAL
+MENÚ PRINCIPAL
+INTRODUCIR NOMBRE
+INTRODUCIR NOMBRE

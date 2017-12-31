@@ -1,0 +1,69 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0080_N_start>
+<page>
+
+
+
+
+
+«Yo anuncio... a todos... los androides...».
+
+
+
+
+
+</page>
+
+
+<page>
+Las palabras parecen enfocarse. La voz se hace más clara en mi mente.<bt_wait><BGM_BGM_M1070_S0080_N_0010>
+Es Adán, una máquina creada a imagen de un hombre.<bt_wait>
+
+«Las formas de vida mecánicas hemos evolucionado», dice. «Hicimos la guerra. Aprendimos. Crecimos.
+Y hemos alcanzado una nueva conciencia.<bt_wait>
+De hecho, es como si hubiera nacido una nueva forma de existencia».
+</page>
+
+
+<page>
+<i>¡Mentiras! ¡Simples mentiras de meras máquinas!</i><bt_wait>
+
+Adán ríe. «Aun así, ¿los androides aseguráis estar vivos? Qué extraño.
+Sois títeres que carecéis incluso de libre albedrío».
+
+<i>¡No! ¡Te equivocas!</i>
+
+</page>
+
+
+<page>
+Sus palabras fluyen a través de mí como si me las vertiera por el oído.
+
+«¿En qué me equivoco, chico?».<bt_wait>
+
+<i>Estoy... Estamos...</i><bt_wait>
+
+«Tal vez tengas albedrío, pese a todo», se ríe. «Tal vez tengas deseos».
+
+</page>
+
+
+<page>
+«¡Ya ves, chico! El auténtico sentido de la vida... ¡es el odio!».<bt_wait>
+
+<i>Te equivocas.</i><bt_wait>
+
+«En las simas de tu corazón, dormita un odio vil».<bt_wait>
+
+<i>¡Te equivocas!</i><bt_wait>
+
+«Cuanto más intentas ocultarlo, más crece esa oscuridad».<bt_wait>
+
+<i>¡Te equivocas!<bt_wait> ¡Te equivocas!<bt_wait> ¡Te equivocas!<bt_wait> ¡Te equivocas!</i>
+</page>
+<BGM_BGM_M1070_S0080_N_end>
+
+
+
+

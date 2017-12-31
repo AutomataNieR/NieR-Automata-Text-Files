@@ -1,0 +1,46 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0060_N_start>
+<page>
+Ahondo en los registros...<bt_wait>
+No encuentro indicación de que las máquinas crearan nuevas culturas o valores.
+Solo imitan el comportamiento humano.<bt_wait>
+
+Lo extraño es que, si una unidad falla, la próxima vez fallará exactamente de la misma manera.<bt_wait>
+Por ejemplo, si una máquina forma una dictadura que se acaba desmoronando,
+no intenta después un nuevo tipo de gobierno: forma una nueva dictadura.<bt_wait>
+O si siembra un cultivo que muere, sigue intentándolo con el mismo cultivo.<bt_wait>
+Una y otra vez.<bt_wait> Y otra.<bt_wait> Y otra.<bt_wait>
+
+Sigue realizando los mismos comportamientos. Nunca aprende.
+</page>
+
+
+<page>
+A la hora de luchar, las máquinas muestran un comportamiento adaptativo y una
+velocidad de evolución abrumadores.<bt_wait>
+
+Entonces, ¿por qué insisten en imitar a la humanidad?
+Y, más concretamente, ¿por qué imitan sus fracasos?<bt_wait>
+
+Es casi como si el objetivo fuera el <i>fracaso mismo</i>.<bt_wait>
+
+Siento un cambio en los datos. Alguna clase de movimiento.<bt_wait>
+Agudizo la percepción y contengo el aliento.
+
+</page>
+
+
+<page>
+«Yo...».<bt_wait><BGM_BGM_M1070_S0060_N_0010>
+
+Oigo algo. Una voz distante.<bt_wait>
+
+«Yo anunc...».<bt_wait>
+
+«todos los androides...».<bt_wait>
+
+Hay algo ahí. Algo claramente inteligente.
+
+</page>
+<BGM_BGM_M1070_S0060_N_end>

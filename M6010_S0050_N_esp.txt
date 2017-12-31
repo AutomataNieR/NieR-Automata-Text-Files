@@ -1,0 +1,169 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+...M6010_S0050_N
+
+<BGM_BGM_M6010_S0050_N_start>
+<page>
+
+
+
+Me llamo Anémona y lidero la Resistencia de los androides.<bt_wait>
+Este es un registro de las batallas que he vivido... y de mis derrotas.<bt_wait>
+Lo dejo aquí como advertencia para mí misma.
+
+
+
+</page>
+
+<page>
+El ataque de la forma de vida mecánica llega demasiado cerca.<bt_wait><BGM_BGM_M6010_S0050_N_0010>
+Percibo un olor acre y sé que se me han quemado algunos cabellos.<bt_wait>
+
+«¡Anémona! ¡Retírate de momento! ¡Es una orden!».<bt_wait>
+
+Esa es mi capitana, Rose. La obedezco sin titubeos y escapo del frente
+en cuanto elimino algunos enemigos cercanos. Corro como el viento y salto
+a la trinchera abierta apresuradamente y en la que se congregan mis camaradas de la Resistencia.
+</page>
+
+<page>
+¿Cuántas batallas van ya?<bt_wait>
+
+Las mismas imágenes y sonidos. El mismo conflicto de desgaste.<bt_wait>
+Mi fuerza de la Resistencia libra sin cesar la misma guerra, sin fin a la vista.<bt_wait>
+
+Ya ni recuerdo por qué estábamos luchando,
+pero debo continuar igualmente.<bt_wait>
+Debo continuar hasta que uno de los dos bandos esté muerto.
+</page>
+
+<page>
+«Esto pinta mal, Shion. ¿Qué hacemos?».<bt_wait>
+«Calma, Lilly. En algún sitio, encontraremos un hueco».<bt_wait>
+«¡Los huecos no se buscan! ¡Se <i>abren</i>!».<bt_wait>
+«Dahlia, ¡espera!».<bt_wait>
+
+Agarro a Dahlia del brazo antes de que pueda huir de la trinchera y me giro hacia Rose.
+Ella nos trajo aquí, después de todo. Tendrá algún plan.<bt_wait>
+Pero, mientras la horda enemiga se aproxima, ella se limita a mirar a lo lejos con los ojos entrecerrados.
+</page>
+
+<page>
+«Ha habido un cambio en los movimientos del enemigo», dice al fin.
+«Alguien ha comenzado a luchar allí».<bt_wait>
+«Pero eso no es posible», farfulla Margaret. «Estamos... todos aquí».<bt_wait>
+
+Margaret tiene razón. Solo quedamos nueve capaces de combatir a las máquinas:
+La capitana Rose. Gerbera. Lilly. Sonia. Erica. Margaret. Shion. Dahlia...<bt_wait>
+Y yo. Anémona. <bt_wait>Somos cuanto queda de las fuerzas del octavo ataque.<bt_wait>
+
+El que se produjo hace unos 200 años.
+</page>
+
+<page>
+Inquieta, Sonia atrae a Shion hacia sí mientras se mordisquea el cabello.<bt_wait>
+«Esto no me gusta», dice. «¿Y si es alguna clase de trampa de las máquinas?».<bt_wait>
+
+Espero un rato con el corazón desbocado, hasta que oigo reducirse el fuego enemigo.<bt_wait>
+«Vale», digo. «Parece que es nuestra oportunidad. Vamos a retirarnos».<bt_wait>
+«¡Ahí está luchando alguien, Anémona!», grita Dahlia. «¡No podemos abandonarlo!».<bt_wait>
+«Ah, ¿es que quieres arriesgar la vida de todos por un <i>extraño</i>? ¡Vamos!
+Ni siquiera sabemos si ese combatiente misterioso está de nuestro lado».<bt_wait>
+«¡Yo no he dicho eso!».<bt_wait>
+«Basta, las dos», espeta Shion. «La capitana tiene la última palabra».
+</page>
+
+<page>
+Tras las palabras de Shion, todos nos volvemos hacia la capitana Rose, que nos mira a los ojos
+y asiente lentamente antes de hablar.<bt_wait>
+
+«Gerbera. El enemigo se dirige hacia los explosivos que preparamos antes, ¿no?».<bt_wait>
+
+Gerbera lo piensa un momento. «Ahora que lo dices, sí. Van hacia allí».<bt_wait>
+
+Una leve sonrisa asoma en la expresión de Rose, que parece perfectamente compuesta.<bt_wait>
+«Ajá. Pues si todo marcha bien, tal vez podamos eliminarlos a todos».
+</page>
+
+<page>
+«Quiero que salgáis todos de esta trinchera y lleguéis a los explosivos», ordena Rose.<bt_wait>
+«La explosión se encargará de la mayoría y, después, acabaremos con los que queden.<bt_wait>
+Cuando acabemos, ya podremos identificar a los combatientes misteriosos».<bt_wait>
+
+Nadie discute la decisión de la capitana. En cuanto da la orden,
+todos saltamos a la vez de la trinchera y volvemos a la refriega.<bt_wait>
+
+Cuando llegamos a la batalla, encontramos lo que parece otro grupo de androides
+con unos extraños atuendos negros. <bt_wait><BGM_BGM_M6010_S0050_N_0020>Antes de que comprendan qué sucede,
+detonamos los explosivos, acabamos con las máquinas restantes y volvemos las armas
+en su dirección.
+</page>
+
+<page>
+«Muy bien», digo a los extraños. «Empezad a hablar».<bt_wait>
+«Es fácil», dice uno de los androides misteriosos. «Estamos de vuestro lado.
+Somos nuevos modelos creados como parte de algo llamado Proyecto YoRHa».<bt_wait><BGM_BGM_M6010_S0050_N_0030>
+
+«¿De veras?», replico. «No hemos oído nada acerca de nuevos modelos».<bt_wait>
+
+Probablemente hable con más suficiencia de la necesaria, pero debo asegurarme
+de que están de nuestro lado. No pienso necesariamente que mientan,
+pero no logro leer sus expresiones por las gafas gigantes que llevan.<bt_wait>
+Y, francamente, un poco de precaución nunca está de más en medio de una guerra.
+</page>
+
+<page>
+Nos enteramos de que los cuatro androides se llaman entre ellos Número 2, Número 4,
+Número 16 y Número 21.<bt_wait> Y que no tienen ninguna prisa en compartir mucho más.<bt_wait>
+
+«Nuestra misión es alto secreto», dice uno de ellos. «Por eso todavía no habéis
+oído hablar de nosotros».<bt_wait>
+Desenfundo lentamente el cuchillo en un intento por valorar su reacción. «En otras palabras,
+si os mato ahora nadie se enteraría, ¿no?».<bt_wait>
+«Guarda eso, Anémona», dice Rose suavemente.<bt_wait>
+«¡No!», grita Lilly. «¡Tiene razón! Todos hemos visto lo rápido que evoluciona
+el enemigo. ¿Quién nos asegura que estos no son máquinas con aspecto humano?».<bt_wait>
+Mis compañeras asienten. La maldita guerra nos ha hecho suspicaces.
+</page>
+
+<page>
+Una de las extrañas, Número 16, creo, saca un largo cuchillo de su vaina.
+«Si lo que queréis es luchar», dice, «por mí encantada».<bt_wait>
+
+Antes de que pueda responderle, Dahlia se interpone entre las dos con su arma preparada.<bt_wait>
+Se acabó. Vamos a luchar.<bt_wait>
+Pero, justo antes de que todo estalle, la androide llamada Número 2 da un paso adelante.<bt_wait>
+
+«Esperad», dice.
+</page>
+
+<page>
+«Éramos dieciséis», explica Número 2, «pero los otros murieron durante el ataque.<bt_wait>
+Estamos aisladas y solas. No vamos a recibir refuerzos. Y eso significa
+que tenemos que completar la misión con los soldados que nos quedan.
+No necesitamos más enemigos, sino... aliados».<bt_wait>
+
+Termina el discurso con un leve suspiro, como si no fuera capaz de mantener
+a raya sus emociones.<bt_wait>
+
+Conozco ese tipo de voz.<BGM_BGM_M6010_S0050_N_0040>
+</page>
+
+<page>
+
+
+
+
+Es la voz de alguien que conserva la esperanza contra viento y marea.
+
+
+
+
+
+</page>
+<BGM_BGM_M6010_S0050_N_end>
+
+...SID_end
+
+

@@ -1,0 +1,1100 @@
+[[core\corehap\global_5be16b92_scp.bin]]
+[[core\corehap\global_60efb803_scp.bin]]
+resiman: Zzz...
+a9s: Está dormido.
+a2: Debe de estar bien.
+[[core\corehap\global_638e40c8_scp.bin]]
+a2b: Ahora no puedo abrirlo.
+[[core\corehap\global_ac2e8923_scp.bin]]
+[[core\corehap\global_d595bcd1_scp.bin]]
+pascal: ¡Voy a aplastarlos y a matarlos!
+pod042: Informe: recibida una notificación\ndel punto de acceso.
+pod042: Informe: tu afinidad con este pod ha alcanzado\nsu nivel máximo.
+pod042: Ten en cuenta que el cuidado excesivo\nno es necesario para las actividades de combate.
+pod042: Sin embargo, esta unidad ha determinado\nque dicho cuidado excesivo resulta\nsumamente deleitoso.
+pod042: El Pod 042 promete proteger a la unidad 2B\nde YoRHa en cualquier situación.
+pod042: El Pod 042 promete proteger a la unidad A2\nde YoRHa en cualquier situación.
+pod042: Fin del informe.
+pod153: Informe: recibida una notificación\ndel punto de acceso.
+pod153: Informe: tu afinidad con este pod ha alcanzado\nsu nivel máximo.
+pod153: Ten en cuenta que el cuidado excesivo\nno es necesario para las actividades de combate.
+pod153: Sin embargo, esta unidad ha determinado\nque dicho cuidado excesivo resulta\nsumamente deleitoso.
+pod153: El Pod 153 promete proteger a la unidad 9S\nde YoRHa en cualquier situación.
+pod153: Fin del informe.
+a2b: ¿Esto es... un pod?
+a2: ¿Esto es... un pod?
+a9s: ¿Esto es... un pod?
+a9s: ¿En serio? ¿Es un pod?
+pod042: Hipótesis: el propietario desechó este pod\ny lo dejó en modo de seguridad. Motivo desconocido.
+pod153: Hipótesis: el propietario desechó este pod\ny lo dejó en modo de seguridad. Motivo desconocido.
+a2b: ¿Por qué la abandonaron?
+a2b: Pod, reactívalo. Si aún está operativo,\nintenta sobrescribir al propietario original\ncon mi identificación.
+a2: ¿Por qué la abandonarían?
+a2: ¿Sigue funcionando esa cosa?
+a9s: ¿Qué pasó con la unidad YoRHa a la que pertenecía?
+a9s: ¿Sigue activo este pod? Si es así,\na ver si puedes sobrescribir al propietario original\ncon mi identificación.
+a9s: Un pod abandonado, ¿eh?
+a9s: Pod, reactívalo e intenta sobrescribir\nla identificación del propietario original.
+pod042: Activación completada. Acceso concedido.
+pod042: Identificación del propietario anterior sobrescrita.\nArmamento especial ya disponible.
+pod153: Activación completada. Acceso concedido.
+pod153: Identificación del propietario anterior sobrescrita.\nArmamento especial ya disponible.
+a2b: ¿He pescado un pod?
+a2: Mmm... ¿En serio acabo de pescar un pod?
+a9s: ¡Vaya! ¿Es un pod?
+a9s: ¿Un pod?
+pod042: Hipótesis: el propietario desechó este pod\ny lo dejó en modo de seguridad. Motivo desconocido.
+pod153: Hipótesis: el propietario desechó este pod\ny lo dejó en modo de seguridad. Motivo desconocido.
+a2b: Pod, reinícialo e intenta sobrescribir\nla identificación del propietario original.
+a2: Mira a ver si puedo usarla.
+a9s: ¿Podremos utilizarlo? Pod, reinícialo y comprueba\nla identificación del propietario original.
+a9s: Pod, reinicia este chisme e intenta sobrescribir\nla identificación del propietario original.
+pod042: Activación completada. Acceso concedido.
+pod042: Identificación del propietario anterior sobrescrita.\nArmamento especial ya disponible.
+pod153: Activación completada. Acceso concedido.
+pod153: Identificación del propietario anterior sobrescrita.\nArmamento especial ya disponible.
+a9s: No me puedo creer el tamaño de la instalación\ncomercial. La gente del mundo antiguo debía de vivir\nmuy bien.
+a9s: Apuesto a que era divertido ir de compras\ncon tantas opciones.
+a2b: No necesitamos nada de eso.
+a9s: ¡No estés tan segura!
+a9s: Una vez erradiquemos a las formas de vida\nmecánicas, los soldados no tendremos nada que hacer.
+a9s: Entraremos en una nueva era de paz.
+a9s: Y, cuando eso suceda,\n¡deberíamos ir de compras juntos!
+a9s: Podría comprarte... No sé. ¿Una camiseta, tal vez?\nAlgo que te siente bien.
+a2b: ¿Una camiseta?
+a9s: ¿Qué? ¿No te interesa?
+a2b: Mmm...
+a2b: Cuando llegue ese día... Iré encantada.
+a9s: Eso es una promesa, ¿verdad?
+a2b: Sí.
+a9s: ¿Ocurre algo?
+a9s: ¿Sí? ¿Qué necesitas?
+a9s: ¿Quieres cambiar la estrategia?
+a2b: ¿Qué?
+a2b: ¿Pasa algo?
+a2b: ¿Modificar la estrategia?
+pascal: ¡En marcha!
+pascal: Cuento contigo.
+pascal: ¡Rápido! ¡Al lugar de destino!
+unknown: Selecciona el tipo de combate.
+sele: Equilibrado.
+sele: Corta distancia.
+sele: Larga distancia.
+sele: Agresivo.
+sele: Cauto.
+sele: Pasivo.
+sele: No cambiar.
+[[ph1\p100\p100_10a1b8c_scp.bin]]
+pod042: Alerta: ataque enemigo desde abajo.
+pod042: Propuesta: huir.
+a9s: ¿Cuál es tu situación?
+a2b: Este es el objetivo. Voy a destruirlo.
+a9s: Eh... Vale. ¡Yo te cubro!
+a9s: ¡Infiltrándome!
+[[ph1\p100\p100_1a401b0f_scp.bin]]
+a2b: ¿Qué es eso?
+pod042: Análisis: son las ruinas de una\nantigua zona residencial humana.
+pod042: Un gran número de humanos residía en\nesos refugios de metal y hormigón.
+pod042: Las estructuras recibían nombres como \n«complejo de apartamentos».
+a9s: Me pregunto por qué insistían en\nvivir en grupos tan grandes.
+a9s: Debía de ser muy peligroso vivir aquí, ¿eh?
+pod153: Negativo. Las condiciones de vida\nvenían impuestas por el desequilibrio\neconómico y la falta de espacio.
+a9s: Pero qué raritos son los humanos.
+n02: No. Sois. Personas.
+a9s: Objetivo confirmado. A por ellos.
+n02: Buen. Tiempo. Hoy.
+n02: Hola, ¿qué tal?
+n02: Los androides. Son. Temibles.
+n02: Temibles... Matar.
+n02: ¿Por qué? ¿Por qué? ¿Por qué?
+n02: Basta. Miedo. Cruel. Atrás.
+n02: Ou. Ou. Ou, ou, ou, ou, ou, ou, ou...
+n02: Todos. Muertos.
+n02: Tú. Eres. Falso.
+n02: Tú. Te. Someterás.
+a9s: Me pregunto qué las hará elegir esas palabras.
+a2b: Cuerpos de androides...
+pod042: Hipótesis: fueron asesinados por las formas de vida\nmecánicas locales.
+a9s: ¿Qué están haciendo aquí?
+pod042: Desconocido.
+n02: ¡Corred! ¡Corred!
+n02: ¡Corred! ¡Corred!
+n02: ¡Aaah! ¡Por aquí, no!
+a9s: Es como si estuviesen aquí reunidos.
+[[ph1\p100\p100_2299a056_scp.bin]]
+vw: Lo sé... Debo volverme más hermosa.
+vw: Los adornos me harán hermosa.
+[[ph1\p100\p100_23622eee_scp.bin]]
+a2b: ¿Qué son esos?
+n02: ¡Vaya! ¡Qué divertido! ¡Qué divertido!
+a2b: Pero ¿qué...?
+a9s: Bueno, esto sí que es raro.
+n02: ¡Seamos felices juntos!
+a9s: ¿Adónde conduce este corredor?
+n02: ¡Juntos! ¡Juntos!
+a9s: Tal vez haya otra ruta que nos lleve más\nhacia el interior.
+a9s: Ha de haber alguna forma de internarse más aún...
+a9s: Esta puerta no se va a abrir.
+a9s: Estoy segurísimo de que este es el único\nsitio en donde no habíamos buscado.
+a9s: Tal vez haya alguna otra forma de entrar.
+a9s: Estamos recibiendo señales de la Resistencia\ndesde ese edificio de ahí.
+a9s: A ver si podemos encontrar otra ruta.
+n02: ¡A bailar! ¡A bailar!
+a2b: ¿Qué es esto?...
+n02: ¡Juguemos! ¡Juguemos!
+pod042: Análisis: es un dispositivo que impulsa\na los humanos sobre raíles a gran velocidad\ncon fines recreativos.
+n02: ¡Jugar! ¡Jugar! ¡Juguemos!
+pod042: Solía denominarse comúnmente\ncomo «montaña rusa».
+n02: ¡Cantemos! ¡Cantemos!
+a9s: Los humanos son criaturas\nmuy extrañas...
+n02: ¡Juguemos! ¡Jugar! ¡Jugar!
+n02: ¡Juguemos! ¡Juguemos!
+a2b: Necesitamos un modo de pasar.
+a9s: Busquemos una ruta alternativa por ahí.
+a9s: Estas máquinas están muy bien armadas.
+a9s: Lo lamentaremos más tarde si las\ndejamos escapar, ¡así que\nliquidémoslas!
+a9s: ¿De verdad crees que es una buena\nidea dejar ese tanque por el camino?
+a2b: Si no son hostiles, enfrentarse a ellas es\nuna pérdida de tiempo.
+a9s: Oye, 2B.
+a2b: ¿Sí?
+a9s: La gente que me conoce bien suele llamarme "Nueve",\nasí que...
+a2b: Ah.
+a9s: ¿Y qué te parece?
+a2b: ¿El qué?
+a9s: Que si quieres llamarme Nueve me parece estupendo.
+a2b: No hace falta.
+a9s: Ah. Bueno... vale.
+[[ph1\p100\p100_264b174c_scp.bin]]
+pod042: Alerta: interferidas las comunicaciones\ndel punto de acceso.
+pod042: Hipótesis: interferencia causada por enemigos\nen las inmediaciones.
+pod042: Propuesta: eliminar a los enemigos\nen las inmediaciones y restaurar de inmediato\nel punto de acceso.
+pod153: Alerta: interferidas las comunicaciones\ndel punto de acceso.
+pod153: Hipótesis: interferencia causada por enemigos\nen las inmediaciones.
+pod153: Propuesta: eliminar a los enemigos\nen las inmediaciones y restaurar de inmediato\nel punto de acceso.
+a9s: Eh, oye. Estos son datos sobre el mundo antiguo.
+a9s: Datos del mundo antiguo, ¿eh?
+pod042: Datos de mapas obtenidos del búnker.
+pod042: Los datos pueden mostrarse desde\nel menú del sistema.
+a9s: Datos de mapas, ¿eh?
+a9s: Es difícil extraer una imagen precisa de esto...\nLa resolución de nuestros satélites no es la mejor.
+a9s: Con suerte, pronto desplegarán satélites nuevos.
+a2b: Con una idea general es suficiente.
+a9s: Je. No eres de las que buscan excusas, ¿eh?
+[[ph1\p100\p100_301b50d3_scp.bin]]
+a9s: ¿2B? Eh, ¿señorita?
+a2b: ¿Qué pasa?
+a9s: Te iba a enviar los datos\ntopográficos que recogí antes.
+a2b: Hazlo.
+a9s: ¿Sabes, señorita? Me alegro de tenerte aquí.
+a2b: ¿Por qué?
+a9s: Los escaneadores como yo solemos trabajar solos.\nExploramos las líneas enemigas y todo eso.
+a9s: Raramente tengo compañía, ¡pero le\nestoy cogiendo el gusto!
+a2b: Las emociones están prohibidas...
+a9s: ¡P-Perdón, señorita!
+a2b: Y otra cosa...
+a2b: Deja de llamarme «señorita».
+a9s: ¿Eh?
+a2b: Es innecesario.
+a9s: Muy bien. ¡2B a secas, pues!
+a2b: Este lugar es inmenso.
+a9s: Supongo que los humanos las usaban\ncomo fábrica de armas.
+a9s: Pero ahora son solo nidos de máquinas.
+a9s: El enemigo parece haber adaptado las instalaciones\npara incrementar su producción general de máquinas.
+a2b: Así que, si no las destruimos, no\ndejarán de llegar más.
+a2b: ¿Qué?
+a9s: Está accediendo a datos al azar\ny sin sentido del mundo antiguo.
+a9s: Nada de lo que hacen las máquinas\ntiene algún significado.
+a9s: ¿Te refieres a los pájaros?
+a9s: Sí, aquí hay más plantas y animales\nde lo que era habitual. Probablemente\nporque el entorno ha cambiado.
+a2b: ¿Eso es...?
+a2b: He explorado toda la fábrica, pero no he podido\nencontrar nada que se parezca a nuestro objetivo.
+a9s: Tal vez... No sé. ¿Lo cambiarían de sitio?
+a9s: Debería haber otra instalación\nal otro lado de ese puente.
+a9s: Es un paseo, pero ¿no vamos a comprobarlo?
+a9s: No es propio del mando confundir una ubicación.\nHasta ellos manejan información de mala calidad\nde vez en cuando, ¿eh?
+a2b: Mmm.
+a2b: No apostaría por ello.
+a9s: ¿2B? ¿Q-Qué está pasando?
+a2b: 
+pod153: Parece estar iniciando su ataque\nsobre el enemigo objetivo.
+a9s: ¡Tenemos que ayudarla! ¡Vamos!
+[[ph1\p100\p100_306867fd_scp.bin]]
+a9s: Esta debió de ser una gran ciudad antaño.\nPena que la vegetación lo haya cubierto casi todo...
+a9s: Ahí está el campamento de la\nResistencia.
+a9s: Quizás deberíamos ir a hablar primero\ncon su líder.
+ane: Eres...
+ane: Número 2...
+a9s: ¿Mmm? ¿Conoces a 2B?
+ane: Mmm... Sí, bueno, el búnker me dijo que vendríais.
+ane: Me llamo Anémona.
+ane: Soy la líder de la Resistencia\nandroide que controla casi todo este\nterritorio.
+ane: Debéis de ser los nuevos exploradores\nde los que hemos oído hablar.
+ane: Bueno, seguro que mi gente tendrá información\nde sobra para vosotros.
+ane: No dudéis en preguntarles lo que queráis.
+ane: Imagino que tratarás mucho con los comerciantes\nde armas y de suministros. ¿Por qué no te pasas\na saludar?
+ane: Además, hay un tío cerca de la entrada que lleva\nla cabeza de una forma de vida mecánica...
+ane: Es un poco raro, pero es muy listo y seguro que\npodrá darte mucha información útil.
+ane: Ah, y tengo que pedirte algo.
+ane: Últimamente, han visto muchas máquinas peligrosas\nen el desierto.
+ane: Esto no es habitual, así que podría indicar\nalgo mucho peor.
+ane: Me han dicho que a los de YoRHa se os da\nbien examinar las cosas.
+ane: ¿Crees que podrías encargarte de este asunto?
+ane: Ayudarla.
+ane: No ayudarla.
+ane: ¡Gracias! Sabía que podía contar contigo.
+ane: Le diré a nuestros aliados del desierto\nque vas para allá.
+ane: Ten cuidado ahí fuera, ¿vale?
+ane: Entiendo. Vale, avísame si cambias de idea.
+op60: Operadora 6O a 2B.\nEs hora de vuestro contacto programado.
+a2b: Aquí 2B. Sin incidencias.
+op60: Me alegro. Bueno, ¿y qué día hace hoy por la Tierra?\n¿Soleado?
+a2b: Está bien. ¿Esa pregunta tiene algo que ver\ncon nuestra operación?
+op60: ¡Pues no! Solo pensaba que debía de ser agradable\ntener buen tiempo.
+a2b: Agradables o no, las misiones están\npara completarlas.
+op60: ¡Je, je! 2B, siempre serás la misma.
+op60: ¡En fin, hablamos luego!
+op210: Operadora 21O a 9S.\nEs hora de vuestro contacto programado.
+a9s: Aquí 9S. Sin incidencias. ¡Y hoy hace muy buen día!
+op210: Sin incidencias, recibido.
+op210: El parte meteorológico es superfluo.\nOperadora 21O fuera.
+a9s: Jo, Operadora, no hace falta que seas siempre\ntan formal.
+a9s: Aunque me gusta eso de ti.
+kj: Oh, ¿una cara nueva?\nDeberías ir a preguntarle al capitán que hay allí.
+toolshop: ¿Una unidad YoRHa? Antes de nada, ve a hablar con la jefa. Hay varios... protocolos que seguir.
+resiman: Aquí la que dirige el cotarro es la jefa Anémona. Primero tienes que saludarla a ella.
+resiman: Eh, no nos conocemos.
+resiman: Uy. ¿Ya has ido a ver a la jefa?
+resiman: ...
+resiwoman: La jefa Anémona es la líder de este campamento.
+resiwoman: ¡Hola! Eres una unidad YoRHa, ¿no? ¡Te estaba esperando! ¿Ya te has reunido con la jefa Anémona? ¿Todavía no? ¿O ya has hablado con ella?
+resiwoman: Bueno, si quieres explorar un poco el campamento asegúrate de obtener permiso antes.
+resiwoman: Ejem... ¿Y tú.... quién eres?
+resiwoman: La jefa está dentro de la tienda.
+resiman: ¿Tú también acabas de llegar aquí?
+resiman: Intenta no acabar en esta sala de primeros auxilios, ¿vale?
+resiman: ¡Eh, vosotros! En primer lugar debéis pasar a hablar con la jefa Anémona. Es lo que se estila aquí .
+resiwoman: ¿Tú acabas de llegar aquí? Un placer conoceros.
+resiman: ...
+resiwoman: Creo que la jefa Anémona está en la tienda de la plaza central.
+resiwoman: Hay muchas cosas de las que no podemos hablar con los forasteros...
+resiman: ¿Eh? ¿Una nueva unidad YoRHa...?
+resiman: ¿Eh? No podéis entrar aquí sin el permiso de la jefa.
+resiman: Lo siento. Tenemos una regla que no permite pasar sin hablar con la líder.
+resiman: Aquí las reglas son particularmente estrictas, más que en otros campamentos. Lo primero de todo es conseguir el permiso de la jefa.
+resiman: ¡Ah! La jefa no está aquí, ¿sabes?
+resiman: ¿Eh? Sin el permiso de la jefa no puedes merodear por aquí.
+ys: Ah, ¿acabas de llegar? Es mejor que vayas a hablar con la jefa Anémona primero.
+bs: Ah, ¿eres una unidad YoRHa? Primero deberás reunirte con la jefa Anémona.
+hennawresi: ¿Vosotros sois los nuevos miembros de la unidad YoRHa?\nEn ese caso, sería bueno que os reunierais con la jefa.
+[[ph1\p100\p100_39cda07a_scp.bin]]
+a9s: Esta arena es de lo más resbaladizo.
+a9s: Cuidado. Se acercan enemigos.
+n02: An... droide...
+n02: De... sierto...
+n02: M-Matar...
+n02: Caaar... carne...
+a2b: Estas máquinas están... hablando.
+a9s: Sí. Los de la Resistencia me han dicho que lo\nven muy a menudo últimamente.
+a9s: Aunque no sabría decirte por qué.
+n02: An... droide...
+n02: Ex... terminar... enemigo...
+n02: Mi... miedo...
+n02: Enemigo... temible...
+a9s: ¿Crees que entienden siquiera lo que significa\ntener miedo?
+n02: Enemigo... M-Matar enemigo...
+n02: Por quéee...
+n02: N-No... Alejaos...
+a2b: ¿A qué vienen esos trajes tan raros?
+a9s: Vi algo parecido revisando datos\nantiguos. Se parece a lo que vestían\nlos humanos hace mucho tiempo.
+a9s: Ciertos colectivos humanos también usaban\npintura facial como esta.
+n02: Nooo... Mi... Miedo...
+n02: Ayu... daaa...
+n02: ¡Ayu... da!
+a9s: ¡2B, no pasa nada! Sus palabras no\nsignifican nada.
+a9s: Solo dicen palabras al azar.
+a9s: Si quisieran ayuda, ¿por qué iban a atacarnos?
+a2b: Sí...
+n02: Hoy... Ayer... Hola...
+n02: Matar... Matar...
+n02: Temible... Amable... Verdura... Carne...
+n02: Muere... Corre... Corre... Temible...
+a9s: ¡Se dirige hacia esa zona rocosa!
+pod042: Identificador de objetivo individual marcado.
+pod153: Identificador de objetivo individual marcado.
+[[ph1\p100\p100_43f203b8_scp.bin]]
+a9s: Je. Señora, has trasteado tanto y con tantas cosas\nque acabé superando mi límite de almacenamiento.\nTengo que detener la grabación de momento.
+[[ph1\p100\p100_440fda42_scp.bin]]
+a9s: Eres 2B, ¿verdad?
+a9s: Yo soy 9S. Estoy aquí para dar apoyo.
+a2b: Recibido.
+a9s: Bueeeno, así que ¿esa antigualla de sierra gigante\nera el Goliath que habías venido a finiquitar?
+a2b: No. Es solo un sistema defensivo más.
+a9s: Oh. Bueno, eh... Supongo que\nentonces tenemos que encontrar al\nobjetivo, ¿no?
+a9s: Tengo una unidad de vuelo, así que\necharé un vistazo en torno al perímetro.
+a2b: Muy bien. Yo me las ingeniaré para\ncolarme desde el suelo.
+[[ph1\p100\p100_46039a11_scp.bin]]
+[[ph1\p100\p100_47a5d6eb_scp.bin]]
+a2b: Todas llevan banderas blancas...
+a9s: Ya sé que esto no te entusiasma, 2B, pero ¿por qué\nno escuchar lo que las máquinas tengan que decir?\nTengo curiosidad por conocer sus intenciones.
+a9s: Alerta: la información actual no es suficiente\npara el mando. Sugiero investigar el\nemplazamiento de las formas de vida mecánicas.
+a9s: Parece que realmente no quieren\nluchar.
+a2b: 9S, regresemos y obtengamos\nmás datos de las máquinas.
+a9s: Esta aldea tiene algo raro...
+a9s: Deberíamos volver e investigar un poco más.
+pascal: Hola.
+pascal: Antes de comenzar, hay algo que debéis entender...
+pascal: No somos vuestros enemigos.
+a9s: 2B, ¡no podemos fiarnos de lo que digan\nlas máquinas!
+pascal: Comprendo que nos veáis como el enemigo, pero...
+pascal: Bueno, no importa. Me llamo Pascal.\nSoy el líder de esta aldea.
+pascal: Los que residimos aquí tan solo queremos vivir\nuna existencia pacífica.
+pascal: Mirad a vuestro alrededor. Veréis que es cierto.
+pascal: ¿Y bien? ¿Qué opináis?
+a9s: ¡Aj! Ha empezado a transmitirnos directamente...
+pascal: ¿Creéis ahora que no somos una\namenaza?
+a9s: Vuestra boca podrá decir lo que\nquiera...
+a9s: pero seguís sin tener corazón.
+pascal: Supongo que... técnicamente es cierto.
+pascal: Sí, en fin, podéis visitar nuestra\naldea siempre que queráis.
+pascal: Después de todo, ¡la única forma de\ncomprender a alguien es\nconociéndolo, ¿no?
+a2b: Me parece justo.
+pascal: ¿Sabes? Ya tenemos una cierta relación con vosotros,\nandroides.
+pascal: De hecho, esperaba que le pudierais llevar esto\na Anémona al campamento de la Resistencia.
+a9s: ¿Qué es?
+pascal: Es un filtro de combustible que me pidió.
+pascal: Si se lo llevas, le quedará claro que somos\nun grupo pacífico.
+a2b: Muy bien.
+a9s: Anémona, tengo un paquete para ti\nde una máquina llamada Pascal.
+ane: ¿Un filtro de combustible? Ah, perfecto.\nNos estábamos quedando sin ellos.
+ane: Espera, ¿habéis conocido a Pascal?
+a9s: Desde luego.\nAsí que has tenido tratos con máquinas, ¿eh?
+ane: Con las de la aldea. Son inofensivas y, además,\ntienen medios para construir intrincados\ndispositivos que nosotros no podemos crear.
+ane: A cambio, les proporcionamos aceite\ny otros materiales. Podrías llamarlo una forma\nde comercio.
+a9s: Ya veo...
+ane: En cualquier caso, si vuelves allí,\nllévale a Pascal este aceite de alta viscosidad.
+ane: Si ves a Pascal, dale este aceite\nde alta viscosidad, por favor.
+ane: Gracias por todo lo que habéis hecho\npor nosotros. ¡Oh! Casi me olvido.
+ane: He preparado una habitación aquí para androides\nde YoRHa.
+ane: Podéis utilizarla cuando veáis oportuno.
+pascal: ¡Oh, me has traído aceite de alta viscosidad!
+pascal: Anémona es muy amable y comprensiva.
+pascal: Ojalá todos los androides y máquinas\npudieran vivir juntos y en paz...
+a9s: Eso nunca va a pasar.
+pascal: Supongo. Si pudierais ayudar a algunas\nde las otras máquinas, os lo agradecería mucho.
+human: El Concilio de la Humanidad tiene un mensaje\npara todos nuestros valientes androides\nque luchan en la superficie.
+human: Han pasado varios miles de años\ndesde que los alienígenas y sus fuerzas de avance,\nlas formas de vida mecánicas, nos atacaron.
+human: Miles de años desde que la humanidad fue obligada\na exiliarse a la superficie de la Luna.
+human: Pero gracias a vuestra lucha continuada,\nhemos podido sobrevivir.
+human: Vosotros, nuestros soldados androides,\nsois la última esperanza de la humanidad.
+human: Esperamos que el éxito siga en el campo de batalla.
+human: Gloria a la humanidad.
+op60: Operadora 6O a 2B...\nEs hora de vuestro contacto programado.
+a2b: Aquí 2B. ¿Qué sucede?
+op60: Nada, que había una operadora que me hacía tilín,\npero le pedí una cita y me mandó a paseo.
+op60: ¿Te digo la verdad, 2B? No sé cómo voy a levantarme\npor las mañanas tras esto.
+a2b: Soy la persona menos indicada para hablar de esto.
+op60: No creo que pueda aguantar un solo día más\nen este búnker...
+a2b: Sería negativo para mí que te fueras.\nAfectaría a la eficiencia de la misión.
+op60: ¿Es-Estás diciendo que me necesitas, 2B?
+a2b: Todas las unidades de combate del modelo B\nnecesitan la asistencia de una operadora.
+a2b: O sea que...
+op60: 2B...
+a2b: Eso es todo. Cerrando canal.
+op210: Operadora 21O a 9S.\nEs hora de vuestro contacto programado.
+op210: Hoy tengo algo importante que discutir contigo.
+a9s: ¿De qué se trata?
+op210: Nuestro equipo de mantenimiento ha emitido una queja\nsobre cómo tratas a tu unidad de vuelo.
+op210: Han solicitado que dejes de hacerle modificaciones\nno autorizadas.
+a9s: Bueno, no me quedaba otra. Me llegan tantísimos\ndatos del satélite que está retrasando la corrección\nde la mira.
+op210: Si tienes alguna réplica, tendrás que dársela a\nmantenimiento. Resuélvelo a golpes si es necesario.
+op210: Operadora 21O fuera.
+a9s: Jo, macho... Mi operadora es más dada a la violencia\nde lo que parecía.
+[[ph1\p100\p100_4a55485a_scp.bin]]
+[[ph1\p100\p100_4aa7dace_scp.bin]]
+a9s: 2B, ¿puedes oírme? Estoy iniciando\ntu secuencia de arranque.
+a9s: Primero, debes comprobar el ajuste de brillo.
+a9s: ¿Mmm? ¿No sabes cómo se configura el brillo?\nCreo que se ajusta para que responda\na alguna clase de entrada.
+a9s: Eh, muy bien. Dame solo un momento...
+a9s: ¡Bien, encontré la guía! Si puedes seguirla,\ntodo será más fácil.
+a9s: Muy bien. Vamos a comenzar.
+a9s: Veremos cada ajuste por orden.
+a9s: Vamos a empezar ajustando el brillo.
+a9s: Vale, ¿se ve bien?
+a2b: Sí
+a9s: Recibido.
+a2b: No
+a9s: Ah, y debería informarte de que todo este proceso\nse está grabando para la posteridad.
+a9s: Ahora, echemos un vistazo a los ajustes\nde reconocimiento de voz.
+a9s: El reconocimiento de voz está ajustado en silencio\ny no funciona. Voy a llamarte.\nAsegúrate de que oyes mi voz.
+a9s: ¿Señorita? ¿Estás ahí? ¿Puedes oírme?
+a9s: Eh, ¿hola? Ajusta la configuración\npara que puedas oírme, ¿de acuerdo?
+a9s: Ajusta la configuración hasta que puedas oír mi voz.
+a9s: Ejem, ¿puedes intentar ir un poco más rápido?\nEsto empieza a ser embarazoso.
+a9s: Espera, ahora no deberías poder escucharme...
+a9s: Muy bien, ¿está todo bien?
+a9s: ¡Vale! La configuración ya debería ser correcta.
+a2b: Estoy bien, 9S. Hay algo en tu voz que me calma.
+a9s: ¡Oh, eh, g-gracias!\nBueno, con eso ya está tu configuración.
+a9s: ¡¿Ngh?! ¿Qué demonios...?\n¡El pulso se me acelera!
+a9s: Mmm... Parece que vuelve a la normalidad.\nQué raro.
+a9s: Eh, espera. No tienes permiso de autodestrucción.\nUn segundo, hay que restablecerlos.
+a9s: Podría hacerlo yo, pero creo que es mejor\nque te ocupes tú. Normativas y demás, ¿entiendes?
+a9s: ¿Eh? Espera, no. Tienes que dejar eso encendido.
+a9s: Sí, no puedes hacer eso. Tiene que estar encendido\nsalvo en casos muy específicos.
+a9s: Me temo que no puedo dejar esto como está, señora.\nDame permiso, por favor.
+a9s: ¡Eh, vamos! Solo intento seguir la normativa.
+a9s: Vale, bien. Si la cosa se tuerce\ndurante una operación, tal vez debas\nsacrificarte para completarla, así que...
+a9s: Cuando termines con los ajustes,\npodemos cerrar esto.
+a9s: Ah, veo que has activado la detección de vibración.\nVamos a comprobar que funcione.
+a9s: Voy a tocarte en los hombros, ¿de acuerdo?
+a9s: ¿Cómo fue? ¿Lo has sentido?
+a9s: Comprobación completada.
+a9s: ¿Eh? Qué raro. Todo debería estar bien configurado.
+a9s: Déjame probar en otra parte.\nAhora voy a tocarte en el brazo, ¿de acuerdo?
+a9s: ¿Has sentido eso?
+a9s: Comprobación completada.
+a9s: ¿Eh? ¿De verdad?
+a9s: 2B debe de haber sentido eso...\nQuizá solo esté jugando conmigo.
+a9s: Si tú lo dices... ¿Qué tal esto?
+a9s: Pero ¿debería tocarla aquí?\nPodría enfadarse conmigo.
+a9s: Esto... ¿Cómo fue?
+a9s: Comprobación completada.
+a9s: ¿Lo dices en serio?
+a9s: ¿No has sentido nada ahora mismo?
+a9s: Bueno, vamos a probar otra cosa.
+a9s: Ya no hay vuelta atrás, supongo...
+a9s: ¿Bien?
+a9s: De acuerdo, genial. Gracias.
+a9s: Mmm... No sé qué causa esto, por lo que luego\nhabrá que ejecutar un diagnóstico profundo.
+a9s: En cualquier caso, de momento\nse acabaron las comprobaciones.
+a9s: Sé que a nadie le gusta la idea\nde la autodestrucción.
+a9s: Pero es lo que indica la normativa.\nSin embargo, no se lo contaré al comandante.
+a9s: ¿Tú... no quieres oír mi voz?\nEs tu decisión, claro, pero...
+a9s: Has deshecho los ajustes que te había configurado.
+a9s: Eh, esto no va de mí, ¿no? Porque espero de verdad\nque formemos un buen equipo que avanza.
+sele: Sí
+sele: No
+[[ph1\p100\p100_508c029e_scp.bin]]
+ane: Ah, sois vosotros.
+ane: Gracias por todo lo que habéis hecho por nosotros.
+ane: No tenemos mucho que ofrecer como agradecimiento,\npero os he preparado una habitación aquí.
+a2b: ¿Oh?
+ane: Es lo menos que podemos hacer.\nPodéis utilizarla como queráis.
+a9s: ¡Vaya, gracias!
+[[ph1\p100\p100_536bd4fb_scp.bin]]
+a9s: Eres 2B, ¿verdad?
+a9s: Yo soy 9S. Estoy aquí para dar apoyo.
+a2b: Recibido.
+a9s: Bueeeno, así que ¿esa antigualla de sierra gigante\nera el Goliath que habías venido a finiquitar?
+a2b: No. Es solo un sistema defensivo más.
+a9s: Oh. Bueno, eh... Supongo que\nentonces tenemos que encontrar al\nobjetivo, ¿no?
+a9s: Tengo una unidad de vuelo, así que\necharé un vistazo en torno al perímetro.
+a2b: Muy bien. Yo me las ingeniaré para\ncolarme desde el suelo.
+a9s: ¿2B? Eh, ¿señorita?
+a2b: ¿Qué pasa?
+a9s: Te iba a enviar los datos\ntopográficos que recogí antes.
+a2b: Hazlo.
+[[ph1\p100\p100_54edd5c_scp.bin]]
+a2b: ¡9S!
+pod042: Señal de la caja negra de 9S detectada.
+pod042: Sin respuesta a nuestras comunicaciones.
+a2b: Voy a por él.
+a2b: ¡Envía una solicitud de apoyo al mando!
+pod042: Negativo. Las comunicaciones están\nbloqueadas.
+a2b: Tengo que ayudar a 9S...
+[[ph1\p100\p100_56e518db_scp.bin]]
+pod042: Alerta: múltiples miembros de la Resistencia\ndetectados bajo esta sala.
+a2b: Pero ¿qué demonios...?
+a9s: ¡Nuestros registros no dicen\nnada de una máquina como esta!
+a9s: ¡Está intentando piratearnos!
+a9s: ¡Si nos dañan mediante pirateo,\ntambién afectará a nuestros cuerpos!
+a2b: ¿En serio nos están atacando con\nandroides muertos?
+a9s: Espera. No creo que...
+a9s: ¡2B! ¡Estoy detectando señales de\ncajas negras!
+a9s: No están muertos, ¡los han\ntransformado en armas!
+a2b: Muy bien. Esto se acaba aquí.
+a9s: Ya casi he analizado el patrón de\npirateo del enemigo.
+a9s: Voy a intentar piratearlo.
+a9s: ¡Mantenla ocupada!
+a2b: Hecho.
+vw: Más... hermosa...
+vw: Más... hermosa...
+vw: Debo... hacerme... más... hermosa...
+vw: Más... Más... Más...
+pod042: Alerta: ataque de saturación\nprovocado por los datos de conciencia del enemigo.
+pod042: Si no logramos destruirlo pronto,\npodrían producirse serios daños en\nlas regiones de la memoria.
+[[ph1\p100\p100_56f39801_scp.bin]]
+a9s: ¡Vamos! ¡Por ese agujero!
+[[ph1\p100\p100_5f2b7c58_scp.bin]]
+a2b: ¿Eso es...?
+a9s: ¿Te refieres a los pájaros?
+a9s: Sí, aquí hay más plantas y animales\nde lo que era habitual. Probablemente\nporque el entorno ha cambiado.
+a2b: He explorado toda la fábrica, pero no he podido\nencontrar nada que se parezca a nuestro objetivo.
+a9s: Tal vez... No sé. ¿Lo cambiarían de sitio?
+a9s: Debería haber otra instalación\nal otro lado de ese puente.
+a9s: Es un paseo, pero ¿no vamos a comprobarlo?
+a9s: No es propio del mando confundir una ubicación.\nHasta ellos manejan información de mala calidad\nde vez en cuando, ¿eh?
+a2b: Mmm.
+a2b: No apostaría por ello.
+[[ph1\p100\p100_61b598fd_scp.bin]]
+pod042: Pod 042 a Operadora.
+pod042: Confirmadas las coordenadas que especificó\nla líder de la Resistencia.
+op60: Entendido, 042.
+op60: Colocando marcador sobre el objetivo.
+op60: El calor del desierto va a dificultar los esfuerzos\nde reaprovisionamiento, 2B.
+op60: Por favor, ¡asegúrate de prepararte antes de salir!
+op210: Operadora a 9S.
+op210: Transfiriendo los datos de coordenadas para la\nlocalización especificada por la líder\nde la Resistencia.
+a9s: Gracias, Operadora. Eres rápida.
+op210: La cháchara consume energía, 9S.
+op210: Por favor, cíñete solo a comentarios\nrelacionados con la misión.
+a9s: Ya, ya.
+resi: Eh. Nuestra líder nos contó todo sobre vosotros.
+resi: Me llamo Pirada. Un placer conoceros.
+resi: He oído que planeáis acabar con todas las máquinas\ndel desierto.
+resi: Supongo que eso significa que necesitamos\nabrir esa entrada.
+a9s: Eso parece. Así que, eh... ¿Pirada, era?\n¿Qué estás haciendo en un lugar tan remoto?
+resi: ¿Mmm? Oh, eso. Bueno...
+resi: No queremos que nadie acabe enredado en eso, ¿no?
+resi: Nada de hacerse los héroes, ¿de acuerdo?
+a9s: ¿A quién se le ocurre abrir una puerta sellada\ncon explosivos?
+a9s: Debe de haber un modo más fácil, ¿no?
+human: El Concilio de la Humanidad tiene un mensaje\npara todos nuestros valientes androides\nque luchan en la superficie.
+human: Actualmente, nuestro conflicto contra las formas\nde vida mecánicas está en punto muerto.
+human: La batalla se ha prolongado durante demasiado\ntiempo. No dudo de que todos encontramos\nel esfuerzo extenuante.
+human: Pero no es el momento de rendirse.\nAhora más que nunca, debemos seguir adelante.
+human: Recordad que los varios cientos de miles de humanos\nde la Luna no desean sino regresar a la Tierra.
+human: Gloria a la humanidad.
+a9s: Esas emisiones del Concilio son siempre\nmuy almidonadas.
+[[ph1\p100\p100_643b9449_scp.bin]]
+a9s: Según nuestra información, las máquinas de esta zona\nno son hostiles.
+a9s: Hemos estado observando cada vez más enemigos\nde este tipo.
+a9s: Se limitan a quedarse quietos y a mirar\npara el aire. Es bastante raro.
+a9s: ¡Eh! ¡2B!
+a9s: Ya eres mayorcita para intentar algo así.\nNi siquiera un YoRHa de última generación como tú\nsobreviviría a una caída como esa.
+a9s: Intenta no actuar de forma tan imprudente, ¿vale?
+pod042: Ubicación del objetivo adquirida.\nMarcándola en el mapa.
+pod042: Propuesta: proceder a la ubicación objetivo.
+[[ph1\p100\p100_6695192d_scp.bin]]
+a2b: ...
+a9s: Entonces... Misión cumplida y todo eso, ¿no?
+a9s: Los Goliaths fueron aniquilados y abrimos\nuna ruta para internarnos en territorio enemigo.\nAhora podemos...
+a2b: ¿9S?
+a9s: ¿Sí?
+a2b: Gracias.
+a2b: Por transmitir mis datos al búnker.
+a9s: ...
+a9s: Mmm, ¿yo hice eso? No lo recuerdo.
+a9s: No es que sobrase el ancho de banda\nallí abajo, ¿sabes?
+a9s: Es probable que solo me diese tiempo\na copiar tus recuerdos.
+a9s: Los míos solo están intactos hasta el momento\nprevio a que nos encontrásemos.
+a2b: Entiendo.
+[[ph1\p100\p100_69ab2de6_scp.bin]]
+a9s: Oye, 2B, ¿por qué habrán enviado a un\nmodelo de combate como tú a un\nreconocimiento?
+a9s: Si solo necesitan información, los\nmodelos escaneadores estamos\ndiseñados para ello.
+a2b: Las órdenes son las órdenes.
+a9s: Vale, vale.
+op60: 2B, a partir de ahora vas a llevar instalado\nnuevo armamento.
+op60: Te voy a dejar aquí unas instrucciones.\n¡Asegúrate de memorizarlas!
+a2b: Recibido.
+op60: Búnker a 2B, adelante.
+op60: He fijado un punto de aterrizaje para\nvuestras unidades de vuelo.
+op60: Por desgracia, tomaréis tierra bastante lejos\ndel campamento de la Resistencia.
+op60: Siento las molestias, pero no podemos permitir que\nel enemigo conozca su posición.
+a2b: Entendido.
+op60: Buena suerte ahí abajo.
+[[ph1\p100\p100_6a34d49e_scp.bin]]
+a9s: ¿Sabes, señorita? Me alegro de tenerte aquí.
+a2b: ¿Por qué?
+a9s: Los escaneadores como yo solemos trabajar solos.\nExploramos las líneas enemigas y todo eso.
+a9s: Raramente tengo compañía, ¡pero le\nestoy cogiendo el gusto!
+a2b: Las emociones están prohibidas...
+a9s: ¡P-Perdón, señorita!
+a2b: Y otra cosa...
+a2b: Deja de llamarme «señorita».
+a9s: ¿Eh?
+a2b: Es innecesario.
+a9s: Muy bien. ¡2B a secas, pues!
+a2b: Este lugar es inmenso.
+a9s: Supongo que los humanos las usaban\ncomo fábrica de armas.
+a9s: Pero ahora son solo nidos de máquinas.
+a9s: El enemigo parece haber adaptado las instalaciones\npara incrementar su producción general de máquinas.
+a2b: Así que, si no las destruimos, no\ndejarán de llegar más.
+a2b: ¿Qué?
+a9s: Está accediendo a datos al azar\ny sin sentido del mundo antiguo.
+a9s: Nada de lo que hacen las máquinas\ntiene algún significado.
+[[ph1\p100\p100_6fc2accc_scp.bin]]
+a2b: Pero ¿qué narices acaba de pasar?
+a9s: ¡Lo sé! Nunca había visto una\nmáquina como esa antes.
+a9s: Será mejor que informemos al mando de esto.
+pod042: Alerta: las áreas de flujo elevado pueden impedir\nel movimiento.
+pod042: Sería más eficiente atravesar la zona rocosa\nen su lugar.
+a9s: Se ha parado. Parece que estamos a salvo.
+a9s: Movámonos a una zona con mejor\nrecepción para poder contactar con el\nmando.
+a9s: Vale, aquí puede valer. Deberíamos\npoder contactar con el mando aquí.
+a9s: 9S al búnker. ¿Me recibes?
+op210: Te recibo, 9S. Adelante.
+a9s: Operadora, esto... Acabamos de encontrar un par de\nmáquinas humanoides.
+a9s: No hemos podido capturarlas.
+a9s: Pero tengo datos de combate listos\npara su transmisión.
+op210: Entendido. Lista para la recepción.
+a9s: Con suerte, podrás sacar algo en limpio.
+a9s: Uf. Creo que nos hemos ganado un descanso.
+a9s: ¿Y bien, 2B? Esperaba que pudiésemos discutir\nnuestro próximo movimiento.
+a9s: Me preocupa el daño que sufrimos en la última\nbatalla contra las máquinas.
+a9s: Tal vez deberíamos volver al campamento\nde la Resistencia para reabastecernos y realizar\nlas tareas de mantenimiento, ¿no?
+sele: Ir al campamento de la Resistencia.
+sele: Seguir luchando.
+a2b: Muy bien. Regresemos.
+a9s: Hecho.
+a2b: No. Deberíamos seguir luchando.
+op210: Operadora a 9S: transmisión de datos completada.
+a9s: Recibido. Pero no te mates mucho, ¿vale?
+a9s: Recibido.
+op210: También tengo un mensaje de la comandante.
+op210: Iniciando reproducción.
+cmd: ¿2B? ¿9S? Hemos perdido contacto con varias\nunidades YoRHa de camino a la superficie.
+cmd: Sus cajas negras están conectadas,\nasí que asumimos que siguen con vida.
+cmd: Hemos rastreado la ubicación de sus señales,
+cmd: así que necesito que todas las\nunidades YoRHa de la superficie se\ndirijan allí a investigar.
+op210: Fin de la transmisión.
+a2b: Mmm. Algo oí en el campamento de la\nResistencia.
+a9s: Ubicación objetivo confirmada.
+a9s: Estoy preocupado por los otros androides...
+a9s: Quizás deberíamos investigar esto lo antes posible.
+a9s: Entonces, 2B...
+a9s: Esas máquinas del desierto parecían androides,\n¿verdad?
+a2b: Verdad.
+a9s: Pero los androides estamos hechos a\nsemejanza de nuestros creadores humanos.
+a9s: ¿Para qué querrán las máquinas intentar\nparecerse a nosotros?
+a2b: ...
+a2b: Es inútil tratar de resolver\nproblemas irresolubles.
+a9s: Supongo...
+a9s: Parece que nuestra ruta de la superficie\nha sido bloqueada.
+a9s: Tal vez podamos pasar bajo tierra.
+pod042: Alerta.
+pod153: Alerta.
+[[ph1\p100\p100_73ce9cac_scp.bin]]
+a2b: Tenemos que salvar a esos androides.
+a2b: Gracias por la ayuda.
+a9s: Oh, ¿te refieres al pirateo?\nDe nada.
+a9s: Los escaneadores somos\nmuy buenos con estas cosas.
+a9s: Te cubro las espaldas.
+a9s: Lo siento, 2B. Sus circuitos están\nfritos.
+a9s: Creo que solo los mantenía con vida\nese enemigo.
+a2b: Oh...
+a9s: Entonces...
+a2b: ¿Qué pasa?
+a9s: Esas máquinas decían cosas muy raras, ¿no?
+a9s: Es como si tuviesen emociones\nde verd...
+a2b: Las máquinas no tienen emociones.
+a2b: Tú mismo lo dijiste.
+a9s: Sí... supongo que sí.
+a2b: ¡Enemigos!
+n02: No soy un enemigo.
+a9s: ¿Eh?
+n02: Habéis derrotado a la máquina rota.\nNos habéis salvado.
+a9s: Una máquina de lo más parlanchina.
+n02: Os lo compensaremos. Venid a nuestra aldea.
+sele: Ir a la aldea.
+sele: No ir a la aldea.
+a9s: Podría ser una trampa...
+a9s: Aun así, al menos deberíamos ir y\nreunir información, ¿no?
+a9s: Sí que parece de lo más sospechoso...
+a9s: Pero nunca había visto una máquina\nque pudiese comunicarse a este nivel.
+a9s: Puede que merezca la pena investigarlo.
+n02: No queremos luchar.
+[[ph1\p100\p100_7c282dc8_scp.bin]]
+pod042: Alerta: se detecta que los enemigos\nportan equipos antibalas.
+pod042: Se aconseja combate a corta distancia.
+a2b: Lo sé.
+[[ph1\p100\p100_7c4579da_scp.bin]]
+[[ph1\p100\p100_7f31f924_scp.bin]]
+robo: Hermano... Hermano...
+robo: ...otro...
+robo: Hermano...
+robo: Her... mano...
+robo: Hermano... Por favor, empieza a moverte...
+robo: Espera un momento, hermano...
+robo: Si le doy esto a mi hermano, volverá a moverse.\nNecesito un contenedor...
+robo: ¡Puedo usar esto!
+robo: ¡Ahora todo irá bien, hermano!
+robo: Solo un poco más...
+robo: ... Hermano...
+robo: Oooh... No tropezar...
+[[ph1\p100\p100_81c8f672_scp.bin]]
+eve: ¿Hermano?...
+eve: ¿Por qué tenemos que llevar ropa interior?\nEs un engorro.
+adam: Los registros afirman que los humanos cubrían\nsus partes en sus quehaceres diarios.
+adam: Dejar los genitales al descubierto se consideraba...\nproblemático.
+adam: Así que calla y póntelos de una vez.
+eve: Vale...
+eve: Pero ¿por qué nos comemos esta materia vegetal?
+eve: Las máquinas no necesitan comer cosas así.
+adam: Es un tipo de fruta.
+adam: Nuestros datos sugieren que la humanidad ganó en\ninteligencia al consumir fruta.
+adam: Así que deja de quejarte y cómela ya.
+eve: Vale. Si es lo que quieres...
+eve: Pero, cuando acabemos, ¿podemos jugar un rato?
+adam: Vale.
+eve: Oh, genial, ¡entonces, comeré montones de fruta!
+[[ph1\p100\p100_824dfa10_scp.bin]]
+op210: Operadora a 9S.
+a9s: Aquí 9S. Adelante.
+op210: Tengo un mensaje para 2B y 9S de la comandante.
+op210: Iniciando reproducción.
+cmd: ¿2B? ¿9S? Hemos perdido contacto con varias\nunidades YoRHa de camino a la superficie.
+cmd: Sus cajas negras están conectadas,\nasí que asumimos que siguen con vida.
+cmd: Hemos rastreado la ubicación de sus señales,
+cmd: así que necesito que todas las\nunidades YoRHa de la superficie se\ndirijan allí a investigar.
+op210: Fin de la transmisión.
+a2b: Mmm. Algo oí en el campamento de la\nResistencia.
+a9s: Ubicación objetivo confirmada.
+a9s: Estoy preocupado por los otros androides...
+a9s: Quizás deberíamos investigar esto lo antes posible.
+ane: Ah, sois vosotros.
+ane: Me contó la Pirada vuestro encuentro\nen el desierto. Buen trabajo.
+ane: No tenemos mucho que ofrecer como agradecimiento,\npero os he preparado una habitación aquí.
+a2b: ¿Oh?
+ane: Es lo menos que podemos hacer.\nPodéis utilizarla como queráis.
+a9s: ¡Vaya, gracias!
+[[ph1\p100\p100_8371cfcf_scp.bin]]
+pod153: Análisis del enemigo completado.
+pod153: Vulnerabilidades de programas y\nruta de penetración detectadas.
+pod153: Mostrándolas en la interfaz.
+a9s: ¡Voy a piratear ese chisme para\ndebilitarlo!
+telo: Misil enemigo interceptado.
+a9s: ¿Cuál es tu situación?
+a2b: Este es el objetivo. Voy a destruirlo.
+a9s: Eh... Vale. ¡Yo te cubro!
+[[ph1\p100\p100_89910ddf_scp.bin]]
+pod153: Aproximación de cazas enemigos detectada.
+a9s: En... guardia...
+pod153: Debilidades encontradas en unidades enemigas.
+a9s: 2B... He encontrado una vulnerabilidad\nen el objetivo...
+a9s: Pirateando... para ofrecer apoyo.
+a9s: 2B... El control de la... parte\nsuperior del brazo del enemigo...
+a9s: Usa tu pod... D-Debería poder... encargarse...
+a2b: ¡Te he dicho que te calles!
+a2b: ¡Hazte con su sistema de control!
+pod042: Afirmativo.
+pod042: Infiltrándome en la subunidad enemiga.
+pod042: Tabla de comportamiento ajustada.
+pod042: Control de equilibrio anulado.
+pod042: Dominación de unidad enemiga completada.
+[[ph1\p100\p100_9092a1f1_scp.bin]]
+n02: Muere... Corre... Corre... Temible...
+a9s: ¡Se dirige hacia esa zona rocosa!
+pod042: Identificador de objetivo individual marcado.
+pod153: Identificador de objetivo individual marcado.
+[[ph1\p100\p100_90998b13_scp.bin]]
+a9s: Parece que es hora de ayudar a 2B a arreglarse.
+a9s: Probablemente estará esperando en su habitación.
+a9s: Perdón por interrumpir, pero... ¡Oh!\nParece que ya has empezado.
+[[ph1\p100\p100_93519fe8_scp.bin]]
+[[ph1\p100\p100_973474b4_scp.bin]]
+a2b: 9S...
+a9s: El hangar está más adelante. En marcha.
+a9s: La comandante me ha puesto a cargo\nde tu mantenimiento, señorita.
+a9s: Eso significa que, de ahora en adelante,\nte voy a hacer pruebas de forma rutinaria.
+a9s: ¿Llevas suficientes suministros encima?\nSi no, siempre puedes usar el terminal\nde tu habitación para reponerlos.
+a2b: Ya veo.
+a9s: Ahora que lo pienso, ¿tenemos bastantes suministros?
+a9s: Oh, no te preocupes. Los 9S somos de lo mejorcito\nque hay.
+a2b: ¿Qué te parece si nos reabastecemos allí?
+a9s: Aunque supongo que nos somos famosos\npor nuestra modestia.
+a2b: ...
+a9s: Esta es mi habitación. ¡Pásate cuando quieras!
+a2b: 9S...
+a9s: ¿Eh? ¿Qué sucede, señorita?
+a2b: Deja de llamarme «señorita».
+a9s: ¿Eh?
+a2b: No es necesario ser tan formales.
+a9s: Vaaale. Si tú lo dices...
+a9s: Ah, casi se me olvidaba...
+a9s: No es que haya mucho que hacer aquí...
+a9s: La comandante reclamaba tu presencia.
+a2b: ¿Has olvidado algo?
+a9s: Lo mejor será ir a ver qué pasa, seño... ¡digo, 2B!
+cmd: Ah, 2B.
+cmd: ¿Has acabado el mantenimiento?
+a2b: Sí, comandante.
+cmd: Has detonado tu caja negra para\nderrotar al enemigo.
+cmd: Atrevido, pero arriesgado. Intenta no ser\ntan imprudente la próxima vez.
+a2b: Entendido.
+cmd: Ya sé que acabas de salir del\nmantenimiento, pero tengo otra misión\npara ti.
+cmd: Necesito que vayas a la superficie,\nte reúnas con la Resistencia y hagas\nalgo de reconocimiento.
+a9s: ¿No tiene YoRHa ya un contacto exclusivo\nen la Resistencia?
+cmd: No hemos podido ponernos en contacto con él.
+cmd: Tendrás que investigar eso también.
+a2b: Entendido.
+a9s: ¿La superficie? Eso significa que nos van\na dar unidades de vuelo, ¿no?
+a9s: ¡Será mejor ir hacia el hangar!
+a9s: Jeje. Normalmente, no podemos ni oler las unidades\nde vuelo. Son prohibitivas para usarlas con\npeones como nosotros.
+a9s: Una lástima que aún no puedan\nproducirlas en masa...
+a9s: Debes estar cerca de un punto de acceso\npara guardar tus datos.
+a9s: Puedes ver los puntos de acceso en el mapa\nde corto alcance. ¡No olvides guardar a menudo!
+[[ph1\p100\p100_9b15340d_scp.bin]]
+a9s: ¿Qué es ese ruido?
+op60: ¡2B, esta es una transmisión de\nemergencia del búnker!
+op60: ¡Tenemos lectura de un enemigo de\nclase Goliath en las ruinas de la\nciudad!
+op60: ¡Y parece que hay montones de máquinas con él!
+op60: ¡Todas las unidades YoRHa deben acudir y\nenfrentarse a él de inmediato!
+op210: Operadora a 9S. Está llegando una\ntransmisión de emergencia.
+op210: ¡Hemos detectado un enemigo de\nclase Goliath en las ruinas de la\nciudad!
+op210: Parece que lo acompaña un gran número de\nformas de vida mecánicas.
+op210: Se ordena a todos los miembros YoRHa que ataquen\nde inmediato.
+a9s: ¡¿Un Goliath?!
+a9s: ¡Esto era una trampa! ¡Lo sabía!
+pascal: Os prometo que no conocíamos esa información.
+pascal: Entiendo que es poco probable que me creáis...
+pascal: pero espero que lo hagáis.
+a2b: Ya lo aclararemos luego. Vámonos.
+op210: Aquí Operadora 21O. ¿Me recibes?
+op210: Operadora a 9S. Tengo noticias buenas y malas.
+op210: Primero, las malas. Hemos confirmado la presencia\nde dos enemigos de clase Goliath con\narmamento pesado.
+a9s: ¿Cómo que dos?
+op210: Ahora, las buenas noticias.
+op210: Hemos usado vuestros datos de combate\nrecopilados para analizar al\nenemigo...
+op210: Y parece que hemos identificado un punto débil.
+op210: El mando ha modificado una unidad de\ndisparo conforme a esta nueva información.
+op210: Se ha instalado en un par\nde unidades de vuelo\nque se dirigen hacia vosotros.
+a9s: ¡Toma I+D del YoRHa!
+op210: Comprobad los datos del mapa. Operadora fuera.
+a9s: ¡Gracias, Operadora!
+a9s: 2B, ¡el mando está desplegando\nnuevas unidades de vuelo!
+a9s: Acaban de enviar las coordenadas, así\nque en marcha.
+a2b: Voy.
+a9s: Probablemente, debamos mantenernos\nalejados de los pies de este bicho...
+a9s: Pues sí. Encontremos otra ruta.
+a9s: Las unidades de vuelo deberían\nestar en el tejado de ese edificio\nde ahí delante.
+a9s: Será peligroso, pero no vamos\na ningún sitio si no pasamos\npor las piernas de ese Goliath.
+a9s: Deberíamos andar con cuidado.
+a9s: ¡Aaah!
+a2b: ¡Maldita sea!
+a9s: ¡2B!
+a9s: ¡Mostrando datos en una interfaz\neléctrica central!
+a9s: ¡Vamos hacia esas unidades\nde vuelo mientras podamos!
+op60: ¡Cuidado! El cielo está cubierto de\narmas antiaéreas.
+ysA: ¡Ah!
+op60: Aseguraos de aproximaros a baja altitud.
+ysA: ¿Venciste a esa cosa con equipo\nde tierra? ¡Qué sorpresa!
+a2b: Recibido.
+ysA: Gracias por la ayuda.
+op210: Hay defensas antiaéreas enemigas\npatrullando a mayor altitud.
+ysB: Sois increíbles...
+op210: Se recomienda una aproximación a baja altura.
+a9s: ¡De acuerdo, gracias!
+ysB: Gracias. Os debemos una.
+pod042: Propuesta: confirmar\ndestino actual.
+pod042: Alerta: salir del área\nde operaciones resultó en\nimportantes bajas aliadas.
+[[ph1\p100\p100_a2a7da53_scp.bin]]
+pod042: Aquí el Pod de apoyo táctico 042.
+pod042: Se ha asignado el control a 2B.
+pod153: Aquí el Pod de apoyo táctico 153.
+pod153: Se ha asignado el control a 9S.
+pod042: Intercambio de datos de combate solicitado.
+pod153: Intercambio aceptado.
+pod042: Propuesta: la información debería intercambiarse con\nregularidad para mayor eficiencia.
+pod153: Propuesta aceptada. Los datos se intercambiarán\ncon regularidad para mayor eficiencia.
+pod042: Fin de la comunicación.
+[[ph1\p100\p100_a5817204_scp.bin]]
+pod153: 2B se ha hecho con éxito con el control\nde la unidad enemiga.
+a9s: Apoyo continuado.
+a9s: Carga el paquete de datos de memoria de 2B.
+pod153: Alerta: los datos de memoria para la unidad 9S\nno han sido actualizados aún.
+a9s: Está bien... Carga primero los datos de 2B.
+pod153: Afirmativo.
+[[ph1\p100\p100_a85f65ec_scp.bin]]
+pod042: Alerta: señal de bloqueo de alta potencia detectada.
+pod042: No hay respuesta de las\ncomunicaciones de largo alcance.
+a2b: No importa. Los eliminaré y punto.
+[[ph1\p100\p100_ad2ab405_scp.bin]]
+[[ph1\p100\p100_adc09aec_scp.bin]]
+a2b: ¿Qué es eso?
+a9s: Oh, claro. No podías haberlo visto\nantes.
+a9s: Están enviando suministros desde la\nTierra a la Luna y al búnker.
+a9s: Después de todo, en el espacio\nno hay repuestos ni combustible.
+a2b: Ah.
+a2b: Entonces, ¿por qué las máquinas, o\nlos alienígenas que las crearon, no\natacan el búnker directamente?
+a2b: Provenían del espacio exterior, ¿no?
+a9s: Bueno, hay algunas teorías al respecto...
+a9s: Pero nadie lo sabe con certeza.
+a9s: Es difícil adivinar lo que piensa un\nalienígena, ¿eh?
+[[ph1\p100\p100_c434cc19_scp.bin]]
+[[ph1\p100\p100_c6ab1d8f_scp.bin]]
+a2b: Solicito permiso para entablar combate.
+op60: ¡Permiso concedido!
+a1d: 7E abatida.
+a2b: 1D abatida. Asumiendo responsabilidades de capitán.
+a2b: Múltiples unidades aéreas hostiles confirmadas.\nSolicito permiso para adoptar configuración móvil.
+op60: Permiso concedido.
+a4b: Capitán, creo que...
+a2b: 4B abatida...
+a2b: 2B a Operadora 6O.
+a2b: Todas las unidades aliadas abatidas.
+a2b: La operación está en riesgo. A la\nespera de nuevas órdenes.
+op60: O-Operadora a 2B.
+op60: Necesitamos que te reúnas con la unidad 9S y\ncomencéis a reunir datos sobre el terreno local.
+a2b: Entendido.
+[[ph1\p100\p100_c7fe0b11_scp.bin]]
+[[ph1\p100\p100_cb2621f3_scp.bin]]
+a2b: ¿Quién es ese tío?
+adam: Ahhh...
+adam: An... droides...
+adam: ¿Por qué... luchar?
+adam: Esquivar... espada...
+adam: Desviar... proyectil...
+a9s: ¡Creo que está evolucionando!
+a9s: ¡Será mejor acabar con esto pronto!
+[[ph1\p100\p100_cbfd7706_scp.bin]]
+pod042: Se confirma que la salida está cerrada.
+a2b: Pues ábrela.
+pod042: Negativo. Los enemigos circundantes\nestán bloqueando nuestra señal.
+a2b: Nada es fácil nunca...
+[[ph1\p100\p100_ce928ad9_scp.bin]]
+eng: Matar... Matar... Matar... Matar...
+a2b: Pero... ¿habla? No sabía que las máquinas\nposeyesen ese tipo de inteligencia.
+a9s: 2B... He encontrado una vulnerabilidad\nen el objetivo...
+a9s: Pirateando... para ofrecer apoyo.
+a9s: 2B... El control de la... parte\nsuperior del brazo del enemigo...
+a9s: Usa tu pod... D-Debería poder... encargarse...
+a2b: ¡Te he dicho que te calles!
+a2b: ¡Hazte con su sistema de control!
+a9s: Control... del brazo superior...\narrebatado a unidad enemiga.
+a9s: Marcando punto débil...
+a2b: Entendido.
+pod042: Afirmativo.
+pod042: Infiltrándome en la subunidad enemiga.
+pod042: Tabla de comportamiento ajustada.
+pod042: Control de equilibrio anulado.
+pod042: Dominación de unidad enemiga completada.
+[[ph1\p100\p100_d8a4a747_scp.bin]]
+op210: Operadora 21O a unidad 9S. Responde, 9S.
+pod153: Alerta: desde el suelo no se llega\na los sistemas de defensa.
+a9s: Aquí 9S. Adelante.
+pod153: Se recomienda unidad de vuelo.
+op210: Las tropas YoRHa han iniciado su descenso.
+pod153: Alerta: proceder de inmediato\ncon las operaciones de la misión.
+op210: Incapacita los sistemas de defensa de\nla base enemiga de inmediato.
+a9s: A la orden.
+[[ph1\p100\p100_dfcc155d_scp.bin]]
+a2b: ¿Es ese nuestro objetivo?
+pod042: Negativo. Elemento hostil inconexo.
+pod042: Propuesta: elimínalo lo antes que puedas.
+a2b: No me digas.
+pod042: Comunicaciones láser recuperadas.
+op60: 2B... transmito... programa de tu pod!
+pod042: Descarga del programa de pod completada.
+[[ph1\p100\p100_e1dc4db4_scp.bin]]
+op210: Necesitamos que elimines los sistemas de defensa\nenemigos para darle una oportunidad a nuestro\nescuadrón de ataque.
+op210: Hay cuatro objetivos que debes\npiratear.
+op210: Te advertimos de que se han detectado enemigos\nen torno a cada objetivo y deben ser derrotados\nantes de continuar.
+op210: Ahora el objetivo es accesible.
+a9s: Vale, vale.
+op210: Con un «ya» es suficiente.
+a9s: Ya.
+op210: Pirateo completado. Continuando con\nel próximo objetivo.
+op210: Pirateo completado. Quedan dos\nobjetivos.
+op210: Pirateo completado. Queda un\nobjetivo.
+a9s: Puuuf, esto es un coñazo...
+op210: ¿Debo recordarte que las observaciones personales\nestán restringidas durante las operaciones?
+a9s: Vaaale.
+op210: Pirateo del sistema de defensa\nenemigo completado.
+op210: Nuestro escuadrón de ataque puede infiltrarse\nahora en la base.
+op210: Debes seguir ofreciendo apoyo por\ntodos los medios disponibles.
+[[ph1\p100\p100_e2d39d13_scp.bin]]
+op210: YoRHa ha entrado en la base.
+op210: Sin embargo, solo queda una unidad.
+a9s: ¡Uf! Menuda se ha debido de armar ahí fuera.
+op210: El arma defensiva del enemigo está\ncomplicando las cosas más de lo previsto.
+[[ph1\p100\p100_ec82f9bf_scp.bin]]
+n02: ¡No se rinden! ¡Corre! ¡Corre!
+n02: ¡Esta me la pagarás!
+a9s: Múltiples máquinas detectadas delante.
+a9s: Pero ¿qué hacen aquí estos cuerpos de androides?
+a2b: No te descentres.
+n02: ¡Debo correr!
+a9s: ¡Allí está!
+n02: Niño. Niño. Niño.
+a2b: ¿Qué es esto?
+n02: Amor. Mío. Amor. Mío.
+a9s: No las escuches, 2B.
+n02: Juntos. Siempre. Juntos. Siempre.
+n02: Llévame. Llevaaa.
+a9s: No tienen sentimientos.
+a9s: Solo imitan el habla humana.
+a9s: Acabemos con ellos.
+n02: ¡Darme! ¡Comida!
+n02: Amor. Amor. Amor. Amor.
+n02: ¡Matad a los androides!
+n02: ¡Matad! ¡Destruid!
+n02: ¡Te quiero! ¡Matar!
+n02: ¡Odio! ¡Dolor!
+n02: ¡Masacre!
+n02: Esto. No puede. Continuar.
+n02: Esto. No puede. Continuar.
+n02: Esto. No puede. Continuar.
+[[ph1\p100\p100_f5aa4a11_scp.bin]]
+[[ph1\p100\p100_f633da63_scp.bin]]
+[[ph1\p100\p100_f8c49aea_scp.bin]]
+[[ph1\p100\p100_fa238e7c_scp.bin]]
+a2b: Todo cuanto vive está diseñado para morir.
+a2b: Estamos atrapados a perpetuidad...
+a2b: en una espiral infinita de vida y muerte.
+a2b: ¿Será una maldición...
+a2b: o algún tipo de castigo?
+a2b: Pienso a menudo en el dios que nos «bendijo» \ncon este críptico acertijo...
+a2b: y me pregunto si tendremos algún día\nla ocasión de matarlo.
+op60: Al habla el mando. Escuadrón YoRHa, responde.
+a2b: Aquí 2B. Todas las unidades han penetrado la\nestratosfera.
+a2b: Todos los sistemas de navegación automática en\nverde.
+op60: Aquí Operadora 6O. Todas las unidades confirmadas.
+a2b: Hemos cruzado el umbral de los 50 kilómetros y\navanzamos hacia el objetivo.
+op60: Entendido. Cuando alcancéis sus defensas antiaéreas,\ncambiad a formación de ataque manual...
+op60: y destruid la unidad de clase Goliath a toda costa\ny reunid todos los datos que podáis.
+a2b: Entendido.
+a2b: 12H abatida.
+a2b: A todas las unidades, activad el modo manual y\nla evasión por observación directa.
+pod042: Ya activado. Movimiento libre desbloqueado.
+a1d: Punto de origen de los láseres de\nlargo alcance confirmado.
+a1d: 11B abatida.
+a1d: Las contramedidas de nuestros Ho229\nson ineficaces.
+pod042: Alerta: unidades enemigas avistadas al frente.
+[[phf\pf30\pf30_148bec7a_scp.bin]]
+unknown: Los YoRHa fueron exterminados...\nY, así, la Tierra se convirtió en un paraíso\npara las máquinas.
+unknown: YoRHa no pudo resistir el poder de las máquinas\nde clase Goliath y su extinción es cuestión\nde tiempo. La humanidad no recobrará su gloria.
+unknown: Se oyó decir a 9S: «No puedo controlar mi curiosidad \npor las máquinas. Seré independiente para \nestudiarlas como quiera». No se le volvió a ver.
+unknown: El abandono de su misión por parte de 2B y 9S\nfue un duro golpe para las ruinas de la ciudad\ny el campamento de la Resistencia.
+unknown: La extinción de YoRHa es solo cuestión de tiempo.
+unknown: 9S esperó varias décadas el regreso de 2B.\nPero no se la volvió a ver.
+unknown: El berrinche de 2B provocó la extinción de todas\nlas formas de vida mecánicas e impidió que\nla paz regresara a los androides.
+unknown: Tras consumir la caballa, sus fluidos corporales\nno tardaron en coagularse.\nPoco después, sus músculos fueron quedando rígidos.
+unknown: «Aunque estuvo bien», pensó mientras \nsu conciencia se desvanecía. Incluso exquisito. \nNo me extraña que los humanos las consumieran».
+unknown: 2B abandonó su misión, harta de tanto sufrimiento.\nDecidió ir a pescar. ¡Eso! La pesca no estaba mal.\nSe dirigió hacia la costa con una sonrisa.
+unknown: Diez años más tarde, 2B acabó perseguida por\nformas de vida mecánicas y asesinos de YoRHa.\nParecía disfrutar más que en su vida anterior.
+unknown: A A2 le entraron ganas de salir a pasear.\nAl regresar, satisfecha, la aldea de Pascal\nhabía sido reducida a cenizas.
+unknown: Una aldea de máquinas pacíficas había sido\nexterminada por los actos de un solo\nandroide demente.
+unknown: Y, así, las máquinas pacíficas fueron exterminadas.\nNadie se acerca ya a la aldea y se dice que,\na veces, es posible oír la risa de un androide.
+unknown: Algunas unidades YoRHa abandonaron su misión.\nLa operación fracasó y los androides perecieron.
+unknown: Salvo los extraordinariamente egoístas.
+unknown: El virus alcanzó los nervios centrales de 2B,\nque perdió todo sentido de la razón y vagó\npor las ruinas hasta que sus funciones fallaron.
+unknown: 9S perdió repentinamente el interés en 2B.\nNadie sabe por qué, pero dejó de\npreocuparse por ella.
+unknown: A2 tuvo una «brillante» idea, consistente \nen destruir todas las máquinas a la vista. \nPascal no pudo sino mirar atónito.
+unknown: 9S dejó a Devola y Popola para que se\nvalieran solas. Poco después, se encontraron\nsus cuerpos sin vida.
+unknown: Aviso: ¡Actúe con precaución!\nNo extraiga el chip de SO. Esto provocará la muerte.
+unknown: Al autodestruirse en el búnker, la estructura\nacabó explotando con violencia. Eso sí,\n¡la explosión fue bonita desde la superficie!
+unknown: En algún lugar del espacio, la comandante\nsigue flotando con una expresión muy severa.
+unknown: 9S decidió no piratear la torre para ayudar\na Devola y Popola. Aunque era una buena idea,\nlos tres acabaron muertos igual.
+unknown: A A2 le entraron ganas de salir a pasear.\nAl regresar, satisfecha, el cuerpo de 2B\nhabía sido consumido por las máquinas.
+unknown: Los Emils descontrolaron sus reactores de fusión.\nAhora, el planeta es una roca inhabitable.
+unknown: A2 destruyó a Pascal y las máquinas de la aldea\nenloquecieron, lo que acabó eliminando\na los androides de la faz de la Tierra.
+[[st1\r100\r100_c723351a_scp.bin]]
+a9s: Si movemos esa caja podremos\nentrar en las ruinas de la ciudad.
+a9s: La vida vegetal ha reclamado\nla mayor parte de la zona central...
+a9s: Incluidas las plantas grandes.
+pod153: Informe: los registros muestran que la vegetación\nha crecido hasta alcanzar una talla anómala\ndesde la partida de los humanos.
+a9s: Mmm. Me pregunto si habrá también\njabalíes enormes y esas cosas.
+pod153: Alerta: formas de vida mecánicas detectadas.\nSe confirma que son de alta energía y\nestán equipadas con armamento peligroso.
+[[st1\r120\r120_f0d26b5d_scp.bin]]
+pod042: Análisis: los controles de este ascensor\nestán bloqueados y no pueden usarse.

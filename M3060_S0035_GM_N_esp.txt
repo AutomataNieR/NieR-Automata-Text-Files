@@ -1,0 +1,514 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+.M3060_S0035_GM_N
+..Desierto, parte 1: Devola y Popola rememoran
+
+<BGLOAD_1_1>
+<BGON_1_1>
+<color_ffffff>
+<bgcolor_000000>
+*Show desert image A (wide desert area)
+
+<BGM_BGM_M3060_S0035_N_start>
+<page>
+«...»<bt_wait>
+Un viento polvoriento me besa las mejillas.<bt_wait>
+
+Enterradas en la arena, avanzamos paso a paso.
+Después de todo, no tenemos otro sitio al que ir.<bt_wait>
+Porque nuestros modelos, los modelos Devola y Popola, son defectuosos.
+</page>
+
+
+<BGOFF_1_1>
+El proyecto comienza.
+
+<page>
+
+
+
+
+
+[Registro: transiciones en la fase inicial del proyecto]<BGM_BGM_M3060_S0035_N_0010>
+
+
+
+
+</page>
+
+<page>
+Cuando despertamos, todavía había personas.<bt_wait>
+Tenían carne. Ego. Emociones. Alma. Y nos dieron una única orden:
+
+<i>Servid como observadoras del proyecto Gestalt.</i><bt_wait>
+
+Esa es la única misión de los modelos gemelos Devola y Popola.<bt_wait>
+Es la única razón por la que existimos.
+</page>
+
+<page>
+Fuimos el último modelo, aunque muchas compañeras compartían nuestro aspecto.<bt_wait>
+
+En nuestros ojos, había una chispa. Una sensación de orgullo por que
+se nos confiara el futuro de la humanidad.<bt_wait>
+
+Y, sí, también había ansiedad.<bt_wait>
+Pero existíamos como una pareja. Compartíamos el peso del destino.
+Y, debido a eso, no albergábamos ninguna duda.
+</page>
+
+<page>
+A cada pareja se le asignaba una ciudad como zona de observación.
+Se nos ordenó que guiáramos a los replicantes con nuestras propias manos.
+Todo por una «era prometida» que un día llegaría.<bt_wait>
+
+Éramos las únicas capaces de realizar tamaña tarea.
+Al fin y al cabo, éramos observadoras.
+</page>
+
+... Desierto, parte 2
+*Show desert image B (rocky area)
+<BGLOAD_1_2>
+<BGON_1_2>
+
+<page>
+«¡Ah!»<bt_wait>
+«¡Cuidado!»<bt_wait>
+Devola trastabilla y cae sobre la arena blanda pero inmisericorde.
+Corro a su lado y suspiro de alivio cuando compruebo que no es nada grave.<bt_wait>
+«¿Estás bien?».<bt_wait>
+«Lo siento, hermana. Me despisté un momento».<bt_wait>
+
+Me regala esa sonrisa burlona que tan bien conozco mientras se frota distraída la pierna.
+Está envuelta en un vendaje blanco.
+</page>
+
+<page>
+«El vendaje se está deshaciendo. Ven, deja que te lo cambie».<bt_wait>
+«No pasa nada, Popola. Vamos, tenemos que seguir antes de que se vaya la luz».<bt_wait>
+«No iremos a ninguna parte si eso se llena de arena.
+Deja de quejarte y quédate quieta. Seré rápida».<bt_wait>
+
+Devola gruñe y aparta la mirada.<bt_wait> Lo tomo como su consentimiento.<bt_wait>
+Pronto, estamos descansando a la sombra de una roca cercana mientras retiro el vendaje.
+</page>
+
+<page>
+Debajo, asoma piel artificial rasgada y ensangrentada.
+A juzgar por la falta de control motriz de Devola,
+diría que sus circuitos interiores también han quedado dañados.<bt_wait>
+Respiro hondo y decido...
+
+<sele_SYURI>・Comprobar los circuitos para ver si pueden repararse.
+<sele_HOUTAI>・Cambiar la venda y esperar lo mejor.
+</page>
+
+
+<label_SYURI>
+<page>
+Como esperaba, el cableado del circuito nervioso está dañado.
+Necesitaremos conectores nuevos y herramientas para sustituirlo.<bt_wait>
+
+Y no será fácil encontrar todo eso en el desierto.
+</page>
+<go_HOUTAI_END>
+
+<label_HOUTAI>
+<page>
+Quiero hacer la reparación, pero me faltan materiales y herramientas.
+Y sé que no los encontraré en medio del desierto.<bt_wait>
+
+De momento, lo más importante es asegurarse de que la herida no empeore.
+</page>
+<go_HOUTAI_END>
+
+<label_HOUTAI_END>
+<page>
+«Lo siento, hermanita», masculla Devola.<bt_wait>
+Esa sonrisa burlona otra vez.<bt_wait> Siempre me llega.<bt_wait>
+«Ni se te ocurra pedirme perdón», le respondo. «No has hecho nada malo».<bt_wait>
+Le cambio la venda, intentando que no se me note la preocupación.
+La aprieto lo mejor que puedo para que no se le cuele arena.
+No puedo hacer más hasta que no consiga los materiales.<bt_wait>
+
+Pero lo vamos a tener complicado, teniendo en cuenta nuestra situación.
+</page>
+
+<page>
+«Lo siento de veras».<bt_wait>
+«Vaya, ¡ahora eres tú la que pides perdón!».<bt_wait>
+
+Las dos nos disculpamos mientras insistimos en que la otra no tiene que hacerlo.<bt_wait>
+Dadas las circunstancias, este diálogo banal es gracioso y todo.
+
+El sonido de nuestras risas se propaga por el desierto antes de que el frío
+viento de la tarde se lo lleve.
+</page>
+
+※画像ＦＯ。
+<BGOFF_1_2>
+Aumentan las recaídas...
+
+<page>
+
+
+
+
+
+[Informe sobre el aumento de recaídas]
+
+
+
+
+
+</page>
+
+<page>
+«¡Tiene que haber alguna manera de evitar las recaídas!».<bt_wait>
+La voz cortante de Devola resuena en nuestro cuarto.
+«Baja la voz o te oirán los replicantes».<bt_wait>
+«Puf. Aunque me oyeran, no lo entenderían».<bt_wait>
+«Puede, pero de todas formas...».
+</page>
+
+<page>
+Molesta por mis dudas, Devola cruza las piernas y frunce el ceño.
+
+«La letra negra se ha cobrado otra víctima», dice. «Ya van tres este mes».
+«Se está extendiendo demasiado rápido».<bt_wait>
+«Esperemos a ver qué ocurre».<bt_wait>
+«¡Siempre dices lo mismo!».<bt_wait>
+
+Su grito me sobresalta. Solo un poco, pero se da cuenta.
+Al verlo, sus ojos se abren de par en par.
+</page>
+
+<page>
+«Lo siento, hermanita. No es culpa tuya. No tendría que haber reaccionado así».<bt_wait>
+«No pasa nada. Lo entiendo».<bt_wait>
+«Todo esto está mal. Tú también lo notas, ¿no?».<bt_wait>
+«Yo...».<bt_wait>
+
+Cuando me asignaron al proyecto Gestalt, estaba orgullosa a más no poder.<bt_wait>
+Pero, ahora, me duele el pecho solo de pensarlo. Si fracasara...
+</page>
+
+<page>
+Cuando quisimos darnos cuenta, los replicantes habían cobrado consciencia
+y la letra negra empezó a extenderse sin control.<bt_wait>
+
+Avanzó rápido.<bt_wait> Muy rápido.<bt_wait>
+Como el viento.<bt_wait>
+
+Popola y yo íbamos a la sala de observación y fingíamos que todo iba bien.
+Hablábamos con los replicantes como si no estuviésemos preocupadas.
+Pero, por la noche, nos abrazábamos y compartíamos el horror de la situación.
+</page>
+
+
+
+<page>
+«Me alegro de que estés conmigo», susurra Popola.
+«No habría soportado ser una observadora yo sola».<bt_wait>
+«Aguantamos porque nos teníamos la una a la otra», respondo en voz baja.<bt_wait>
+
+¿Crees que los humanos lo tenían previsto? ¿Por eso crearon un modelo gemelo?<bt_wait>
+¿De verdad eran tan inteligentes?<bt_wait> ¿De verdad eran tan crueles?<bt_wait>
+No podría haber hecho esto sola. Habría acabado enloqueciendo.
+No podría soportar semejante carga yo sola.
+</page>
+
+<page>
+«Cuando pueda, intentaré contactar con otra ciudad», dice.
+«Quizá estas anomalías sean fenómenos aislados».<bt_wait>
+«Espero que así sea», le respondo. «Incluso si nosotras somos inútiles,
+puede que las cosas aún salgan bien si los demás observadores lo consiguen».<bt_wait>
+«No te preocupes, que todo irá bien».<bt_wait>
+
+Pero no iba bien.<bt_wait> Nada iba bien.<bt_wait>
+Todo gracias a un par de modelos Devola y Popola de otra ciudad.
+</page>
+
+...Desierto, parte 3
+<BGLOAD_1_3>
+<BGON_1_3>
+<page>
+El viento acaricia mis mejillas. La arena araña mi piel.<bt_wait>
+Ha empezado a hacer frío.<bt_wait><BGM_BGM_M3060_S0035_N_0020>
+Tenemos un objetivo renovado: la esperanza de recuperar el tiempo perdido.
+Devola pierde el equilibrio de vez en cuando. Empeora tras un rato.<bt_wait>
+Dejo que se apoye en mí para que no vuelva a caerse y seguimos.<bt_wait>
+
+«¿Cómo va la pierna?».<bt_wait>
+«Me parece que no me verás bailar en una temporada, pero está bien».<bt_wait>
+
+Sonríe mientras lo dice, pero sé que no le queda mucho.
+Y, aun así, sigue sonriendo para que no me preocupe.
+</page>
+
+<page>
+Recuerdo cuando nuestros aliados de la Resistencia le hirieron la pierna.<bt_wait>
+Estaba furiosa. Más que furiosa. Quería gritar y llorar hasta desvanecerme.
+Pero, entonces, sonrió y toda la rabia... desapareció.<bt_wait>
+
+Y pensar que tenemos la misma cara, pero sonrisas tan distintas...<bt_wait>
+
+Un día, me di cuenta de cuánto me recordaba a los mártires de los antiguos registros.
+Fue cuando decidimos marcharnos de nuestra ciudad para siempre.
+</page>
+
+
+<BGOFF_1_3>
+El proyecto Gestalt se desmorona
+
+<page>
+
+
+
+
+
+[Registro del fin del proyecto Gestalt]
+
+
+
+
+
+</page>
+
+<page>
+Nuestra función como observadoras terminó con el fin del proyecto Gestalt.
+Y todo a causa de las acciones de unos modelos Devola y Popola de otra ciudad.<bt_wait>
+
+Con el Gestalt original perdido, la extinción de la humanidad era inevitable.<bt_wait>
+Sabiendo esto, reunimos todos los datos de los replicantes que pudimos
+y los enviamos a la superficie de la Luna.<bt_wait>
+Y, aunque el éxito era tan difícil como encontrar un grano de arena concreto
+en el desierto, teníamos que intentarlo.<bt_wait> Teníamos que hacerlo.<bt_wait>
+Éramos androides. Nuestro instinto era proteger a la humanidad.
+</page>
+
+<page>
+Los otros androides, debido al mismo instinto, dirigieron su odio
+hacia los modelos Devola y Popola responsables del fin de la humanidad.<bt_wait>
+
+Empezó poco a poco. Algunos reproches, miradas desagradables...<bt_wait>
+Pero incluso los pequeños detalles tienen peso y, al juntarse muchos,
+ese peso puede aplastarte.<bt_wait>
+Las emociones estaban a flor de piel. Los reproches se convirtieron en insultos.
+
+
+Y, pronto, mi hermana y yo nos convertimos en el objetivo de la persecución.
+</page>
+
+<page>
+Al principio, aceptamos que nuestros amigos nos volviesen la espalda.<bt_wait>
+Supongo que era casi inevitable.
+Al fin y al cabo, éramos observadoras del proyecto Gestalt.<bt_wait>
+Y, aunque nosotras no provocamos su fracaso, las responsables...<bt_wait>
+En fin, tenían nuestro mismo aspecto.<bt_wait>
+
+Así que lo aceptamos. Todo el resentimiento y el desprecio. Salimos adelante.<bt_wait>
+Porque, aunque suene extraño, creo que nos sentíamos... <bt_wait>responsables.
+</page>
+
+<page>
+Fuimos de ciudad en ciudad intentando evitar la persecución.
+Pero, en una de estas ciudades, sucedió algo que fue la gota que colmó el vaso.<bt_wait>
+Mi hermana Devola sufrió un ataque a manos de un miembro de la Resistencia.
+Devola dijo algo en respuesta a sus provocaciones.<bt_wait> En voz baja.<bt_wait>
+Y, aunque fue una respuesta ambigua, él casi le cortó la pierna por la mitad.<bt_wait>
+
+Mi campo de visión se redujo. Todo se volvió rojo. Y entonces... me sonrió.<bt_wait>
+«Tranquila, hermanita. No podemos hacer nada».<bt_wait>
+Pero ya era demasiado tarde. Mis emociones se habían descontrolado.<bt_wait>
+No soy lo bastante fuerte como para hacerme a un lado y dejar que hagan daño
+a la persona más importante del mundo.
+</page>
+
+<page>
+Devola y yo nos marchamos ese mismo día.
+
+Esa violencia no se detendría. Volvería a ocurrir.<bt_wait>
+Y no vendría solo de una persona.<bt_wait>
+
+Así que, en vez de dejar que nos mataran, huimos.
+Supongo que fue la mayor resistencia que pude oponer.
+</page>
+
+...Desierto, parte 4
+<BGLOAD_1_4>
+<BGON_1_4>
+<page>
+El sol ha desaparecido tras unas nubes oscuras sobre nuestras cabezas.<bt_wait>
+Seguimos avanzando.<bt_wait>
+
+Un viento frío nos azota y nos roba el poco calor corporal que nos quedaba.<bt_wait>
+Huelo la lluvia en el aire.<bt_wait>
+Seguimos avanzando.<bt_wait>
+
+A veces, oímos a lo lejos aullidos de animales.<bt_wait>
+Nos hacen estremecernos.<bt_wait>
+Pero seguimos avanzando porque incluso esto es mejor que sufrir
+a manos de los demás androides.
+</page>
+
+<page>
+¿Por qué hemos de sufrir esta persecución?<bt_wait>
+Sé que somos del mismo modelo que las androides que condenaron a la humanidad.
+Esa parte puedo entenderla.<bt_wait> Más o menos.<bt_wait>
+Pero nosotras <i>no</i> somos ellas. <i>No</i> somos iguales.
+Somos quienes <i>somos</i> y esas Devola y Popola eran quienes <i>eran</i>.<bt_wait>
+Así me sentí cuando hicieron daño a Devola.
+Quería decírselo a todo el mundo. Quería gritar.<bt_wait>
+
+En lo que a mí respecta, solo hay una Devola. <bt_wait>Y, para ella, solo hay una yo.<bt_wait>
+Nadie puede sustituirnos.
+</page>
+
+<page>
+La lluvia cae del cielo.
+Estimula nuestros nervios sensitivos como agujas heladas.<bt_wait>
+
+Necesitamos mantenimiento, pero no vale la pena pensar en ello.<bt_wait>
+Ningún androide ayudaría a unas marginadas como nosotras.
+</page>
+
+<page>
+«¿Tienes frío, Devola?».<bt_wait>
+«Estaré bien mientras estemos juntas, hermanita».<bt_wait>
+«Yo también».<bt_wait>
+
+Nos apretamos la una contra la otra para intentar retener el calor.
+Ahora hace frío. Es peor que el calor abrasador del mediodía.
+Pero nos sonreímos y seguimos apretujándonos.<bt_wait>
+Hay otro campamento al otro lado del desierto. Uno nuevo.
+Si conseguimos llegar, podré reparar la pierna de Devola.
+</page>
+
+
+<page>
+Y, aun así, me pregunto si habrá algún sitio en el mundo que nos acepte.
+
+«Eh, ¿qué pasa?».<bt_wait>
+«Nada. No te preocupes».<bt_wait>
+
+Hago lo que puedo para contener la ansiedad y seguir caminando.
+</page>
+
+<page>
+La lluvia empeora y nos azota sin descanso.<bt_wait>
+¿Es este nuestro castigo?<bt_wait>
+
+Estiro el brazo y...
+<sele_AME>・Toco la mejilla de Devola.
+<sele_KARADA>・Sostengo el cuerpo de Devola.
+</page>
+
+<label_AME>
+<page>
+La lluvia cae por sus mejillas como lágrimas. La limpio suavemente con la mano.
+Me sonríe, aunque parece sorprendida.<bt_wait>
+
+«No tiene mucho sentido hacer eso, ¿sabes?", me susurra.<bt_wait>
+
+Pero sí lo tiene.<bt_wait>
+Porque me juré que siempre permanecería a su lado.<bt_wait>
+</page>
+<go_SABAKU_END>
+
+<label_KARADA>
+<page>
+Mientras tengamos cuerpos para apoyarnos la una en la otra...<bt_wait>
+Mientras tenga a alguien con quien compartir mi destino...<bt_wait>
+Entonces, seguiré adelante, sin importar qué me ocurra.<bt_wait>
+
+Porque no dejaré de protegerla.<bt_wait>
+
+No dejaré de hacerlo.<bt_wait>
+
+Nadie lo hace.
+</page>
+<go_SABAKU_END>
+
+<label_SABAKU_END>
+<page>
+
+
+
+
+
+　　　　　　　　　　Pues es el destino <bt_wait>que nos ha tocado a las androides gemelas.<BGM_BGM_M3060_S0035_N_0030>
+
+
+
+
+<BGOFF_1_4>
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

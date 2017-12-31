@@ -1,0 +1,133 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+
+<BGM_BGM_M1030_S0310_N_start>
+<page>
+
+Mírame.
+Oh, por favor, mírame.
+Quiero que tus ojos me miren solo a mí.<bt_wait>
+
+
+
+¿No me he vuelto hermosa?
+
+
+
+</page>
+
+
+<page>
+<i>¿Estoy linda con esta ropa?</i><bt_wait><BGM_BGM_M1030_S0310_N_0010>
+<i>¿Le gustaría que anduviera así?</i><bt_wait>
+
+Aún no comprendo qué significa amar a alguien.
+Pero me he decidido.<bt_wait>
+
+Haré cuanto haga falta para lograr su afecto.
+</page>
+
+
+<page>
+Hace mucho, una vieja forma de vida mecánica me dijo algo:
+«La belleza es lo que logra el amor».<bt_wait>
+
+Pero ¿qué es la «belleza»?<bt_wait>
+Tras investigar el viejo mundo, al fin comprendí la verdad.<bt_wait>
+Belleza es una piel bonita.
+Belleza son accesorios elegantes.
+Belleza es tener el mejor aspecto posible.<bt_wait>
+
+Seré bella. Lo haré por él.
+</page>
+
+
+<page>
+Una vez oí la historia de una joya preciosa muy al este.
+Se decía que se hallaba en una montaña terrible y peligrosa.
+Pero no me importaba.<bt_wait>
+
+Caí por acantilados, me estrellé contra las rocas... pero al fin obtuve la joya.<bt_wait>
+
+Una piedra azul.<bt_wait> Brillante.<bt_wait> Tan hermosa...<bt_wait>
+
+Perdí muchas piezas para lograr esta joya. Me perdí... a mí misma.<bt_wait>
+
+Pero mis heridas son emblemas.
+</page>
+
+
+<page>
+Flota un rumor últimamente entre las formas de vida mecánicas:
+«Devora el cuerpo de un androide para lograr la belleza eterna».<bt_wait>
+
+Qué sinsentido.
+Es físicamente imposible obtener belleza consumiendo un androide.<bt_wait>
+
+Pero lo intenté.
+Intentaría cualquier cosa.<bt_wait>
+Quería vomitar, pero seguí adelante.<bt_wait>
+Sabía a aceite.<bt_wait>
+</page>
+
+
+<page>
+No pasaba un momento en el que no intentara hacerme más hermosa.
+Pero sigo sin llamarle la atención.<bt_wait>
+
+Incluso intenté aprender lo que llaman una «canción».
+Las canciones pueden lograr que otros sientan algo por ti.
+Es lo que dicen.
+Así que practiqué a diario.<bt_wait>
+Pero sigo sin llamarle la atención.<bt_wait>
+
+Comí más androides, y hasta formas de vida mecánicas.<bt_wait>
+Pero sigo sin llamarle la atención.
+</page>
+
+
+<page>
+No le llamo la atención.<bt_wait>
+No le llamo la atención.<bt_wait>
+No le llamo la atención.<bt_wait>
+No le llamo la atención.<bt_wait>
+No le llamo la atención.<bt_wait>
+
+No le llamo la atención no le llamo la atención no le llamo la atención no le llamo
+la atención no le llamo la atención no le llamo la atención no le llamo la atención
+no le llamo la atención no le llamo la atención no le llamo la atención<bt_wait>
+
+Sigo      sin      llamarle      la      atención.
+</page>
+
+
+<page>
+Entonces, comprendí que le dan igual las joyas.
+O las canciones o la belleza o el aspecto o todo lo demás.
+No puedo lograr su amor.<bt_wait>
+
+¿Por qué me he hecho esto a mí misma?<bt_wait>
+
+No tiene sentido.<bt_wait>
+No tiene sentido.<bt_wait>
+NO TIENE SENTIDO.<bt_wait>
+
+Miro al espejo. En su reflejo, solo veo mi propia falta de sentido. Y, entonces, grito.<BGM_BGM_M1030_S0310_N_0020>
+</page>
+
+
+<page>
+
+
+
+
+
+por favor<bt_wait>　que le llame<bt_wait>　la<bt_wait>　atención<bt_wait>   a alguien
+
+
+
+
+
+</page>
+<BGM_BGM_M1030_S0310_N_end>

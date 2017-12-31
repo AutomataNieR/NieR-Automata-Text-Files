@@ -1,0 +1,173 @@
+*Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+*Pod conversation (45 x 16)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+*Loading Screens (102x18)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+*Played after M3060_S0900_HD
+
+..M3060_S0915_N
+
+
+
+
+
+<color_404040>
+<bgcolor_ffffff>
+<BGM_BGM_M3060_S0910_N_start>
+<page>
+
+
+
+«Soy...».
+</page>
+<page>
+
+
+
+«Me llamo...».
+</page>
+<page>
+«Me llamo... 9S».<bt_wait><BGM_BGM_M3060_S0910_N_0010>
+«Un modelo escaneador recién fabricado».<bt_wait>
+«30 de enero de 11942».<bt_wait>
+«Lanzado a las 4:25 de la mañana, hora del búnker».<bt_wait>
+«Lucharé por la humanidad con todas mis fuerzas».<bt_wait>
+«El placer es mío, comandante».
+</page>
+<page>
+Yazco en un espacio de un blanco cegador.<bt_wait>
+El dolor... ya no existe.<bt_wait>
+La luz me envuelve.<bt_wait> Es tan <i>cálida</i>.
+</page>
+<page>
+Sufría ansiedad.<bt_wait>
+Soldado desde el momento de mi nacimiento, arrojado solo al mundo.<bt_wait>
+Sin nada en qué apoyarme.<bt_wait>
+Sin un dios en el que creer.<bt_wait>
+
+Estaba solo.<bt_wait>
+Mi misión era infiltrarme en territorio enemigo para reunir información.<bt_wait>
+En la niebla.<bt_wait>
+En las llamas.<bt_wait>
+Solo.
+</page>
+<page>
+«Yo soy 9S. Estoy aquí para dar apoyo».<bt_wait>
+
+2B me pareció distante. Incluso fría.<bt_wait>
+Querría distanciarse de mí.<bt_wait>
+Supongo que no quería encariñarse con alguien a quien tenía que matar
+una y otra vez.<bt_wait>
+
+Pero... Yo...
+</page>
+<page>
+«Los escaneadores como yo solemos trabajar solos. Exploramos las líneas enemigas y todo eso.»<bt_wait>
+«Raramente tengo compañía, ¡pero le
+estoy cogiendo el gusto!».<bt_wait>
+
+Me encantó estar con alguien.<bt_wait>
+
+Fue como tener una familia.
+</page>
+<page>
+El daño se agrava.<bt_wait>
+Comienzo a perder los recuerdos.<bt_wait><BGM_BGM_M3060_S0910_N_0020>
+El espacio se rellena con pura luz blanca.
+Es como estar enterrado en la nieve.<color_505050><bt_wait>
+
+Hace un poco de frío.<color_606060><bt_wait>
+Da un poco de miedo.<color_707070><bt_wait>
+¿Mi alma... desaparecerá?
+</page>
+<page>
+Una bruma oscura cubre mi visión.<bt_wait>
+Mientras fluye y refluye a su modo lento y onírico, gradualmente asume forma humana.<bt_wait>
+
+Es la chica roja.<bt_wait>
+
+Poco a poco, empieza a hablar.
+</page>
+<page>
+Esta torre es un cañón colosal construido para destruir el servidor humano.<bt_wait>
+Destruir el servidor... y privar a los androides de su misma base.
+Ese era el plan ideado por esas chicas.<bt_wait>
+
+Pero cambiaron de opinión.<bt_wait>
+Nos vieron a los androides.<bt_wait> Vieron a Adán.<bt_wait> Y a Eva.<bt_wait>
+Vieron cómo vivíamos, consideraron el significado de la existencia
+y llegaron a una conclusión diferente.
+</page>
+<page>
+Esta torre no dispara artillería.<bt_wait> Dispara un <i>arca</i>.<bt_wait>
+Un arca que contiene recuerdos de las insensatas formas de vida mecánicas.<bt_wait>
+Un arca que envía esos recuerdos a un nuevo mundo.<bt_wait>
+
+Tal vez nunca alcancen ese mundo.<bt_wait>
+Tal vez se limiten a vagar por un cielo vacío por toda la eternidad.<bt_wait>
+Es igual para las chicas. Para ellas, el tiempo no tiene fin.
+</page>
+<page>
+Adán y Eva están dentro del arca.<bt_wait>
+Eva está dormido.<bt_wait>
+Adán lo sostiene en su tierno abrazo. Parece sonreírme.<color_808080><bt_wait>
+
+Intento levantar la mirada hacia él, pero mi cuerpo se niega a moverse.<color_a0a0a0><bt_wait>
+Parece que el daño se ha extendido también a las funciones motoras.
+</page>
+<page>
+«¿Vendrás con nosotros?», pregunta Adán.<bt_wait>
+La pregunta carecía de toda malicia.<bt_wait>
+Ya no tenía ninguna razón para odiar a las máquinas.<bt_wait>
+Y tal vez nunca la tuviera.<bt_wait>
+
+¿Por qué he estado luchando?<bt_wait>
+¿Para quién he estado <i>viviendo</i>?<bt_wait>
+
+Ya no lo sé.
+</page>
+<page>
+<color_b0b0b0>Intento expresar lo que pienso, pero las palabras son confusas.<color_c0c0c0><bt_wait>
+Mis rutinas de pensamiento pierden cohesión.<bt_wait>
+No...<bt_wait> No logro recordar mi nombre.<bt_wait>
+
+«Soy...».
+</page>
+
+<page>
+Reuniendo todas mis fuerzas, obligo a las palabras a salir...<bt_wait>
+
+<sele_YES> «Iré con vosotros».
+<sele_NO> «Me quedaré».
+</page>
+
+<label_YES><STATEON_select_novel/go>
+
+<page>
+«Iré con vosotros».<color_d0d0d0><bt_wait>
+«Los miembros de YoRHa no tenemos derecho a permanecer en este mundo».
+</page>
+<go_END>
+
+<label_NO><STATEON_select_novel/stay>
+
+<page>
+«Me quedaré».
+«Yo...».<color_d0d0d0><bt_wait>
+«Los miembros de YoRHa... no merecemos ser amados por este mundo...».
+</page>
+<go_END>
+
+<label_END>
+<BGM_BGM_M3060_S0910_N_end>
+
+...SID_end
+
+
+
+
+

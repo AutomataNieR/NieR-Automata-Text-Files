@@ -1,0 +1,58 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0100_N_start>
+<page>
+«Todo cuanto vive es esclavo del deseo.
+Estos apetitos internos son los que dan significado a nuestra vida.
+Algunos buscan belleza. Otros, serenidad.
+Para mí, el odio es...».
+
+<i>¡Yo no soy así!</i><bt_wait>
+
+«¡Ja, ja, ja! Oh, sí que lo eres».
+</page>
+
+<page>
+
+«Tú<bt_wait> no confías en nada».<bt_wait>
+
+«Tú<bt_wait> quieres destruirlo todo».<bt_wait>
+
+«Tú<bt_wait> has perdido toda esperanza».<bt_wait>
+
+«Tú<bt_wait> quieres obtenerlo todo».<bt_wait>
+
+«Tú<bt_wait> quieres que todos te amen».
+
+</page>
+
+
+<page>
+
+
+
+
+
+
+<BGM_BGM_M1070_S0100_N_0010>«Estás pensando en las ganas que tienes de **** a 2B, ¿a que sí?».<bt_wait>
+
+
+
+
+</page>
+
+
+<page>
+«Realidad mancillada por las mentiras».<bt_wait>
+
+<i>¡Para! ¡Para ya!</i><bt_wait>
+
+«Te vas llenando de odio».<bt_wait>
+
+<i>¡Te equivocas, maldita sea!</i><bt_wait>
+
+«El deseo se desborda».<bt_wait>
+<i>Yo... ¡Yo no soy como tú!</i><bt_wait>
+«Tu auténtico yo».
+</page>
+<BGM_BGM_M1070_S0100_N_end>
