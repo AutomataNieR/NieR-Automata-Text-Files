@@ -1,0 +1,100 @@
+Items harvested
+Number of deaths
+Enemies defeated
+Items used
+Hacking games completed
+Android sub-quests
+Machine sub-quests
+These are your current play records.
+Diff.
+Character
+Stubby (S)
+Biped (M)
+Multi-level (M)
+Flying (S)
+Flying (M)
+Biped (L)
+Biped (S)
+Quadruped (M)
+Reverse-jointed (L)
+Multi-tier Type
+Spherical Link
+Sphere (S)
+Bodies collected
+Bodies uploaded
+Prayers received
+Bodies collected
+Bodies repaired
+Bodies corrupted
+Deaths by corrupted bodies
+Bodies infected
+Infected bodies subdued
+Finish
+Finish entering message.
+Choose a part of your message to edit.
+Choose a phrase to input.
+Choose a conjunction to input.
+Choose your region.
+Spirit of Fire
+Treasured Items
+Parenticide
+The Kind King
+In the Deep Sea
+A Reason to Live
+Together
+Memories of War
+Pearl Harbor Descent Records
+YoRHa: Gunner 16
+YoRHa: Scanner 21
+YoRHa: Attacker 4
+YoRHa: Attacker 2
+Resistance: Rose
+Resistance: Anemone
+Pearl Harbor Descent Summary
+Memories
+Memories of a Songstress
+Devola & Popola's Memories
+9S's Memories
+Anemone: Encounter
+Anemone: Understanding
+Anemone: Separation
+Letter to the Forest King
+11B's Escape Plan
+Jackass's Bomb Recipe
+Saved Machine Records
+Library Index
+Human Server Records
+Tower System Outline
+Class 1 Patient Health Record
+[Top Secret] Project YoRHa
+[Top Secret] Black Box
+[Top Secret] Model No.2
+[Top Secret] YoRHa Disposal
+Weapon Shop Flyer
+Engel's Memories
+Engels 110-B Record 0005
+Engels 110-B Record 0010
+Engels 110-B Record 0020
+Infant Machine's Memories
+Data Saved on Server
+Shipping Records
+YoRHa Body Storage Records
+Council/YoRHa Records
+A Pious Robot's Will
+Record of a Bestial Machine
+Old World Information
+Abandoned Factory Memo
+Factory Cafeteria Sign
+Newspaper Scrap
+Filthy Lottery Ticket
+Tattered Pamphlet
+Rotten Info Sheet
+Strange Doll
+Bulletin Record
+Paper Attached to Vehicle
+Ragged DVD
+Department Store Flyer
+Nuclear Arms Manual
+Mysterious Lithograph 1
+Mysterious Lithograph 2
+Mysterious Lithograph 3

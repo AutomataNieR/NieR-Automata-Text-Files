@@ -1,0 +1,100 @@
+a2: No.
+eml: Well, I live deep, deep underground. Picture something deep, then go DEEPER!
+eml: Feel free to visit me anytime you want!
+eml: Boy, the world's really going to hell in a handbasket, isn't it?
+eml: I actually had a bandit break into my place a little while ago!
+eml: After that, I put all my valuables in a secure container. Now I don't have to worry anymore!
+eml: Owowowow...
+eml: Oh! Heya!
+eml: Can I help you with anything?
+eml: Come again!
+eml: Hope to see you again!
+eml: Welcome!
+eml: Hello!
+eml: Er, welcome?
+eml: Thank you!
+eml: Thank you?
+eml: Sorry about that. I didn't see you there.
+eml: Sorry? Do you need something?
+eml: You don't have to whack someone in the face to get their attention, you know?
+eml: Ow! Owowowowowwww...
+eml: Hey! I remember you from the other day!
+eml: Sorry I got startled and ran away. ...Er, or rolled away, I guess.
+eml: Anyway, my name's Emil, and this is my shop.
+eml: Wanna buy something? I've got the best prices anywhere!
+eml: Urgh...  Ow ow ow.
+eml: You could've just asked me to stop, you know?
+eml: Hey... You're A2, aren't you?
+eml: It must be fate that we ran into each other. ...And since you're here, you might as well buy something!
+eml: Oh! Welcome!
+eml: ...Hmm? Why am I running a shop like this?
+eml: Yeaaaah, that's a really long story that we probably don't have time for.
+eml: So how about you buy something instead?
+eml: Thanks much!
+eml: And what name should I put on the receipt?
+eml: That's not necessary.
+eml: ...YoRHa brain scan complete. "2B," is it?
+eml: Hope to see you again soon, 2B!
+eml: ......
+eml: Um, I don't really think I need a receipt.
+eml: ...YoRHa brain scan complete. "9S," is it?
+eml: Oooo-kay?
+eml: Welcome!
+eml: I think you're...A2, right?
+eml: How did you know that?
+eml: Oh, I just remembered something 2B said. Do you know 2B?
+eml: She...
+eml: She's beautiful! And kind! And unusually calm, all things considered.
+eml: ......
+eml: What's wrong?
+eml: Nothing. I'm sure she's doing well...wherever she is.
+eml: I think so too. I hope you'll visit me again, A2!
+[[st2\r200\r200_e684ee2d_scp.bin]]
+eng: I am tired. I must rest.
+eng: Hello, androids.
+eng: I have nothing to do. Tell me a story.
+a2b: What?
+a9s: Er, there isn't much we can tell you. Most of our data is classified.
+eng: A story of the past would be fine.
+eng: Tell me about how this city used to be.
+a9s: Well, I suppose we can try.
+a2b: This city was once home to a great number of humans.
+eng: Numbers beyond counting?
+a9s: Something like that. Don't you remember driving them out of here?
+eng: Humans were already gone at the time of my manufacture.
+eng: All I know is ruin. And androids.
+a9s: Regardless, don't expect us to forgive you for the sins of your people.
+eng: Machine lifeforms do not comprehend the concept of "sin."
+a9s: Let's go, 2B.
+a2b: Sounds good.
+eng: Thank you for visiting me previously.
+a2b: How are you?
+eng: I am, as one says, "trucking along."
+a2b: Does one actually say that?
+eng: I have been reading through humanity's records to keep myself occupied.
+eng: This has led me to a question.
+a2b: Shoot.
+eng: What is "night"?
+a2b: Night?
+a9s: You must mean the cyclical cycle of light and dark that used to exist. The records mentioned that, did they?
+a9s: The sun never leaves the sky anymore, but apparently, it used to descend below the horizon for hours at a time.
+a9s: When that happened, it was like looking out of one of the Bunker's windows.
+a2b: I didn't know that.
+eng: I would...like to see...stars sometime...
+eng: ......
+a9s: What's going on? You seem pretty low, even by machine standards.
+eng: My lifespan's expiration period is drawing to a close.
+a9s: Are you asking us to repair you? Because that's a pretty selfish request.
+eng: No. Do not repair me.
+a9s: Huh?
+eng: I have been thinking about something.
+eng: Do you remember when you spoke of "sin"?
+eng: You were right to call it so.
+eng: I killed many of your kind. Killed androids beyond counting.
+eng: It meant nothing while I was connected to the network.
+eng: But now I understand.
+eng: I know the anguish it has caused you.
+eng: I must atone.
+a9s: Wait. Are you...
+eng: My existence is ending. I am...dying.
+eng: Please take my parts...and use them elsewhere.

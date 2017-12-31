@@ -1,0 +1,100 @@
+Passive
+2B
+9S
+A2
+Amusement Park Goliath Tank
+Goliath Tank
+Goliath Flyer
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eve
+Adam
+Red Girl
+21O
+2B Copy
+A2
+9S
+Emil
+Emil Clones
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eve
+Adam
+LOAD GAME
+LOAD GAME
+Play Time
+Select a save file to load.
+Endings
+SAVE GAME
+SAVE GAME
+NEW GAME
+NEW GAME
+Select a save slot to save your progress to.
+Select a save slot to begin a new game.
+Edit Weapon Sets
+GAME OVER
+Load Game
+Return to Title Screen
+Change Message
+Continue
+Edit death message.
+Resume game.
+Pray and Continue
+Continue
+Retrieve
+Repair
+Cancel
+Offer a prayer over the body.
+Transition to the next screen.
+Retrieve body.
+Repair body.
+Cancel and return to the game screen.
+NO ERROR
+ERROR
+Visual
+Aural
+Motor
+MAP
+MAP
+QUESTS
+QUESTS
+ITEMS
+ITEMS
+WEAPONS
+WEAPONS
+SKILLS
+SKILLS
+INTEL
+INTEL
+SYSTEM
+SYSTEM
+NETWORK
+NETWORK
+ACCESS POINT
+ACCESS POINT
+RECORDS
+RECORDS
+View the map or perform a quick-save.
+Confirm quest details and objectives.

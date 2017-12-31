@@ -1,0 +1,100 @@
+n02: We'd best be wary of the machines building a village near the forest as well.
+n02: We should launch a pre-emptive strike before their efforts proceed further!
+n02: For the sake of our forest king.
+n02: For the sake of our king.
+n02: Th-The enemy!
+[[st1\r160\r160_3fa0647a_scp.bin]]
+n02: Ready... Aim...
+n02: Thrust!
+n02: Okay, next!
+n02: Put your back into it!
+n02: Intruders! Get in formation, now!
+n02: We must protect our king and kingdom!
+n02: Take position!
+n02: We will protect them!
+n02: Keep going! Don't be afraid!
+n02: We must show our foes what we royal knights are made of!
+n02: Don't let up! The enemy is among us!
+n02: We will show them!
+n02: Don't let any intruders get in!
+n02: We must fulfill our obligation to the king!
+n02: We must protect our king!
+n02: We will fulfill!
+n02: Protect our king!
+n02: Er...but what is an "obligation"?
+n02: Intruders detected!
+n02: But what is it!?
+n02: Royal knights! Give your lives for the king of our forest!
+n02: No falling back! Fight!
+n02: For the king of our forest!
+n02: You have lived your whole life for this singular moment!
+n02: For the Forest King!
+n02: The Forest King!
+[[st1\r160\r160_441c44e3_scp.bin]]
+sp: Welcome, and thank you for visiting my shop. Feel free to look around.
+sp: Please grace my shop with your presence anytime you please.
+sp: You must be exhausted from all the terrible things that have happened. Please take care of yourself.
+sp: Thank you for visiting my shop, and please let me know if I can be of any help. It's the least I can do!
+sp: I understand how anxious these times must be for you. Go in good health!
+[[st1\r160\r160_7247f0a7_scp.bin]]
+largerobot: Die, androids!
+n02: Stand strong! Move!
+n02: You'll pay for this, invaders!
+n02: Revenge for our king!
+n02: My king... My king...
+[[st1\r160\r160_74d9b777_scp.bin]]
+n02: Ready... Aim...
+n02: Thrust!
+n02: Okay, next!
+n02: Put your back into it!
+n02: Intruders! Get in formation, now!
+n02: We must protect our king and kingdom!
+n02: Take position!
+n02: We will protect them!
+n02: Keep going! Don't be afraid!
+n02: We must show our foes what we royal knights are made of!
+n02: Don't let up! The enemy is among us!
+n02: We will show them!
+n02: Don't let any intruders get in!
+n02: We must fulfill our obligation to the king!
+n02: We must protect our king!
+n02: We will fulfill!
+n02: Protect our king!
+n02: Er...but what is an "obligation"?
+n02: Intruders detected!
+n02: But what is it!?
+n02: Royal knights! Give your lives for the king of our forest!
+n02: No falling back! Fight!
+n02: For the king of our forest!
+n02: You have lived your whole life for this singular moment!
+n02: For the Forest King!
+n02: The Forest King!
+[[st1\r160\r160_7cde1b3f_scp.bin]]
+kj: I am the blacksmith Masamune.
+kj: I see you're taking good care of your weapons.
+kj: However, I'd be happy to sharpen them for you if you wish.
+kj: Ah! Your white sword!
+kj: My master honed that very blade long ago.
+kj: He was a master craftsman who gathered four black and four white weapons and improved on them.
+kj: But they spilled so much blood that my master sealed them away in various locations across the world.
+kj: However, I wager you would wield them in the service of good. If that is true, you can search for them in sealed shrines throughout the world.
+kj: Have you any weapons you wish for me to sharpen?
+kj: Weapons are mirrors that reflect what is in your heart. Treat them with the care they deserve.
+kj: Hmm... It has been long and long since I've seen someone take such good care of a weapon. Please take this as a token of my appreciation.
+kj: This is one of the weapons I was telling you about. It was passed down through the generations until it came to me, and I can't bring myself to seal it away.
+kj: But I know you will give it the respect it craves.
+[[st1\r160\r160_dc20cee5_scp.bin]]
+a2b: Hmm... Don't need this.
+a2: This looks useless.
+a9s: Doesn't look like I'll need this.
+pod042: Analysis: This part belongs to a machine lifeform.
+pod153: Analysis: This part belongs to a machine lifeform.
+[[st1\r160\r160_e290faf0_scp.bin]]
+apolorobo: Sorry! My apologies, but I cannot let you pass.
+apolorobo: Please do not ask why! I really wish I could have avoided this situation altogether.
+apolorobo: It's just that...I, I cannot let you through!
+apolorobo: I'm sure that...some day...DON'T ASK WHEN...I will be able to let you pass...maybe.
+apolorobo: No wait! Scratch all that! Actually, it's all up to you!
+apolorobo: Sorry, and I truly, truly am sorry, but that's all I can say for now.
+apolorobo: I know it's not much of an apology, but to make up for my insolence, please allow me to self-destruct!
+apolorobo: This will result in a rain of useful materials. They are yours to keep!

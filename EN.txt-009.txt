@@ -1,0 +1,100 @@
+Speed Salve (S)
+Speed Salve (L)
+Speed Salve (L)
+Popola's Booze
+Popola's Booze
+Animal Bait
+Animal Bait
+Small G Luck+
+Small G Luck+
+Large G Luck+
+Large G Luck+
+E-Drug
+E-Drug
+Beast Hide
+Boar Meat
+Moose Meat
+W. Boar Meat
+W. Moose Meat
+Stripped Screw
+Pristine Screw
+Small Gear
+Large Gear
+Rusted Clump
+Meteorite Shard
+Titanium Alloy
+Memory Alloy
+Broken Key
+Broken Battery
+Large Battery
+Severed Cable
+Pristine Cable
+New Bolt
+Clean Nut
+Machine Arm
+Machine Leg
+Machine Torso
+Machine Head
+Simple Gadget
+Elaborate Gadget
+Complex Gadget
+Powerup Part S
+Powerup Part M
+Powerup Part L
+Empty Chip
+Copper Ore
+Iron Ore
+Silver Ore
+Gold Ore
+Dented Plate
+Plant Seed
+Tree Sap
+Pure Water
+Tree Seed
+Desert Rose
+Mushroom
+Torn Book
+Machine Oil
+Tanning Agent
+Filler Metal
+Dye
+Pyrite
+Amber
+Natural Rubber
+Rusty Bolt
+Crushed Nut
+Giant Egg
+Eagle Eggs
+Black Pearl
+Shattered Earring
+Drab Bracelet
+Sturdy Socket
+Warped Wire
+Stretched Coil
+Dented Socket
+Broken Circuit
+Crystal
+Lovely Choker
+Ancient Mask
+Precious Earrings
+Tech Manual
+Thick Dictionary
+Pearl
+Moldavite
+Meteorite
+Machine Core
+Letter for Sartre
+Letter for Jean-Paul
+Beautiful Glass
+Machine Fossil
+Sartre's Letter
+Jean-Paul's Letter
+Memory Chip
+Man's Journal
+Data Chip A
+Data Chip B
+Data Chip C
+Data Chip D
+Data Chip E
+Rusty Dog Tag
+Dirty Dog Tag

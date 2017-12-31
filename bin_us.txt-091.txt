@@ -1,0 +1,100 @@
+ys: ...Hmm? Drugs? Yeah, they make me feel REALLY WEIRD! ...Wanna try some?
+ys: Pssst! Hey! Hey, buddy! You need some drugs?
+ys: See you later... Hee! Heeee hee hee hee...
+ys: ......
+js: So the Bunker's gone, eh?
+js: Goddammit, White...
+js: ...Sorry. I had a friend back at the Bunker.
+js: You're...A2...
+js: ...Never mind. Just be careful out there, yeah?
+js: Don't really feel like talking now.
+[[st1\r150\r150_df579346_scp.bin]]
+jackas: Oh yeah, I still have to give you that stupid fish.
+jackas: So this thing is called a "mackerel" and apparently eating it has a horrible effect on androids.
+jackas: I'd love to see what it does, so go ahead and chow down.
+jackas: Don't blame me if you die though.
+[[st1\r150\r150_f100866e_scp.bin]]
+apolorobo: Oh no! Oh no oh no oh no! \nWhy!? Why did you have to find this place!?
+apolorobo: You are fortunate enough NOT to be qualified to enter!
+apolorobo: Oh but how cruel the gods can be, to allow such misfortune to occur! Please, you must get away from here as far as you can!
+apolorobo: Just standing here will be detrimental to your health, as you will be slowly consumed by rage!
+apolorobo: There is only one thing I can do for you now!
+apolorobo: I will... Nay, I MUST self-destruct!
+apolorobo: This will result in a rain of useful materials. They are yours to keep!
+apolorobo: One day you will discover the truth, of that I am sure.
+apolorobo: May you live a long and healthy life!
+[[st1\r160\r160_1557ce81_scp.bin]]
+n02: For the king of our forest!
+n02: Don't let them take anything else from us!
+n02: Leave our kingdom!
+n02: Revenge for our king!
+n02: My king... My king...
+n02: Accursed humans!
+[[st1\r160\r160_19656865_scp.bin]]
+n02: COME AGAIN. WE WILL BE WAITING.
+n02: GREETINGS. YOU HAVE RETURNED TO US. HOWEVER...
+a2b: Let me guess: You need more medicine.
+n02: NO. EVERYONE HERE IS FINE.
+n02: BUT, THERE IS A PROBLEM.
+a9s: What's going on?
+n02: A PACK OF WILD ANIMALS HAS RECENTLY MIGRATED HERE FROM ELSEWHERE IN THE FOREST.
+n02: THEY SEEM TO HAVE A STRONG TERRITORIAL INSTINCT.
+n02: THEY HAVE BEEN INJURING SOME OF THE OTHER NEARBY ANIMALS.
+n02: SADLY, I DO NOT HAVE THE POWER TO STOP THEM...
+a2b: I see where this is going.
+sele: Offer to help.
+sele: Refuse to help.
+n02: OF COURSE. THIS IS NOT YOUR PROBLEM, AFTER ALL.
+n02: I MUST FIGURE OUT A SOLUTION ON MY OWN.
+n02: IF ONLY I COULD STOP THE WILD ANIMALS FROM ATTACKING...
+n02: BUT I AM POWERLESS TO HELP...
+n02: OH! ARE YOU SURE?
+a9s: We can't just let some pack of animals bully their way in here. Where are they now?
+n02: THANK YOU! THEY HAVE ADOPTED A CORNER OF THE FOREST AS THEIR LAIR.
+n02: PLEASE BE CAREFUL...
+a9s: So it's okay to kill some animals, but not others?
+a9s: Seems kind of arbitrary, no?
+a2b: We have no right to judge.
+a2b: We're soldiers that were created to kill.
+a9s: Yeah...
+a2b: Is that...?
+n02: NNNGH...
+n02: GRRRRRRRRRAAAAAAAAGH!
+a9s: Wow... So the leader of the pack was a machine?
+a9s: That's the last of them.
+a9s: Let's go tell that machine that his animal friends are safe.
+a2b: I've been thinking about the machine who was leading that pack.
+a9s: Oh yeah?
+a2b: It seemed less like imitation and more like actual animal behavior.
+a9s: Yeah, I guess it was kind of odd. You thinking there's a reason for it?
+a2b: Perhaps.
+n02: YOU DISPATCHED THE WILD ANIMALS. THANK YOU!
+n02: NOW WE CAN LIVE HERE IN PEACE.
+n02: HERE, PLEASE TAKE THIS.
+a2b: Do you know anything about the machine that was leading the pack?
+n02: HMM? WHAT MACHINE?
+a2b: The pack leader was a machine lifeform that seemed to think it was an animal. We couldn't even communicate with it.
+n02: A MACHINE-TURNED-ANIMAL...
+n02: I DO NOT KNOW WHAT COULD HAVE CAUSED THIS.
+n02: BUT I WONDER...WHAT IS LEFT THAT SEPARATES SUCH A MACHINE FROM BEING CALLED AN ANIMAL?
+a2b: ......
+n02: IN ANY CASE, YOU DISPATCHED THE WILD ANIMALS. YOU HAVE MY THANKS.
+n02: NOW WE CAN LIVE HERE IN PEACE.
+n02: HERE, PLEASE TAKE THIS.
+a9s: Do you know anything about the machine that was leading the pack?
+n02: HMM? WHAT MACHINE?
+a9s: The pack leader was a machine lifeform that seemed to think it was an animal.
+a9s: We couldn't even communicate with it.
+n02: I SEE... BUT YOU DISPATCHED THEM, YES?
+n02: IN THAT CASE, ALL IS WELL. ALL IS PEACE!
+a9s: ......
+a9s: How can you love animals and yet not bat an eye at the death of a fellow machine?
+a9s: I do not get these guys.
+a2b: ...Yeah.
+[[st1\r160\r160_307c8a44_scp.bin]]
+n02: Don't let them go any further!
+n02: Stand strong! Move!
+n02: You'll pay for this, invaders!
+n02: Don't let them take anything else from us!
+n02: Leave our kingdom!
+n02: More intruders are coming from the outside. We need to expand our castle's security.

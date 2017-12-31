@@ -1,0 +1,100 @@
+Ch. 09-03_2
+Ch. 10-01
+Ch. 10-01_1
+Ch. 10-01_2
+Ch. 10-01_3
+Ch. 10-01_4
+Ch. 10-02
+Ch. 10-03
+Ch. 10-04
+Ch. 10-05
+Ch. 10-05_1
+Ch. 10-05_2
+Ch. 11-01
+Ch. 11-02
+Ch. 11-03
+Ch. 11-04
+Ch. 11-05
+Ch. 11-06
+Ch. 11-07
+Ch. 12-01
+Ch. 12-02
+Ch. 13-01
+Ch. 13-02
+Ch. 13-03
+Ch. 13-04
+Ch. 14-01
+Ch. 14-02
+Ch. 14-03
+Ch. 14-04
+Ch. 14-05
+Ch. 15-01
+Ch. 15-02
+Ch. 15-03
+Ch. 15-04
+Ch. 16-01
+Ch. 16-02
+Ch. 16-03
+Ch. 16-04
+Ch. 17-01
+Ch. 17-02
+Ch. 17-03
+Ch. 17-04
+Ch. 17-05
+Ch. 17-06
+Ch. 17-07
+Ch. 17-08
+Ch. 17-09
+Ch. 17-10
+Ch. 17-10_1
+Ch. 17-10_2
+Ch. 17-11
+file\EN\messcore.new.txt.txt
+OK
+Yes
+Yes
+No
+No
+On
+On
+Off
+Off
+NEW
+Lv
+Lv
+G
+Funds (G)
+Total
+Number Held
+Acquisition Rate
+Encounter Rate
+Collection Rate
+Total Quests Cleared
+Equip
+Type
+Special Abilities
+Lt
+Lt
+Hv
+Hv
+ACTIVE
+IN USE
+Max
+Fusion Cost
+Body Report
+Body
+Body
+Previous Body
+Previous Body
+Quest Reward
+Quest Reward
+Retrieval Results
+Retrieval Results
+Rank
+Cost
+Total Stages Cleared
+NEW RECORD
+Reward
+NONE
+NONE
+Light Attack

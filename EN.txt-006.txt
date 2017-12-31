@@ -1,0 +1,100 @@
+View or use items in your inventory.
+Change equipped weapons.
+Assign special abilities.
+View various types of acquired data.
+Load game, save game, or change system settings.
+Quick Save
+Map Mode
+Map Icons
+Saving...
+Saving is disabled because the debug menu was used.
+You can't save now.
+Save your current progress.
+View the map in greater detail.
+View a list of icons used on the map.
+Active Quests
+All Quests
+Cleared Quests
+Unclearable Quests
+View quests currently in progress.
+View all accepted quests.
+View completed quests.
+View quests that cannot be completed.
+Plug-in Chips
+Pod Programs
+This function cannot be used at this time.
+Install plug-in chips to enhance functionality.
+Assign Pod abilities.
+Weapons
+Weapon Set 1
+Weapon Set 1
+Weapon Set 2
+Weapon Set 2
+View all of the weapons in your possession.
+Change the weapons in Weapon Set 1.
+Change the weapons in Weapon Set 2.
+Select a weapon to equip.
+Select a spot to equip.
+Change your weapon for light attacks.
+Change your weapon for heavy attacks.
+Archives
+Unit Data
+Tutorials
+Weapon Stories
+Picture Books
+Fishing Encyclopedia
+Novel
+View the information archives.
+View information about encountered units and foes.
+View tutorials that have been displayed in-game.
+View weapon stories.
+View picture books.
+View information about fish you've caught.
+View novels.
+Settings
+Save
+Return to Title Screen
+Controls
+Network
+Load
+Play Records
+Exit Game
+Adjust various settings.
+Save your current progress.
+Return to the title screen.
+Customize button assignments.
+Change network settings.
+Load a previously saved file.
+View current play records.
+Exit the game and return to the desktop.
+Network Features
+Set Death Message
+Edit Death Message
+Turn network functions On/Off.
+Toggle ability to leave messages upon death.
+Change the message left behind upon death.
+Transport
+Inbox
+Attachments
+Online Body Information
+Chapter Select
+Arcade
+Select transport destination.
+Travel to another access point.
+View received messages.
+Add or remove attachments.
+View information about your online body.
+Select chapter and start the game.
+Play hacking games you've cleared.
+You cannot travel outside of the mission area.
+No messages have been received.
+Unavailable due to signal interference.
+Transfers currently not allowed.
+"I don't want to go there right now."
+ARCADE
+ARCADE
+Challenge Mode
+Training
+Clear as many hacking games as you can.
+Play hacking games you've already cleared.
+Select a stage to play.

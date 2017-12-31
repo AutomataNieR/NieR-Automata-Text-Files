@@ -1,0 +1,100 @@
+apolorobo: So please, I beg of you, do not let my words ruin your day.
+apolorobo: And now... I die!
+[[st1\r160\r160_f8f21cd2_scp.bin]]
+n02: Don't let them go any further!
+n02: Stand strong! Move!
+n02: You'll pay for this, invaders!
+n02: Don't let them take anything else from us!
+n02: Leave our kingdom!
+n02: More intruders are coming from the outside. We need to expand our castle's security.
+n02: We'd best be wary of the machines building a village near the forest as well.
+n02: We should launch a pre-emptive strike before their efforts proceed further!
+n02: For the sake of our forest king.
+n02: For the sake of our king.
+n02: Th-The enemy!
+[[st1\r170\r170_261956fa_scp.bin]]
+pod153: The remains of a YoRHa flight unit.
+pod153: ID of YoRHa unit 2B confirmed within the craft.
+a9s: This belonged to 2B...
+pod153: Unsent message found within memory of flight unit.
+a9s: Play it.
+a2b: This is YoRHa unit 2B...
+a2b: If anyone is listening to this, there's something I need you to do.
+a2b: If you ever meet up with YoRHa unit 9S...
+a2b: I want him... I mean...
+a2b: I'm sorry. Please just give him the following message:
+a2b: 9S...the time I was able to spend with you...
+a2b: It was like memories of pure light...
+a2b: Thank you...Nine...s.
+pod153: End of message.
+a9s: Oh, 2B...
+pod042: The remains of a YoRHa flight unit.
+pod042: ID of YoRHa unit 2B confirmed within craft.
+a2: 2B, huh?
+pod042: Unsent message found within memory of flight unit.
+a2: Leave it.
+a2: It's not my business.
+pod042: Affirmative.
+[[st1\r170\r170_e7cef294_scp.bin]]
+apolorobo: Whoa there! This place is still closed, kind sir and/or madam! But fret not!
+apolorobo: There is absolutely NOTHING of value here! So don't let it distract you and run along now!
+apolorobo: Hmmm...but I can't just send you off empty-handed, now can I?
+apolorobo: I'd love to give you a souvenir of some kind, but I have nothing on me right now. What to do, what to do...?
+apolorobo: I know! I shall self-destruct for your convenience!
+apolorobo: This will result in a rain of useful materials. They are yours to keep! Ah yes, fortune smiles upon you today!
+apolorobo: Once you've collected my gifts, please forget everything you saw here.
+apolorobo: That's a promise, you hear? Goodbye!
+[[st2\r200\r200_427ea0a7_scp.bin]]
+announce: Hello, and thank you for choosing Tower System Services!
+announce: We apologize for the inconvenience...
+announce: but locks on each sub-unit must be deactivated before accessing the main Tower.
+announce: Have a GREAT day!
+a9s: ......
+pod153: Query: What is the motive for a machine lifeform to provide such an announcement?
+a9s: There's no reason for anything they do.
+announce: Hello, and thank you for choosing Tower System Services!
+announce: Special authorization keys are required to access Tower sub-units.
+announce: We apologize for the inconvenience, but access is not permitted at this time.
+announce: However...
+announce: Today, we have a special gift for first-time visitors to this Tower:
+announce: A tour of our brand-new resource-recovery units!
+a9s: !!
+announce: We look forward to serving you again!
+a9s: The heck was that?
+pod153: A forced message from the enemy system.
+pod153: Said message relays the locations of objects known as "resource-recovery units".
+a9s: Now they're just messing with us...
+announce: Hello, and thank you for choosing Tower System Services!
+announce: We apologize for the inconvenience...
+announce: but special authorization keys are required to access Tower sub-units.
+announce: Have a WONDERFUL day!
+announce: Tower sub-unit access granted.
+announce: The Tower sub-unit lock has been deactivated.
+announce: Your current authorization key will now be disabled.
+a9s: Two to go...
+a9s: Seems like we'll need three authorization keys in total.
+announce: Congratulations! You've unlocked ALL of the sub-units!
+announce: That means a special prize is waiting for you inside the Tower!
+announce: We look forward to serving you!
+pod153: Alert: Enemy caution level rising.
+pod153: Cause is most likely concern over unit 9S gaining access to Tower.
+a9s: Outta my way!
+a9s: Damn it, they won't stop coming!
+pod153: Alert: Allied signal detected.
+a9s: Allies?
+[[st2\r200\r200_c832af28_scp.bin]]
+tani: It's you, is it?
+tani: Thanks to your efforts, I can live here in peace once more.
+tani: If you like, I can fuse plug-in chips for you.
+tani: Would you like to fuse your plug-in chips?
+[[st2\r200\r200_d4dad831_scp.bin]]
+n02: No doubt they were rambling on about love and happiness to the bitter end. What madness...
+[[st2\r200\r200_d52e3bf5_scp.bin]]
+pod042: Proposal: Use Pod fire to force him to stop.
+pod153: Proposal: Use Pod fire to force him to stop.
+a2: Huh? What's that?
+eml: I look forward to serving you again!
+eml: ...What was that? You want to know where I live?
+a2b: I didn't ask that.
+a9s: Uh, I don't think I asked about that.
+a9s: I didn't ask that.

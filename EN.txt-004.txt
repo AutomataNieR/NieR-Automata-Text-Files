@@ -1,0 +1,100 @@
+Heavy Attack
+Motion Number
+Items Obtained
+Items Obtained
+Loading System Screen
+Price
+Enemies Defeated
+AM
+PM
+Category
+/
+:
+:
+～
++
+《
+》
+-
+-
+_
+■
+■
+%
+%
+●
+『
+』
+◆
+◆
+#
+1
+1
+2
+2
+AUTO MODE
+AUTO MODE
+PAUSED
+NO DATA
+NO DATA
+RECORDING
+NO IMAGE
+NO IMAGE
+CLASSIFIED INFORMATION
+CLASSIFIED INFORMATION
+Corrupted data
+Corrupted data
+SYSTEM MESSAGE
+RESULT
+A network error has occurred. The network function has been turned off.
+Connecting to the network...
+Select
+Confirm
+Back
+Use
+Use
+Animation
+Change Equipment
+Skip
+Hold to Skip
+Move
+Rotate
+Reset Position
+Place Marker
+Zoom In
+Zoom Out
+Replay
+Close
+Next
+Model Viewer
+Scroll Text
+Hide Text
+Show Text
+Change Display
+Back / Next
+Status
+Attack
+Defense
+EXP
+HP
+Combo
+Ranged Attack
+Ranged Defense
+Attack (Light)
+Attack (Heavy)
+ATK
+DEF
+Combo
+Easy
+Normal
+Hard
+Very Hard
+Enemies are weak, and you can equip auto-chips.
+The standard, most enjoyable difficulty. Probably.
+Battles are tougher and you can't use lock-on.
+You can't use lock-on, and you will die in one hit.
+Balanced
+Close-range
+Long-range
+Aggressive
+Cautious

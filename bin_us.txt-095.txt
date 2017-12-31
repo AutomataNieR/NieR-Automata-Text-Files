@@ -1,0 +1,17 @@
+eng: Farewell...androids...
+a9s: Ah!
+a2b: ......
+a9s: Wow... It just chose death.
+a2b: We're no different.
+a9s: Huh? How so?
+a2b: We've destroyed machines beyond counting.
+a2b: Perhaps someone sees that as a sin.
+a9s: 2B...
+a9s: No good. It's beyond repair. It must've finally reached the end of the line.
+eng: Commencing self-defense protocols.
+eng: Well done, YoRHa soldiers. I am...defeated...
+[[st2\r200\r200_f3619009_scp.bin]]
+[[st5\r520\r520_40e7683e_scp.bin]]
+[[st5\r530\r530_3c8107d_scp.bin]]
+robocreator: I never knew how difficult it was to be a creative genius.
+robocreator: Thank you for your support!

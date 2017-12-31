@@ -1,0 +1,100 @@
+Damaged Dog Tag
+Bloody Dog Tag
+Rusty Music Box
+Desert Photo
+Amusement Park Photo
+Forest Photo
+Package
+Broken Toy
+Accounting Book
+Small Shoe
+Tri-color Cable
+Four-color Cable
+Five-color Cable
+Toothbrush
+Cosmetics
+Dietary Goods
+Writing Implement
+Medical Journal
+Forest Access Key
+Ocean Access Key
+Park Access Key
+Machine Part
+Stamp
+Stamp Card
+Aged Stick
+Commandment Slab
+Filthy Mask
+Statue of a Girl
+Toy Material
+Storage Element
+Plug-in Chip
+Rigid Tree Bark
+Membership Card
+Dirty Bag
+Elevator Key
+Book: "Pensées"
+Fuel Filter
+Viscous Oil
+Gift Voucher
+Sachet
+Quality Sachet
+Choice Sachet
+Sound Data 1
+Sound Data 2
+Sound Data 3
+Sound Data 4
+Sound Data 5
+Dress Module
+Heavy Armor A
+Heavy Armor B
+Machine Mask
+Emil's Head
+Lunar Tear
+Emil Mask
+Adam's Glasses
+Alien Mask
+Play System Pod
+Grimoire Weiss
+Cardboard Pod
+Blue Stripes Pod
+Retro Red Pod
+Retro White Pod
+Retro Black Pod
+Retro Grey Pod
+Retro Purple Pod
+Valve: Left Eye
+Valve: Right Eye
+Valve: Both Eyes
+Valve: Head
+A2 Wig
+Camouflage Goggles
+Pink Ribbon
+Blue Ribbon
+Pascal's Core
+Children's Cores
+Pascal's Book
+amazarashi Head
+Restores 25% of HP.
+Restores 50% of HP.
+Restores 75% of HP.
+Restores 100% of HP.
+Nullifies electrical attacks for\n30 seconds.
+Cures visual status ailments.
+Cures aural status ailments.
+Cures control anomalies.
+Cures all status ailments.
+Restores 100% HP and cures all\nstatus ailments.
+Weapon attacks do double damage for\n15 seconds.
+Weapon attacks do double damage for\n30 seconds.
+Pod ranged attacks do double damage\nfor 15 seconds.
+Pod ranged attacks do double damage\nfor 30 seconds.
+Melee damage taken is reduced by\n50% for 15 seconds.
+Melee damage taken is reduced by\n50% for 30 seconds.
+Projectile damage taken is reduced by\n50% for 15 seconds.
+Projectile damage taken is reduced by\n50% for 30 seconds.
+Skill gauge replenishes twice as fast\nfor 15 seconds.
+Skill gauge replenishes twice as fast\nfor 30 seconds.
+Prevents staggering from an attack for\n15 seconds.
+Prevents staggering from an attack for\n30 seconds.
+Movement speed increases for\n15 seconds.
