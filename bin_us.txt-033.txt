@@ -1,0 +1,100 @@
+a9s: And wait, they have genders?
+a9s: Um...
+a9s: Hello. Do you know of a machine named <SARU_JAN> who lives in the village?
+robogirl: Master <SARU_JAN> is quite the mysterious gentleman. One might even go so far as to call him suspicious. And yet he's so alluring all the same!
+a2b: Suspicious...and alluring?
+robogirl: Exactly. And I know just the gift for someone of that description!
+robogirl: You'll deliver it to him straightaway, won't you?
+robogirl: I won't let that terrible girl in the desert find a way to interfere with our love!
+a9s: Hello there.
+robogirl: Ack!
+a9s: Huh?
+robogirl: You came here from Master <SARU_JAN>'s village, didn't you?
+robogirl: I can tell. I can smell him on you. *sniiiiiiiiff* Ahhhhh!
+a9s: Okay. That's weird.
+robogirl: <SARU_JAN> is wonderful. He pursues new knowledge with a passion that is almost indescribable. I admire him as I do no other.
+a2b: You have issues.
+robogirl: And YOU clearly lack a discerning eye. I bet men take advantage of you all the time.
+a2b: Not exactly.
+robogirl: Ah, right.
+robogirl: I found something that Master <SARU_JAN> is sure to be interested in. Please take it to him with all speed!
+a9s: Hey, 2B? I've been thinking about something.
+a2b: What?
+a9s: Do you think this <SARU_JAN> fellow is being a little too...I dunno. Glorified?
+a2b: That's certainly one way to put it...
+a9s: Hello?
+sarutoru: Ah, yes. I see.
+sarutoru: Dreams are the mind's version of reality perfected.
+a9s: Hey, <SARU_JAN>? We have a delivery for you.
+sarutoru: Ah! Allow me to see it at once.
+sarutoru: Interesting. A letter, is it?
+a2b: A female machine asked us to deliver it to you.
+a2b: She said she could rely on you, and that you know pretty much everything.
+sarutoru: Yes, yes. Now if I may, do you believe that existence precedes essence?
+a9s: Um, is this about the letter?
+sarutoru: No.
+a9s: Right, but shouldn't you maybe respond to the letter?
+sarutoru: Is one duty-bound to reply to every question spewed in their direction?
+sarutoru: If such is your claim, then what power was it who placed this burdensome yoke about my neck?
+a2b: This is a waste of time.
+a9s: You got that right.
+a9s: Hello, <SARU_JAN>. Do you have a moment?
+sarutoru: Moments are transitory. One cannot possess them.
+sarutoru: A moment passed is a moment lost; a symbol of idle, unrestrained apathy that—
+a9s: I have another gift for you...
+a9s: Can you please just take this present already?
+sarutoru: A gift? Let me see.
+a9s: Here you go.
+sarutoru: Ah, yes. Fascinating...
+a2b: The machine who gave this to us said you were both "suspicious" and "alluring."
+sarutoru: It seems this so-called "gift" is nothing more than a piece of unadorned glass. Therefore, I can only surmise that—
+a9s: Um, do you want us to bring a message back to the woman who gave this to you?
+sarutoru: For a mere trifle? No.
+a9s: Okay then.
+a2b: Let's go.
+sarutoru: Indeed, is there any purpose or need to the objects we find in the world? Consider, if you will, this place. Or this village. Or even myself, if such a—
+a2b: I have another present for you...
+a2b: We're here with a present for you.
+sarutoru: A present? Of what sort?
+a9s: It's a fossil. One of your followers asked us to deliver it to you.
+sarutoru: I see, I see.
+a2b: She said you were "indescribably passionate" when it came to learning. Or something like that.
+sarutoru: A mechanical fossil. No use at all.
+a9s: Do you want us to tell her anything on your behalf, or...
+sarutoru: I'll not waste words on mere junk.
+a9s: Junk!?
+a2b: ......
+a9s: <SARU_JAN> doesn't seem to appreciate these presents he's getting.
+a9s: I suppose we should go tell his followers exactly what he thinks of them, huh?
+a9s: They'll be waiting for some kind of reply.
+robogirl: There you are! Well? What did the master have to say about my letter?
+a9s: Actually, he said it wasn't worthy of a response.
+robogirl: I KNEW it! Isn't he the greatest? I can't get enough of him.
+a9s: You don't say...
+robogirl: Did you give my gift to Master <SARU_JAN>?
+robogirl: I must know what he said!
+a9s: Well, he said it was a mere trifle.
+robogirl: Such insight! Such truth! He sees to the core of things in a way others cannot!
+robogirl: I shall follow you for the rest of my days, Master <SARU_JAN>!
+a9s: That's a long time.
+robogirl: You there! Delivery boy! Pray tell what Master <SARU_JAN> thought of my present.
+a9s: He called it a useless piece of junk.
+robogirl: Such cruelty! I've barely the words for it!
+robogirl: When I think about his wanton sadism, it makes me... Oooooooh.
+a9s: ......
+a9s: This is exhausting.
+a9s: <SARU_JAN> doesn't care at all about anyone but himself...
+a9s: And yet his followers just keep talking about how great he is!
+a9s: What's the point of all this? And what's he even getting out of it?
+a2b: Maybe you should ask him.
+a9s: Hmm? Where's <SARU_JAN>?
+n02: Oh, hey. You again.
+n02: If you're looking for <SARU_JAN>, you're too late.
+robogirl: I won't let those other women beat me to the punch—\nI must write Master <SARU_JAN> a new letter at once!
+n02: He set out on "a journey."
+robogirl: Oh, Master <SARU_JAN>... What must I do to claim your attentions...?
+a9s: A journey, huh?
+robogirl: You seem quite friendly with Master <SARU_JAN>...\nSee that you don't steal him away from me!
+n02: Yes. He said he needed to go find himself or...something.
+n02: Oh, but he left a letter for you. Here.
+a9s: Well, he's nothing if not consistent. A weirdo right to the very end...

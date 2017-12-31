@@ -1,0 +1,100 @@
+pod042: Image data transfer complete.
+op60: 2B, this is Operator 6O! Pick up!
+a2b: 2B here. Go ahead.
+op60: Thank you so much for the picture!
+op60: So this is a desert rose, huh? It seems almost...mystical.
+op60: There must just be a bounty of nature down there, huh?
+a2b: Some, yes. I've seen lilies, cherry blossoms, daffodils, and even lunar tears.
+a2b: I'll try to send more if I can.
+op60: Oh, 2B...
+op60: I'm going to treasure this forever!
+op60: Oh, and I'm going to send you a proper thank-you mail later, so keep an eye out for it. Bye!
+[[quest\q180\q180_2d2126d2_scp.bin]]
+a9s: Um, Operator? What are you doing?
+op210: What am I doing? I am analyzing data.
+a9s: Is this part of your current assignment?
+op210: No, it is merely a hobby.
+a9s: Wait, really?
+op210: The world contains a vast amount of data. Coordinates. Network node readings. Photographic images. And so on.
+op210: Analyzing this data can often lead to discovering new information.
+op210: I spend my downtime seeking out such information.
+a9s: That seems kind of boring. I mean, no offense.
+op210: It is more interesting than engaging in mindless banter.
+a9s: Hey!
+op210: Still, there might be a way to make this chatter less mindless.
+op210: There is a data terminal in the abandoned factory that I cannot access with our satellites.
+op210: If you feel like helping, you can head over there and transfer the data to me.
+sele: Happily agree to help.
+sele: Grumble about what a pain that would be.
+op210: Wonderful. I'll send the coordinates at once.
+op210: The terminal is kind of hard to find, so keep your eyes peeled.
+a9s: I'll let you know once I find it.
+op210: I'll send the coordinates at once.
+a9s: What? Hey! I didn't agree to help!
+op210: You also didn't refuse.
+a9s: Oh, come on!
+op210: The terminal is kind of hard to find, but I know you can do it.
+op210: Please examine the abandoned factory at your earliest convenience.
+a9s: This whole place is like a giant machine's nest.
+a9s: I wonder what it used to be like?
+pod153: Accessing historical records...
+pod153: Analysis: This location was once used for weapons production and experimentation.
+a9s: No kidding? What kind of weapons?
+pod153: Humanoid combat robots. Common examples include the P-22 and P-33 models.
+a9s: Human-shaped weapons, huh? Wonder if they worked like flight units.
+pod153: Unknown. No image-based information exists.
+a9s: I think I can access the data over there...
+a9s: There we go. That's what 21O wanted.
+a9s: Now I just have to send it to her.
+pod153: Alert: Poor reception in this area is preventing data upload.
+pod153: Proposal: Unit 9S should move to an area with better reception.
+a9s: Got it.
+a9s: This should be good enough...
+a9s: Pod, upload that data to Operator 21O.
+pod153: Affirmative.
+op210: Operator 21O to 9S, come in.
+a9s: This is 9S.
+op210: I received the data you sent.
+op210: It's...fascinating.
+op210: It appears to be the journal of a human who once worked in the factory.
+a9s: What, like a diary?
+op210: Yes. According to this, the man worked long hours on an almost daily basis.
+op210: He says, and I quote, "They are working me like a machine."
+op210: Working like a machine to build a machine? Humans truly were strange creatures.
+a9s: Sounds like it.
+op210: I'll send your reward later.
+a9s: Wait, I can get rewarded for doing this?
+op210: I didn't say you would not get a reward.
+a9s: Noooooo, but...
+a9s: H-Hey! Don't disconnect me!
+pod153: Report: Mail notification received from access point.
+[[quest\q181\q181_746d944f_scp.bin]]
+op210: Remember, I need you to investigate that residential area.
+op210: Operator 21O to 9S. Come in, 9S.
+a9s: I'm here.
+op210: I've sent you a new data-retrieval request. Please read it.
+op210: Over.
+a9s: Hey, wait just a...
+a9s: She didn't even give me a chance to turn her down this time!
+a9s: Why did all these people live together way back then, huh?
+pod153: Such living arrangements were due to a lack of available land in metropolitan areas.
+a9s: They ran out of space? How strange.
+a9s: How is that possible when there's so much of it out there?
+a9s: Is this...a toy?\nI guess the Operator would be interested in this.
+a9s: What's this? Says "ledger" on it...\nOh well, more junk for the Operator!
+a9s: A shoe, hm? Must've belonged to a child.\nI'd say this counts as a remnant of mankind.
+a9s: Okay, this should be enough. What do we have...?
+a9s: Broken toys... Dirty ledgers... Small shoes...
+a9s: Pod, take a photo of this junk and send it to Operator 21O.
+pod153: Affirmative.
+op210: Operator 21O to 9S.
+a9s: Hellooooooo, Operator! How can I help you?
+op210: I've received your data.
+a9s: Great. Does it seem useful?
+op210: That depends on what I do with it.
+a9s: Oh. All right.
+op210: It IS, however, fascinating.
+op210: I was aware that humans used to live in groups...
+op210: But I did not know they coexisted in such a wide variety of ways.
+op210: I'm sure you're aware that most humans subsisted in small familial units?
+a9s: Er...familial?

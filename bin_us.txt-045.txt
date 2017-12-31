@@ -1,0 +1,100 @@
+a9s: Gotcha.
+op210: "Gotcha" is not an approved form of radio engagement, 9S. Operator 21O out.
+op60: Operator 6O to 2B.
+op60: Looks like you found all the necessary parts to improve our network environment. Nice work!
+op60: You can conclude your mission by bringing everything over to Anemone.
+op210: Operator 21O to 9S.
+op60: I've confirmed that you have the necessary parts to improve our network environment.
+op60: Take the materials to Anemone in the Resistance camp. Operator 21O out.
+ane: I heard about this from the Bunker.
+ane: These are the parts we need for our network structure, right? Thanks for bringing them over.
+ane: It's not much, but I have a reward for you. Oh, but don't tell the Commander—it's probably against regulations.
+a2b: 2B to Operator 6O. Material handover complete.
+op60: Copy that. Good work!
+a9s: I see the Commander's as much of a slave driver as ever.
+a9s: It's like she was built to be as efficient and hard-assed as possible.
+op60: Aw, she's not so bad.
+a9s: Are you serious?
+op60: Totally serious! The Commander actually lets a lot of things slide on the side.
+op60: Like, did you know that she leaves piles of clothes strewn everywhere? The cleaning team is SO sick of it.
+op60: Oh, and she never performs regular maintenance on herself.
+op60: A lot of the "hard-ass" nature you mention is just for show.
+a2b: How do you know all this?
+op60: Hee hee! I can't tell you that...
+op60: Operator 6O out.
+a9s: What the heck was all that about?
+pod042: Target location data obtained. Marking on map.
+pod153: Target location data obtained. Marking on map.
+ane: How's it going? You hanging in there?
+[[quest\q162\q162_fc7da4a2_scp.bin]]
+op60: Thanks in advance for investigating that access point that went dark.
+op60: Operator 6O to 2B. Come in, 2B.
+a2b: 2B here.
+op60: The monitoring signal from the new access point has gone silent.
+op60: I'm sending you the positional data. Please investigate the site as soon as possible.
+a2b: Understood.
+a9s: We've got company. Looks like machines.
+pod042: Alert: Jamming signals detected from enemy units.
+a2b: Yeah?
+a9s: That's not good.
+pod042: Enemy machine lifeforms eliminated. Access point returned to functioning status.
+cmd: Bunker to 2B.
+cmd: The signal from the access point just came back online. Good job.
+a2b: I have some information about that, Commander.
+cmd: Go on.
+a2b: The access point went offline because machine lifeforms were jamming it.
+cmd: Which means they know that facility is one of our network terminals...
+a9s: Yeah, but that's not all. While they knew it was connected to our network, they didn't try to destroy it.
+a9s: It's almost like they were trying to lay a trap.
+cmd: Damn... They're getting smarter by the day.
+cmd: Thank you. I'll be sure to share this with the Council of Humanity on the moon.
+a2b: Understood.
+[[quest\q170\q170_96333b78_scp.bin]]
+op60: Thanks in advance for handling that transporter repair.
+op60: Operator 6O to 2B. Come in, 2B.
+a2b: I read you, Operator. Go ahead.
+op60: It looks like the transporter we installed in the city ruins has gone offline.
+op60: Our surface activity is going to be severely limited until we get it fixed.
+op60: Can you head over there and get it working again when you have a sec?
+a2b: Will do.
+op60: Thanks, 2B! Sending the details now.
+pod042: Analysis: Non-functioning transporters can result in serious limitations to data uploading and other vital mission activities.
+pod042: Recommend repairing transporter as quickly as possible.
+a2b: Understood.
+pod042: Alert: Hostile machine lifeforms detected in the vicinity of the non-functioning transporter. Jamming signals detected.
+pod042: Hypothesis: Transporter malfunction is due to enemy jamming signals.
+pod042: Proposal: Unit 2B should destroy the enemy machines.
+a2b: Is that all of them?
+a2b: Let's check this thing out.
+a2b: I don't see any damage.
+pod042: Analysis: Transporter is now operational.
+a2b: This is YoRHa unit 2B. Connect me to Bunker Operator 6O.
+op60: Oh, hello, 2B! Operator 6O here.
+a2b: The transporter was being jammed by machine lifeforms. It should be working now.
+op60: Looks green on my end, 2B. Nice work!
+op60: I'll let Command know right away.
+op60: I'll also be sending over a little reward for all your hard work.
+a2b: Roger.
+op60: You know, 2B? I'm a little jealous.
+op60: Don't get me wrong—I know all this fighting isn't easy for you.
+op60: But you get to see all these new and amazing things out there...
+op60: It just...it might be nice to visit the surface sometime, you know? That's all.
+a2b: I see.
+op60: Er, right. Apologies for the unnecessary chatter.
+op60: Anyway. Operator 6O out!
+pod042: Report: Mail notification received from access point.
+[[quest\q171\q171_12f2963a_scp.bin]]
+a2b: Pod?
+pod042: Understood.
+a2b: I didn't say anything yet.
+pod042: The conversation between Operator 6O and unit 2B has been analyzed.
+pod042: Hypothesis: Unit 2B wishes to send Operator 6O a gift from the surface so that she might be able to experience it in some fashion.
+a2b: ...That's right.
+pod042: Proposal: The gift should be a photograph of a rare flower.
+a2b: You think?
+pod042: Analysis of historical data indicates that human females enjoyed viewing the reproductive organs of flowering plants.
+pod042: If unit 2B can procure appropriate image data, it could be uploaded to the Bunker.
+pod042: Proposal: Unit 2B should obtain an image of the plant known as the "desert rose."
+a2b: All right.
+a2b: Pod, take a photograph of the desert rose and send it to Operator 6O.
+pod042: Affirmative.

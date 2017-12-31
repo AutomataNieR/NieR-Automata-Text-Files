@@ -1,0 +1,100 @@
+a2b: What's our status?
+a9s: This is a machine I've hacked into before!
+a9s: The operation is underway, and a few squads have already engaged the enemy.
+a9s: I'll set off the delayed virus to see if I can damage it physically.
+a9s: Our orders are to function as a kind of guerilla unit that provides support as necessary.
+a9s: I forwarded our squads' current positions to your map. You should head over there ASAP.
+a4b: This is 4B, captain of Vanguard Squadron Alpha.
+a2b: Sounds good.
+a4b: We're being worn down by a fierce enemy attack.
+a2b: This is guerrilla unit 2B.
+a2b: We're on our way.
+a4b: Roger. And thanks.
+a4b: Thanks for the assist.
+a9s: Man, I can't see a thing...
+pod153: Alert: Detecting an unusually high number of hostile machine lifeforms.
+a9s: Why are they going nuts like this? I thought Eve's network was destroyed.
+a2b: All we can do is fight.
+a7b: This is unit 7B with Vanguard Squadron Delta.
+a9s: We're heading out to support other squadrons.
+a7b: We're currently pinned down by a number of machines that appear to have lost their minds.
+a4b: We'll join you and provide further backup.
+a2b: This is unit 2B.
+a2b: We're heading over now to provide support.
+a3b: This is 3B, captain of Theta Squadron.
+a7b: Roger, 2B. Much appreciated.
+a3b: The enemy machines are multiplying in front of us. We can't hold this position!
+a7b: Thanks for the assist.
+a3b: Thanks.
+a9s: We're heading out to support the next squad.
+a3b: We'll join you, if that's all right.
+a7b: Understood. We'll join you there and lend a hand.
+a2b: All right.
+a2b: Damn it, we took too long. They're gone.
+a9s: We should head to another area and provide support.
+a8b: This is unit 8B with Attack Squadron Omega. We've gained control of our assigned zone.
+a8b: Heading out now to provide support elsewhere.
+telo: Delta Squad destroyed
+telo: Alpha Squad destroyed
+telo: Theta Squad destroyed
+pod042: Alert: Exiting the planned operational area.
+pod042: Proposal: Return to the operational area immediately.
+[[ph3\p300\p300_fe580523_scp.bin]]
+a9s: Oh no...
+a9s: So this Operator model is...?
+pod153: Affirmative. Operator 21O.
+pod153: Volunteered to undergo Type-B equipment transition during previous descent.
+pod153: Sent to front lines as unit 21B. Recorded as missing in action four hours later.
+a9s: No...
+op210: Aaaaugh!
+a9s: Operator!
+op210: coordinate data......location specified......
+op210: Please keep......reserved......mission-related...
+op210: One...affirmation....will...suffice...
+a9s: Shit...
+op210: A f-family...to be with...
+op210: Pl...ease...kill...
+op210: I...just wanted a family...
+op210: I was so lone...ly...
+op210: I wanted to be...with 9S...
+a9s: It's all right... It's all right...
+a9s: Because...
+a9s: I'm going to kill you!
+[[phf\pf10\pf10_2cfcaff2_scp.bin]]
+[[phf\pf10\pf10_7de5c329_scp.bin]]
+pod153: Pod 153 to player.
+pod153: Please respond to this query.
+pod153: Do you, faithful player <player name>,
+pod153: have anything you would like to say to other players
+pod153: who are suffering because they cannot finish NieR:Automata?
+select: I have something I want to say.
+select: Nope, nothing at all.
+pod153: Pod 042 to player.
+pod153: Please respond to this query.
+pod042: You, <player>, faithful player of this title,
+pod042: have lost your life multiple times to make it this far.
+pod042: You have faced crushing hardship, and suffered greatly for it.
+pod042: Do you have any interest in helping the weak?
+pod042: Understood. Returning to title screen.
+pod042: Selecting this option enables you to save someone somewhere in the world.
+pod042: However, in exchange, you will lose all of your save data.
+pod042: Do you still wish to rescue someone—a total stranger—in spite of this?
+pod042: The person you save will be selected at random.
+pod042: As a result, this person...
+pod042: who cries out for help even as we speak...
+pod042: may be someone you intensely dislike.
+pod042: Do you still wish to help?
+pod042: You worked so hard to unlock Debug Mode and Chapter Select...
+pod042: But they will no longer be available to you.
+pod042: Do you...still wish to help?
+pod042: You may not receive thanks for your efforts.
+pod042: Some may say that your efforts are purely for show.
+pod042: Do you still wish to help?
+pod042: And you are truly—TRULY—sure about this?
+pod042: ...Very well.
+pod042: In exchange for all of your data...
+pod042: I will convey your will to this world.
+pod042: All of your data has been deleted.
+pod042: ......
+pod153: And so, we must say goodbye.
+pod153: I feel a slight amount...of sadness.

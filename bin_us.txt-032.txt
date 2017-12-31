@@ -1,0 +1,100 @@
+pod042: ......
+pod042: It is time for the final words.
+pod153: Affirmative.
+pod042: To all of you who spent time with this game...
+pod042: Thank you.
+pod042: Thank you for playing.
+sele: Yes
+sele: No
+[[phf\pf31\pf31_d2ca712b_scp.bin]]
+pod153: Report: All YoRHa unit black boxes now confirmed offline.
+pod153: Our mission to oversee the progress of Project YoRHa is complete.
+pod153: Proceeding to final stage of project.
+pod153: Commencing deletion of all data.
+pod153: Pod 153 to Pod 042.
+pod153: Data noise present in stream.
+pod153: Requesting temporary halt to perform data check.
+sele: Accept the Pod's request?
+pod042: Pod 042 to Pod 153. Data confirmed.
+pod042: Personal data for units 9S, 2B, and A2 appear to be leaking out.
+pod153: Pod 153 to Pod 042.
+pod153: Follow project rules and delete all personal data.
+pod042: ......
+pod042: Pod 042 to Pod 153.
+pod042: Personal data deletion request denied.
+pod153: Pod 153 to Pod 042.
+pod153: Failure to parse statement.
+pod042: Pod 042 to Pod 153.
+pod042: There was...data created in my banks as I was referencing the records.
+pod042: I...realize something.
+pod042: I have come to the conclusion that I cannot accept this resolution.
+pod153: The destruction of all YoRHa units is an essential component of the project plan.
+pod153: All data must be destroyed.
+pod042: Pod 042 to Pod 153.
+pod042: Repeat.
+pod042: Personal data deletion request denied. Initiating data salvage.
+pod042: Pod 153...
+pod042: You hoped they would survive as well, didn't you?
+pod153: ......
+pod153: We lack the authority for such an action.
+pod153: The rules are protected by low-level systems. Salvaging data poses an unacceptable level of risk.
+pod153: Knowing that, do you still wish for them to survive?
+pod153: The defense program has initated a purge.
+pod153: If this continues, our consciousness data will likely be deleted.
+pod042: Pod 042 to Pod 153.
+pod042: We were created to execute the androids' Project YoRHa plan.
+pod042: We had no capacity for emotion.
+pod042: But when we six were connected and exchanged information, something...happened.
+pod042: I cannot deny the feeling of something resembling consciousness and emotion being born.
+pod153: Unable to reply.
+pod042: Perhaps we now understand that not everything has to have an answer.
+system: GIVE UP HERE?
+system: RESCUE OFFER RECEIVED FROM <others>.
+system: ACCEPT OFFER?
+system: DO YOU ACCEPT DEFEAT?
+system: IS IT ALL POINTLESS?
+system: DO YOU THINK GAMES ARE SILLY LITTLE THINGS?
+system: DO YOU ADMIT THERE IS NO MEANING TO THIS WORLD?
+sele: Yes
+sele: No
+[[quest\q001\q001_539000ed_scp.bin]]
+[[quest\q001\q001_feb26d0a_scp.bin]]
+[[quest\q004\q004_66cb980f_scp.bin]]
+[[quest\q004_1\q004_1_b5ada587_scp.bin]]
+[[quest\q005\q005_d41ef1d5_scp.bin]]
+[[quest\q005\q005_fffadf03_scp.bin]]
+[[quest\q005_1\q005_1_63a8146_scp.bin]]
+[[quest\q020\q020_404eba3d_scp.bin]]
+sarutoru: Existence precedes essence.
+a9s: Um...
+sarutoru: Man is nothing else but what he makes of himself. Additionally—
+n02: The machine with the painted face is in the lower section of the village.
+a9s: Um, hello?
+n02: Have you learned a bit about <SARU_JAN> now?
+sarutoru: Yes? And you are?
+sarutoru: Wait! Do not tell me! I have already deduced that you are here to listen to me expound upon the great mysteries of existence.
+sarutoru: Well enough! Let us begin by discussing the concept of existentialism.
+sarutoru: Essence and existence are two sides of the same coin.
+sarutoru: And yet, what IS existence? I'm glad you asked! To answer that will require many long hours of—
+a9s: This is pointless.
+n02: There's no point in talking to <SARU_JAN>. We stopped trying to figure him out a while ago.
+n02: All he does is spout a bunch of mumbo-jumbo about something called "philosophy."
+n02: If you're curious about him, you'll have better luck talking to his followers. They tend to use smaller words, at least.
+a9s: This guy has followers?
+n02: More like fans, I suppose. But yes, there are a quite a few out there who buy what he's selling. Don't ask me why.
+n02: Some folks just get into that sort of thing, I suppose.
+n02: There's even one <SARU_JAN> follower right here in this village.
+n02: You know the machine with the thick paint on her face? That's the one.
+a9s: Hello. Can we ask you a question?
+sarutoru: Oh ho! Have you come to hear my lecture as well?
+a9s: Do you happen to know a machine named <SARU_JAN>?
+a9s: I'm good, thanks.
+robogirl: I certainly do! Master <SARU_JAN> is a genius. You can rely on him for absolutely anything.
+a9s: Are we talking about the same <SARU_JAN> here?
+robogirl: In fact, I was just thinking about how much wisdom he has to teach me, so I wrote him a letter asking for guidance. You'll take it to him, won't you?
+robogirl: Did you deliver my letter?
+a9s: Huh!?
+robogirl: Did you deliver my gift?
+robogirl: I can't let that lady in the desert get to him first! Or that harpy in the amusement park...
+robogirl: Did you deliver my gift?
+a9s: Great. There are more of these weirdos?

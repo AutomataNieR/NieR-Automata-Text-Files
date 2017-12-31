@@ -1,0 +1,100 @@
+robomaster: We sparred, yes? You learned many things, yes? Then surely an emolument is to be expected!
+a9s: This guy is shameless!
+robomaster: Bring it here before our next bout, if you would be so kind.
+robomaster: Ah, excellent. Now we can engage in a new form of training.
+robomaster: Father Servo is currently engaged in preparations.\nCome back later.
+robomaster: Father Servo will accept your challenge whenever you feel ready.
+robomaster: ...For a fee, of course.
+a9s: Of course.
+robomaster: You should be able to retrieve a warped wire from the dinosaur-like machines roaming about nearby,
+pod042: Requested material obtained.
+pod042: Target location data obtained. Marking on map.
+pod153: Requested material obtained.
+pod153: Target location data obtained. Marking on map.
+[[quest\q101\q101_5be5b4cc_scp.bin]]
+robomaster: Back for more, my child?
+robomaster: Well? Would you like to see Father Servo's new modification in action?
+robomaster: Be warned! Father Servo has used your previous gift to make himself stronger than ever.
+robomaster: Would you like to test yourself against this new modification?
+sele: Spar with Father Servo.
+robomaster: Care you to help Father Servo with his training?
+sele: Tell him to get bent.
+sele: Begin again.
+robomaster: Time is a great wheel, yet do not expect things to transpire as they did when last we met.
+sele: Refuse.
+robomaster: Ah, a pity. Come find Father Servo if you change your mind.
+robomaster: Father Servo will not waste his talents on a weakened foe! Begone!
+robomaster: Heh heh. One cannot fail to be impressed by the strength of Father Servo.
+robomaster: If you desire to test yourself anew, Father Servo is happy to oblige.
+robomaster: Have you brought the required items?
+robomaster: S-Stop! No more!
+sele: Give him the items.
+a9s: Whew... You happy now?
+sele: Refuse.
+robomaster: ......
+robomaster: Let us discuss the fee.
+a9s: Oh, come on! YOU'RE the one who wanted to test—
+robomaster: Would you truly refuse a single request from this old monk?
+a9s: Okay, don't even start with me.
+robomaster: Father Servo surrendered all worldly possessions and took numerous vows, yet you would deny him even a simple request!?
+a9s: All right, all right! Fine! What do you want this time?
+robomaster: One memory alloy and one broken circuit.
+robomaster: The world moves ever on, my child, so do not dawdle.
+a9s: Would you stop calling me that already?
+robomaster: One memory alloy and one broken circuit will be payment enough for the lesson you received.
+a9s: Hey. I got that junk you wanted.
+robomaster: Such impatience! Are you truly so eager to see how Father Servo evolves?
+robomaster: Ah, excellent. Now Father Servo can modify himself anew.
+robomaster: When you return, he will be stronger than ever!
+a9s: Oh, I can't wait for that...
+pod042: Requested material obtained.
+pod042: Target location data obtained. Marking on map.
+pod153: Requested material obtained.
+pod153: Target location data obtained. Marking on map.
+[[quest\q102\q102_28e223f7_scp.bin]]
+robomaster: How good of you to grace Father Servo with your presence once again.
+robomaster: Care ye to taste the results of Father Servo's latest modification?
+robomaster: Such drive is admirable.
+robomaster: Well then! Do you care to witness the glories of this latest modification?
+sele: Witness the glories.
+robomaster: Would you like to help Father Servo with his training?
+sele: Pass on witnessing the glories.
+sele: Begin anew.
+robomaster: The Father Servo you knew has passed from this life, my child. Behold his latest incarnation!
+sele: Begin nothing.
+robomaster: A pity.
+robomaster: Father Servo will not waste his talents on a weakened foe! Begone!
+robomaster: Come find Father Servo if you change your mind.
+robomaster: Such strength can only be achieved by becoming one with the universe!
+robomaster: If you desire to test yourself anew, Father Servo is happy to oblige.
+robomaster: Have you brought the required items?
+robomaster: No more! Father Servo yields!
+sele: Surrender the items.
+a9s: So what do you want this time? More weird junk?
+sele: Turn him down.
+robomaster: To business already? My my!
+a9s: Figured I should get it over with and save us both some time.
+robomaster: You're a clever one, aren't you?
+robomaster: Well, when the heavens offer succor, it is poor form to refuse. Father Servo requires a silver ore, a pristine screw, and a broken battery.
+a9s: Hold on. That's more stuff than last time!
+robomaster: ERROR. ERROR. BAD FILE OR PATHWAY. BZZZZZT.
+a9s: Stop it! I know you're not broken!
+a2b: Let's go already.
+robomaster: Father Servo needs a silver ore, a pristine screw, and a broken battery.
+a9s: We've got what you wanted. Pretty much needed a wheelbarrow to carry it all... *grumble*
+robomaster: Thank you, my child.
+robomaster: With these items, the flesh of Father Servo will be so, so, so, so, SO powerful!
+a9s: Good. Because I'm going to beat you silly next time to make up for all your stupid errands.
+robomaster: Er, yes. Regardless, modifying one's body is not a process accomplished quickly or without effort.
+robomaster: So until your next visit, farewell!
+pod042: Requested material obtained.
+pod042: Target location data obtained. Marking on map.
+pod153: Requested material obtained.
+pod153: Target location data obtained. Marking on map.
+[[quest\q103\q103_d2b3f5a6_scp.bin]]
+robomaster: Ah! The prodigal child returns once more!
+a9s: Uuuuuuuuh...
+a2b: This IS that same weird monk machine as before, right?
+robomaster: Oh ho! Father Servo has used the gifts of his flock to make himself powerful beyond imagining!
+robomaster: Dare you taste the forbidden fruits of his labors!?
+sele: Taste the forbidden fruits.

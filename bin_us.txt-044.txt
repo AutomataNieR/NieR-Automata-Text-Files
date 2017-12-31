@@ -1,0 +1,100 @@
+sele: Carefully turn her down.
+resiman: Man, I have had it up to HERE with Jackass lately. I mean, come on...
+jackas: All right! Good to know not everyone around this joint is a spineless hunk of crap!
+jackas: Here. Follow me.
+jackas: All right. See that jerk over there?
+jackas: I need you to get combat data for him.
+jackas: Science will pay you back for this, I promise. Now...FIGHT!
+jackas: Come on! Do it already! Don't hold anything back!
+jackas: Hey, what's the hold-up? Hurry up and start kicking some ass!
+jackas: Feel like helping yet?
+sele: Agree to help.
+sele: Beg off.
+jackas: Peachy. Let's get rolling, then.
+jackas: Freakin' USELESS. If you change your mind, let me know, I guess.
+jackas: I can't just whip up a complicated drug like this overnight. Go keep yourself busy for a while, yeah?
+jackas: I need your help with my research, but I'm kinda tied up at the moment.
+jackas: Come back later. And don't forget!
+jackas: Oh man. Oh man, oh man. That was GREAT!
+jackas: Hey, did you know that android battle fever is actually quite similar to the human emotion of "love"?
+jackas: So if we want to know what all those old human records are always going on about, all we need to do is let our fists fly!
+jackas: Makes this whole thing feel more romantic, don't you think?
+jackas: Okay, that was pathetic. I mean, you are REALLY starting to chap my chrome over here. Now try it again!
+jackas: I need you to wipe out those enemies over there. Think you can handle that? Mmmm?
+jackas: There's lots of other research I need help with, so don't hesitate to holler at me.
+jackas: There's plenty of stuff to do around here, so drop why when you feel bored.
+jackas: Hey there! Big challenge this time, but I know you're up for it.
+jackas: And I ALSO know you'll let me record some of that sweet, sweet data.
+jackas: Okay! So I need you to wipe out those enemies over there without taking any damage. Like, at all. Zero. Zip. Naaaaada.
+sele: Agree to help Jackass.
+sele: Carefully turn her down.
+jackas: Remember that science will reward you handsomely for your efforts. Now...FIGHT!
+jackas: YESSSSS! I love you YoRHa goons. I really do. Just look at all this data!
+jackas: Speaking of YoRHa goons, I'm a bit surprised you types are so...intellectual.
+jackas: I thought combat models would be a bit more dense. Less thinking, more killing and all that?
+jackas: Frankly, giving you any kind of intellect at all strikes me as pointless.
+a2b: ......
+jackas: I need you to wipe out those enemies over there without taking any damage. Think you can handle that?
+jackas: Okay, killers. I've prepared a real rogues' gallery of thugs for you today.
+jackas: Still haven't had enough, eh? I like you! You've got GUTS! Metaphorically speaking, of course.
+jackas: I want you to take out those enemies over there in 30 seconds or less.
+jackas: Because more thugs means more data! And more data means we get some BEAUTIFUL SCIENCE up in this joint!
+sele: Agree to get science up in the joint.
+sele: Walk away.
+jackas: You're doing good work here. You really are. Now...FIGHT!
+jackas: Holy crispy crap on a stick... Now THIS is data!
+jackas: Here, look at this. See this reaction? It proves that android brains contain an algorithm which allows them to derive pleasure from battle!
+jackas: Without that, we'd probably have stopped fighting a long time ago. What a brutally efficient piece of evolution!
+jackas: It's possible this is based on an identical pleasure center in the human brain. Man, those fleshbags really were something!
+jackas: Are you serious about this or what? Come ON already!
+jackas: I want you to wipe out those enemies in 30 seconds or less.
+jackas: All right, my little science nerds. I have one more data-gathering battle for you.
+jackas: I want you to wipe out those enemies in 30 seconds or less... Oh, and you can't take any damage either.
+jackas: So let's get out there and do it already! Woo!
+jackas: Excellent! The fruits of science are but a battle away! Now, FIGHT!
+jackas: Bloody hell. Bloody, nasty, gut-strewn HELL! Do you know what I just discovered?
+jackas: The excitement we feel in battle is caused by a type of pleasure-generating chemical produced in our circuits!
+jackas: Anyway, I think I can localize this substance and turn it into a drug that will help expand our combat capabilities.
+jackas: All these advances, and it's all thanks to YOU! ...See? I told you science was the best.
+jackas: Anyway, keep an eye out for that drug. Once I get it synthesized, it's all yours.
+jackas: Hey! This is NOT the time to start slacking off!
+jackas: I want you to wipe out those enemies in 30 seconds or less without taking any damage. Now MAKE IT HAPPEN!
+jackas: Ha! I bet SOMEONE'S here to try out my new combat wonder drug!
+jackas: I've already handed it out to a few folks, and man, is it ever popular. One taste and you're hooked for life!
+jackas: And yeah, it sounds bad when I say it like that, but your YoRHa buddies don't seem to mind.
+jackas: Sure, there are some side effects... Like a horrifying destabilizing effect on one's psyche.
+jackas: But none of that should be a problem for combat-focused models like you.
+jackas: Anyway, the first round's on me. Check it out and let me know what you think.
+jackas: If you want more, go visit the YoRHa unit at the oil field in the desert.
+jackas: She was asking for the recipe, so I'm sure she's cooking up a stash of her own.
+jackas: Hmmm, I still don't have enough data...\nI could use some more help.
+jackas: More data... I NEED MORE DATA!\nAnd YOU are going to help me, right?\nThat's a rhetorical question by the way.
+jackas: I just need a teensy bit more data...\nYou look like you've got nothing better to do, \nso give me a hand here!
+sele: Give her a hand.
+sele: Keep your hands to yourself.
+jackas: That's what I'm talkin' about!
+jackas: Excellent! You're the best guinea pig a gal could ask for! This should be the last bit of data I need.
+jackas: Now it's time to fight! \nIn the name... OF SCIENCE!
+jackas: You're the only one stu...uh, brave enough to do this for me. You know that, right?
+pod042: Report: Mail notification received from access point.
+pod042: Requested mission completed.
+[[quest\q160\q160_d8b9d0be_scp.bin]]
+cmd: Take the necessary materials to the Resistance leader.
+cmd: Actually, there's something I needed to ask you.
+cmd: We need your help improving the network environment between the Bunker and the surface.
+cmd: Doing so will allow us to carry out our operations in a more efficient manner.
+cmd: First, I need you to transport the required materials to the leader of the Resistance camp.
+cmd: I'll have an operator explain how to obtain the materials once you touch down.
+a9s: Yes, Commander.
+op60: Operator to 2B. Come in, 2B.
+op60: We need you to collect the materials required to improve the network environment.
+op60: You're going to need a rusty bolt, a small gear, and a spring.
+op60: You should be able to find them on small-sized enemies.
+op60: Once you have everything, please take it to the Resistance leader, Anemone.
+a2b: Understood.
+op60: I know it's a bit of a pain, but good luck!
+op210: Operator to 9S.
+op60: I will now relay the materials necessary to improve the network environment.
+op60: You need to acquire a rusty bolt, a small gear, and a spring.
+op60: You should be able to find them on small-sized enemies.
+op60: Once you have the materials, bring them to Anemone, the leader of the Resistance.

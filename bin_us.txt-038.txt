@@ -1,0 +1,100 @@
+sele: Go hungry.
+robomaster: Father Servo is born anew!
+robomaster: Ah, a pity. Come find Father Servo if you change your mind.
+robomaster: Oh ho ho ho! Such power! It's almost blasphemous to even contemplate it!
+robomaster: If you desire to test yourself anew, Father Servo is happy to oblige.
+robomaster: Would you like to help Father Servo with his training?
+sele: Begin anew.
+sele: Begin nothing.
+robomaster: Father Servo will not waste his talents on a weakened foe! Begone!
+robomaster: Enough, I say! Show pity on an old monk!
+a9s: ...Go on.
+robomaster: Father Servo requires a gold ore, a piece of filler metal, a pristine cable, and a large battery.
+a9s: I dunno, 2B. What do you think?
+a9s: I feel like all this fighting is a big waste of time. Plus it's starting to get REALLY expensive!
+a2b: It's not a waste.
+a2b: Our own skills improve each time we spar with this machine.
+robomaster: Such wisdom! May the thousand blessings of a random and unspecified god rain down upon you!
+robomaster: Fetch me a gold ore, some filler metal, a pristine cable, and a large battery.
+robomaster: Have you brought the required items?
+sele: Give him the items.
+sele: Turn him down.
+a9s: One order of useless crap, as requested.
+robomaster: Oh ho! Now Father Servo can finally achieve oneness with the universe!
+a9s: You don't say.
+robomaster: Just wait, my child! When you return, Father Servo will be more powerful than you can possibly imagine!
+pod042: Requested material obtained.
+pod042: Target location data obtained. Marking on map.
+pod153: Requested material obtained.
+pod153: Target location data obtained. Marking on map.
+[[quest\q104\q104_e9ff21ee_scp.bin]]
+robomaster: Well? What think you of Father Servo now?
+robomaster: Dare you face the full brunt of Father Servo's power?
+a2b: ......
+sele: Face the brunt.
+a9s: You've, uh, had a lot of work done.
+sele: Face 180 degrees and walk.
+robomaster: Indeed! And all thanks to you!
+robomaster: Would you like to help Father Servo with his training?
+robomaster: Well then? Think you can face the full might of Father Servo's power?
+sele: Begin anew.
+sele: Face the full might of the Father.
+sele: Begin nothing.
+sele: Walk away from this nonsense.
+robomaster: Father Servo will not waste his talents on a weakened foe! Begone!
+robomaster: Then we fight!
+robomaster: Ah, a pity. Come find Father Servo if you change your mind.
+robomaster: Yes! Yesssss! The power of the multiverse courses through the circuits of Father Servo!
+robomaster: If you desire to test yourself anew, Father Servo is happy to oblige.
+a9s: Okay. We're done now, right? I mean, this HAS to be the end.
+robomaster: Oh, my child. How wrong you are. For if Father Servo wishes to be truly strong, he must stake his very life upon it!
+a2b: Oh, for the love of...
+robomaster: Grant Father Servo no quarter! This will be a battle to the death!
+robomaster: Prepare to die, my android child!
+robomaster: G-Good... Now Father Servo...can be at peace...
+robomaster: For he has found a foe...strong enough to withstand him...
+robomaster: Here... Your earthly reward...
+robomaster: Th-Thank...
+robomaster: ......
+a9s: Target neutralized. \n...It's over.
+a2b: Huh.
+a9s: About goddamn time!
+a9s: If I ever see that bossy robo-monk again, it'll be too soon, let me tell you.
+a2b: I suppose.
+a9s: ......
+a9s: Stupid machine. All he cared about was getting stronger until we finally scrapped him.
+a9s: But now we don't have to see him ever again. What a relief!
+a2b: ...Indeed.
+robomaster: ......
+[[quest\q110\q110_171236f0_scp.bin]]
+roboane: Excuse me? Do you have a moment?
+sister: Thank you for bringing my sister home.
+sister: I'm feeling much better thanks to the part she found.
+youngsister: Thanks for helping me search earlier!
+youngsister: I promise not to make my sister worry any more.
+sister: Please, take this...
+roboane: Please, I need your help!
+roboane: Um, excuse me? Can you please help me? I need to find my little sister. She's lost.
+sele: Agree to help look for her.
+sele: Refuse to help.
+roboane: And it's all my fault...
+roboane: It seems she overheard me complaining about how one of my parts was starting to seize up.
+roboane: So she went off to the desert in search of a replacement.
+roboane: It's been days now, and she's still not back. Please, you have to help me! I'll pay you whatever you want!
+roboane: Can you please help me find my little sister? She's lost in the desert!
+a9s: She sure cares about her little sister, huh?
+a9s: Still, it's pretty funny to hear machines talk about siblings.
+a9s: Do you think she just means they were built at the same factory or something?
+a2b: Maybe.
+pascal: Um, hello there! Hello? Testing testing?
+a9s: Er, Pascal? Is that you?
+pascal: Ah! 9S! Yes, it is me. Many apologies for the sudden transmission.
+pascal: I heard that you were searching for the missing child, yes?
+pascal: Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can!
+pascal: She's such a good little girl, and so fond of her sister!
+pascal: She's probably somewhere around the desert at the moment.
+pascal: That's where she's likely to find the dented plate her sister needs.
+a2b: Got it.
+pascal: Thank you so much. And please be careful, all right?
+roboimouto: I wanna go hoooome... Siiiiisteeeeer! Where are you!?
+a9s: Is that...?

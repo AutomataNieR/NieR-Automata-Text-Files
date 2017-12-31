@@ -1,0 +1,100 @@
+manager: Sorry, but can you come back later?
+ane: We've been falling behind on our material-storage work as of late.
+manager: I can't just sit here while everyone's fighting so hard around me. I need to shape up...
+ane: The person in charge is usually quite reliable, but lately...
+ane: Well, to be blunt, she's been slacking. I think there's some kind of personal issue distracting her.
+ane: I don't know the whole story, but I'm going to have to find out so this doesn't disrupt our operation any more than it already has.
+ane: You can find the person in charge on top of the scaffolding at the back of the camp.
+ane: Would you mind talking to him?
+manager: *sigh* Why can't I stop thinking about it...?
+a9s: Stop thinking about what?
+manager: Gya! What!? Who are you!?
+a9s: We're with YoRHa.
+a9s: Anemone told us to make ourselves at home.
+manager: Oh...r-right.
+a9s: So. What can't you stop thinking about?
+manager: Oh, it's just... One of my friends has a box that makes music when you open it, and I can't get the damn song out of my head.
+manager: It's just so beautiful! I've never heard anything like it!
+manager: And to make it worse, I can only remember the first part of the song...
+manager: Daaah, it's driving me nuts!
+manager: I wish she'd just come back to camp so I could hear the damn thing again!
+sele: Go look for the missing item.
+sele: Let the weirdo work it out herself.
+a9s: Yeah, if we don't help her, she'll never get any work done.
+a2b: A box that plays sound? Odd.
+pod042: Analysis: The item in question is likely a "music box." It should be located in an area where music is playing.
+pod042: Proposal: The local amusement park would be a logical area for reconnaissance.
+a9s: That's some fuzzy logic there, Pod...
+a9s: But hey, might as well try it. Not like we have any other leads to go on.
+a9s: Is this the "music box" she was looking for?
+a9s: Man, this thing is all rusted over...
+a2b: Look. A corpse.
+a9s: You think the box belonged to her?
+a9s: Poor girl died a long time ago, by the looks of it.
+a2b: Let's bring this back to her friend.
+a9s: Excuse me. Is this the "music box" you were looking for?
+manager: THAT'S IT! Where did you find it?
+a2b: In the amusement park, next to the corpse of an android. Maybe that was its owner?
+manager: ...Oh.
+a9s: Was she...
+manager: ......
+manager: Well, it's awfully rusty, but with a little work I should be able to get it playing again.
+a9s: Of course.
+manager: Thank you for bringing the box to me.
+manager: Now I can finally concentrate on my work again!
+manager: Oh, and you two are welcome to enter the back anytime you like from now on.
+[[quest\q122\q122_3a5128c8_scp.bin]]
+ane: Oh, hello. Your timing is excellent.
+ane: Sorry, but could you focus on your mission for now?
+ane: I need a favor from you both.
+ane: I know you came here and everything, but...
+a9s: What is it?
+ane: We're planning a recon expedition of the forest region.
+ane: But before we can start, we need someone to head in there and set up a satellite camp.
+ane: The enemies are tough, and I'd lose a lot of good people if we tried to clear them out. But you two seem like you can handle yourselves, so...
+a2b: Got it. Head to the woods and clear out any enemies.
+ane: That's the long and short of it, yes. Thank you.
+a9s: ...Looks like that's the last of them. Good work.
+a2b: The Resistance should be able to set up camp now.
+a9s: Right! Let's head back and give 'em the good news.
+ane: Looks like we're cleared to set up in the forest. Thank you.
+ane: I'll let you know if we need anything further.
+ane: Seriously, you YoRHa types are something else.
+a9s: Well, not to brag, but we ARE state-of-the-art units. Not like the A2 or those other old mode—
+ane: A2?
+ane: Attacker Number 2?
+a2b: You know her?
+ane: No, not...
+ane: ......
+ane: I'm sorry. Can I ask one more favor of you?
+ane: Can you give me any information you have on that old A2 YoRHa unit? Anything at all.
+a9s: That's funny—we've been trying to find more information ourselves. Why are you asking?
+ane: I just...need to be sure about something.
+a9s: I know it's our job and all, but these Resistance types sure do use and abuse us, don't they?
+a9s: It's like they see us as a couple of gofers or something.
+a2b: No complaining about your work.
+a2b: Exchanging information with the Resistance is a vital part of our mission.
+a2b: Besides, being a gofer is safer than being locked in combat all the time.
+a2b: Not dying beats dying any day.
+a9s: Yeah, that's true.
+[[quest\q123\q123_6fde04e_scp.bin]]
+ane: Sorry, but could you focus on your mission for now?
+ane: I know you came here and everything, but...
+ane: Seriously, you YoRHa types are something else.
+a9s: Well, not to brag, but we ARE state-of-the-art units. Not like the A2 or those other old mode—
+ane: A2?
+ane: Attacker Number 2?
+a2b: You know her?
+ane: No, not...
+ane: ......
+ane: I'm sorry. Can I ask one more favor of you?
+ane: Can you give me any information you have on that old A2 YoRHa unit? Anything at all.
+a9s: That's funny—we've been trying to find more information ourselves. Why are you asking?
+ane: I just...need to be sure about something.
+a2b: She wants intel on A2, does she? Where should we start?
+a9s: We could check out the energy reactions generated during battles.
+a9s: The fusion reactors of androids and machine lifeforms shut down when they're destroyed.
+a9s: And we can detect the energy released during that process.
+a9s: We're the only units doing any combat missions in this area, right?
+a9s: So if we detect any stray energy reactions, it probably means A2 is involved.
+a9s: ...Yeah, okay. We've got some readings around the abandoned factory. I'll put it on the map.

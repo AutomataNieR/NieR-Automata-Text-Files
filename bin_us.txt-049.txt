@@ -1,0 +1,100 @@
+pascal: Would you perhaps lend us your aid?
+pascal: Thank you so much.
+pascal: The required part is in the area known as the abandoned factory. I truly do appreciate this.
+pascal: The part needed to repair the child is in the area known as the abandoned factory.
+pascal: I appreciate your help.
+pod042: Enemy machines destroyed.
+a2: So this is the part Pascal wanted?
+a2: Can't believe I'm killing machines to save a machine.
+a2: ......
+a2: Ah, screw it. Better go see Pascal.
+pascal: Ah, A2! You have the part needed to repair the child!
+pascal: I cannot thank you enough.
+pascal: This is meager compared to what you've done, but please take it.
+pascal: In all honestly, we could have transferred the child's core to another body instead of repairing the original.
+pascal: This process allows us to resurrect ourselves as many times as we want.
+pascal: However, it comes at the cost of our memories.
+pascal: So in a way, he would no longer be the same child.
+pascal: Thankfully, this is no longer an issue. Thank you so much!
+[[quest\q290\q290_e15f2fa1_scp.bin]]
+robocreator: Hey there! Having fun?
+robocreator: Will you help me out?
+a9s: This place isn't exactly what I'd call "fun."
+sele: Aid the game creator.
+robocreator: Good point. It's more like an un-amusement park, eh?
+sele: Turn him down.
+robocreator: That's why I'm thinking about making a game!
+a9s: Oh yeah?
+robocreator: Yes! A fun game that anyone can play!\nIf only I had the materials...
+robocreator: I don't suppose you'd help me out with that?
+sele: Aid the game creator.
+sele: Turn him down.
+robocreator: Excellent! All I need is a single tri-color cable.\nJust let me know when you find it.
+a9s: If you know what you need, why don't you go find it yourself?
+robocreator: Tri-color cables are found inside the machines in the amusement park. You don't expect me to slaughter my own kin, do you?
+a9s: You could just decide not to make the game, you know?
+robocreator: Never! My creative urges must be satisfied!
+a9s: But you just said... Oh. forget it.
+robocreator: I want to make a fun game that anyone can play.\nWill you help out?
+robocreator: Ah! A tri-color cable! I must have it!
+robocreator: Excellent! Now I just attach this here...
+robocreator: Success! The game is ready!
+a9s: So what is this game of yours anyway?
+robocreator: It's a shooting game. I have the feeling it's still really buggy though...
+robocreator: Feel like playing a game?
+sele: Sure.
+sele: Not right now.
+robocreator: I'd appreciate it if you could debug it a bit while you play.
+robocreator: Congratulations! Did you enjoy yourself?
+robocreator: You debugged the game! Thanks!
+robocreator: Though, to be honest, I was hoping it would be more of a challenge.
+robocreator: I bet a four-color cable would be just the thing to raise the difficulty. Do you think you could track one down for me?
+robocreator: I feel...passion...burning inside me. Passion...to make the BEST GAME EVER.
+robocreator: And what the best game ever REALLY needs, is a four-color cable. Could you bring me one?
+sele: Agree to help.
+robocreator: Have fun!
+sele: Tell him you've done enough.
+robocreator: Come back whenever you'd like to play.
+robocreator: Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.
+robocreator: You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.
+robocreator: Have fun out there!
+robocreator: I'm trying to make my game more difficult.\nCan you please bring me a four-color cable?
+robocreator: How can one think about being creative under these circumstances? Please, you must help us!
+robocreator: The machines carrying tri-color cables are quite aggressive, so be careful!
+robocreator: Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.
+robocreator: You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.
+robocreator: Ah! You have a four-color cable! Gimme.
+robocreator: Now then, I just connect this end to the widget here aaaand...
+robocreator: Presto! My amazingly fun game is now more difficult.
+robocreator: Care to check it out? I'll give you a prize if you can debug it for me.
+robocreator: That was fun, wasn't it?
+robocreator: You debugged the game! Thanks!
+robocreator: You know something? I don't think my fun game is hard enough yet. We need to reach beyond typical market boundaries to include hardcore gamers.
+robocreator: But that can easily be rectified if you bring me a five-color cable.
+robocreator: I want to make great games and become the world's most popular game creator! It's all I want from life, really!
+robocreator: And what the world's best game creator REALLY needs, is a five-color cable. Could you bring me one?
+sele: Agree to bring him the cable.
+sele: Turn him down.
+robocreator: Muchas gracias!  And best of luck tracking down that five-color cable.
+robocreator: You can salvage them from the machines in the desert. Just go ahead and rip it right out of 'em!
+robocreator: They tend to hang out in groups, so good luck finding the right ones!
+a9s: Um, I thought these machines were your friends.
+robocreator: CREATIVITY is my friend!
+robocreator: I want my fun game to appeal to hardcore users. Can you get me a five-color cable so I can make it happen?
+robocreator: The machines around the desert are lousy with five-color cables.
+robocreator: They tend to hang out in groups, so good luck finding the right ones!
+robocreator: Ah! My precious cable! Give it here.
+robocreator: Now I just zap this...and tweak that...aaaand...
+robocreator: Yes! Now it's so hard, you'll wonder if anyone even bothered to bug-test this!
+robocreator: I doubt you can beat it. But if you DO, I'll give you a really nice prize.
+robocreator: Heheh. Hope it wasn't too hard for you!
+robocreator: I can't believe you managed to complete it AND debug it as well!
+a9s: ...Is that it? You're not going to send me to find some other weird cable?
+robocreator: Actually, I've sort of run out of ideas.
+robocreator: I never knew how difficult it was to be a creative genius.
+robocreator: That's why I've decided to go out on top.
+robocreator: Thank you for your support!
+pod153: Requested material obtained.
+[[quest\q300\q300_5f9ed04e_scp.bin]]
+robobusy: You there! Ho! Are you living every day on the straight and narrow!?
+speedstar: Speed will decide this contest! Speed above all!

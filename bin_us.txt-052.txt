@@ -1,0 +1,100 @@
+eml: I lost so many friends that day... It was a long time ago, but still.
+a9s: Say, Emil?
+a9s: How old are you, anyway?
+eml: I'm not sure. I didn't need that memory to fight.
+eml: Thank you for finding this.
+eml: You'll let me know if you find any more, right?
+eml: ......
+eml: I'm gonna...stay here for a bit.
+eml: ......
+a9s: I should probably tell Emil about this Lunar Te—
+eml: Sorry to keep you!
+a9s: I didn't even contact you yet!
+eml: ...
+eml: ......
+a9s: Emil? Are you okay?
+eml: I just remembered...
+eml: I...
+a9s: Hmm?
+eml: ......
+eml: Thank you for finding this.
+eml: Let me know if you find any more.
+eml: ......
+eml: I'm going to...stay here for a bit.
+eml: ......
+eml: Thank you again. You've helped me remember an important place.
+a9s: Oh?
+eml: A place very special to him...
+eml: In thanks, I'll tell you how to visit it. Please take this key.
+a9s: What's it for?
+eml: It'll let you access the elevator in the shopping mall.
+eml: You should head there whenever you have the time.
+eml: I'm sorry. I need to stay here for a while. You go on ahead.
+[[quest\q330\q330_9bafd382_scp.bin]]
+a2b: What an odd flower...
+a9s: That's a peculiar little flower...
+a2: What a weird flower...
+a9s: ...
+a9s: This is a Lunar Tear, right?
+a9s: We'd better let Emil know.
+eml: Hey there, guys! What's up?
+a9s: We found a Lunar Tear. It's located at—
+eml: STAY RIGHT THERE! I'm coming!
+a9s: Uh...okay? I hope he doesn't expect me to just stand here all da—
+eml: Sorry to keep you!
+a9s: GYAAA!
+eml: Oh, hey... Now that I think about it, this whole area was once...
+a2b: Are you remembering something?
+eml: It's all pretty fuzzy, but I seem to have a memory of caring for this flower a long time ago...
+eml: But the sand kept expanding, and the flowers gradually wilted.
+eml: Now that I think about it, that was around the same time I stopped seeing people.
+a9s: You mean humans?
+eml: Thanks a bunch for finding this. Really.
+eml: Oh, and let me know if you find any more, okay?
+eml: I'm gonna...stay here for a bit.
+eml: ......
+a9s: It's a Lunar Tear. I'd better tell Emil.
+eml: Hey there! What's going on?
+a9s: I found one of those flowers you were looking for. It's over at—
+eml: DON'T MOVE AN INCH! I'm coming!
+a9s: Don't move? I'm actually kind of bus—
+eml: Sorry to keep you!
+a9s: Damn, you're fast!
+eml: ......
+eml: That's it. I remember now...
+eml: Back when the aliens first invaded...
+eml: I fought as hard as I could to save Earth.
+a9s: You did?
+eml: I think...I had something I wanted to protect. Something really precious to me.
+eml: But I don't know what it was.
+a2b: ......
+eml: Thank you for finding this.
+eml: You'll let me know if you find any more, right?
+eml: ......
+eml: I'm gonna...stay here for a bit.
+eml: ......
+a9s: It's a Lunar Tear. I'd better tell Emil.
+eml: Hey there! What's up?
+a9s: I found a Luna—
+eml: I'M ON MY WAY!
+eml: Sorry to keep you!
+a9s: As speedy as always, I see.
+eml: ......
+eml: Oh. That's right.
+a9s: What happened here, Emil?
+eml: I was fighting the aliens. It...wasn't going well.
+eml: So I decided to create multiple versions of myself to help with the fight.
+eml: But the aliens just kept coming.
+eml: I lost so many friends that day... It was a long time ago, but still.
+a9s: Say, Emil?
+a9s: How old are you, anyway?
+eml: I'm not sure. I didn't need that memory to fight.
+eml: Thank you for finding this.
+eml: You'll let me know if you find any more, right?
+eml: ......
+eml: I'm gonna...stay here for a bit.
+eml: ......
+a9s: I should probably tell Emil about this Lunar Te—
+eml: Sorry to keep you!
+a9s: I didn't even contact you yet!
+eml: ...

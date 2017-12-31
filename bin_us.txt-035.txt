@@ -1,0 +1,100 @@
+robomother: Hey! Stop right this instant!
+robochild: No! Get away from me, dummy!
+a9s: What was all that about?
+a2b: No idea.
+a9s: Excuse me. Can I ask what just happened?
+robomother: Oh, this is so embarrassing! But if you must know, I was arguing with my child.
+a2b: You don't say.
+robomother: That boy just refuses to listen to me, and now he's gone and run off to who knows where!
+robomother: This is terribly forward of me, but would you mind finding him and bringing him home?
+robomother: I'd go myself, but I'd never survive out there on my own.
+sele: Agree to help.
+sele: Refuse to help.
+a2b: We'll see what we can do.
+a9s: Heh. Look at you, you big softie.
+robomother: Please bring my child home. Please!
+a9s: So this machine "mother" has a "child," eh?
+a9s: It's surprising to see them form familial units like that.
+a9s: I wonder if they'll let us examine their brain circuits if we bring the kid home.
+a2b: Your scientific curiosity is getting out of hand, 9S.
+a9s: Joking! I'm joking! ...Mostly.
+robochild: Help! Mom! Mommyyyyyy!
+a2b: Over there.
+a9s: Careful, 2B. I'm picking up hostiles.
+a9s: Easy there, little guy. It's all right. You weren't scared, were you?
+robochild: Nnngh... *sniff*
+a2b: We should leave before more enemies arrive.
+robochild: No! I'm not going back! I'm NEVER going back!
+a9s: Come on, kid. Don't be unreasonable.
+a9s: Any ideas, 2B? I've never dealt with a snot-nosed machine before.
+a2b: You got me.
+a9s: Uh oh. More enemies incoming!
+a2b: I'm on it.
+robochild: Mommy only ever praises my big brother!
+robochild: My little brother broke a plate once and she blamed ME for it!
+robochild: My big brother punched me, but somehow it was MY fault!
+robochild: It's not fair!
+robochild: I hate my mommy!
+robochild: I HATE her!
+robochild: Stupid mom...
+a9s: Are you finished?
+robochild: ......
+a9s: Your mother is worried about you. She sent us here to find you.
+a9s: So quit with the whining and let us take you home already.
+robochild: ...'Kay.
+a9s: Huh? I don't see that little machine anywhere.
+a2b: We must have lost him somewhere.
+a9s: He may have gone back to where we first found him.\nLet's look around.
+a2b: Oh. That's...unfortunate.
+a9s: Yeah, this is rough. Better go tell Mom what happened.
+a9s: Stay close, all right? Don't go wandering off.
+robochild: Hey, mister? Was Mommy really worried about me?
+a9s: She sure was. So let's go home and have you apologize, all right?
+robochild: ......
+robomother: Ah! You're back!
+robomother: Thank you so much for bringing him home.
+robochild: ......
+robomother: Selfish child! How dare you make me worry like that!
+a9s: Um, hey...no need to get all angry about this.
+robochild: M-Mommy? Mommy, no! Don't cry!
+robomother: Do you have any idea how worried I was?
+mama: *sniff* *sniff*
+robochild: I'm sorry, Mommy! Please don't cry!
+robomother: *sniff* I'm sorry too, my darling. I shouldn't have said that.
+robochild: *sniff* Oh, Mommy...
+robomother: Go on, honey. Get yourself home.
+robomother: I have to thank these nice people for helping you.
+robochild: Okay. Bye-bye, androids!
+robomother: ...I swear, sometimes I think that child's mind is just a bunch of bolts rattling around an empty pail.
+robomother: I never imagined how hard it would be to disconnect from the network.
+robomother: We're constantly misunderstanding each other.
+robomother: Still, on those rare occasions where we connect, it makes me so very happy.
+a2b: I can see that.
+robomother: Thank you again for bringing him home.
+robomother: This isn't much, but I'd very much like you to have it.
+a9s: Mutual understanding without a network sounds tough.
+a2b: True. But it also seems kind of fun.
+robomother: What happened? Where is my child?
+a2b: I'm sorry. We couldn't save him.
+robomother: No...
+robomother: No no no no no...
+[[quest\q070\q070_fb360535_scp.bin]]
+a2b: Nice shack.
+n02: STAY AWAY FROM THEM!
+n02: LEAVE THIS PLACE. LEAVE NOW!
+a9s: Okay, now wha— Wait, what!?
+n02: LEAVE NOW!
+n02: PLEASE. I BEG OF YOU...
+n02: SPARE THEIR LIVES...
+sele: Spare the animals.
+sele: Show no mercy.
+n02: NO... NO...
+a2b: Fine. We'll spare your critters.
+n02: AHH... THANK YOU...
+a9s: So why do you have all these animals here anyway?
+n02: LONG AGO, I RESCUED A HURT ANIMAL.
+n02: I DO NOT REMEMBER THE REASON.
+n02: THE CREATURE TOOK A LIKING TO ME.
+n02: SHE FOLLOWED ME WHEREVER I WENT.\nWE PLAYED TOGETHER WHENEVER WE COULD.
+n02: SHE WAS...WARM. SHE MADE ME HAPPY.
+a2b: Interesting.

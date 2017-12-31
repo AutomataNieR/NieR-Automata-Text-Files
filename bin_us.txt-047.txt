@@ -1,0 +1,100 @@
+op210: A family is a group of people that share a connection by blood or social custom.
+op210: If androids had a similar system of families...
+op210: ......
+a9s: Operator? Are you there?
+op210: I've said too much.
+op210: I must return to my duties.
+a9s: ...Aaaand she disconnected me.
+op210: I have additional information to relate.
+op210: I've sent mail with a reward. Please read it.
+op210: ...And 9S? Thank you.
+a9s: Man, she disconnected me AGAIN!
+a9s: Well, if she's thanking me, I guess it must have gone okay.\nEr, right?
+pod153: Purpose of question unknown.
+[[quest\q210\q210_a6306d6c_scp.bin]]
+n02: Oh. You're androids, yes?
+n02: Then you must be here to kill me.
+n02: I've lived long enough. I only ask that you not make it too painful.
+sele: Destroy the machine.
+sele: Spare her.
+n02: Be quick, then.
+n02: Why do you not strike?
+a2b: Because you have no desire to fight.
+a2b: You're like the machines in Pascal's village.
+a2b: If you don't attempt to harm us, we have no cause for quarrel.
+n02: You know Pascal? I see...
+n02: Still, you should be careful.
+a2b: Of what?
+n02: Some of our kind can be violent. They are beyond our control.
+n02: They attack everything they see, be it friend or foe.
+n02: Many of these machines are waiting in the canyon ahead.
+n02: You would be wise to keep your distance.
+a2b: Machines attacking indiscriminately...
+pod042: Proposal: Unit 2B should eliminate the hostile machines.
+a9s: Look at all the corpses. Is this some kind of graveyard?
+a2b: Watch out! They're still alive!
+a9s: I'm on it!
+a9s: There's more!
+n02: KILL... KILL...
+n02: SUCH PAIN... KILL ME...
+a2b: What's it saying?
+a9s: Don't listen to it, 2B!
+n02: KILL...
+n02: PLEASE...KILL...ME...
+n02: PLEASE KILL ME.
+a2b: What was with that thing?
+a9s: It was talking.
+a9s: Maybe that machine who sent us here knows something about this.
+a9s: We should try asking her.
+n02: Oh... It's you again.
+a9s: We have a question about the machines in the canyon.
+n02: Yes. Very dangerous. You should avoid them.
+a9s: Actually, we already took care of them.
+n02: You what!?
+n02: ...I see. Then perhaps they can finally reach heaven.
+a2b: Come again?
+n02: Many machines have thrown themselves into that canyon of late.
+n02: They were trying to hurt themselves beyond repair.
+n02: You found the remains of those who succeeded...and fought those who did not.
+n02: I know not what would drive them to do such a thing...
+n02: But I pray regardless that their souls might reach heaven.
+n02: ...Here. A gift for you.
+n02: Thank you for killing them.
+a9s: Souls and heaven, huh?
+a9s: Do either of those things exist?
+a2b: They'll find out in the end.
+a2b: And so will we.
+a9s: Okay, that's grim.
+[[quest\q220\q220_e880784a_scp.bin]]
+pascal: Ah, A2. Can I help you with something?
+a2: You gave me that filter for free earlier.
+a2: I need to pay you back. It would bother me otherwise.
+pascal: How conscientious of you!
+a2: Yeah. So if you think of something, let me know.
+pascal: I do have a bit of a problem, now that you mention it.
+pascal: A ferocious machine has been attacking our children in the area where they play.
+pascal: Could I possibly trouble you to slay it for us?
+pascal: I do hope you'll agree. We don't really have anyone else to ask.
+sele: Agree to help.
+sele: Refuse.
+pascal: O-Of course. I know you have your own priorities.
+pascal: It was rude to even ask. Please forgive me.
+pascal: Will you slay the terrible machine that attacks our children while they play?
+pascal: Thank you so much!
+pascal: I promise to repay you for the trouble.
+pascal: Please slay the terrible machine that attacks our children while they play.
+pascal: You have my thanks.
+pod042: Hostile machine lifeformｓ detected.
+pascal: We heard you defeated that nasty creature!
+pascal: Thank you so much.
+pascal: Here is your reward. Please take it.
+pascal: I built this village because I detest fighting. I wanted it to stand as a monument to the power of peace.
+pascal: But when we surrendered our weapons, we lost the ability to defend ourselves.
+pascal: Now many within the village want us to re-arm and vanquish nearby enemies in order to preserve our peace.
+pascal: What do you think we should do, A2?
+a2: Dunno.
+a2: That's for you to decide.
+pascal: Yes, I suppose so.
+a2: But let your villager friends know—if anyone tries to attack me, I'll wipe this place clean off the map.
+pascal: I will make a firm note of it.
+pascal: Er, A2?

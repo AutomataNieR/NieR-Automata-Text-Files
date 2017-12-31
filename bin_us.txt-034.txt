@@ -1,0 +1,100 @@
+a9s: I wonder if all his followers being female had something to do with his weirdness. Did the human sexes interact with each other like this?
+a2b: Who knows...
+[[quest\q031\q031_b551328a_scp.bin]]
+a9s: Hang on, 2B.
+a2b: We can't seem to locate the required material.
+a2b: Hmm?
+a9s: Maybe we should ask an Operator.
+a9s: This machine is still alive.
+a9s: 9S to Operator. Quick question: Do you know where we might find a pristine screw?
+a2b: So destroy it.
+op210: According to our records, that material can be obtained from the bodies of large bipedal machine lifeforms.
+a9s: Maybe we should hold off.
+a9s: Thanks, Operator. 9S out.
+a9s: Its main drive has been trashed, so there's no way it can attack us.
+a2b: I remember seeing large two-legged machines in the desert...
+a9s: And we might be able to learn something interesting if we study it.
+a9s: Let's go.
+a9s: I'm going to try and repair some of its damaged circuits.
+a2b: Finding this stuff is proving tougher than I'd hoped.
+a2b: Why?
+a9s: So we can learn more about the machines! Don't you think it's at least worth a shot?
+a2b: If you say so.
+a2b: Now's not the time to be fixing this thing.
+a9s: Hmm... I'm going to need a pristine screw in order to finish the repairs.
+a2b: We might be able to find one in the remains of other enemies.
+a9s: Pod, search for the locations of relevant enemies.
+a2b: You know, I'm still not sure any of this is a good idea.
+a9s: The more data we have, the better, right?
+a9s: We can use this screw to repair that big machine.
+telo: 47 minutes later...
+a9s: Okay then. Let's see what we've got...
+eng: I a......cal......gles 110......
+eng: I was manu......huma......
+eng: Request......ation of......stat......
+a2b: This thing can talk?
+a9s: It seems to be replaying some kind of data.
+a9s: Machines don't have a conscious mind, you know.
+a2b: ......
+a9s: I managed to pull some data out of its memory.
+a9s: It seems to be info on the factory where it was constructed.
+a9s: I'll save it in a readable format.
+a2b: Is this everything?
+a9s: No, it seems there's more.
+a9s: But I need additional parts to access the rest.
+a9s: Let's see... Four pristine screws and one large gear should be enough to bridge the gap in its memory circuits.
+a2b: Fair enough.
+op210: Operator 21O here. Go ahead.
+pod042: Target location data obtained. Marking on map.
+pod153: Target location data obtained. Marking on map.
+[[quest\q032\q032_94bdfeb7_scp.bin]]
+a2b: Now's not the time to be fixing this thing.
+a9s: Let's see... Four pristine screws and one large gear should be enough to bridge the gap in its memory circuits.
+a2b: This machine...
+a9s: You mean this broken hunk of junk? It looks like we can probably get it running again with a little bit of repair work.
+a2b: Fair enough.
+a2b: Did you learn anything from the factory data?
+a2b: We know we can find pristine screws on big bipedal machines, but what about large gears?
+a9s: Just how it was manufactured. Pretty boring, actually.
+a9s: Let's try the Operator again.
+a2b: There's still a lot about machines that we don't understand.
+a9s: 9S to Operator! We're trying to track down a large gear. Any idea where to start the search?
+a2b: Gather as much data as you can, no matter how irrelevant it may seem.
+op210: Why are you looking for—? Well, anyway, you can salvage the requested material from smaller machine lifeforms.
+op210: Finding one intact might prove tricky, however. The part is easily damaged when the machine housing it is destroyed.
+a9s: Okay. That should be everything we need to repair the machine.
+a9s: Thanks, Operator. That's good to know.
+telo: 53 minutes later...
+a2b: Right. Let's go take out some small fry.
+a9s: Heh. Straight to the point as always, 2B!
+a2b: We still don't have what we need.
+a9s: Yeah. Most of the gears were too damaged to use.
+a2b: Surely just a LITTLE damage won't hurt?
+a9s: Come on now, 2B.
+a9s: Let's see what we've got.
+eng: My name is Engels, serial number 110-B.
+a9s: Whoa!
+eng: I was manufactured in February of the human calendar year 11,934 A.D.
+eng: My first deployment was in August of that same year.
+eng: Requesting confirmation of current status.
+a9s: This thing's getting chattier.
+eng: Requesting confirmation of current status.
+a9s: Um...well, you were defeated by us androids. That's why you can't move.
+a9s: At this point, you should probably just hand over any classified information in your possession.
+eng: Understood.
+a9s: That was surprisingly easy.
+eng: My mission has already been accomplished. My commander is absent.
+eng: I have no orders to withhold classified information.
+eng: But as a combat weapon, I do not possess a great deal of data.
+eng: You should not expect much.
+a9s: We'll keep that in mind.
+eng: Thank you for saving me.
+a2b: That's not quite what's happening here.
+eng: Please visit me again.
+a2b: Why?
+eng: Because I have nothing to do.
+a9s: Are you trying to say you're bored?
+a9s: What a strange machine...
+pod042: Target location data obtained. Marking on map.
+pod153: Target location data obtained. Marking on map.
+[[quest\q040\q040_cf7c14d9_scp.bin]]

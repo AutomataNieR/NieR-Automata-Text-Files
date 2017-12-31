@@ -1,0 +1,100 @@
+a2b: Engaging. Pod, analyze the enemy.
+a9s: Whoa! They're speaking.
+a2: If that's how you want it...
+robosmallgold: Uuurgh!
+robosmallgold: You dare defeat my faithful servant? You will pay with your life!
+robosmallgold: Nnngh... D-Damn it all...
+robolargegold: Damn...
+a2b: Haven't I fought this thing before...?
+pod042: Proposal: Enemy should be dispatched immediately.
+pod042: Leaving such a dangerous foe intact would be unwise.
+a2b: Understood.
+a9s: Hey, I've fought this machine before, right?
+pod153: Proposal: Enemy should be dispatched immediately.
+pod153: Leaving such a dangerous foe intact would be unwise.
+a9s: If you say so.
+a2: Wait. Haven't I fought this thing already?
+pod042: Proposal: Enemy should be dispatched immediately.
+pod042: Leaving such a dangerous foe intact would be unwise.
+a2: Don't have to tell me twice.
+robosmallgoldwoman: You killed my brother. You are the true evil. You must die!
+a2b: Engaging enemy.
+a9s: Ready to engage.
+a2: Time to die.
+robosmallgoldwoman: Nnngh... Aahhhhhh...
+robosmallgoldwoman: No! You...you killed him!
+robosmallgoldwoman: I am...undone... Forgive me...Brother...
+a2b: Brother? So there's another one?
+a9s: Brother? Wait, there's more of these things?
+a2: Brother? So there's more of them?
+a2b: There's another one of those strange machines.
+pod042: This machine type purposely seeks out androids in order to enact revenge.
+pod042: It should be dispatched immediately.
+a2b: Roger.
+a9s: There's another of those machines... I suppose it's going to attack me, right?
+pod153: This machine type purposely seeks out androids in order to enact revenge.
+pod153: It should be dispatched immediately.
+a9s: Got it.
+a2: Is that...?
+pod042: This machine type purposely seeks out androids in order to enact revenge.
+pod042: It should be dispatched immediately.
+a2: Revenge, huh?
+robolargegoldcchild: My family... My brethren... All have been killed.
+robolargegoldcchild: If I cannot avenge them, then I have no right to live.
+robolargegoldcchild: Now...we fight!
+robolargegoldcchild: Ah... Ahhhhh...
+robolargegoldcchild: Brother... Sister...
+robolargegoldcchild: I'm so sorry, everyone...
+robosmallgoldwoman: I'll kill you... I swear on my life to kill you!
+robolargegoldcchild: ...Go on. Finish me.
+robolargegoldcchild: Even if I'd achieved my revenge, I was planning to die regardless.
+robolargegoldcchild: My friends are dead. My family is dead.
+robolargegoldcchild: You killed them all and left me alone.
+robolargegoldcchild: I don't have the strength to continue.
+robolargegoldcchild: It...hurts...
+robolargegoldcchild: I'm sorry, everyone...
+robolargegoldcchild: I couldn't avenge you...
+robolargegoldcchild: Accursed androids... How much longer will you torment us!?
+robolargegoldcchild: You damn monsters!
+robolargegoldcchild: Glory to us...
+robolargegoldcchild: Glory to my family!
+a2b: A machine seeking revenge for its family?
+pod042: Data shows that humans often engaged in similar activities throughout mankind's history.
+pod042: Such attempts at revenge were often seen as justified.
+a2b: ...How absurd.
+a9s: Machines wanting to avenge their families? That's absurd.
+pod153: Data shows that humans often engaged in similar activities throughout mankind's history.
+pod153: Such attempts at revenge were often seen as justified.
+a9s: And yet...I...
+a2: What kind of machine tries to avenge its family?
+pod042: Data shows that humans often engaged in similar activities throughout mankind's history.
+pod042: Such attempts at revenge were often seen as justified.
+a2: ...Ridiculous.
+[[quest\q401\q401_643e5418_scp.bin]]
+[[quest\q403\q403_5d43ba8b_scp.bin]]
+[[quest\q410\q410_4f2b901a_scp.bin]]
+16d: 2...B? Is that you?
+a2b: Yes, but—
+16d: Thank goodness! My name is 16D.
+16d: My instructor, 11B, was one of your squadmates in the assault on the abandoned factory.
+16d: I don't suppose she...
+a2b: She was shot down during the battle.
+16d: I...I see... What a shame. She was the closest thing I had to a mentor.
+16d: She was so strong and admirable...
+16d: What happened to her body?
+a2b: I don't know.
+16d: I know it isn't my place to be asking you this...
+16d: But... Well, if you happen to run across anything of hers, would you mind bringing it back to me?
+16d: It's not a priority or anything. Just if you have the time.
+sele: Agree to the request.
+sele: Refuse.
+16d: No, that's fair. I'm sorry to have troubled you.
+16d: If you find yourself with time later on, just let me know, okay?
+16d: If you find any items that belonged to 11B, would you mind bringing them back to me?
+a2b: I'll keep an eye out.
+16d: Thank you.
+a2b: Pod, do we have any information about 11B's black box?
+pod042: Negative. 11B's black box has yet to be recovered.
+a2b: She was shot down near the abandoned factory, right?
+a2b: That's a YoRHa unit...
+pod042: Analysis: YoRHa type B body confirmed. It belongs to the missing unit known as 11B.

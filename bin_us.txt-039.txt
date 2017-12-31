@@ -1,0 +1,100 @@
+roboimouto: Nnngh... *sniff*
+a9s: Hey there. Are you the machine who came out here looking for a spare part?
+roboimouto: Huh? Who are you?
+a9s: Your sister asked us to look for you.
+roboimouto: ...She did? Really?
+a9s: Really. So what do you say we head home?
+roboimouto: Waaaaaaaah! I was soooo scaaaaaared!
+a2b: Right. Let's get her back to Pascal's village.
+a9s: How'd you get lost out here, anyway?
+roboimouto: I was looking for my sister's part...
+roboimouto: But then I got scared and I couldn't move and...and...and... Waaaaah!
+a9s: Aw, come on now, don't cry!
+a9s: Did you at least find what you needed?
+roboimouto: Y-Yeah. *sniff* She'll be happy, right?
+a9s: I'm sure she will. But I bet she'll be even happier to see you back home safe and sound.
+roboimouto: ...'Kay.
+a2b: 9S? Where's the girl?
+a9s: Huh? Oh, hell!
+a9s: We must have gotten separated somehow.
+a9s: Let's go back to where we first found her. I bet she's waiting there.
+roboimouto: WAAAAAAAAAAAAH! YOU LEFT MEEEEEEEE!
+roboimouto: You guys walk too fast. *sniff*
+a9s: Sorry! Sorry. We'll try to walk slower, okay?
+roboimouto: Hey, mister? Why'd they make the desert?
+a9s: No one "made" the desert. It's just an area that lost all its vegetation due to a lack of precipitation.
+a9s: This caused lasting changes in the soil, which means plants aren't able to—
+roboimouto: What's "soil"?
+a9s: Soil? Uh, it's dirt. Ground. The stuff we're walking on?
+roboimouto: Oooooooo! I like ground.
+roboimouto: Hey, mister? Where does the wind blow from?
+a9s: Wind is just a force caused by changes in temperature and atmospheric pressure and...
+a9s: Huh. That's actually a hard question, now that I think about it.
+a9s: Kind of deep, really. I mean, where does the wind blow from? What do you think, 2B?
+a2b: Don't know. Don't care.
+roboimouto: Hey, mister? How do you make children?
+a9s: Uuuuuuum....
+a9s: Well, machines can't really make children. Neither can androids, now that I think about it.
+roboimouto: Yeah, but how DO you make 'em?
+a9s: Uh, 2B? Little help here?
+a2b: Huh? You're the chatty one. Work it out.
+a9s: Ooof.
+roboimouto: Mister! Mister, wait! You gotta tell me how you make chil—
+a9s: Wow, it's getting late! Let's get you home already!
+roboimouto: Hey, I know this place! I can get home by myself now.
+roboimouto: Thanks, mister! Thanks, grumpy lady! Oh, and here. You can have this.
+roboimouto: Bye-byeeeeee!
+roboimouto: Make sure to come back and tell me how to make childreeeeeeen!
+a9s: ......
+a2b: ......
+a9s: Well, that was exhausting.
+a2b: Yep.
+[[quest\q120\q120_8dcd7a1a_scp.bin]]
+toolshop: Welcome, welcome! It's always great to get new customers.
+a9s: You some kind of supply trader for the Resistance?
+toolshop: You know it. Every item here is hand-crafted from abandoned parts and stuff plundered from enemy corpses.
+toolshop: So then! To business. What can I get you?
+a9s: Do you sell plug-in chips?
+toolshop: You mean those little doo-dads that serve as power-ups for your body? 'Fraid not.
+toolshop: I'd love to sell plug-in chips, but I don't have the necessary raw materials.
+toolshop: Now, if I happened to GET those raw materials, I bet we could do business. But until then...
+toolshop: Say! Now there's an idea: what if YOU got the materials for me?
+toolshop: I've got this bum leg, see? Can't really get around myself.
+a9s: Can't you just repair your own leg? You work in the supply trade, after all.
+toolshop: If only! Unfortunately, all of our parts are dedicated to the war effort. Can't spare any for myself.
+toolshop: Personally, I'm hoping you wipe out those machines so I can start dancing again. But until then, will you look for what I need?
+sele: Agree to help.
+sele: Refuse to help.
+a2b: All right.
+toolshop: Aw, thanks a million!
+toolshop: Okay, so I need one broken spring, one small gear, and one broken circuit. You can smash up a few small machines to find 'em.
+toolshop: You can obtain them from enemies at the big open area towards the left when you exit the camp.
+toolshop: Hey, I get it. You're probably busy with the killin' and whatnot. Maybe next time.
+toolshop: If you've got the time, can you help me find some raw materials?
+toolshop: I need one broken spring, one small gear, and one broken circuit. Don’t forget!
+a9s: Okay, that's everything the supply trader asked for.
+a9s: Man, these chores are a real pain in the butt, huh?
+a2b: The Resistance is a valuable ally to YoRHa.
+a2b: By helping them, we also help ourselves.
+a2b: So no. I don't think they're a pain.
+a9s: Yeah, yeah...
+toolshop: Hey, you found the materials! That's great.
+toolshop: Now I can start upgrading and crafting items for you.
+a2b: I imagine you can spare a few of these supplies to fix your leg?
+toolshop: Yeaaaaaah...no.
+a2b: Why don't you tell us what's really going on.
+toolshop: See, it's my left leg that's all busted up. And my left leg is the one that's fully original.
+toolshop: I've repaired this ol' body of mine a hundred times over during this war.
+toolshop: I've swapped parts in and out so many times I can't even keep track.
+toolshop: But this leg? This left leg? It's never been touched.
+toolshop: So if I go and replace that, what happens?
+toolshop: I mean, would I even be ME anymore? Or would I just...
+a2b: ......
+toolshop: Anyway, it's my own problem. Didn't mean to trouble you with it.
+toolshop: I should be getting more inventory soon, so swing by when you can.
+pod042: Target location data obtained. Marking on map.
+pod153: Target location data obtained. Marking on map.
+[[quest\q121\q121_70545c1f_scp.bin]]
+ane: ......
+manager: Did you find the music box I asked you about?
+a9s: What's wrong, Anemone?

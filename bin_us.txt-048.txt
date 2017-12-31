@@ -1,0 +1,100 @@
+pascal: If you like, you're welcome to take a look around our village.
+pascal: It would be nice for you to know more about us.
+a2: Sure. If I feel like it.
+[[quest\q221\q221_b113244a_scp.bin]]
+robochild: Did you get us anything yet?
+robochildren: Still nothing!?
+robochild: This is sooo fuuuun!
+robochildren: Yaaaaay! Fuuuuuun!
+robochild: Sis! Hey, Big Sis!
+a2: Huh?
+robochildren: C'mon, Big Sis! Play with us!
+a2: I don't play with machines. Now get lost.
+robochildren: C'moooooon! I wanna plaaaaay with you!
+a2: I'm an android, weirdo. I'm your enemy.
+a2: So do what I say before I kick your sorry ass!
+robochildren: Tee hee hee! You're funny.
+a2: That's not supposed to make you happy!
+robochild: Big Sis! Make us something to play on, Big Sis!
+a2: What? No.
+robochild: But we need something to play on!
+robochildren: Yeah! It's boooooring right now!
+a2: Seriously...?
+robochild: They sell stuff in the tool shop, so go buy us something!
+robochild: By the way, the children said they wanted to thank you personally.
+robochildren: Yeah! Buy something for us!
+sele: Purchase something for the children.
+sele: Keep your money.
+a2: All right, all right! Just quit bugging me already.
+robochildren: Yaaaaaay! We did it!
+a2: I'm not buying you squat.
+robochildren: Nooooo! You have tooooo!
+a2: Dammit...
+robotoolshop: Welcome!
+robotoolshop: ...You're looking for play equipment for the children?
+robotoolshop: I'm afraid we don't have anything like that in stock at the moment.
+robotoolshop: However, I'm sure I could build something with the proper materials.
+robotoolshop: Tell you what—here's a list of what I'll need.
+robotoolshop: Bring me those materials and I can get to work.
+a2: ......
+a2: Everyone around here is weirdly pushy.
+robotoolshop: Don't be absurd! We are not.
+a2: Fine, I'll do it. You'll just bug me about it every waking minute of my life otherwise.
+robotoolshop: An excellent choice!
+robotoolshop: You should be able to find what you need at the amusement park.
+a2: Oh, hell. That's forever from here!
+robotoolshop: Safe travels!
+a2: This is going to suck...
+robotoolshop: You should be able to find what you need at the amusement park.
+robotoolshop: Safe travels!
+a2: Finally...
+a2: This should be everything I need to make those bratty kids happy.
+a2: Better take it to that creep in the tool shop...
+robotoolshop: Did you find the materials? Excellent!
+robotoolshop: Just give me a moment...
+robotoolshop: 5 minutes later...
+robotoolshop: Done! I've built what you requested and installed it where the children like to play.
+a2: That was fast.
+robotoolshop: They're at the top of the village playing near the slide. They'll be happy to see you, I'm sure.
+robochild: Hey, it's Big Sis!
+robochildren: Big Sis!
+robochild: Thanks for building this, Big Sis!
+robochildren: Yeah, thanks!
+a2: Uh, sure.
+robochild: Hey, Big Sis?
+a2: Huh? What now!?
+robochild: Um...we just wanna...give you something? 'Cause you helped us?
+robochild: It's a thank-you present!
+robochildren: Yeah! Thank you!
+a2: Yep. It's a thrill a minute.
+pascal: Ah! A2!
+a2: Argh! Don't do that, Pascal.
+pascal: I apologize if I scared you.
+pascal: I heard you built some play equipment for our children and wanted to thank you in person.
+a2: Don't worry about it.
+pascal: Try not to overwork yourself, all right?
+pascal: Feel free to pay us another visit whenever you like.
+pascal: A group of pacifist machines, huh?
+pascal: Hypothesis: Forming a harmonious relationship with Pascal and the villagers may help unit A2 to obtain more materials.
+pascal: Proposal: Investigate the village.
+pascal: Hmph.
+ps: Look around as much as you like.
+[[quest\q222\q222_f8217e42_scp.bin]]
+pascal: Hello, A2.
+pascal: I appreciate all the time and effort you took for our children.
+pascal: Every one of them is a singular treasure to me.
+pascal: Indeed, they are treasures to the entire village! Our very future rests in their little hands.
+pascal: I imagine you find it odd for machines to speak of the future like this.
+a2: I dunno.
+pascal: I trust that our children can stand strong against the senseless conflicts of this world and blaze a new trail for our people.
+pascal: However...
+pascal: One of the children is suffering from a faulty storage element.
+pascal: If we don't do something for the child—
+a2: So repair it already.
+pascal: Alas, we lack the parts to do so.
+pascal: They can only be found deep within the abandoned factory, and that area is swarming with terrible machines...
+pascal: It pains me to say this, but you, A2, are the only one we can turn to.
+sele: Help Pascal.
+sele: Refuse.
+pascal: I understand. Though I hope you will reconsider at a later time.
+pascal: We need a certain part to repair one of the children.

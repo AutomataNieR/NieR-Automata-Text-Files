@@ -1,0 +1,100 @@
+resiwoman: I bet new models like you can handle pretty much anything, huh?
+sele: Listen to her problem.
+resiwoman: You might even be able to... No, no. I shouldn't ask. That would be rude. But yet... *siiigh*
+sele: Ignore the request.
+sele: Listen to her problem.
+sele: Ignore the hint.
+a9s: Why don't you tell us what's wrong? Maybe we can help out.
+resiwoman: Oh! Well, if you insist... It turns out one of my friends has gone missing.
+a9s: Missing? That doesn't sound good.
+a2b: Where was this friend last seen?
+resiwoman: At the material storage site where he works.
+a9s: The storage site, eh? Maybe we should check it out.
+resiwoman: Oh, please, would you? Without him, I... I... Please!
+a2b: Look here. There's something carved in this column.
+resiwoman: I hope you'll find something at the material storage site in the camp. Where could he have gone...?
+a9s: Three numbers...
+a9s: I wonder if it's a set of coordinates?
+a2b: Target point, maybe? Or a hidden location?
+a9s: No way to tell. I'll add 'em to the map regardless.
+a2b: It won't open...
+a9s: It won't open...
+a9s: So if we use those numbers from the Resistance camp as coordinates...
+resiwoman: Are these...coordinates? It looks like they lead to the desert, but why would he possibly go there?
+a9s: Yeah. We're pretty much standing right on top of whatever they're pointing to.
+resiwoman: I'm sorry, I know you're helping me out, but would you mind coming back later?
+a2b: 9S!
+resiwoman: I need to focus on my job right now.
+n02: KILL! KILL! KILL!
+n02: AVENGE... KILL...
+n02: KILL ALL...WHO STAND IN...OUR WAY...
+n02: ANDROIDS...WILL PAY...
+n02: ALL OF YOU YOU YOU YOU YOU...
+n02: KILL. ALL KILL. ALL OF YOU KILL KILL KILL KILL KILL...
+n02: KIIIIIIIIIIIIIIIL!
+a2b: Pod, analyze this machine.
+a9s: Huh? What for?
+a2b: Call it professional curiosity.
+pod042: Analysis: This machine lifeform's comrades were destroyed.
+pod042: Driven by that grudge, it lured a Resistance member to this location.
+pod042: It then proceeded to destroy him.
+a2b: Are you saying this thing wanted revenge?
+a9s: Aw, come on, now. That concept is far too complex for a machine!
+a9s: This corpse... I wonder if it's the Resistance member we're looking for.
+a9s: Let's check his memory.
+a9s: Seems this one came here looking for revenge as well.
+a2b: I guess the weaker one lost.
+a9s: ......
+a9s: I really hate this.
+a9s: I'm going to feel terrible telling that woman what happened to her friend.
+a2b: It's the truth. She has to know.
+a9s: No matter what that truth actually is?
+a2b: ......
+resiwoman: Hey, you're back! So how did it go? Did you find him, or...
+sele: Tell her the truth.
+sele: Lie and say you couldn't find him.
+a9s: I'm very sorry, but...your friend is dead.
+resiwoman: Oh...
+a9s: He was trying to get revenge against the machine that killed his comrades.
+resiwoman: No... Oh no...
+a9s: But he wasn't strong enough, and the machine ended up killing him instead.
+resiwoman: Damn the machines... I'll murder them all!
+a9s: Whoa, easy! It's okay! We took out the one that killed your friend.
+resiwoman: You did?
+a9s: Yes, we did. Which means there's no need for anyone else to go seeking revenge.
+resiwoman: But...what do I do now?
+resiwoman: I have no one to love... And no one to kill...
+resiwoman: I have nothing.
+a9s: That's not...
+a2b: Come on, 9S.
+a9s: L-Look, we'll come back, okay? We'll come back and check on you.
+resiwoman: You didn't? Oh.
+resiwoman: Well, thank you for trying, at least.
+resiwoman: But...
+resiwoman: ......
+resiwoman: ...You're lying, aren't you?
+a9s: What!?
+resiwoman: My friend said he was going to seek revenge against the machines.
+resiwoman: So I know that he's...
+a9s: N-now, hold on! You don't know for sure!
+resiwoman: That's...nice of you.
+resiwoman: Thank you.
+a9s: Huh? She's gone.
+resiman: You looking for the lady who was here? Yeah, she left a while ago.
+resiman: Seemed pretty upset about something, too. And she was armed to the teeth!
+a9s: Oh no...
+resiman: Hey, I just remembered she wanted me to give you something. Here...
+a2b: Whoa, all this?
+resiman: Yeah, she said she didn't need it anymore.
+resiman: Hey, don't ask me. I don't understand women at all...
+[[quest\q150\q150_d31e5833_scp.bin]]
+resiman: Leave me alone, Jackass! I can't deal with your weird hobbies anymore!
+jackas: Feel like helping yet?
+jackas: Like I care what you think, jerk!
+sele: Agree to help Jackass.
+jackas: Oh. Hey there.
+sele: Carefully turn her down.
+jackas: Listen, just ignore that guy. Selfish fool refuses to help me with my work.
+jackas: See, I'm doing a study on the excitement levels of androids while in battle.
+jackas: But I need to record combat data from the newest models in order to reach more steady conclusions. So whatcha think? Fun, right?
+sele: Agree to help Jackass.

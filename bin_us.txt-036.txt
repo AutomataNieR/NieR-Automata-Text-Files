@@ -1,0 +1,100 @@
+n02: NOW, IF I FIND A CREATURE THAT IS WEAK OR INJURED, I BRING THEM HERE.
+n02: I WATCH OVER THEM UNTIL THEY ARE HEALTHY AGAIN.
+n02: THANK YOU FOR SPARING THEM.
+n02: PLEASE VISIT US AGAIN.
+n02: WE WOULD WELCOME YOU ANYTIME.
+a2b: We'll see.
+[[quest\q071\q071_1a17171a_scp.bin]]
+n02: OH NO... OH NO...
+a2b: What is it?
+n02: A MOOSE I HAVE BEEN CARING FOR HAS FALLEN ILL.
+n02: I DO NOT KNOW HOW TO REPAIR IT.
+a9s: You don't "repair" animals like you do a machine.
+a9s: But if it's sick, you should try giving it some medicine.
+n02: MEDI...CINE? I AM NOT FAMILIAR WITH THIS CONCEPT.
+a9s: Yeah, I suppose you wouldn't be.
+a9s: It'll probably be easiest to just bring you some. Try to hang on until then, all right?
+a2b: So we're vets now? That's new.
+a2b: I assume you have at least some idea where to start looking for animal medication?
+a9s: We'll probably need to recreate old human recipes.
+a9s: We should be able to find something in the commercial facility ruins.
+a2b: What's this?
+pod042: Analysis: That is a hygienic tool known as a "toothbrush."
+pod042: Humans moved it back and forth across the teeth at a rapid rate to reduce the probability of cavities.
+a2b: Cavities? As in caves?
+pod042: Cavities are bits of decayed enamel caused by acids in the mouth. The cave analogy is not altogether inaccurate.
+a9s: Hmm. Well, it's got nothing to do with us.
+a2b: Never seen this before.
+pod042: Analysis: That is a waxy solid known as "lipstick." Humans applied it to their lips in order to appear more attractive.
+a2b: How odd.
+pod042: Proposal: Applying it to your own lips might lead to a further understanding of human customs.
+a2b: No thanks.
+a2b: Here's something else.
+pod042: Analysis: That is a form of sustenance known as "extreme weight-loss superfood."
+pod042: Humans consumed it in place of more traditional edibles in order to reduce body mass.
+a2b: Why would they want to do that?
+pod042: Humans often took in more energy than they expended.
+pod042: Accumulated calories were converted to fat and stored, decreasing physical capabilities.
+a9s: Man, humans had it rough...
+a2b: Pod, what's this?
+pod042: Analysis: It is a writing implement. Humans used it to record information.
+pod042: Many humans also believed pens were mightier than swords.
+a2b: That's insane.
+pod042: It was a common human idiom. Meaning unclear.
+pod042: Alert: Organic pharmacology textbook discovered.
+pod042: The data contained within should prove effective for ungulates such as moose.
+pod042: Page 278 contains a recipe for an anti-inflammation analgesic which has a high probability of—
+a9s: Whoa whoa whoa! Hold on.
+a9s: We haven't even cracked this thing open yet! How do you know what's in it?
+pod042: The contents of this book are contained in my internal database.
+a9s: WHAT!? Why didn't you tell us that when we first started looking for it!?
+pod042: A request for information was not submitted.
+a9s: Well, this has been a glorious waste of time.
+a2b: Let's just make the medicine and get it back to that machine.
+n02: MEDICINE!
+n02: THANK YOU. I WILL ADMINISTER IT IMMEDIATELY.
+n02: ...THE MEDICINE SEEMS TO HAVE WORKED. SHE IS SLEEPING SOUNDLY.
+a2b: Good to hear.
+n02: ANIMALS ARE STRANGE CREATURES.
+n02: UNLIKE US, THEY CANNOT BE EASILY REPAIRED.
+n02: IT MUST BE DIFFICULT TO POSSESS SUCH INCONVENIENT BODIES.
+n02: HOWEVER...
+n02: UNLIKE US, THEY ARE ALSO WARM.
+a2b: So I've heard.
+n02: BEFORE I FORGET.
+n02: PLEASE TAKE THIS AS PAYMENT FOR THE MEDICINE.
+n02: COME AGAIN. WE WILL BE WAITING.
+[[quest\q100\q100_f4f7e973_scp.bin]]
+robomaster: Yaaaaaaaaaaah!
+robomaster: Ah! Will you help Father Servo after all?
+robomaster: Heh heh. Not too shabby. Not too shabby at all...
+robomaster: I am the warrior monk Father Servo, and I seek the enlightened path through perfection in battle!
+a9s: Father...Servo?
+robomaster: Oh? Shall we begin the training again?
+robomaster: But alas, there is only so much Father Servo is capable of on his own.
+sele: Begin again.
+robomaster: Perhaps you would be so good as to aid a fellow on his spiritual journey?
+sele: Begin nothing.
+a9s: Uh...I'm not sure we should be helping a machine with combat training...
+robomaster: I refuse to take on an already-weakened foe. Come back again later.
+robomaster: Oh ho ho! Fear of the unknown clouds your mind, young one.
+a2b: What's in it for us?
+robomaster: Have you brought the required item?
+robomaster: Father Servo shall impart upon you all of his secret battle arts.
+sele: Give him the item.
+a9s: I dunno, 2B. This seems pretty suspicious. What do you think?
+sele: Keep it.
+sele: Help Father Servo train.
+robomaster: A shame. Father Servo needs a warped wire before he will spar with you.
+sele: Refuse to help.
+robomaster: The heavens smile upon Father Servo this day! Now then, let us start with a light round of sparring.
+robomaster: Ah, a pity. Come find Father Servo if you change your mind.
+a9s: Nnngh... I let my guard down...
+robomaster: You fought well, my child. Do not be ashamed.
+robomaster: Father Servo will be happy to train with you any time.
+robomaster: Enough! Father Servo yields!
+a9s: I don't think this guy's quite as tough as he lets on.
+a9s: Well, it was a nice workout at least.
+robomaster: Nice? Yes, well. Good for you.
+robomaster: Now then! As payment for this lesson, you must bring Father Servo a warped wire.
+a9s: Whaaa? Listen, you didn't say anything about bri—

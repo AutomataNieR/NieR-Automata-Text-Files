@@ -1,0 +1,100 @@
+a2b: So this is where you landed...
+a2b: Pod, can you access her black box?
+pod042: Negative. Unit 11B's black box has been irreparably damaged.
+a2b: Hmm...
+pod042: Proposal: Unit 2B should recover any usable weapons.
+pod042: Fragmented data detected in memory region.
+a2b: She was planning to go AWOL...
+pod042: Violation of regulations detected. However, due to the death of the unit in question, corrective punishment is impossible.
+a2b: ......
+a2b: I'll bring this weapon back to 16D in the Bunker.
+16d: Oh, 2B. Hello.
+a2b: I found 11B's body, along with this weapon.
+telo: You handed over 11B's belongings.
+16d: The battle log is still intact on this... She must have fought right up to the end.
+16d: I always knew she was the bravest of us all... Thank you, 2B.
+16d: But I think you should keep it. You're a combat model, after all, whereas I'm a defensive unit.
+16d: I'm sure 11B would be happy knowing it was being put to good use.
+a2b: All right.
+sele: Tell her about 11B's attempted desertion.
+sele: Keep 11B's plans to yourself.
+a2b: There's more. I discovered some additional data in 11B's memory banks.
+16d: Let me see... Wait. She was planning to abandon her post?
+16d: Heh...
+16d: Pffft...aaah ha ha ha ha!
+a2b: What's so funny?
+16d: It's just that...she was always such a hard ass, you know? To think she wanted to run away just... Ha ha!
+16d: And what a miserable way to die.
+16d: Serves her right for the way she used to heap abuse on me...
+16d: She always looked down on me because I wasn't a combat model, and now...
+16d: Thank you, 2B. Thank you for showing me this.
+16d: Now I can dedicate myself to my job with a clear mind.
+a2b: ......
+16d: Are you sure this is everything? There's no other information?
+a2b: I'm sure.
+16d: Well, at least now I can put her memory to rest.
+16d: ......
+16d: Can I admit something to you? 11B and I... We were in a relationship.
+16d: She promised to protect me. It all seemed so romantic at the time...
+16d: But now she can't.
+16d: I've been thinking of converting to a combat model like you and her.
+16d: That way I could avenge her death.
+a2b: I see.
+16d: Anyway, thank you.
+16d: Oh, and here. You should take this.
+16d: I don't have a reason to protect myself anymore...
+[[quest\q440\q440_3b4ef61d_scp.bin]]
+a2b: Hmm... Don't need this.
+a2: This looks useless.
+a9s: Doesn't look like I'll need this.
+n02: Hey friend didja hear all them rumors 'bout that place with the trees and the bushes and the leaves and the castle built by the first machine king and the big ol' treasure
+n02: what's in there behind locked doors or gates or moats or whatnot and ya wonder what it could be and boy howdy I'd love to find out and see it for m'self don't ya know?
+a2b: ...Huh.
+pod042: Analysis: This machine lifeform believes there is treasure located in the forest kingdom.
+pod042: Proposal: 2B should investigate.
+a9s: Um, what?
+pod153: Analysis: This machine lifeform believes there is treasure located in the forest kingdom.
+pod153: Proposal: 9S should investigate.
+a2: The hell was that all about?
+pod042: Analysis: This machine lifeform believes there is treasure located in the forest kingdom.
+pod042: Proposal: A2 should investigate.
+pod042: Analysis: This part belongs to a machine lifeform.
+a2b: So it's junk, basically.
+a2: Great. Useless crap.
+pod042: While lacking in value, it may be connected to the supposed treasure of the forest kingdom.
+pod042: Proposal: It should be confiscated for safekeeping.
+pod153: Analysis: This part belongs to a machine lifeform.
+a2b: So it's just a bunch of junk?
+pod153: While lacking in value, it may be connected to the supposed treasure of the forest kingdom.
+pod153: Proposal: It should be confiscated for safekeeping.
+pod042: Keyhole detected. A corresponding key will likely be required.
+a2b: Makes sense.
+pod153: Keyhole detected. A corresponding key will likely be required.
+a9s: A key, huh?
+pod042: Keyhole detected. A corresponding key will likely be required.
+a2: You don't say.
+pod042: Analysis: Machine lifeform parts can be assembled in some fashion.
+pod042: Processing....
+pod042: Processing...
+pod042: Processing complete. Machine lifeform parts can be assembled into a key.
+pod153: Analysis: Machine lifeform parts can be assembled in some fashion.
+pod153: Processing...
+pod153: Processing...
+pod153: Processing complete. Machine lifeform parts can be assembled into a key.
+pod042: Proposal: Initiate search for a door that matches the key.
+pod153: Proposal: Initiate search for a door that matches the key.
+pod042: Hypothesis: The key belongs to a door leading to what appears to be a library.
+pod042: Marking location on map.
+a2b: A library? Must be that long, narrow room.
+a2: A library?
+pod153: Hypothesis: The key belongs to a door leading to what appears to be a library.
+pod153: Marking location on map.
+n02: The...king...
+n02: Protect...the grave...of the king...
+n02: Intruder...detected...
+n02: Eliminate intruder! Eliminate intruder!
+a2b: What's this?
+a9s: What's this?
+a2: What's this?
+a2b: Some kind of writing...
+pod042: It reads: "Here lies the king of our forest."

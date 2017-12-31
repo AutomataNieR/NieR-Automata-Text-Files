@@ -1,0 +1,100 @@
+a2b: Look.
+a9s: That's A2's handiwork, I bet.
+a9s: But I'm not picking up any sign of A2 herself.
+a9s: Hmm? What in the world...?
+a2b: Pod, help me out here.
+pod042: Analysis: It is believed to be a data log related to YoRHa unit A2.
+a2b: What's the data?
+pod042: The data log has been irreparably damaged. Further analysis is impossible.
+a2b: Why do a bunch of machines have A2's data?
+a9s: Hey, 2B? I'm picking up other reactions. We should check them out.
+ane: Is that...A2's data?
+a2b: Some of it. But it's badly damaged, so we didn't learn much.
+ane: It's still something. Thank you.
+ane: You know, there might be more data chips in that same area.
+ane: Please let me know if you find any.
+a9s: Okay, I think that's the last of the data chips.
+a2b: Pod, analyze and collate the information from those chips.
+pod042: Analysis complete: Data set contains information about YoRHa unit A2.
+pod042: Collating with data from other chips. Stand by...
+pod042: Collation complete. The contained data is a debriefing report for the Pearl Harbor descent undertaken during the 14th Machine War.
+a2b: No kidding.
+a9s: That operation was carried out by the YoRHa generation that came before us, right?
+a9s: Anyway, mission complete, I suppose. Let's get back to the Resistance camp.
+a9s: We found more data from A2. Take a look.
+ane: That's... It's Number 2.
+ane: It really is her.
+a2b: You know her?
+ane: YoRHa unit Number 2. She's an older model, but the same type as you.
+ane: We...worked together.
+a9s: The Pearl Harbor drop?
+ane: Yes.
+ane: The operation itself was a success, but the YoRHa fighters were completely wiped out.
+ane: Their commander was Number 2... A2.
+ane: Have you met her? Do you know where she is?
+a9s: Actually, we have orders from the Bunker to...destroy her.
+ane: What!?
+a9s: She's a deserter. She also wiped out an entire team that was sent to bring her back.
+ane: A2...? No...
+ane: I'm sorry, I...
+a9s: ......
+a2b: Let's go, 9S.
+a9s: Wonder what that was all about? Something must've been up between Anemone and A2...
+a2b: Some things just aren't easy to talk about.
+a2b: Especially for a soldier who's been fighting that long.
+a9s: I guess so.
+a2b: 9S, you...
+a9s: Huh?
+a2b: ...You might understand yourself someday.
+a9s: Right...
+[[quest\q130\q130_b68bfe22_scp.bin]]
+resiwoman: Owwwwww...
+a9s: Hey, you're with the Resistance, right? Are you okay?
+resiwoman: Nnngh... You know that explosion that happened in the ruins?
+resiwoman: The shockwave hit me like...well, a shockwave, I guess. Knocked my circuits all out of whack, but I managed to—
+resiwoman: Wait a second... You look familiar—have we met before?
+a2b: Me? No. But lots of YoRHa models look alike.
+resiwoman: Oh... So, you two are with YoRHa, are you?
+a9s: Um, yes? Why do you want to know?
+resiwoman: No reason! I mean, I've just heard stories about how advanced you guys are, and how kind, and...
+resiwoman: Okay, fine. I need help.
+a9s: Well, sure, I guess? What's the problem?
+resiwoman: What happened is, my friend who was with me on this mission was killed, and...
+resiwoman: I want to retrieve her final moments.
+resiwoman: This broken Pod was recording her life log. Think you can get it for me?
+sele: Help her out.
+sele: Refuse.
+resiwoman: Thank you.
+resiwoman: I need you to get my friend's life log out of this Pod...
+a9s: All right. I just need to extract some images, right?
+telo: You extracted the images from the life log.
+a9s: ...That was the last entry contained in the life log.
+a9s: I could be wrong, but it looked like two Resistance members fighting each other.
+resiwoman: So my friend was killed by the Resistance? By one of her own!?
+a9s: Easy. We haven't finished fully restoring the data.
+a9s: It won't be complete until we dig into a deeper layer and—
+resiwoman: No. That's enough. I don't need to know any more.
+resiwoman: That person in the red hood killed my friend...
+resiwoman: And she's going to pay for it!
+a9s: Wait!
+resiwoman: What is it?
+a9s: Where are you going?
+resiwoman: To kill the bastard who murdered my friend!
+a9s: Just slow down, all right? We need more data about what happened.
+a9s: Besides, it's dangerous. The killer could be watching you right now for all we know.
+resiwoman: Fine then. What do YOU think I should do?
+a9s: Let me ask around the Resistance camp before you go running off.
+a9s: There can't be that many people in red hoods, after all. Someone must know something.
+resiwoman: All right. I can wait for a little while.
+resiwoman: Hey, and...thanks.
+a2b: Well. Aren't we generous?
+a9s: Hmm?
+a2b: All this help for no personal gain? I know she's pretty, but—
+a9s: Whoa, whoa! It's not like that!
+a9s: I mean, she IS pretty, but that's... It's not...
+a2b: Whatever.
+a9s: We need to find someone wearing a red hood.
+a9s: Say, nice hood. You make it?
+resiwoman2: What, this? No, a girlfriend of mine gave it to me.
+resiwoman2: This is the first time I've worn it in public. Do you really like it?
+a9s: Yeah, it's great. In fact, I wish I had one for myself.

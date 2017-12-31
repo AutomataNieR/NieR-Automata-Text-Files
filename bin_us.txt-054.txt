@@ -1,0 +1,100 @@
+eml: A place very special to him...
+eml: In thanks, I'll tell you how to visit it. Please take this key.
+a9s: What's it for?
+eml: It'll let you access the elevator in the shopping mall.
+eml: You should head there whenever you have the time.
+eml: I'm sorry. I need to stay here for a while. You go on ahead.
+[[quest\q330\q330_ee317264_scp.bin]]
+a2b: What an odd flower...
+a9s: That's a peculiar little flower...
+a2: What a weird flower...
+a9s: ...
+a9s: Hmm. That's a strange flower.
+pod153: Analysis: It is a plant known as a Lunar Tear.
+a2b: A Lunar Tear...
+eml: ......
+a9s: Huh? When did YOU get here!?
+eml: So this flower is called a Lunar Tear...
+eml: Seeing that dredges up all kinds of memories.
+eml: Some of them are a bit strange, honestly. Like the one where I'm being attacked by a giant boar over and over again?
+eml: Or another where I keep trying out new parts every time my body is damaged...
+a9s: Sounds rough.
+eml: Something about this flower fills me with an emotion I don't really understand.
+eml: It's like something's pushing down on my chest really hard...
+eml: So, um...do you mind if I ask you a favor?
+eml: If you find Lunar Tears growing anywhere else, would you let me know?
+eml: I want to try and figure out what this feeling is all about.
+eml: What do you say?
+sele: Accept his request.
+sele: Refuse.
+eml: Aw, thanks!
+eml: If you find another Lunar Tear, just let me know on this frequency, all right?
+eml: I'm counting on you!
+eml: Whaaaa!? Oh, come on! I'm begging you!
+sele: Accept his request.
+sele: Refuse.
+a9s: This must be what Emil's key is for.
+telo: You used the key.
+a9s: Wow... Look at all the Lunar Tears!
+a2b: Where are we...?
+eml: Thank you for coming.
+a2b: Emil, what is this place?
+eml: It's the place from my memories that I worked so hard to protect.
+eml: Or, to be exact, the place protected by the person I used to be.
+a9s: Er, sorry. I don't get it.
+eml: The original Emil liked this place a lot.
+eml: He spent a lot of time here with people he loved. They were tough times... Sad times...
+eml: But the memories of that journey were his greatest treasure.
+eml: And I have a few traces of those memories in my own mind.
+a9s: Where's the original Emil now?
+eml: I don't know. There were so many of us that after a while, we just...
+a9s: Oh.
+eml: And there's still something that all of us Emils need to settle...
+a2b: Hmm?
+eml: ......
+eml: Ah, right. I should probably repay you for all of your help.\nPlease take this.
+eml: It's said that a Lunar Tear can make any wish come true.
+a2b: ...Thank you.
+eml: Oh no! I'm the one who should be thanking you.
+eml: You've helped me find some of my precious memories. Now I'll be able to keep pushing forward, even if I'm alone.
+[[quest\q340\q340_5620eb59_scp.bin]]
+resiwoman: Hmm...
+a9s: Is something wrong?
+resiwoman: You're from YoRHa, right? I don't suppose you'd...
+resiwoman: The thing is, I recently came out on the losing end of a scuffle with some machine lifeforms.
+resiwoman: The battle ended up corrupting a portion of my memory—which is a serious pain, as I'm sure you can imagine.
+resiwoman: Take these photographs, for instance. I have no idea when they were taken, or even what they are. I only know that they're...important.
+resiwoman: I recognize that you're busy, but if you have the time to help me out, I'd appreciate it.
+sele: Help her recover her memories.
+sele: Turn her down.
+resiwoman: Oh. Well, I understand. Feel free to stop by later if you manage to free up some time.
+resiwoman: I need to know where these photographs were taken...
+resiwoman: Thank you so much.
+resiwoman: If you find the location shown in any of these photos, please send me the coordinates.
+resiwoman: Hopefully that will help me recover my missing memories.
+a9s: We'll let you know if we find anything.
+resiwoman: Thank you.
+resiwoman: If you find the location shown in any of these photos, please send me the coordinates.
+a9s: Hmm... These places look familiar...
+a9s: One looks like the amusement park, one looks like the desert, and one looks like the forest...
+a9s: Let's keep our eyes open next time we're in any of those areas.
+a9s: Hold on... This is one of the places in that Resistance member's photographs.
+a9s: Better record the coordinates.
+telo: Amusement park photo recorded
+a9s: This place looks familiar...
+a9s: Oh, right! It's from that woman's photograph!
+a9s: I'll be sure to get her the coordinates...
+telo: Desert photo recorded
+telo: Forest photo recorded
+a9s: Okay. That's all the coordinates that Resistance member wanted.
+a9s: I'll be honest though—I don't quite get why she cares about these particular photos.
+a2b: Everyone has memories that are precious for one reason or another.
+a2b: It's not for us to judge their value.
+a2b: They're important to her; that's all we need to know.
+a9s: Yeah, I guess...
+resiwoman: Oh! This photo...
+telo: Handed over the desert photo
+resiwoman: I can still feel the intense heat beating down on me...
+resiwoman: Was I...with someone?
+telo: Handed over the forest photo
+resiwoman: This was a waterfall in the forest...

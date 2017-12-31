@@ -1,0 +1,100 @@
+resiwoman: I think I stumbled onto it one day when I was lost.
+resiwoman: But how did I get there in the first place...?
+telo: Handed over the amusement park photo
+resiwoman: This is from the amusement park...
+resiwoman: I remember having fun there...together.
+resiwoman: ..."Together"?
+resiwoman: ......
+resiwoman: Now I remember.
+resiwoman: These aren't just photos. They're bits of data from my beloved.
+resiwoman: Eight years ago, we were attacked by machines and fought a pitched battle.
+resiwoman: My love was killed, and many of my memories were lost.
+resiwoman: This must have been his final message for me.
+resiwoman: ...Thank you. You have no idea what this means to me.
+resiwoman: I know it's not much, but please take this.
+resiwoman: Honestly, I've been thinking a lot recently about whether it's worth it to continue living.
+resiwoman: This data is telling me that I need to continue on.
+resiwoman: And yet, what's the point of a world where my love is gone?
+resiwoman: What's the point of living...?
+resiwoman: ......
+a2b: Come on, 9S. Let's go.
+[[quest\q360\q360_8efed5ef_scp.bin]]
+a9s: That machine... I think something's wrong with it.
+n02: ......
+a9s: Hellooo? Anybody home in there?
+n02: ......
+a9s: Come on, I know you can hear me. What are you doing here?
+n02: ......
+pod153: Analysis: Scans indicate no mechanical malfunctions in this unit. Therefore, it must be deliberately ignoring you.
+a9s: So it's gonna be like that, is it?
+a9s: That voice couldn't have been that machine's...thoughts, right?
+a9s: Was it seriously trying to figure out the meaning of existence?
+pod153: Negative: Machine lifeforms do not possess such thought routines.
+a9s: Well, yeah, but...
+a9s: What was it going on about then?
+a9s: Hey there, buddy. You listening?
+n02: ......
+a9s: That seems like a big fat no. Guess it won't mind if I hack my way inside...
+a9s: Okay, what the hell was that?
+a9s: It's in pain because it can't find value in its own existence?
+a9s: It wants to know why it's here? Why it exists?\n...And what about me? Why am I here? Why do I—
+pod153: Alert: Hacking has resulted in an alignment of synaptic transmissions.
+a9s: ...Oh. R-Right. Sorry, I just...
+a9s: I'd better be more careful next time.
+a9s: Hi there.
+n02: ......
+a9s: All right, that's enough small talk. Time to root around and see what's what.
+a9s: ...Oof.
+pod153: Alert: Abnormalities detected in vital signs.\nPulse rate nearing dangerous levels.
+a9s: I'm all right...
+n02: We were created to fight!
+n02: To eliminate all others and reside at the pinnacle of existence!
+n02: Yet the battle rages eternal!
+n02: Our cursed cycle of destruction and rebirth continues without end!
+n02: None of us in this world are loved!
+n02: This world has no need for us!
+n02: There is only one solution...
+a9s: Ah!
+a9s: I can't believe that thing decided to end itself...
+a9s: This is where that machine fell...
+[[quest\q400\q400_1f6199eb_scp.bin]]
+a2b: ...Huh. That's new.
+a9s: ...Have we seen these things before?
+a2: ...Never seen these guys before.
+robolargegold: Mmm? Enemy detected!
+robosmallgold: Go! Show no mercy! Glory to machine lifeforms!
+a2b: Engaging. Pod, analyze the enemy.
+a9s: Whoa! They're speaking.
+a2: If that's how you want it...
+robosmallgold: Uuurgh!
+robosmallgold: You dare defeat my faithful servant? You will pay with your life!
+robosmallgold: Nnngh... D-Damn it all...
+robolargegold: Damn...
+a2b: Haven't I fought this thing before...?
+pod042: Proposal: Enemy should be dispatched immediately.
+pod042: Leaving such a dangerous foe intact would be unwise.
+a2b: Understood.
+a9s: Hey, I've fought this machine before, right?
+pod153: Proposal: Enemy should be dispatched immediately.
+pod153: Leaving such a dangerous foe intact would be unwise.
+a9s: If you say so.
+a2: Wait. Haven't I fought this thing already?
+pod042: Proposal: Enemy should be dispatched immediately.
+pod042: Leaving such a dangerous foe intact would be unwise.
+a2: Don't have to tell me twice.
+robosmallgoldwoman: You killed my brother. You are the true evil. You must die!
+a2b: Engaging enemy.
+a9s: Ready to engage.
+a2: Time to die.
+robosmallgoldwoman: Nnngh... Aahhhhhh...
+robosmallgoldwoman: No! You...you killed him!
+robosmallgoldwoman: I am...undone... Forgive me...Brother...
+a2b: Brother? So there's another one?
+a9s: Brother? Wait, there's more of these things?
+a2: Brother? So there's more of them?
+a2b: There's another one of those strange machines.
+pod042: This machine type purposely seeks out androids in order to enact revenge.
+pod042: It should be dispatched immediately.
+a2b: Roger.
+a9s: There's another of those machines... I suppose it's going to attack me, right?
+pod153: This machine type purposely seeks out androids in order to enact revenge.

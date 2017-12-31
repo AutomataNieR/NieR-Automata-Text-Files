@@ -1,0 +1,100 @@
+pod042: Alert: Storage media found.
+pod042: Digitization and saving complete.
+a2b: Is this the treasure?
+a9s: Some kind of writing...
+pod153: It reads: "Here lies the king of our forest."
+pod153: Alert: Storage media found.
+pod153: Digitization and saving complete.
+a9s: Wait. So is this the treasure?
+a2: Some kind of writing...
+pod042: It reads: "Here lies the king of our forest."
+pod042: Alert: Storage media found.
+pod042: Digitization and saving complete.
+a2: So is this the treasure or what?
+n02: Oh hey ya found the record of the king of the forest gosh that's swell just really swell and I guess ya defeated his royal guard for me too huh gosh thanks
+n02: a lot see 'cause I can't really talk so good if ya haven't noticed which maybe ya did and everyone else pretty much won't talk to me 'cause of it
+n02: and who cares about that "forest kingdom" idea anyway and who does that dumb king think he is and all them guys are better off dead anyhow haw haw haw so thanks
+n02: again for making all them guys extra dead 'cause they were a bunch of id-jits and who gives two bolts about 'em and here take this for all yer work
+n02: cause they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had it comin' they had
+a2b: ......
+a9s: ......
+a2: ......
+[[quest\q500\q500_8446c06e_scp.bin]]
+andwoman: Ah!
+andman: Oh no!
+a9s: Sorry, is something wro—
+andwoman: Mercy! Please, just let us go!
+a9s: Um, I think there might be some kind of misunderstanding here.
+andman: You mean you aren't here to arrest us?
+a9s: Noooo.
+a9s: Wait, why do you think I'd arrest you?
+andwoman: We...deserted the Resistance.
+a9s: You what?
+andman: We just want to find a place where the two of us can live our lives in peace. Is that so wrong?
+andwoman: Please don't tell anyone that we're here. Please!
+a2b: We're not with the Resistance. We're YoRHa.
+a2b: We don't have any obligation to report you to your superiors.
+andwoman: Thank goodness...
+a9s: Still, if you guys stay here, they're going to find you eventually.
+andman: We don't have a choice. My locomotion functions have been damaged, and we don't have the necessary materials to perform repairs.
+andwoman: Er...I don't suppose you'd bring us the materials we need?
+a9s: Huh? Who, us?
+andwoman: We can't get them ourselves—if we leave this place, we'll be found for certain.
+andwoman: I know it's a lot to ask, but we promise to reward you... Please?
+sele: Help the deserters.
+sele: Leave them to their fate.
+andwoman: Thank you. We just need an elaborate gadget to conduct the repairs.
+andwoman: I saw one near the abandoned factory.
+andman: Thank you again. We know you can do this.
+andman: I know the Resistance will be here soon, but all we desire is a quiet life for ourselves.
+andwoman: Please bring us the parts we need so we can get out of here!
+andwoman: That's it! Now my companion can fix what's been ailing him.
+andman: I'm so glad we trusted you.
+andman: We'll leave this place as soon as we can. Please pray for our safe passage.
+roboA: THE ANDROIDS THAT WERE HERE HAVE LEFT.
+roboA: I'D LOVE TO GO BEYOND THE SEA TOO...
+roboB: I HOPE THEY FIND THE HAPPINESS THEY SEEK.
+andman: Oh, hello! Remember us? You saved our hides a little while back.
+andman: Thank you again for your help.
+andwoman: I know this is awkward, but if you have the time, we could actually use your assistance again.
+andman: Don't you dare ask for more help!
+andwoman: But...
+a9s: No, what is it? Do you need more parts to repair yourselves?
+andman: I won't accept—
+andwoman: Put your pride aside, you foolish man! We need the help and you know it.
+andman: I know, but...
+andwoman: Why must you always be so stubborn!? Just let me handle this.
+andwoman: Yes, we need your help, but not with finding parts. We're actually trying to flee to a land across the sea.
+a9s: Oh. How's that going to work?
+andwoman: There's a sympathetic figure in the Resistance who's offered to help us. People refer to him as "The Emancipator."
+andwoman: However, he doesn't work for free.
+andwoman: I'll be frank: We need 50,000 G in order to secure his services. Would you be willing to donate it to our cause?
+sele: Give them 50,000 G.
+sele: Refuse.
+andwoman: Y-You will? Oh, thank you so much!
+andman: I don't know what to say. We really don't deserve such generosity...
+andman: But we'll pay it back someday. I swear we will!
+andwoman: We need 50,000 G in order to escape this place. Would you be willing to help us?
+andwoman: Hmm, looks like you don't have the money on you.
+andwoman: Come back when you have enough, okay?
+andman: Nnnngh... Hrrrgh...
+a9s: Are you all right? What happened?
+andman: The Emancipator...attacked...
+andman: He was swindling us from the start.
+a9s: What happened to the woman who was with you?
+andman: She fled... She was trying to act as a decoy in order to keep me safe...
+andman: P-Please... You must help me find her!
+sele: Help the man.
+sele: Refuse.
+andman: Thank you. Here's her bio-code—it should help you find her.
+a2b: Pod, scan this bio-code and run a positional search.
+pod042: Exact position unknown. Data regarding her last known location does exist, however.
+pod042: The unit in question was most recently seen in the amusement park ruins.
+a2b: Got it.
+a9s: Pod, scan this bio-code and run a positional search.
+pod153: Exact position unknown. Data regarding her last known location does exist, however.
+pod153: The unit in question was most recently seen in the amusement park ruins.
+a9s: Got it.
+andwoman: Nnngh...
+a9s: Are you all right?
+andwoman: Uuurgh...

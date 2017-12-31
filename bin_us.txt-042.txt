@@ -1,0 +1,100 @@
+a9s: Do you happen to know where she got it?
+resiwoman2: No, sorry. I didn't think to ask.
+a9s: Do you know where your friend is? Maybe I'll go ask her myself.
+resiwoman2: Man, you REALLY like this hood!
+resiwoman2: Last I heard, she was out at the desert station.
+resiwoman2: She shouldn't be hard to find—I think she's the only woman there.
+a9s: Thanks. I appreciate it.
+resiwoman2: Hope you manage to get a hood of your own!
+a9s: Sounds like that red hood was a gift of some sort.
+a2b: Gifts are such a useless ritual.
+a9s: Wow, okay. Where'd THAT come from?
+a2b: It's rude to give a person something without their permission.\nWhat if they don't want it?
+a9s: Hmm. I think it's more about the feeling behind it than the actual item, right?
+a2b: Feelings are prohibited.
+a9s: Yeah, yeah.
+a2b: One affirmation will suffice.
+a9s: Oh, for the love of... Fine. "Yeah."
+a9s: Our red-hooded target should be in the desert.
+a2b: Stay alert. She could be our killer.
+a9s: But there's only one female resistance member at the desert station...
+a9s: Hmm. I don't see her.
+a2b: Let's ask that guy over there.
+resiman: ...How's that? You're looking for a Resistance lady?
+resiman: Oh, you must mean Jackass, huh?
+resiman: Every time there's an issue, ol' Jackass tries to solve it with explosives or some other violent method.
+resiman: I think she's off doing geological research in one of the desert caves.
+resiman: I'll send you the coordinates if you want.
+resiman: Oh, but if you're gonna head out there—
+resiman: Just make sure you don't get caught up in one of her explosions, you hear?
+a9s: Excuse me? Are you...um..."Jackass"?
+jackas: Who wants to know?
+a9s: We're with YoRHa. We're conducting a field investigation.
+resiwoman2: Well, yippee for you.
+a9s: Listen, did you happen to give a red hood to a friend earlier?
+a9s: That red is perfect for our new YoRHa colors, so we were hoping to—
+jackas: That old piece of crap? Yeah, I gave it to her. Hell, I never wanted it in the first place.
+a9s: Er, so it came from someone else originally?
+jackas: Did I stutter? Yeah, it came from someone else. I bought the stupid thing right after that explosion in the city ruins.
+jackas: Some Resistance lady with red hair practically tackled me trying to get me to buy it.
+jackas: I only did it to get her off my case. Well, and because I thought it might look good on my friend... But if you tell her that, you're dead!
+a9s: A red-haired Resistance member...
+pod153: The same color as our client's hair.
+jackas: What client? What the hell's going on here?
+a9s: Uh, nothing! It's just...that's her nickname. "The Client."
+jackas: That's even stupider than Jackass!
+jackas: That lady WAS pretty creepy, though.\nKept grinning at me like a crazy person.
+a9s: Grinning...?
+a9s: Uh, well, thanks for your help. We'll be on our way.
+pod153: Alert: The description of a female Resistance member with red hair matches that of our client.
+a9s: But if it's the same person, why would she have had the killer's hood?
+pod153: Hypothesis: The red-haired Resistance member is either the killer or an accomplice.
+a2b: Let's go talk to her.
+resiwoman: So? How'd it go? Did you find that murdering wench in the red hood?
+a9s: Not...exactly.
+a9s: But we DID learn that you sold the hood to someone.
+resiwoman: Wha!?
+a9s: Apparently a red-haired Resistance member sold the hood after the explosion in the ruins.
+resiwoman2: This doesn't make sense...
+a9s: We're starting to believe you had something to do with the murder.
+resiwoman2: But that's impossible! I don't know about any of that...
+a9s: Listen, if you—
+resiwoman2: Look, you said there were still some records left in this Pod, right?
+resiwoman2: Then we have to look at them right now!
+a9s: Think about this for a second. I want you to understand what you're asking.
+a9s: You may have killed your own friend. I don't know why or how, but it's possible.
+resiwoman: I don't care. I have to know the truth. Please!
+a9s: ...All right. I'm heading in.
+resiwoman: Ah! Ahhhhh...
+resiwoman: I... I'm a Type-E... A YoRHa Type-E...
+a9s: YoRHa?
+resiwoman: My function is to seek out and execute deserters and traitors.
+resiwoman: I disguise myself so I can approach my targets and kill without warning.
+resiwoman: But one day, I was ordered to kill my friend.
+resiwoman: So I did. I had my orders, and I followed them.
+a2b: ......
+resiwoman: It was hard. So hard. And after a while, I couldn't live with what I had done.
+a9s: So you erased your own memories.
+resiwoman: Yes.
+resiwoman: But...this wasn't the first time.
+resiwoman: I've killed comrades. Friends. Lovers. I've done it more times than I can count. Again and again and again and...
+resiwoman: Hee.
+resiwoman: Eee hee hee hee hee.
+a9s: Um, are you all right?
+resiwoman: Yes. I am "all right." Everything is "all right."
+resiwoman: I am a YoRHa Type-E. E for "Execution."
+resiwoman: I follow orders. I kill my friends. Eee hee hee!
+resiwoman: And you solved it! Solved the murder! Eee hee! Now I have to pay you! Eee hee hee!
+a9s: Wait, you don't—
+resiwoman: Eee hee hee! Do you need a friend killed? A lover? It's my job! My job! Hee! My job! Hee hee! My j-job my j-j-job my-y-y-yyyyy jjjooooeeeheeheeeeeee...
+a2b: ...Let's go.
+a9s: Type-E... I didn't know there was such a thing.
+a9s: Did you, 2B?
+a2b: ......
+a2b: Some things are better left unknown.
+a9s: ...Yeah. I suppose so.
+[[quest\q140\q140_7cda31e_scp.bin]]
+resiwoman: Say, you're the new YoRHa models, aren't you?
+resiwoman: I know you're busy, but if you find the time later, I hope you'll reconsider.
+a9s: I guess we are the newest, now that you mention it. Did you need something?
+resiwoman: Are you willing to hear my story?

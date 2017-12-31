@@ -1,0 +1,100 @@
+robobusy: Life is a fleeting moment! We must fly straight like an arrow so we never lose our way!
+speedstar: Only speed will dictate whether you defeat me or not!
+robobusy: So let us see which of us is faster! Believe in yourself and grasp the future with both hands!
+speedstar: Focus on the race!
+sele: Take him on!
+speedstar: Do you think you can win if you waste your energy that way!?
+sele: Ignore him!
+speedstar: That isn't going to work on me!
+robobusy: Oooo yeaaaaah! You're goin' down!
+robobusy: The finish line is over there.
+robobusy: It's you and me, friend! No holds barred!
+robobusy: Zounds! You're fast! Although not FAST fast, if you know what I mean.
+robobusy: I'm excited to test your skills again! And next time, we'll take things up a notch!
+robobusy: Bah! Surely this isn't all that you're capable of!
+robobusy: Life is too short for you to spend it running about in useless circles!
+robobusy: Now get your dander up and try challenging me again!
+robobusy: Hello hello hello! Ready to challenge me again?
+robobusy: Wonderful! I knew you couldn't resist the thrill of the chase the moment I laid eyes on you!
+robobusy: Now let's have a race that will make our very souls quiver with delight!
+robobusy: Here we go! The Second Speed Championship!
+sele: Yes, let's quiver!
+sele: I'd prefer not to quiver!
+robobusy: An excellent response!
+robobusy: The finish line is over there!
+robobusy: It's time to race your way into tomorrow, TODAY!
+robobusy: Not bad! You're getting closer to becoming a true speedster!
+robobusy: Keep it up! I want us to grow ever faster together!
+robobusy: I'll be here whenever you're ready to try me again!
+robobusy: Come now! You cannot be serious!
+robobusy: I know you can do this! I KNOW it! Now get out there and give it everything you've got!
+robobusy: Hello hello hello hello helloooooo!
+robobusy: I feel it in my core—today is the day we pursue the ultimate in speed!
+robobusy: We shall break down all barriers! Sound! Light! Tachyon!\nNever doubt your true potential!
+robobusy: Here we go! The Third Speed Championship!
+sele: Let's do it!
+sele: Let's not do it!
+robobusy: Aaah ha ha! Today we show the world what it means to be speed itself!
+robobusy: Our glorious goal is just over there!
+robobusy: Now fly! Fly onward to a shining future!
+robobusy: ...Congratulations. You are truly the greatest speedster the world has ever known.
+robobusy: As proof of your astonishing victory, I give you this.
+robobusy: I can no longer challenge you.
+robobusy: I have lived my life in the pursuit of speed, and it seems my journey is at an end.
+robobusy: It's strange. I thought I'd be sad, but instead I feel...peace.
+robobusy: When I think back on how competitive I was before, it seems so very ugly.
+robobusy: But that was my life, and thus, I own it. I am content.
+a2b: ......
+a9s: ......
+a2: ......
+robobusy: I am content...
+robobusy: NO! NO NO NO NO! You must fire off the great rockets of your soul!
+robobusy: Fill your heart with emotional fuel and maximize your potential!
+n02: What the heck was up with that guy anyway?
+n02: Three...
+robobusy: Here we go! The First Speed Championship!
+n02: Two...
+n02: One...
+n02: Go!
+[[quest\q330\q330_21f485e_scp.bin]]
+a2b: What an odd flower...
+a9s: That's a peculiar little flower...
+a2: What a weird flower...
+a9s: ...
+a9s: This is a Lunar Tear, right?
+a9s: We'd better let Emil know.
+eml: Hey there, guys! What's up?
+a9s: We found a Lunar Tear. It's located at—
+eml: STAY RIGHT THERE! I'm coming!
+a9s: Uh...okay? I hope he doesn't expect me to just stand here all da—
+eml: Sorry to keep you!
+a9s: GYAAA!
+eml: Oh, hey... Now that I think about it, this whole area was once...
+a2b: Are you remembering something?
+eml: It's all pretty fuzzy, but I seem to have a memory of caring for this flower a long time ago...
+eml: But the sand kept expanding, and the flowers gradually wilted.
+eml: Now that I think about it, that was around the same time I stopped seeing people.
+a9s: You mean humans?
+eml: Thanks a bunch for finding this. Really.
+eml: Oh, and let me know if you find any more, okay?
+eml: I'm gonna...stay here for a bit.
+eml: ......
+a9s: It's a Lunar Tear. I'd better tell Emil.
+eml: Hey there! What's going on?
+a9s: I found one of those flowers you were looking for. It's over at—
+eml: DON'T MOVE AN INCH! I'm coming!
+a9s: Don't move? I'm actually kind of bus—
+eml: Sorry to keep you!
+a9s: Damn, you're fast!
+eml: ......
+eml: That's it. I remember now...
+eml: Back when the aliens first invaded...
+eml: I fought as hard as I could to save Earth.
+a9s: You did?
+eml: I think...I had something I wanted to protect. Something really precious to me.
+eml: But I don't know what it was.
+a2b: ......
+eml: Thank you for finding this.
+eml: You'll let me know if you find any more, right?
+eml: ......
+eml: I'm gonna...stay here for a bit.
