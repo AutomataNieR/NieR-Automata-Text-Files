@@ -1,0 +1,195 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+...M6010_S0150_N
+
+
+<BGM_BGM_M6010_S0150_N_start>
+<page>
+According to the YoRHa team, there's an enemy server beneath Mt. Ka'ala.<BGM_BGM_M6010_S0150_N_0010>
+If we can take it out, we might finally gain some ground in this endless war.<bt_wait>
+But in order for that to happen, we need to work together.<bt_wait>
+
+After a bit of thought, Rose decides to throw in with the new models.<bt_wait>
+It's a relationship that changes as time goes on.
+</page>
+
+<page>
+“Er, what are you doing, Dahlia?”<bt_wait>
+“Just...showing this idiot...how weak she is!” replies a winded Dahlia.<bt_wait>
+“Ha!“ wheezes her opponent, Number 16. “You're obviously...outmatched!”<bt_wait>
+
+The two of them are taking turns hitting each other.<bt_wait>
+It seems friendly enough...as those things go.<bt_wait>
+Plus, they'd been doing it for so long now that both of them are out of
+energy. They likely couldn't punch through a piece of paper at this point.
+</page>
+
+<page>
+The rest of the group stares at the combatants and tries not to grin.<bt_wait>
+Dahlia and Number 16 seem to butt heads over the smallest little things.<bt_wait>
+Maybe it's because they're so much alike.<bt_wait>
+
+It's almost annoying how quickly muscleheads learn to like one another.
+</page>
+
+<page>
+The rest of us converse as Dahlia and 16 continue to spar.<bt_wait>
+
+“We call each other by names that I gave us,” explains Rose.<bt_wait>
+“I see,” responds Number 4. “I thought it strange that you didn't use code numbers.”<bt_wait>
+
+She nods while she speaks, as though this all makes perfect sense.
+</page>
+
+<page>
+Suddenly Captain Rose breaks out into a wide grin. “You know what?” she says.<bt_wait>
+“I think we should give all of you names as well!”<bt_wait>
+
+“No,” says Number 2. “It would be a waste.”<bt_wait>
+
+Rose eyes her warily. “Er, a waste?”
+</page>
+
+<page>
+“You can name me when the mission is over,” she replies as a blush rises in her
+cheeks. I could tell her words also served as a wish for success.<bt_wait>
+
+“All right,” responds Rose. “I'll think of a name for you by then.”<bt_wait>
+
+She knows this is a fleeting promise, as most such things are. But it doesn't
+matter—already I can see us growing closer to the YoRHa team.<bt_wait>
+
+Well, my friends are growing closer to them, at least.
+</page>
+
+<page>
+“You're all being careless,” I state, much louder than I intend.<bt_wait>
+Luckily, the others either don't hear or decide to ignore it.<bt_wait>
+
+Don't get me wrong—I'm not about to go against the captain's judgment.<bt_wait>
+But that doesn't mean I'm ready to just lie down and trust our new “friends.”
+</page>
+
+<page>
+Ours is a solitary existence that has long since been abandoned by the moon.
+No matter how they cried, mourned, or struggled, the voices of our departed comrades
+went unanswered.<bt_wait>
+
+So how can you trust an entire squad of new models that you just met?
+</page>
+
+<page>
+“What's wrong, Anemone?”<bt_wait><bt_wait><BGM_BGM_M6010_S0150_N_0020>
+I hear Lilly calling to me. She's likely concerned about me being apart from
+the rest of the group.<bt_wait>
+“Nothing,” I begin “I'm fi—”<bt_wait>
+Before I can complete my thought, Lilly suddenly opens her mouth and emits
+a terrible scream.
+
+“AaaaaaAAAAAAAAAAAAAH!”
+</page>
+
+<page>
+Lilly's scream echoes throughout the entire camp.<BGM_BGM_M6010_S0150_N_0030>
+It's heartbreaking. It's agony. It's...<bt_wait>horrible.<bt_wait>
+
+“She's infected!” screams Rose. “Lilly's infected!”<bt_wait>
+
+We all draw weapons out of instinct as much as anything else, pointing them
+at our comrade as she continues to scream and scream and scream.<bt_wait>
+
+We all know what's happening. We've seen it before.<bt_wait> It's a logic virus—
+a machine weapon that hijacks android systems and overwrites their data.<bt_wait>
+And since there's no known cure...<bt_wait>it's also a death sentence.
+</page>
+
+<page>
+I need to show her mercy.<bt_wait> I need to set her free.<bt_wait>
+
+My finger rests on the trigger, yet I hesitate. And before I can make that
+final, fateful decision, I hear a voice rise up from somewhere behind me:<bt_wait>
+
+“Stop! You can't do this! You can't just let your friend DIE!”<bt_wait>
+
+It's Number 21. The girl I'd thought to be cool and composed beyond all measure
+was now pleading with me to spare Lilly's life.<bt_wait>
+
+What do I do?<bt_wait> What the hell do I DO!?
+</page>
+
+<page>
+“Lilly said you were like a family to her! You can't abandon family,
+not before you exhaust every possibility!”<bt_wait>
+“What can you do, then?”<bt_wait>
+“I'll use my power to erase the virus!”<bt_wait>
+“That's impossible!”
+</page>
+
+<page>
+Rose spat out what we were all thinking, but before we can act,
+Lilly starts to send nearby comrades flying with impossible strength.<bt_wait>
+I've seen infected androids before—I know how much damage they can do once the
+virus turns off their limiters. They'll fight and fight until they're utterly destroyed.<bt_wait>
+
+Dahlia and Number 16 rush into the fray, trying to suppress their former friend,
+but she swats them away like flies.
+</page>
+
+<page>
+How many of us have been infected now?<bt_wait>
+
+How many friends have I been forced to put down?<bt_wait>
+
+The heart I'm not supposed to have aches with the thought. It aches as I
+remember all of the identification numbers that have been retired.<bt_wait>
+
+When did I start giving them names?<bt_wait>
+When did I decide I simply couldn't endure it any longer?
+</page>
+
+<page>
+“Initiating reprogramming sequence!”<bt_wait>
+
+That voice. ...Number 21? She's screaming something about...reprogramming?<bt_wait>
+
+I don't know what to do.<bt_wait>
+I am lost.<bt_wait>
+
+As my vision slowly clears, I see Number 21 inputting commands into her terminal
+while Number 2 and Number 4 hold her down. They hold her as she writhes and...<bt_wait>
+
+Rose stares at me with surprise. <bt_wait>...Oh no. <bt_wait>I'm holding Lilly too.
+</page>
+“Just hold on, Lilly!” cries Number 21. “I'm going to save you!”<bt_wait>
+
+She's risking her life for Lilly. They're ALL risking their lives.
+
+“Uploading data set now!”<bt_wait>
+
+Her cry pierces my very soul, if I can be said to have such a thing.
+
+I want to believe them. Please let this work. Please...
+</page>
+Lilly's body convulses and thrashes beneath our combined weight. She tries to
+throw Number 2 from her, but somehow the other woman manages to hang on.<bt_wait>
+
+I hold onto Lilly with all my strength.<bt_wait>
+I will not let go.<bt_wait>
+I will not lose anyone else!<bt_wait>
+
+Suddenly, Lilly's body goes limp. Number 21 looks down at the terminal and emits
+a harsh and ragged sigh.
+
+“Virus removal...complete.”<BGM_BGM_M6010_S0150_N_0040>
+</page>
+She's back.<bt_wait>
+Lilly is back.<bt_wait>
+
+Shouts of joy ring out from my Resistance companions. I embrace Lilly in a hug
+that stuns me with its ferocity, then look at Number 21 through teary eyes.<bt_wait>
+
+I'll be damned. I think she almost smiles.
+</page>
+<BGM_BGM_M6010_S0150_N_end>
+...SID_end

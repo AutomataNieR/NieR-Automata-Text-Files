@@ -1,0 +1,71 @@
+*Loading Screens (US 102 x 18)
+※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+..M9000_S0500_N.txt
+
+
+
+<label_A>
+<page>
+Will. From where does our will come?
+<sele_D>・It is born from nothingness.
+<sele_B>・It is given to us by God.
+<sele_Z>・I don't care. I don't need any of this!
+</page>
+
+<label_B>
+<page>
+God. How did God create us?
+<sele_C>・By random chance.
+<sele_D>・From nothingness.
+<sele_Z>・I don't care. I don't need any of this!
+</page>
+
+<label_C>
+<page>
+Chance. Was this world created by random chance?
+<sele_A>・All is according to God's will.
+<sele_D>・It was not random. This world is filled with nothingness.
+<sele_Z>・I don't care. I don't need any of this!
+</page>
+
+<label_D>
+<page>
+Nothingness. Is there any meaning to living in this world?
+<sele_B>・Pray to God.
+<sele_A>・Hold true to your own will.
+<sele_Z>・I don't care. I don't need any of this!
+</page>
+
+
+
+<label_END>
+<page>
+The time is upon us.
+Who can say what strife lies ahead...
+
+</page>
+<EXIT>
+※白ＦＯ
+
+<label_Z>
+<page>
+The game is currently being installed.
+You cannot continue playing the game until the install has completed.
+Do you wish to discard everything and return to the title screen?
+If you do, you will lose any unsaved data.
+<sele_Y> - Yes
+<sele_A> - No
+</page>
+
+<label_Y><STATEON_playgo_backtitle>
+<page>
+Returning to the title screen.
+</page>
+
+
+
+
+
+
+

@@ -1,0 +1,100 @@
+<i>The Black Scrawl took another victim. That's three this month.</i>
+<i>It's spreading way too fast.</i><bt_wait>
+
+<i>Let's wait and see what happens.</i><bt_wait>
+
+<i>I'm tired of hearing you say that!</i><bt_wait>
+
+Her shout makes me jump.<bt_wait> Just a little.<bt_wait>
+But enough for her to see.
+</page>
+
+<page>
+<i>I'm sorry, Sis. It's not your fault.</i>
+<i>I shouldn't have lashed out like that.</i><bt_wait>
+
+<i>It's okay. I understand.</i><bt_wait>
+
+<i>It's all going wrong. You can feel it too.</i><bt_wait><i>...Right?</i><bt_wait>
+
+<i>I...</i><bt_wait>
+
+When I was first assigned to Project Gestalt, I was over the moon with pride.<bt_wait>
+But now, my chest hurts just to think about it. If it were to fail...
+</page>
+
+<page>
+Before we knew it, the Replicants had gained a sense of self.<bt_wait>
+
+And the Black Scrawl started moving fast.
+                                                                                  So fast.
+                                                                                             Like a wind.<bt_wait>
+
+Popola and I would go to the observation room and act like it was all okay.<bt_wait>
+We'd meet Replicants.<bt_wait> Talk to them.<bt_wait> Laugh with them.<bt_wait>
+Like we didn't have a care in the world.<bt_wait>
+
+But at night, we'd just hold each other and share the horror of it all.
+</page>
+
+<page>
+<i>I'm glad you were with me,</i> murmurs Popola.<bt_wait>
+<i>I couldn't have handled being an observer all alone.</i><bt_wait>
+
+<i>We were able to endure because we had each other.</i><bt_wait>
+
+Did the humans see this coming? Is that why that made a twin model?<bt_wait>
+Were they really so clever?<bt_wait> Were they really so cruel?<bt_wait>          
+
+I couldn't have done this by myself.<bt_wait> I would have
+d E S C e n D e D         I n t O        m A d N e S s s S<bt_wait>
+I simply couldn't bear such a burden all alone.
+</page>
+
+<page>
+<i>I'm going to try contacting a different city next time.</i>
+<i>Maybe these abnormalities are a localized phenomenon.</i><bt_wait>
+
+<i>I pray that's the case. Even if we're of no use ourselves,</i>
+<i>things will still work out if the other observers can pull through.</i><bt_wait>
+
+<i>Don't worry. It's going to be okay.</i><bt_wait>
+
+But it wasn't okay.<bt_wait> Nothing was okay.<bt_wait>
+All thanks to a pair of Devola and Popola models from another town.
+</page>
+
+...Desert Part 3.
+*Show desert image C (near the housing complex)
+
+<page>
+The wind rubs my cheeks. The sand grazes my skin.
+...It's cold out here. How strange.<bt_wait>
+
+We walk with renewed purpose, hoping to make up for lost time.<bt_wait>
+Devola loses her balance every now and then—it gets bad after a while.
+I slip myself under her arm so she won't fall again and we press on.<bt_wait>
+<i>Is your leg all right?</i><bt_wait>
+<i>Well, I doubt I'll be dancing anytime soon, but yeah. It's fine.</i><bt_wait>
+
+She smiles as she says this, but I can tell she doesn't have much left.<bt_wait>
+And yet, she continues to smile.<bt_wait> All so I won't worry.
+</page>
+
+<page>
+She's always been like this.<bt_wait>
+Smiling.<bt_wait> Joking.<bt_wait> Putting me at ease.<bt_wait>
+
+I remember the moment our Resistance allies wounded her leg.
+I was furious. Beyond fury. I wanted to scream and cry and lose myself in it.
+But then she smiled, and all of that rage just...drifted away.<bt_wait>
+
+To think we have the same face, yet such different smiles.<bt_wait>
+
+One day, I realized how similar we were to the martyrs I'd seen in old records.
+That was when I decided we'd leave our town forever.
+</page>
+
+*Fade-out
+
+...Project Gestalt collapses

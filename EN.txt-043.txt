@@ -1,0 +1,100 @@
+LOADING
+LOADING
+BOOTING SYSTEM
+-
+.
+_
+_
+Commencing System Check
+Memory Unit: Green
+Initializing Tactics Log
+Loading Geographic Data
+Vitals: Green
+Remaining MP: 100%
+Black Box Temperature: Normal
+Black Box Internal Pressure: Normal
+Activating IFF
+Activating FCS
+Initializing Pod Connection
+Launching DBU Setup
+Activating Inertia Control System
+Activating Environmental Sensors
+Equipment Authentication: Complete
+Equipment Status: Green
+All Systems Green
+Combat Preparations Complete
+CHARGEMENT
+CHARGEMENT
+INITIALISATION DU SYSTÈME
+-
+.
+_
+_
+Lancement de la vérification du système
+Analyse de la mémoire : vert
+Journal tactique : initialisé
+Données géographiques : chargement en cours
+Vérification des paramètres vitaux : vert
+Vérification MP restants : 100%
+Température de la boîte noire : normale
+Pression interne de la boîte noire : normale
+Activation de l'IFF
+SCR activé
+Initialisation de la connexion pour transmission de pod
+Paramétrage UDB
+Activation du système de contrôle inertiel
+Activation du capteur environnemental
+Authentification de l'équipement : terminée
+Vérification de l'état de l'équipement : vert
+Systèmes : vert
+Préparatifs de combat terminés
+CARICAMENTO IN CORSO
+CARICAMENTO IN CORSO
+AVVIO DEL SISTEMA
+-
+.
+_
+_
+Avvio del controllo del sistema
+Controllo unità di memoria: OK
+Registro tattico: inizializzato
+Dati geografici: caricamento avviato
+Controllo segni vitali: OK
+Controllo PM rimanenti: 100%
+Temperatura scatola nera: normale
+Pressione interna scatola nera: normale
+Attivazione IAN
+Attivazione SCV
+Inizializzazione connessione trasmissione Pod
+Configurazione UDB
+Attivazione del sistema di controllo inerziale
+Attivazione del sensore ambientale
+Autentificazione equipaggiamento: completata
+Controllo stato dell'equipaggiamento: OK
+Sistemi: OK
+Preparativi per il combattimento completati
+LADE
+LADE
+SYSTEM WIRD HOCHGEFAHREN
+-
+.
+_
+_
+Systemüberprüfung wird gestartet
+Überprüfung der Gedächtniseinheit: grün
+Taktiklog: initialisiert
+Geografische Daten: Ladevorgang gestartet
+Gesundheitsüberprüfung: grün
+Überprüfung der verbleibenden MP: 100 %
+Blackbox-Temperatur: normal
+Blackbox-Innendruck: normal
+FFE wird aktiviert
+KSS aktiv
+Pod-Übertragungsverbindung wird initialisiert
+DBE-Setup
+Trägheitssteuersystem wird aktiviert
+Umgebungssensor wird aktiviert
+Ausrüstungsauthentifikation: abgeschlossen
+Überprüfung des Ausrüstungsstatus: grün
+Systeme: grün
+Kampfvorbereitungen abgeschlossen

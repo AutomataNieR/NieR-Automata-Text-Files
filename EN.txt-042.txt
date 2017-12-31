@@ -1,0 +1,100 @@
+Sprint
+Dismount
+Start Fishing
+Cast / Reel In
+Stop Fishing
+Debug Menu
+Berserker Mode
+Change Weapon
+Missile Barrage
+Switch Lock-on Target
+System Menu
+(Hold) Self-Destruct
+(Mash) Taunt
+ERROR
+You do not have the authority to perform that command.
+The command was not executed correctly.
+Visual Sensors Abnormal
+Aural Sensors Abnormal
+Close Combat FCS Down
+Evasive Maneuvering Systems Down
+Movement System Abnormal
+Cannot Initialize Hacking Systems
+Targeting System Abnormal
+Jumping System Disabled
+All Control Systems Abnormal
+MESSAGE
+IFF: MODE 2
+12H
+11B
+7E
+1D
+4B
+2B
+file\EN\messhud_hacking.new.txt.txt
+HACKING COMPLETE
+Detonate
+Subjugate
+Remote Control
+HACKING SUCCESSFUL. SELECT METHOD OF DISPOSAL.
+Blow up target.
+Subjugate target and have it attack enemies.
+Hijack target and operate it remotely.
+SYSTEM INTERFERENCE
+_
+BEGIN HACKING
+Behavior System
+Weapon Switching System
+Visual System
+Vocal System
+YoRHa Identification System
+Memory System
+Server
+Is this...hacking space?
+How did I...?
+Wait, it must have been that EMP blast!
+Hooked me up to the machine network too somehow.
+The machines are...imitating humans?
+Why would they do that?
+What the heck was that?
+Are they...talking?
+Dammit...
+We were made to protect mankind.
+We're not the same as you machines!
+We're not...the same...
+Stop it...stop it...
+It's not my fault, okay!?
+Dammit...I...I...
+Stop it! STOP IT! StoP iT! STOp It! sTOP IT!
+I! I! I-I! I-I-I-I-I-I-I!
+Help me...heLp mE...hElP...
+NonononononNonoOOOnoonoNononoNNOOnonoOoo!!
+Somebody please help me!
+Hmmm. This place sure is elaborate...
+Wow... It's even more complex than before.
+file\EN\messloading.new.txt.txt
+LOADING
+LOADING
+システム起動中
+-
+.
+_
+_
+システムチェック開始
+メモリーユニットチェック：グリーン
+戦術ログ：初期化
+地形データ：ロード開始
+バイタルチェック：グリーン
+MP残量チェック：100%
+ブラックボックス温度：適正
+ブラックボックス内圧力正常
+IFF起動
+FCS起動
+ポッド通信接続開始
+DBUセットアップ
+慣性制御システム起動
+環境センサー起動
+装備認証：完了
+装備状態チェック：クリア
+システム：オールグリーン
+戦闘準備完了

@@ -1,0 +1,99 @@
+Taking a deep breath, I...
+
+<sele_SYURI>・check the circuitry to see if it can be repaired.
+<sele_HOUTAI>・replace the bandage and hope for the best.
+</page>
+
+
+<label_SYURI>
+<page>
+As expected, wiring in the nerve circuitry has been damaged.
+Replacing it will require new connectors, as well as some tools.<bt_wait>
+
+None of which is easy to find in a desert.
+</page>
+<go_HOUTAI_END>
+
+<label_HOUTAI>
+<page>
+I want to repair this as soon as possible, but I have no tools or materials.
+And I know I won't find either in the middle of a desert.<bt_wait>
+
+For now, the important thing is to make sure the wound doesn't get worse.
+</page>
+<go_HOUTAI_END>
+
+<label_HOUTAI_END>
+<page>
+“Sorry about this, Sis,” mutters Devola.<bt_wait>
+That wry smile again.<bt_wait> It kills me every time.<bt_wait>
+“Don't you dare apologize,” I respond. “You've done nothing wrong.”<bt_wait>
+I calmly change the bandage, trying not to let my worry show.
+I make it as tight as possible so no sand can slip inside.
+It's all I can do until I get the proper materials.<bt_wait>
+
+But that's going to be a tall order, considering our current condition.
+</page>
+
+<page>
+“I'm sorry, Sister.”<bt_wait>
+“Okay, now YOU'RE apologizing!”<bt_wait>
+
+We both apologize while insisting the other's apology isn't necessary.<bt_wait>
+It's kind of funny in a way. Such a trivial exchange under such circumstances?
+
+We laugh together, the sound echoing out across the desert before being stolen
+by the cool evening wind.
+</page>
+
+※画像ＦＯ。
+<BGOFF_1_2>
+Relapses increasing...
+
+<page>
+
+
+
+
+
+[Report Regarding the Increase in Relapses]
+
+
+
+
+
+</page>
+
+<page>
+“There has to be some way to prevent relapses!”<bt_wait>
+Devola's sharp voice echoes through our private quarters.
+“You must be quiet, Sister. The Replicants will hear.”<bt_wait>
+“Pffft. They wouldn't understand even if they did.”<bt_wait>
+“That might be true, but regardless...”
+</page>
+
+<page>
+Annoyed at my hesitation, Devola crosses her legs and scowls.
+
+“The Black Scrawl took another victim,” she says. "That's three this month.
+It's spreading way too fast.”<bt_wait>
+“Let's wait and see what happens.”<bt_wait>
+“I'm tired of hearing you say that!”<bt_wait>
+
+Her shout makes me jump. Just a little—but enough for her to notice.
+Seeing that, her eyes suddenly open wide.
+</page>
+
+<page>
+“I'm sorry, Sis. It's not your fault. I shouldn't have lashed out like that.”<bt_wait>
+“It's okay. I understand.”<bt_wait>
+“It's all going wrong. You can feel it too, right?”<bt_wait>
+“I...”<bt_wait>
+
+When I was first assigned to Project Gestalt, I was over the moon with pride.<bt_wait>
+But now, my chest hurts just to think about it. If it were to fail...
+</page>
+
+<page>
+Before we knew it, the Replicants had gained a sense of self
+and the Black Scrawl started raging out of control.<bt_wait>

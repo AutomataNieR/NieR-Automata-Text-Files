@@ -1,0 +1,100 @@
+Use the Type B control scheme.
+Use the Type C control scheme.
+Create a custom control scheme.
+Freely change keyboard layout.
+Select the button you wish to change.
+You can't skip this scene because 2B is in control.
+file\EN\messpause.new.txt.txt
+Select item.
+Use
+Discard
+Discard Count
+Objective
+Client
+Overview
+Light Attack
+Heavy Attack
+N/A
+Equip
+Remove
+Details
+Story
+Select Pod.
+Select Pod program to equip.
+Change
+Quit
+Set Type A
+Set Type B
+Set Type C
+Destroy Chip
+Select chipset type.
+Select and destroy a chip.
+Select a chip to destroy.
+:
+Storage Used
+Equip
+Customize
+Automatic
+Move
+Remove
+Sort: Category
+Sort: Cost
+Sort: Equipped
+Change chip arrangement.
+Balance Focus
+Attack Focus
+Defense Focus
+Automatically select and equip chips.
+All Chips
+Attack
+Defense
+Support
+Hacking
+System
+Optimize
+Equipped Chips
+Select chip category.
+Optimize chip arrangement.
+HACKING GAME #01
+HACKING GAME #02
+HACKING GAME #03
+HACKING GAME #04
+HACKING GAME #05
+HACKING GAME #06
+HACKING GAME #07
+HACKING GAME #08
+HACKING GAME #09
+HACKING GAME #10
+HACKING GAME #11
+HACKING GAME #12
+HACKING GAME #13
+HACKING GAME #14
+HACKING GAME #15
+HACKING GAME #16
+HACKING GAME #17
+HACKING GAME #18
+HACKING GAME #19
+HACKING GAME #20
+HACKING GAME #21
+HACKING GAME #22
+HACKING GAME #23
+HACKING GAME #24
+HACKING GAME #25
+HACKING GAME #26
+HACKING GAME #27
+HACKING GAME #28
+HACKING GAME #29
+HACKING GAME #30
+HACKING GAME #31
+HACKING GAME #32
+HACKING GAME #33
+HACKING GAME #34
+HACKING GAME #35
+HACKING GAME #36
+HACKING GAME #37
+HACKING GAME #38
+HACKING GAME #39
+HACKING GAME #40
+HACKING GAME #41
+HACKING GAME #42
+HACKING GAME #43

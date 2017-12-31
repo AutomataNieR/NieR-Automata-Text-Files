@@ -1,0 +1,100 @@
+Noriyuki Nakanishi
+Kouhei Ogura
+Yoshiho Akabane
+Maho Miyata
+Ayane Naka
+Chisayo Harada
+Mikoto Naka
+Sakurako Kamiya
+Syuto Yamamoto
+Yuki Yamaguchi
+Yuzu Nakagoshi
+Kentaro Mizumoto
+Tim Prebble (HISS and a ROAR)
+Takuto Aoki
+Tomoyo Shichita
+YOKO TARO
+Marina Kawano
+file\EN\messevent.new.txt.txt
+12H LOST
+file\EN\messhud.new.txt.txt
+Change Equipment
+Use Items
+Attacks on allies prohibited
+Shoot
+■
+-
+:
+AIR DEFENSE SYSTEM OPERATION LEVEL
+SELF-DESTRUCT SYSTEM ACTIVATED
+DETONATION
+Saving Possible
+Someone has prayed over\nyour fallen body.
+Full HP Restored
+Remaining Time
+Time Until Emil Self-Destructs
+LIMITER RELEASED
+BERSERK
+DETONATE SUBJUGATED ENEMIES
+System Corrupted
+Auto-Chips
+Pod Program: Downloading...
+Pod Program: Download Complete
+Time Until Missile Impact:
+DESTROY ALLY ANDROID
+DESTROY ALLY ANDROID/MACHINE
+Score
+Bonus
+1st
+2nd
+3rd
+Rail Cannon Unit
+CNTL
+SET
+MENU
+RDY
+Manual Mode
+Charging:
+QUEST
+SHOP
+WARNING
+IFF: FRIENDLY
+LEVEL UP
+EXP
+EXP
+FISH
+BONUS
+BONUS
+SYSTEM INFO
+SYSTEM INFO
+TALK
+SKL
+GUN
+LSR
+MSL
+MANUAL
+Move
+Move Camera
+Fire
+Evade
+Evade (Double-Tap)
+Dash
+Dash (Double-Tap)
+Light Attack
+Heavy Attack
+Jump
+Lock-on (On/Off)
+Change Direction
+Light (On/Off)
+Use Pod Program
+(Hold) Activate Scanner
+Switch Pods
+Switch Weapon Sets
+Cancel
+Shortcut Menu
+Taunt (Hold)
+Perfect Evade (with precise timing)
+Counter (during Perfect Evade)
+Self-Hack
+Firing Direction
+Hacking

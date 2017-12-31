@@ -1,0 +1,46 @@
+Fuse plug-in chips.
+Upgrade your Pod.
+Select items to purchase.
+Select the base chip.
+Select the plug-in chip to be fused with the base chip.
+Select Pod to upgrade.
+BASE
+Base Chip
+Creatable
+Uncreatable
+Required:
+Item Shop
+Item Shop
+Weapons Trader
+Weapons Trader
+Maintenance Shop
+Maintenance Shop
+Secret Shop
+Secret Shop
+file\EN\messtitle.new.txt.txt
+© 2017 SQUARE ENIX CO., LTD. All Rights Reserved.
+Press Any Button
+Continue
+New Game
+Start Game
+Settings
+Controls
+Chapter Select
+Debug Room
+User Name
+License
+Settings
+Exit Game
+Select a difficulty level. This can be changed in-game.
+Begin playing the game.
+Adjust various game settings.
+Adjust and customize game controls.
+Select a chapter and begin playing the game.
+Use the debug menu to freely place enemies.
+Enter a name to be used for online functions.
+DIFFICULTY SELECT
+DIFFICULTY SELECT
+START MENU
+START MENU
+NAME ENTRY
+NAME ENTRY

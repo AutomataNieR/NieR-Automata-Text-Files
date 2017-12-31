@@ -1,0 +1,58 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0100_N_start>
+<page>
+“All who live are slaves to desire.
+Such internal appetites are what give our lives meaning.
+Some seek beauty. Others serenity.
+For me, hatred is the—”
+
+<i>I'm not like that!</i><bt_wait>
+
+“Ha ha ha! Oh, yes you are.”
+</page>
+
+<page>
+
+             “You<bt_wait> do not trust anything.”<bt_wait>
+
+                                   “You<bt_wait> want to destroy everything.”<bt_wait>
+
+    “You<bt_wait> have lost hope in everything.”<bt_wait>
+
+                                            “You<bt_wait> want to obtain everything.”<bt_wait>
+
+                               “You<bt_wait> want to be loved by all.”
+
+</page>
+
+
+<page>
+
+
+
+
+
+
+<BGM_BGM_M1070_S0100_N_0010>“You're thinking about how much you want to **** 2B, aren't you?”<bt_wait>
+
+
+
+
+</page>
+
+
+<page>
+“Reality stained by lies.”<bt_wait>
+
+<i>Stop! Stop it!</i><bt_wait>
+
+“Hatred pouring into you.”<bt_wait>
+
+<i>You're wrong, damn it!</i><bt_wait>
+
+“Overflowing desire.”<bt_wait>
+<i>I'm...I'm not like you!</i><bt_wait>
+“Your true self.”
+</page>
+<BGM_BGM_M1070_S0100_N_end>

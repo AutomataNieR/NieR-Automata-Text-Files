@@ -1,0 +1,172 @@
+*Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+*Pod conversation (45 x 16)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+*Loading Screens (102x18)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
+
+*Played after M3060_S0900_HD
+
+..M3060_S0915_N
+
+
+
+
+
+<color_404040>
+<bgcolor_ffffff>
+<BGM_BGM_M3060_S0910_N_start>
+<page>
+
+
+
+                                              “I'm..."
+</page>
+<page>
+
+
+
+                                             “My name is..."
+</page>
+<page>
+“My name...is 9S.“<bt_wait><BGM_BGM_M3060_S0910_N_0010>
+“A newly manufactured Scanner model.”<bt_wait>
+“January 30th, 11942.”<bt_wait>
+“Rolled out at 4:25 AM, Bunker time.”<bt_wait>
+“I will fight for humanity with all my strength.”<bt_wait>
+“The pleasure is mine, Commander.”
+</page>
+<page>
+I lie collapsed in a space of blinding white.<bt_wait>
+The pain is...gone.<bt_wait>
+The light envelops me.<bt_wait> It's so <i>warm</i>.
+</page>
+<page>
+I was anxious.<bt_wait>
+A soldier from the moment I was born, thrown into the world alone.<bt_wait>
+Nothing to rely on.<bt_wait>
+No God to believe in.<bt_wait>
+
+I was alone.<bt_wait>
+Tasked with infiltrating enemy territory to gather intelligence.<bt_wait>
+In the fog.<bt_wait>
+In the flames.<bt_wait>
+Alone.
+</page>
+<page>
+“My name's 9S. I'm here to provide support.”<bt_wait>
+
+2B came off as being rather aloof. Cold, even.<bt_wait>
+She must have wanted to distance herself from me.<bt_wait>
+I guess she didn't want to be attached to someone she had to kill
+again and again and again.<bt_wait>
+
+But... I...
+</page>
+<page>
+“Scanners like me mostly work alone. Scouting out enemy lines and all that?”<bt_wait>
+“I don't usually get a partner. It's kind of fun!”<bt_wait>
+
+I was so happy to be with someone.<bt_wait>
+
+It was like I had a family.
+</page>
+<page>
+My damage worsens.<bt_wait>
+I start to lose my memories.<bt_wait><BGM_BGM_M3060_S0910_N_0020>
+The space fills up with pure white light. 
+It's like being buried in snow.<color_505050><bt_wait>
+
+It's a little bit cold.<color_606060><bt_wait>
+It's a little bit frightening.<color_707070><bt_wait>
+Will my soul...disappear?
+</page>
+<page>
+A dark fog clouds my vision.<bt_wait>
+As it ebbs and flows in its slow, dreamlike way, it gradually takes human shape.<bt_wait>
+
+It's the red girl.<bt_wait>
+
+She slowly begins to speak.
+</page>
+<page>
+This tower is a colossal cannon built to destroy the human server.<bt_wait>
+Destroy the server...and rob the androids of their very foundation.
+That was the plan devised by those girls.<bt_wait>
+
+But they changed their mind.<bt_wait>
+They saw us androids.<bt_wait> They saw Adam.<bt_wait> And Eve.<bt_wait>
+They saw how we lived, considered the meaning of existence,
+and came to a different conclusion.
+</page>
+<page>
+This tower doesn't fire artillery.<bt_wait> It fires an <i>ark</i>.<bt_wait>
+An ark containing memories of the foolish machine lifeforms.<bt_wait>
+An ark that sends those memories to a new world.<bt_wait>
+
+Perhaps they'll never reach that world.<bt_wait>
+Perhaps they'll simply wander an empty sky for eternity.<bt_wait>
+It's all the same to the girls. For them, time is without end.
+</page>
+<page>
+Adam and Eve are inside the ark.<bt_wait>
+Eve is asleep.<bt_wait>
+Adam holds him in a gentle embrace. He seems to be smiling at me.<color_808080><bt_wait>
+
+I try to look up at him, but my body refuses to move.<color_a0a0a0><bt_wait>
+Looks like the damage has spread to my motor functions as well.
+</page>
+<page>
+“Will you come with us?” asks Adam.<bt_wait>
+The question was completely free of malice.<bt_wait>
+It seemed I no longer had a reason to hate machines.<bt_wait>
+Maybe I never had a reason in the first place.<bt_wait>
+
+What have I been fighting for?<bt_wait>
+Who have I been <i>living</i> for?<bt_wait>
+
+I don't know anymore.
+</page>
+<page>
+<color_b0b0b0>I try to speak my mind, but the words don't come out right.<color_c0c0c0><bt_wait>
+My thought routines are losing cohesion.<bt_wait>
+I don't...<bt_wait> I can't remember my name.<bt_wait>
+
+“I'm...”
+</page>
+
+<page>
+Mustering all my strength, I force out the words...<bt_wait>
+
+<sele_YES> “I'll go with you.”
+<sele_NO> “I'll stay.”
+</page>
+
+<label_YES><STATEON_select_novel/go>
+
+<page>
+“I'll go with you.”<color_d0d0d0><bt_wait>
+“We YoRHa have no right to remain in this world.”
+</page>
+<go_END>
+
+<label_NO><STATEON_select_novel/stay>
+
+<page>
+“I'll stay.”
+“I...”<color_d0d0d0><bt_wait>
+“We YoRHa... We don't deserve to be loved by this world....”
+</page>
+<go_END>
+
+<label_END>
+<BGM_BGM_M3060_S0910_N_end>
+
+...SID_end
+
+
+
+
+

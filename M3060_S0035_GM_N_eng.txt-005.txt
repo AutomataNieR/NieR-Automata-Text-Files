@@ -1,0 +1,99 @@
+Is this our punishment?<bt_wait>
+
+I reach out and...
+<sele_AME>・touch Devola's cheek.
+<sele_KARADA>・support Devola's body.
+</page>
+
+<label_AME>
+<page>
+The rain flows down her cheeks like tears. I reach over and gently wipe it away.
+She smiles, but seems surprised.<bt_wait>
+
+“There's no point in doing that, you know,” she whispers.<bt_wait>
+
+But there is.<bt_wait>
+Because I swore to myself that I would stay with her forever.<bt_wait>
+</page>
+<go_SABAKU_END>
+
+<label_KARADA>
+<page>
+As long as we have bodies to support one another...<bt_wait>
+As long as I have someone with whom to share my fate...<bt_wait>
+Then I will press on, no matter what happens to me.<bt_wait>
+
+Because I won't ever stop protecting her.<bt_wait>
+
+I won't stop.<bt_wait>
+
+No one stops.
+</page>
+<go_SABAKU_END>
+
+<label_SABAKU_END>
+<page>
+
+
+
+
+
+　　　　　　　　　　For that is the fate <bt_wait>we twin androids have been assigned.<BGM_BGM_M3060_S0035_N_0030>
+
+
+
+
+<BGOFF_1_4>
+</page>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

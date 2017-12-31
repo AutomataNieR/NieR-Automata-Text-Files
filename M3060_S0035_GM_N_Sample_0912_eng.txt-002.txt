@@ -1,0 +1,99 @@
+<i>Now quit whining and hold still. I'll be quick.</i><bt_wait>
+
+Devola grunts and turns away.<bt_wait> I take it as consent.<bt_wait>
+Soon we are resting in the shade of a nearby rock as I
+s l o o o w l y
+pull the balky bandage free.
+</page>
+
+<page>
+Artificial skin—torn and bloodied—peeks out from beneath the bandage.
+Judging by Devola's current lack of ambulatory control,
+I imagine the circuitry underneath has been damaged as well.<bt_wait>
+
+Taking a deep breath, I...
+
+<sele_SYURI>check the circuitry to see if it can be repaired.
+<sele_HOUTAI>replace the bandage and hope for the best.
+</page>
+
+
+<label_SYURI>
+<page>
+As expected, wiring in the nerve circuitry has been damaged.
+Replacing it will require new connectors, as well as some tools.<bt_wait>
+
+...None of which is easy to find in a desert.
+</page>
+<go_HOUTAI_END>
+
+<label_HOUTAI>
+<page>
+I need to repair this as soon as possible.
+But I have no tools. Or materials.
+And I know I won't find either in the middle of a desert.<bt_wait>
+
+For now, the important thing is to make sure the wound doesn't get worse.
+</page>
+<go_HOUTAI_END>
+
+<label_HOUTAI_END>
+<page>
+<i>Sorry about this, Sis,</i> mutters Devola.<bt_wait>
+
+That wry smile again.<bt_wait> It kills me every time.<bt_wait>
+<i>Don't you dare apologize. You've done nothing wrong.</i><bt_wait>
+I calmly change the bandage, trying not to let my worry show.
+I make it as tight as possible so no sand can slip inside.
+It's all I can do until I get the proper materials.<bt_wait>
+
+But that's going to be something of a tall order.
+I mean, considering our current condition.
+</page>
+
+
+<page>
+<i>I'm sorry, Sister.</i><bt_wait>
+
+<i>Okay, now YOU'RE apologizing!</i><bt_wait>
+
+We both apologize while insisting the other's apology isn't necessary.
+It's kind of funny, in a way.
+Such a trivial exchange under such circumstances?<bt_wait>
+
+We laugh together, the sound echoing out across the desert
+before being stolen away by the cool evening wind.
+</page>
+
+*Fade-out
+
+Relapses increasing...
+
+<page>
+
+
+
+
+
+[Report Regarding the Increase in Relapses]
+
+
+
+
+
+</page>
+
+<page>
+<i>There has to be some way to prevent relapses!</i><bt_wait>
+Devola's voice echoes through our private quarters.
+...Subtlety was never her strong suit.<bt_wait>
+
+<i>You must be quiet, Sister. The Replicants will hear.</i><bt_wait>
+
+<i>Pffft. They wouldn't understand even if they did.</i><bt_wait>
+
+<i>That might be true, but regardless...</i>
+</page>
+
+<page>
+Annoyed at my hesitation, Devola crosses her legs and scowls.<bt_wait>

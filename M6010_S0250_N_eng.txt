@@ -1,0 +1,240 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+..M6010_S0150_N
+
+<BGM_BGM_M6010_S0250_N_start>
+<page>
+
+
+
+
+[14th Machine War — Pearl Harbor Descent]<bt_wait>
+The name of the mission entrusted to the YoRHa soldiers.
+
+
+
+
+</page>
+
+
+<page>
+Was there ever such furious gunfire? Such bombings that continued without pause?<bt_wait>
+Our target is the machine server under Mt. Ka'ala—and our situation is dire.<bt_wait>
+
+“We need reinforcement. Requesting deployment at once.”<bt_wait><BGM_BGM_M6010_S0250_N_0010>
+Number 2 speaks quickly, yet calmly—which is all the more remarkable considering the
+hostile army closing in on our position. But the command center in the orbiting
+satellite informs us no reinforcements will be forthcoming.<bt_wait>
+
+We are abandoned.<bt_wait> We are alone.<bt_wait>
+
+It's so easy to do from up there. From the satellite. From the moon.
+</page>
+We can't go back and we can't go forward. So instead, we split in two.<bt_wait>
+
+The vanguard is tasked with infiltrating and destroying the server.<bt_wait>
+The rearguard will hold back the machine lifeforms for as long as they can.<bt_wait>
+
+That left four of us: Lilly, Dahlia, Margaret, and Number 16.
+</page>
+
+<page>
+“I'll do whatever is necessary,” says Lilly with a grim smile.<bt_wait> Dahlia and
+Margaret quickly nod in agreement, as does Number 16. They decided to join the
+rearguard, staying behind to be our shield, even though it comes at the cost
+of their own lives. Regardless, they all agreed without hesitation.<bt_wait>
+For we in the vanguard would be joining them in death soon enough.<bt_wait>
+Without another word, we turn our backs on each other and take up positions.<bt_wait>
+
+We know this is the end.
+</page>
+
+<page>
+Dahlia and the others will buy us time to reach the gate at Ka'laa's peak.<bt_wait><BGM_BGM_M6010_S0250_N_0020>
+Beyond that lies an elevator, and beyond that...is the server.<bt_wait>
+
+If we can destroy it, we'll deal a devastating blow to machine lifeforms
+throughout the Pacific region.<bt_wait>
+
+But as I notice Number 21 scowling at the elevator, I start to have a bad feeling
+about the final stage of our mission.
+</page>
+
+<page>
+“Go on,” she says “I've got this.”<bt_wait>
+
+We crowd into the elevator as she begins hacking the terminal. She doesn't need
+to tell us what's happening—it's clear that the elevator won't descend all the
+way to the server unless someone stays behind to control it.<bt_wait>
+
+“Enemies incoming... They're almost on us...”<bt_wait>
+As I speak, I suddenly find myself leaping from the elevator and taking up a
+position at Number 21's side—almost as if my body is out of my control.<bt_wait>
+Something is wrong. Something...
+</page>
+
+<page>
+“I'll back up Number 21!” I cry. “The rest of you take out that server!”<bt_wait>
+
+The doors close on my friends. The last thing I see is the face of my captain,
+Rose. She looks...concerned. But then the doors shut and she is no more.<bt_wait>
+
+That was the last time I ever saw them.<bt_wait>
+
+But it's all right. I'm going to finish this, one way or the other.
+</page>
+
+<page>
+The only sounds we hear are distant explosions and the rasp of Number 21's breathing.<bt_wait><BGM_BGM_M6010_S0250_N_0030>
+
+“Thank you,” she whispers, “for staying with me.”<bt_wait>
+
+I look at her eyes and see the telltale red of a logic-virus infection.<bt_wait>
+
+I was right after all.<bt_wait>
+
+I sigh softly as I draw my weapon.
+</page>
+
+<page>
+I've seen comrades infected before.<bt_wait>
+That's why I couldn't leave her to die alone.<bt_wait>
+
+The vaccine she gave Lilly is already ineffective. The enemy has evolved.<bt_wait>
+They studied Number 21's patterns and developed a new resistance.<bt_wait>
+
+No one can save her now.
+</page>
+
+<page>
+“Wh-when the elevator...reaches the server,” begins Number 21 weakly.<bt_wait>
+
+“Then I'll give you peace,” I reply.<bt_wait>
+
+The elevator moves ever lower, creating a countdown on Number 21's life.<bt_wait>
+How much time has passed? How much can possibly be left?<bt_wait>
+Too long to wait, yet not long enough for regret.
+</page>
+
+<page>
+A massive explosion echoes in the distance as the hall slowly shakes.<bt_wait>
+
+It's the final act of Lilly and the others in the rearguard.<bt_wait>
+They just overloaded their own fusion reactors.
+</page>
+
+<page>
+The sound of our comrades' demise slowly fades from our ears.<bt_wait>
+As it does, Number 21 reaches up and slowly removes her goggles.<bt_wait>
+
+“I'm...glad I got to meet you,” she says.<bt_wait>
+
+Her eyes are so red. But not completely. There's still a little of herself left.<bt_wait>
+And while it is...<bt_wait>
+
+“Don't worry,” I say. “I'll be with you soon.”<bt_wait>
+
+She smiles as my words reach her ears.
+</page>
+
+<page><BGM_BGM_M6010_S0250_N_0040>
+As soon as the elevator touches down, I fire a bullet into Number 21's brain.<bt_wait>
+I watch the thing that used to be her tumble to the ground.<bt_wait>
+I stare at the gun I hold in trembling hands.<bt_wait>
+
+I press it to my temple.<bt_wait>
+
+This will end it all.<bt_wait>
+
+The war.<bt_wait> My meaningless existence.<bt_wait> All of it.<bt_wait>
+
+It will finally be over.
+</page>
+I can't do it.<bt_wait> I can't pull the trigger.<bt_wait>
+My systems seem normal, yet my breathing is hurried and I'm sweating.<bt_wait>
+My eyes are dry. I'm getting odd value readings from my vitals.<bt_wait>
+I can't move my legs. It's like they're stuck in mud.<bt_wait>
+
+I hear a voice.
+</page>
+
+<page>
+<i>Unforgiveable. <bt_wait>Unforgiveable. <bt_wait>Unforgiveable. <bt_wait>Unforgiveable. <bt_wait>Unforgiveable.</i><BGM_BGM_M6010_S0250_N_0050>
+
+<i>Your comrades sacrifice themselves and fight to the last breath.</i><bt_wait>
+<i>They feel suffering. They feel sadness. They feel pain and terror.</i><bt_wait>
+<i>And yet YOU would surrender now? Unforgivable!</i><bt_wait>
+
+The voice is a battlefield curse, telling those who survive to see their
+mission through no matter what.<bt_wait>
+
+It is another me, crying out.
+</page>
+
+<page>
+I scream at the top of my lungs and race down the hall.<bt_wait>
+I'll show you.<bt_wait> If you're going to push me, I'll show you.<bt_wait>
+You'll only be satisfied if it ends with more killing.<bt_wait>
+
+
+
+I leap into the fray with weapons in both hands.<bt_wait>
+
+Here I am.<bt_wait>
+HERE I AM!<bt_wait>
+KILL ME!<bt_wait>
+
+As I scream, an explosion suddenly rises up and sweeps everything away.
+</page>
+
+<page>
+A soft wind touches my cheek.<bt_wait> I smell fire.<bt_wait> I smell ash.<bt_wait>
+The explosion in the server room was powerful enough to take out Mt. Ka'ala
+itself, reducing the once proud summit to a smoking crater.
+
+The machines immediately drop to the ground and stop moving.<bt_wait>
+
+I look out over the scorched earth.<bt_wait> Lilly? Number 16? Rose? Number 2? Are any of you...?<bt_wait>
+
+I am the only one left.<bt_wait> The only one.<bt_wait>
+I was alive because I had been afraid to die.
+</page>
+
+<page>
+I begin to giggle. It's a mad thing, crazed, even to my own ears.<bt_wait>
+
+<i>I'll join you soon... You promised to join her soon!</i><bt_wait>
+
+How could I have said such vain, laughable words? Such lies?<bt_wait>
+I laugh. I stand in the smoke and the flame and laugh until I think my
+very throat will tear itself in two.
+</page>
+
+<page>
+I blink.<bt_wait> Daylight drifts through the smoke.<bt_wait>
+
+I've been standing here all night.<bt_wait>
+
+My laughter finally depleted, I force myself to my feet.<bt_wait>
+I'm the coward who stayed behind. The coward who lived.
+Now it's my job to carry on the will of those who fought at my side.<bt_wait>
+Since I can't kill myself, I have to fight until someone does it for me.
+I'll endure every hardship. I'll kill every machine I find.<bt_wait>
+
+This is my cross to bear.
+</page>
+
+<page>
+
+
+
+
+I walk slowly into the west, dragging my broken body along.<BGM_BGM_M6010_S0250_N_0060>
+
+
+
+</page>
+<BGM_BGM_M6010_S0250_N_end>
+
+...SiD_end

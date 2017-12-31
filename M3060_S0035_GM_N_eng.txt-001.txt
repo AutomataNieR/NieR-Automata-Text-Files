@@ -1,0 +1,100 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+.M3060_S0035_GM_N
+..Desert Part 1: Devola and Popola Reminiscing
+
+<BGLOAD_1_1>
+<BGON_1_1>
+<color_ffffff>
+<bgcolor_000000>
+*Show desert image A (wide desert area)
+
+<BGM_BGM_M3060_S0035_N_start>
+<page>
+"......"<bt_wait>
+A dusty wind kisses my cheeks.<bt_wait>
+
+Buried in sand, we press forward one step at a time.
+We have nowhere else to go, after all.<bt_wait>
+Because our models—the Devola and Popola models—are defective.
+</page>
+
+
+<BGOFF_1_1>
+The project commences.
+
+<page>
+
+
+
+
+
+[Record: Transitions in the Project's Initial Phase]<BGM_BGM_M3060_S0035_N_0010>
+
+
+
+
+</page>
+
+<page>
+When first we woke, there were still people.<bt_wait>
+They had flesh. Egos. Emotions. Souls. And they issued us a single order:
+
+<i>Function as observers of Project Gestalt.</i><bt_wait>
+
+This is the sole mission of the twin Devola and Popola models.<bt_wait>
+It is the only reason we exist at all.
+</page>
+
+<page>
+We were the latest model, though many companions shared our appearance.<bt_wait>
+
+There was a sparkle in all of our eyes. A sense of pride at having been
+entrusted with humanity's future.<bt_wait>
+
+And yes, there was anxiety as well.<bt_wait>
+But we existed as a pair. We shared destiny's burden as a pair.
+And because of that, all hesitation was swept away.
+</page>
+
+<page>
+Each pair was given their own cities as observation areas.
+We were ordered to guide the Replicants with our own hands.
+All for the sake of the “promised time” that would one day arrive.<bt_wait>
+
+We were the only ones who could handle such a duty.
+We were observers, after all.
+</page>
+
+...Desert Part 2
+*Show desert image B (rocky area)
+<BGLOAD_1_2>
+<BGON_1_2>
+
+<page>
+"Ah!"<bt_wait>
+"Watch out!"<bt_wait>
+Devola staggers and falls in the soft yet unforgiving sand.
+I hurry to her side and sigh with relief when I find she's not seriously hurt.<bt_wait>
+“Are you all right?”<bt_wait>
+“Sorry, Sis. Guess I spaced out there for a bit.”<bt_wait>
+
+She smiles—the same wry smile I know so well—as she rubs absently at her leg.
+It is wrapped in a white bandage.
+</page>
+
+<page>
+“Your bandage is coming undone. Here, let me change it.”<bt_wait>
+“It's all right, Popola. Come on—we have to go before we lose the light.”<bt_wait>
+“We won't be going anywhere if sand gets into that thing.
+Now quit whining and hold still. I'll be quick.”<bt_wait>
+
+Devola grunts and turns away.<bt_wait> I take it as consent.<bt_wait>
+Soon we are resting in the shade of a nearby rock as I pull the bandage free.
+</page>
+
+<page>
+Artificial skin—torn and bloodied—peeks out from beneath the bandage.
+Judging by Devola's current lack of ambulatory control,
+I imagine the circuitry underneath has been damaged as well.<bt_wait>

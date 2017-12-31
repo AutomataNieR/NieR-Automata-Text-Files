@@ -1,0 +1,100 @@
+Toggle automatic lock-on for Goliath-class enemies.
+Restore all camera settings to their default values.
+Toggle right stick horizontal (left/right) controls when viewing the map.
+Toggle right stick vertical (up/down) controls when viewing the map.
+Toggle left stick controls when viewing the map.
+Screen Brightness
+Resolution
+Screen Mode
+Graphics Presets
+V-Sync
+Anti-Aliasing
+Texture Filter
+Blur
+Shadows
+Effects
+Ambient Occlusion
+Select Monitor
+Adjust until only the right icon is visible.
+Adjust the brightness level of the display.
+Adjust screen resolution.
+Adjust screen display method.
+Adjust graphics presets.
+Adjust v-sync.
+Adjust anti-aliasing.
+Adjust texture filtering settings.
+Adjust motion blur.
+Adjust the quality of shadows.
+Adjust the quality of effects.
+Adjust ambient occlusion quality.
+Choose which monitor to use in full-screen mode.
+Music Volume
+Sound Effect Volume
+Voice Volume
+Inactive Sound
+Audio Output
+Adjust the volume of background music.
+Adjust the volume of sound effects.
+Adjust the volume of in-game voices.
+Set sound behavior when the game is not the active window.
+Select your preferred audio output method.
+Self-Destruct
+Voice Changer
+Restore Defaults
+Toggle self-destruct function.
+Add effects to voice playback.
+Restore all settings to their default values.
+Normal
+Inverted
+High
+Medium
+Low
+Main Monitor
+Sub-monitor 1
+Sub-monitor 2
+Sub-monitor 3
+Sub-monitor 4
+Fullscreen
+Window
+Stereo
+Monaural
+Auto (5.1)
+Auto (Stereo)
+Custom
+QWERTY
+AZERTY
+QWERTZ
+***ALERT*** This game only\nsupports "QWERTY" keyboards.
+Overlap
+Change
+Select a key to change assignment.
+Keys are overlapping.
+Change Key
+Restore Defaults
+None
+Heavy Attack
+Light Attack
+Action
+Jump
+Lock-on
+Pod Program
+Evade
+Fire
+Reset Camera
+Self-Destruct
+Switch Weapons
+Next Pod
+Previous Pod
+Use Items
+System Menu
+Shortcuts
+Toggle Light
+Hacking
+B-Mode (Hold)
+Auto-Control
+Type A
+Type B
+Type C
+Custom
+Customize Keyboard
+Use the Type A control scheme.

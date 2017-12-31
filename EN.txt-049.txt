@@ -1,0 +1,100 @@
+Jean-Paul
+Immanuel
+Ernst
+Kierkegaard
+Pascal
+Animal Machine
+Courageous Brother
+Hateful Sister
+Vengeful Child
+Gold Tank
+Gold Goliath Biped
+Gravekeeper
+Animal-loving Machine
+Father Servo
+White Belt
+Brown Belt
+Black Belt
+Red and White Belt
+Red Belt
+Blood-drenched Machine
+Amusement Park Rabbit
+Goliath Tank (Desert)
+Gunman Biped
+Gunman Flyer
+Gunman Stubby
+Zombie Clown
+Dying Goliath Biped
+Monster Type
+8B
+22B
+64B
+Machine with Makeup
+Machine with a Dream
+Machine in Love
+Father Machine
+Mother Machine
+Child Machine
+Big Sister Machine
+Little Sister Machine
+High-speed Machine
+Scientist Machine
+Weird Machine
+Romeo
+Juliet
+Masamune
+So-Shi
+Boku-Shi
+Ko-Shi
+Ro-Shi
+Ko-Shi & Ro-shi
+Hegel
+Auguste
+Friedrich
+Beauvoir
+Simone
+Marx
+Engels
+Grün
+Eve
+Adam
+Immanuel
+Ernst
+Kierkegaard
+Basic Controls
+Combat Controls
+Hacking
+Flight Unit Controls
+Animal Riding Controls
+System Menu
+Mini-Map
+Access Points
+Access Points: Transport
+Access Points: Unavailable
+Access Points: Inbox
+Access Points: Arcade
+Death and Recovery
+Uploading upon Death
+Other Players' Bodies
+Sub-quests
+Sub-quest Progress
+Debug Menu
+file\EN\messshop.new.txt.txt
+SOLD OUT
+Buy
+Fuse
+Sell
+Upgrade
+Upgrade Pod
+Quantity
+Quantity
+Purchase items.
+Fuse items.
+Sell items in your inventory.
+Select items to purchase.
+Select items to sell.
+Purchase weapons.
+Upgrade weapons.
+Select a weapon to purchase.
+Select a weapon to upgrade.
+Purchase Pod programs or storage-capacity items.

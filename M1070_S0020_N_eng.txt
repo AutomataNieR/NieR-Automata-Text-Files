@@ -1,0 +1,46 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0020_N_start>
+<page>
+I find myself in a bizarre memory storage area stretching as far as I can see.<bt_wait>
+
+It's a maze.
+A labyrinth.
+A massive interconnected network.
+I've never seen anything like it.<bt_wait> 
+
+It must have been created by the machines.<bt_wait>
+
+So then...what am I doing here?
+</page>
+
+
+
+<page>
+I...am 9S.
+That's all I can remember.<bt_wait>
+
+Large portions of my memory may have been destroyed...<bt_wait>
+
+What if I forget everything? My memories? My self? My...<bt_wait>
+
+Okay, calm down.<bt_wait> Calm down, calm down, calm down.<bt_wait>
+
+
+Just follow the emergency manual and execute the memory recovery program.
+</page>
+
+
+<page>
+The recovery program begins to fill in the blanks in my memory.<bt_wait>
+They drift back like missing letters filling out a word.<bt_wait>
+
+The Bunker...
+2B's plan...
+A colossal machine lifeform...
+The last-resort missile strike...<bt_wait>
+
+Preservation mode was activated at the moment of the blast.
+It halted most of the safeties the network had in place.
+</page>
+<BGM_BGM_M1070_S0020_N_end>

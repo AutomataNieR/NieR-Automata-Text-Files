@@ -1,0 +1,169 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+...M6010_S0050_N
+
+<BGM_BGM_M6010_S0050_N_start>
+<page>
+
+
+
+My name is Anemone, and I lead the android Resistance.<bt_wait>
+This is a record of the battles I've experienced—and my losses.<bt_wait>
+I leave it here as a warning to myself.
+
+
+
+</page>
+
+<page>
+The machine lifeform attack lands far too close for comfort.<bt_wait><BGM_BGM_M6010_S0050_N_0010>
+I smell an acrid odor and know that some of my hair has been singed off.<bt_wait>
+
+“Anemone! Retreat for now! That's an order!”<bt_wait>
+
+That's my captain, Rose. I obey her without hesitation, running from the front
+as soon as I take out a few nearby enemies. Feet flying beneath me, I leap into
+the hastily built trench where my Resistance comrades are gathered.
+</page>
+
+<page>
+How many battles is this now?<bt_wait>
+
+The same sights and sounds. The same struggle of attrition.<bt_wait>
+My Resistance forces play the same war on repeat with no end in sight.<bt_wait>
+
+I don't even remember why we're fighting anymore,
+but I must continue regardless.<bt_wait>
+I must continue until one side or the other is dead.
+</page>
+
+<page>
+“This looks bad, Shion. What should we do?”<bt_wait>
+“Calm down, Lilly. We'll find an opening somewhere.”<bt_wait>
+“You don't search for an opening! You <i>make</i> one!”<bt_wait>
+“Dahlia, wait!”<bt_wait>
+
+I grab Dahlia's arm before she can flee the trench and turn to Rose.
+She brought us here, after all—she must have a plan of some kind.<bt_wait>
+But as the enemy horde closes in, Rose simply squints off in the distance.
+</page>
+
+<page>
+“There's been a change in enemy movements,” she says finally.
+“Someone just started fighting over there.”<bt_wait>
+“But that's not possible,” stammers Margaret. “We're...all here.”<bt_wait>
+
+Margaret's right. There are only nine of us left capable of fighting the machines:
+Captain Rose. Gerbera. Lilly. Sonia. Erica. Margaret. Shion. Dahlia...<bt_wait>
+And me. Anemone. <bt_wait>We're all that's left of the eighth descent forces.<bt_wait>
+
+The one that took place roughly 200 years ago.
+</page>
+
+<page>
+An uneasy Sonia pulls Shion close and chews on a loose strand of hair.<bt_wait>
+“I don't like it,” she says. “What if it's some kind of machine trap?”<bt_wait>
+
+I wait for a while, heart pounding, until I hear the enemy fire lessen.<bt_wait>
+“Okay,” I say, “this looks like our chance. Let's pull back.”<bt_wait>
+“Someone's fighting out there, Anemone!” cries Dahlia. “We can't abandon them!”<bt_wait>
+“Oh, so you want to risk all of our lives for some <i>stranger</i>? Come on!
+We don't even know if this mystery fighter is on our side or not.”<bt_wait>
+“That's not what I said!”<bt_wait>
+“Enough, you two,” barks Shion. “The captain makes the final decision on this.”
+</page>
+
+<page>
+After Shion speaks, all of us turn to Captain Rose. She looks us in the eyes
+and nods slowly before starting to speak.<bt_wait>
+
+“Gerbera? The enemy is heading toward the explosives we set up earlier, yes?”<bt_wait>
+
+Gerbera thinks for a moment. “Now that you mention it, yeah. They are.”<bt_wait>
+
+A slight smile crosses Rose's face, yet she still seems perfectly composed.<bt_wait>
+“Good. Then if this goes well, we might be able to take them all out.”
+</page>
+
+<page>
+“I want all of you to leave this trench and get to those explosives,” says Rose.<bt_wait>
+“We'll let the blast take out most of them, then clean up the stragglers.<bt_wait>
+Identifying our unknown mystery fighters can wait until we're done.”<bt_wait>
+
+No one objects to the captain's decision. The moment she issues the order,
+we all leap from the trench as one and reenter the fray.<bt_wait>
+
+When we reach the battle, we find what appears to be another set of androids
+dressed in strange black outfits. <bt_wait><BGM_BGM_M6010_S0050_N_0020>Before they even know what's happening,
+we detonate the explosives, kill the remaining machines, and turn our guns
+in their direction.
+</page>
+
+<page>
+“All right,” I say to the strangers. “Start talking.”<bt_wait>
+“Easy,” says one of the mystery androids. “We're on your side.
+We're new models rolled out as part of something called Project YoRHa.”<bt_wait><BGM_BGM_M6010_S0050_N_0030>
+
+“Really?” I say. “We haven't heard anything about new models.”<bt_wait>
+
+I probably speak with more bluster than necessary, but I have to make sure
+they're actually on our side. I don't think they're lying, necessarily,
+but I can't read their expressions thanks to the giant goggles they wear.<bt_wait>
+And frankly, a little caution never goes amiss in the middle of a war.
+</page>
+
+<page>
+We learn that the four androids refer to each other as Number 2, Number 4,
+Number 16, and Number 21.<bt_wait> They also aren't in a hurry to share much more.<bt_wait>
+
+“Our mission is top secret,” one of them says. “That's why you haven't heard
+about us yet.”<bt_wait>
+I slowly draw my knife in an attempt to gauge their reaction. “So in other 
+words, no one will know any better if I kill you right now?”<bt_wait>
+“Stand down, Anemone,” says Rose softly.<bt_wait>
+“No!” cries Lilly. “She's right! We've all seen how quickly the enemy is
+evolving. Who's to say these four aren't machines that just look human?”<bt_wait>
+My companions nod in agreement. This damn war has made us all suspicious.
+</page>
+
+<page>
+One of the strangers—Number 16, I believe—draws a long knife from its sheath.
+“If it's a fight you want,” she says, “I'm happy to give it to you.”<bt_wait>
+
+Before I can respond, Dahlia leaps in front of me with her weapon at the ready.<bt_wait>
+This is it. We're going to fight.<bt_wait>
+But just before the battle can erupt, the android called Number 2 steps forward.<bt_wait>
+
+“Wait,” she says.
+</page>
+
+<page>
+“There used to be sixteen of us,” says Number 2, “but the others died during the descent.<bt_wait>
+We're isolated and alone out here. Reinforcements aren't coming. And that means
+we have to finish this mission with the soldiers we have left. We don't need
+more enemies right now. What we need...is allies.”<bt_wait>
+
+She finishes this speech with a soft sigh, as if trying and failing to hold her
+emotions in check.<bt_wait>
+
+I know that sort of voice.<BGM_BGM_M6010_S0050_N_0040>
+</page>
+
+<page>
+
+
+
+
+It's the voice of someone who still has hope, despite all the odds.
+
+
+
+
+
+</page>
+<BGM_BGM_M6010_S0050_N_end>
+
+...SID_end
+
+

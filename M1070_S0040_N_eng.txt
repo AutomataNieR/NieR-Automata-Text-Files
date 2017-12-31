@@ -1,0 +1,36 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0040_N_start>
+<page>
+It took a while...
+but the recovery program managed to restore most of my memory functions.<bt_wait>
+
+However, I still can't establish a link to my body.<bt_wait>
+
+Welp, I guess there's nothing else to do but examine the surrounding memory space.
+</page>
+
+
+<page>
+It looks like the machines gathered and stored a lot of info in here.
+It all seems pretty random at first...
+but on closer inspection, I learn how it's all connected.<bt_wait>
+
+There are a variety of entries, such as data on human history and philosophy.
+
+But what's really strange are the records of machines stored NEXT to those...
+</page>
+
+
+<page>
+In the politics category are records of the machines' own governmental endeavors.<bt_wait>
+They'd tried all sorts of things.
+Absolute monarchies.
+Republics.
+Democracies.<bt_wait>
+
+And that wasn't all. They also engaged in other scholarly pursuits such as philosophy, mathematics, science and social criticism.<bt_wait>
+It's like the network was copying every possible human behavior and discipline.<bt_wait>
+Almost as if...
+</page>
+<BGM_BGM_M1070_S0040_N_end>

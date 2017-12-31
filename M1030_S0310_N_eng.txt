@@ -1,0 +1,133 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+
+
+<BGM_BGM_M1030_S0310_N_start>
+<page>
+
+Look at me.
+           Oh please look at me.
+                                I want your eyes to look upon me alone.<bt_wait>
+                        
+
+
+Have I not become beautiful?
+
+
+
+</page>
+
+
+<page>
+<i>Do these clothes make me look cute?</i><bt_wait><BGM_BGM_M1030_S0310_N_0010>
+<i>Would he like it if I walked like this?</i><bt_wait>
+
+I still don't understand what it means to love someone.
+But I've made up my mind.<bt_wait>
+
+I will do whatever it takes to capture his affection.
+</page>
+
+
+<page>
+Long ago, an old machine lifeform told me something:
+"Beauty is what wins love."<bt_wait>
+
+But what is "beauty"?<bt_wait>
+After researching the old world, I finally learned the truth.<bt_wait>
+Beauty is pretty skin.
+Beauty is stylish accessories.
+Beauty is looking one's best.<bt_wait>
+
+I will become beautiful. I will do it for him.
+</page>
+
+
+<page>
+I once heard tell of a precious jewel far to the east.
+It was said to be located on a terribly dangerous mountain.
+But I did not care.<bt_wait>
+
+I slipped on cliffs. I fell onto rocks. But eventually I claimed the jewel.<bt_wait>
+
+Blue stone.<bt_wait> Brilliant blue.<bt_wait> So beautiful.<bt_wait>
+
+I lost many parts obtaining this jewel. I lost...myself.<bt_wait>
+
+But my wounds are badges.
+</page>
+
+
+<page>
+There's a rumor floating among the other machine lifeforms lately:
+"Devour the body of an android to gain eternal beauty."<bt_wait>
+
+Such nonsense.
+It is physically impossible to obtain beauty by consuming an android.<bt_wait>
+
+But I tried anyway.
+I would try anything.<bt_wait>
+I wanted to vomit, but I kept going.<bt_wait>
+It tasted like oil.<bt_wait>
+</page>
+
+
+<page>
+Not a moment passed where I didn't strive to become more beautiful.
+But he still won't look my way.<bt_wait>
+
+I even tried to learn what is called a "song."
+Songs can make someone have feelings for you.
+That's what they say.
+So I practiced every day.<bt_wait>
+But he still won't look my way.<bt_wait>
+
+I ate more androids. I even ate machine lifeforms.<bt_wait>
+But he still won't look my way.
+</page>
+
+
+<page>
+He won't look my way.<bt_wait>
+He won't look my way.<bt_wait>
+He won't look my way.<bt_wait>
+He won't look my way.<bt_wait>
+He won't look my way.<bt_wait>
+
+Won't look my way won't look my way won't look my way won't look my way won't
+look my way won't look my way won't look my way won't look my way won't look my
+way won't look my way won't look my way won't look my way won't look my way<bt_wait>
+
+He      still      won't      look      my      way.
+</page>
+
+
+<page>
+That's when I realized he cares not for jewels.
+Or songs or beauty or appearance or anything else.
+I cannot win his love.<bt_wait>
+
+Why have I done this to myself?<bt_wait>
+
+Meaningless.<bt_wait>
+Meaningless.<bt_wait>
+MEANINGLESS.<bt_wait>
+
+I gaze into the mirror. In its reflection, I see only my own meaninglessness. And so I scream.<BGM_BGM_M1030_S0310_N_0020>
+</page>
+
+
+<page>
+
+
+
+
+
+someone<bt_wait>　please<bt_wait>　look<bt_wait>　my<bt_wait>   way
+
+
+
+
+
+</page>
+<BGM_BGM_M1030_S0310_N_end>

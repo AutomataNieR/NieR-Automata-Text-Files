@@ -1,0 +1,69 @@
+Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+<BGM_BGM_M1070_S0080_N_start>
+<page>
+
+
+
+
+
+“I announce...to all...androids...”
+
+
+
+
+
+</page>
+
+
+<page>
+The words shimmer into focus. The voice grows clear in my mind.<bt_wait><BGM_BGM_M1070_S0080_N_0010>
+It is Adam—a machine made in the image of a man.<bt_wait>
+
+“We machine lifeforms have evolved,” he says. “We made war. Learned. Grew.
+And thus we gained a new consciousness.<bt_wait>
+Indeed, it is as if a new form of existence has been born.”
+</page>
+
+
+<page>
+<i>Lies! Nothing but lies from mere machines!</i><bt_wait>
+
+Adam laughs. “And yet you androids claim to be alive? How very odd.
+You are puppets who lack even your own free will.”
+
+<i>No! You're wrong!</i>
+
+</page>
+
+
+<page>
+His words flow through me as though they were poured into my ear.
+
+“How am I wrong, boy?”<bt_wait>
+
+<i>I'm... We're...</i><bt_wait>
+                     
+“Perhaps you have a will after all,” he chuckles. “Perhaps you have desires.”
+
+</page>
+
+
+<page>
+“Now you see, boy! The true meaning of life...is hatred!”<bt_wait>
+
+<i>You're wrong.</i><bt_wait>
+
+“A vile hatred slumbers in the depths of your heart.”<bt_wait>
+
+<i>You're WRONG!</i><bt_wait>
+
+“The more you try to hide it, the more that darkness grows.”<bt_wait>
+
+<i>Wrong!<bt_wait> Wrong!<bt_wait> Wrong!<bt_wait> Wrong!</i>
+</page>
+<BGM_BGM_M1070_S0080_N_end>
+
+
+
+

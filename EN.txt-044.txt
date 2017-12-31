@@ -1,0 +1,100 @@
+CARGANDO
+CARGANDO
+INICIANDO SISTEMA
+-
+.
+_
+_
+Iniciar comprobación del sistema
+Comprobación de la unidad de memoria: verde
+Registro de tácticas: iniciado
+Datos geográficos: carga iniciada
+Comprobación de signos vitales: verde
+Comprobación de MP restante: 100 %
+Temperatura de caja negra: normal
+Presión interna de caja negra: normal
+Activar IFF
+Activar FCS
+Iniciando conexión para transferencia de pod
+Configuración UD
+Activar sistema de control de inercia
+Activar sensor ambiental
+Verificación de equipo: completada
+Comprobación de estado de equipo: verde
+Sistemas: verde
+Preparativos de combate completados
+file\EN\messoption.new.txt.txt
+SETTINGS
+SETTINGS
+CONTROLS
+CONTROLS
+Japanese
+English
+日本語
+English
+Français
+Italiano
+Deutsch
+Español
+Language
+Game
+Camera
+Screen
+Sound
+Other
+Adjust language settings.
+Adjust game settings.
+Adjust camera settings.
+Adjust screen settings.
+Adjust sound settings.
+Adjust other settings.
+This item can only be changed from the title menu.
+This setting can only be changed at the Start Menu.
+This setting can only be changed in-game.
+Can be changed on the Title Menu and the Start Menu.
+Can be changed in-game and on the Start Menu.
+Voices
+Text
+Keyboard layout
+Select the language for spoken voices.
+Select the language for menus, subtitles, etc.
+Select a keyboard layout.
+Difficulty
+Partner NPC Combat Style
+Mini-map Rotation
+Vibration
+Inactive Play
+Adjust the difficulty level.
+Select a combat style for your allies.
+Toggle whether the mini-map rotates or remains static.
+Toggle the vibration function.
+Set control behavior when the game is not the active window.
+Horizontal Orientation
+Vertical Orientation
+Horizontal Rotation Speed
+Vertical Rotation Speed
+Distance (Standard)
+Distance (Combat)
+Zoom Speed
+Vertical Auto Adjust
+Horizontal Auto Adjust
+Free Enemy Tracking
+Pursuit Speed
+Locked Enemy Tracking
+Goliath Auto Lock-on
+Restore Defaults
+Horizontal Map Controls
+Vertical Map Controls
+Left Stick Map Controls
+Change the camera controls.
+Change the camera controls.
+Adjust horizontal (left/right) camera rotation speed.
+Adjust vertical (up/down) camera rotation speed.
+Adjust how far the camera is typically positioned from the player.
+Adjust how far the camera pans out when enemies are nearby.
+Adjust how fast the camera moves in and out.
+Adjust how fast the camera moves up/down in response to player actions.
+Adjust how fast the camera moves left/right in response to player actions.
+Adjust how fast the camera tracks enemies when not locked on.
+Adjust how fast the camera follows in pursuit of the player.
+Adjust how fast the camera tracks enemies when locked on.

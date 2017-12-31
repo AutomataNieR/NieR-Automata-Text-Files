@@ -1,0 +1,100 @@
+But at the same time, we're NOT them. We're NOT the same.
+We are who we are, and that Devola and Popola were who they were.<bt_wait>
+That's how I felt when I saw Devola being hurt.
+                                        I wanted to shout it at everyone.
+                                                                      I wanted to scream.<bt_wait>
+As far as I'm concerned, there's only one Devola.
+And for her, there's only one me.
+No one can take the other's place.
+</page>
+
+<page>
+      Rain
+           falls 
+                 from
+                      the
+                          sky.<bt_wait>
+
+It stimulates our sensation nerves like cold needles.<bt_wait>
+
+We need maintenance badly. But that's a pipe dream, I suppose.
+No android would dare help a pair of outcasts like us.
+</page>
+
+<page>
+<i>Are you cold, Devola?</i><bt_wait>
+<i>I'm all right as long as you're with me, Sis.</i><bt_wait>
+<i>I feel the same.</i><bt_wait>
+
+We press our bodies together to try and retain heat.
+It's cold now. So cold. Much worse that the searing heat of midday.
+But we just smile at each other and keep pressing on.<bt_wait>
+
+There's another camp on the other side of the desert. A new camp.
+If we can just get there, I can finally fix Devola's leg.
+</page>
+
+<page>
+And yet, I wonder if there's anywhere on this planet that will take us.<bt_wait>
+
+<i>Hey. What's wrong?</i><bt_wait>
+
+<i>...It's nothing. Don't worry about it.</i><bt_wait>
+
+I do what I can to suppress the anxiety building in my chest.
+And I keep walking.
+</page>
+
+<page>
+The rain grows worse. It lashes at us without pause.<bt_wait>
+Is this our punishment?<bt_wait>
+
+I reach out and...
+<sele_AME>touch Devola's cheek.
+<sele_KARADA>support Devola's body.
+</page>
+
+<label_AME>
+<page>
+The rain flows down her cheeks like tears. I reach over and gently wipe it away.
+She smiles, but seems surprised.<bt_wait>
+
+<i>There's no point in doing that,</i> she whispers.<bt_wait>
+
+But there is.
+Because I swore to myself that I would stay with her forever.<bt_wait>
+Forever.
+</page>
+<go_SABAKU_END>
+
+<label_KARADA>
+<page>
+As long as we have bodies to support one another...
+As long as I have someone with whom to share my fate...
+Then I will press on, no matter what happens to me.<bt_wait>
+
+Because I won't ever stop protecting her.<bt_wait>
+
+I won't stop.<bt_wait>
+
+No one stops.
+</page>
+<go_SABAKU_END>
+
+<label_SABAKU_END>
+<page>
+
+
+
+
+
+For that is the fate we twin androids have been assigned.
+
+
+
+
+
+</page>
+
+*Fade to black
+*Once all of the above is finished, jump to M3060_S0035_G0000_001_pod153
