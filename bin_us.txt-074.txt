@@ -1,0 +1,100 @@
+a9s: It's open.
+pod153: Alert: 2B is currently engaging a machine lifeform of significant ability.
+pod153: Said machine is drawing electrical power from the factory itself.
+pod153: Proposal: Infiltrate the factory's mainframe and shut off the power.
+a9s: 2B! Keep going straight!
+a2b: Will do.
+a9s: The door's open! Keep moving!
+a2b: All right.
+a9s: Exit route secured!
+a2b: Thanks!
+[[quest\qabb\qabb_1e5a233e_scp.bin]]
+a9s: Okay, good... 2B's black box signal is still up and running.
+a9s: These comms are all messed up...
+a9s: Guess I'll have to break in to the other side and take control.
+[[quest\qabd\qabd_18ca8961_scp.bin]]
+a9s: Shit! Stupid barriers...
+eve: I... Brother, I...
+eve: Oh, brother... Why...?
+eve: I needed nothing else...
+a9s: What is this?
+pod153: Alert: Disruption detected in YoRHa unit 9S's self-consciousness data. Corruption potential critical.
+pod153: Evacuation recommended.
+a9s: Can't. Not when I'm this far in!
+eve: My brother was everything to me...
+eve: My life was contained in our moments...
+pod153: Alert: Corruption confirmed in YoRHa unit 9S's self-consciousness data.
+pod153: Immediate evacuation and treatment recommended.
+a9s: Just...a little more...
+a9s: If I can remove Eve's object control function...
+eve: Listen to me, Adam...
+eve: I never disliked fighting.
+eve: But I didn't want you to be hurt.
+eve: And I especially didn't want to lose you.
+eve: So let's go somewhere quiet. Together.
+eve: My brother...
+[[quest\qac8\qac8_fd8ac7ea_scp.bin]]
+pod153: 9S data system damaged. Access impaired.
+pod153: Redeploying in offline mode.
+a9s: Wh-where am I...?
+pod153: Recovery sector. Eliminate access impairments to all blocks.
+pod153: Repairing visual data error.
+pod153: Voice functionality recovered. External sound input confirmed.
+a2b: ...S... 9S...
+a2b: ...9S!
+pod153: Alert: Vital signs declining.
+pod153: Vital signs entering sub-optimal territory.
+pod153: Urgent circuit repairs required.
+pod153: Black-box signal ceased.
+pod153: Unit 9S death confirmed.
+[[quest\qad0\qad0_c493efec_scp.bin]]
+telo: Identification signal not functioning
+[[quest\qad1\qad1_55fcb9b3_scp.bin]]
+a2: Where am I...?
+pod042: The EMP attack appears to have caused hacking damage to unit A2's memory modules.
+a2: Oh, so this is my memory area.
+a2: But why are YOU here?
+pod042: Support units are required to monitor our targets' internal systems in case of breakdown.
+a2: Next time ask me before you go poking around in my head.
+a2: Nnngh...
+n02: I...am a...desert test unit...
+n02: Created...wipe out mankind...
+a2: What's all this about?
+pod042: The hacking has caused the enemy's memories to merge with your own.
+cmd: Normally, you'd be called...but...calling you 2B for the time...
+cmd: Continue to observe the situation, and dispatch...if necessary.
+pod042: This is a fragment of unit 2B's memory data.
+pod042: It is an order she received from the YoRHa Commander when she was still alive.
+n4: ... not right, Number Two. We're all here...... \nchose to be here...
+n4: Thank... giving meaning to my life...
+a2: Enough!
+pod042: Memory data recognized as belonging to YoRHa unit A2 herself.
+a2: Shut up and get out of my head already!
+n02: Mama... Mama...
+n02: Mama...
+[[quest\qad2\qad2_e6ef8eaf_scp.bin]]
+pascal: Thank you...
+pascal: Thank you, A2...
+[[quest\qad6\qad6_b6255483_scp.bin]]
+a9s: What's...this barrier?
+pod153: Analysis: It is part of a closed defensive system.
+a9s: Well, how do I break it down!?
+pod153: Hypothesis: Unit 9S could permit his self-consciousness data to lose control.
+pod153: The resulting energy surge has an acceptable probability of temporarily paralyzing the barrier.
+a9s: That's almost as bad as not going in at all!
+[[quest\qaeb\qaeb_98b8e891_scp.bin]]
+a2: Damn it...
+pod042: Alert: Enemy hacking detected.
+pod042: Proposal: Retreat immediately.
+a2: Who ARE you!?
+girls: Good to see you again...Number Two.
+girls: Or should we call you A2 now?
+girls: This does bring back memories.
+girls: Though to concepts like us, time has little meaning.
+girls: Still, when we wiped out your forces, it made quite the impression on us.
+girls: YoRHa attacker model Number Two...
+girls: An experimental, disposable group created as a test run for Project YoRHa.
+a2: Shut up!
+girls: You're an obstinate little android, aren't you?
+girls: Didn't we say that you can't kill us?
+a2: God damn it!

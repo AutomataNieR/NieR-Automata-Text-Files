@@ -1,0 +1,100 @@
+opa: Er, but try not to ACTUALLY die, okay?
+opb: We'll take good care of your data, so make sure to upload it frequently.
+opa: Looking for Command? Just head down the hall to the left.
+opb: The server administration room is on the right.
+opa: Take care.
+opb: See you around!
+op: Hello!
+ys: I was just talking about all the plants and animals I saw on Earth. Operators are kind of nuts for data collection, you know!
+op: It makes me jealous of the combat troops. I'd love to go down there and collect the data myself, but they don't allow it.
+ys: Hey, I'd take you if I could, but...you know. I don't make the rules.
+op: I love hearing about Earth, but the most important thing is seeing everyone come back safely.
+op: And that includes you guys, okay? So be careful!
+op: Heya! Have you been using your recovery items?
+op: Everyone on the R&D Team is really proud of them—you can even buy them from the terminals in your quarters. Give 'em a try!
+op: Hmm? What's that? You'd like to see a greater variety of items for purchase?
+op: Hey, I get you, but that's just how it is. We're trying to develop more, but for now, what you see is what you get.
+ysA: Uuurgh... I don't feel so good...
+ysB: Her balance sensors got damaged, so she gets motion sickness.
+ysB: No matter how many times I repair the sensors, the problem comes back. It's almost like it's in her head or something...
+ysB: You guys take care of yourselves so you don't end up like her, all right?
+ysB: How are you feeling? Ready to get back out there?
+ysA: N-no... Whole world...still spinny... *urp*
+ysB: Right-o. I'll make sure to tell Command that you're not fit to use flight units for a while.
+ysA: Hey there! Are you going down to Earth again?
+ysB: I'd give almost anything to spend more time in a flight unit...
+op: We'd all like that! But they're expensive, delicate pieces of equipment, so they don't just hand 'em out willy-nilly.
+op: And you combat types are the worst! Last time you used a flight unit, it came back with huge scratches on the side!
+op: Who do you think fixes that, huh? We do! We work our fingers to the bone to get you a beautiful ride, and you go and crap all over it!
+ysA: All right, all right! I get it! Sheesh...
+ysB: Flight units are great and all, but why doesn't R&D just install wings and jets right on our bodies?
+op: That's a GREAT idea! Then you could stop damaging my precious flight units!
+ysA: Yeah, I asked about that once. They said it would put too much strain on our bodies. Also something about it not being "financially feasible."
+ysB: Ha! They would say that.
+op: I wonder what Earth was like when the humans lived there.
+op: Well, not that I know what it's like on Earth now. But you get what I mean.
+op: You can get to the hangar from that elevator.
+op: Oh, you already knew that? Well, excuuuuuse me!
+opb: Hmmm... What are we going to do?
+opa: It still hasn't turned up...
+opa: ...What's that? You want to know what's happening?
+opa: Apparently, one of the units on Earth LOST a Pod in the flooded city.
+opb: They tried to follow the distress signal, but they still can't find the thing.
+opa: How do you LOSE a Pod? It staggers the imagination!
+opb: Anyway, if you happen to find it, will you take care of it? The poor thing is all alone down there.
+opa: And make sure not to lose it!
+ys: Wait, I know you. You're the ones who received a peace offer from the machines! So what do you think? Can we trust 'em?
+ys: We've been fighting those metalheads for so long, it doesn't feel right to suddenly take their word on anything.
+ys: On the other hand, if this works, Earth would finally be at peace...
+op: If we reconciled with the machines, then Earth would finally be at peace.
+op: But it would be a fragile peace at best, so I don't think we'd ever be completely safe.
+op: Still, if it means our troops can finally lay down their weapons, perhaps it's something we should consider.
+op: Oh, hello! Have you tried out any of the new products yet?
+op: They're pretty great, if I do say so myself. \n...And I do!
+op: If our inventions help prevent even the smallest bit of damage, I'll be happy.
+op: Creating a new body costs a small fortune, you know?
+ysA: Uuurgh... I don't feel so good...
+ysB: Say, you're the one who got the peace offer from the machines, right?
+ysB: I don't get it. I mean, why now?
+ysA: If we...make peace...does that mean...I won't have to fly anymore?
+ysB: Well, not as much as you do now, at least!
+ysB: How many deaths could have been prevented if we'd just talked to the machines sooner?
+ysB: I know it's pointless to think about that now, but I just can't shake it.
+ysB: Say, you're the ones who talked to the machines, right?
+op: I've always said the only good machine is a dead machine, and I stand by it. I won't ever trust a machine! Ever!
+op: They're the enemies of humanity! They killed our comrades! And now they're strutting around Earth like they own the joint!
+ysA: I bet they think we'll accept their terms just to put a stop to this never-ending war.
+ysB: I wonder where their boss is hiding...
+ysB: This will all be over once we defeat the aliens. I wish they'd hurry up and show their slimy faces!
+ysA: We have the upper hand at the moment.
+ysA: We should just destroy them and bring victory to mankind once and for all!
+op: "This is the Bunker. We've received your report."
+op: "Please continue your hard work."
+op: Yes? Do you need something?
+op: How's it going?
+op: Soooo, I know that rest is important and all, but don't you have an important mission to finish?
+op: Hey there. Taking a break?
+op: Well, not my business—but make sure the Commander doesn't catch you! I hear she likes to fire slackers out the airlock.
+op: "This is the Bunker. Please confirm your current status."
+op: "...Understood. I've sent your most recent report to Command and have intel regarding your next mission."
+op: What happened to you? Were you hurt?
+op: If so, make sure to take the time to heal up. And be careful out there!
+op: Taking a break, eh?
+op: I love slacking off too, but try not to do it too much, okay? ...And if the Commander catches you, we never had this chat!
+op: "This is a message from the Bunker to all Earth-based troops. Flight units are not toys! Please take care of them!"
+op: Why in the world are you bothering me!? Can't you see how busy I am!?
+[[quest\qb40\qb40_f2a5ded9_scp.bin]]
+cmd: Why are you still here? You should have the destination data for your next mission.
+cmd: Have you forgotten your purpose? How long are you planning to stand there?
+op60: Hey there! How's it going?
+op60: Majestic trees... Pretty flowers... Cute little animals... I love it all!
+op60: Um, is there a problem? Did I forget to upload intel or something?
+op60: Uh oh. I'm gonna get yelled at again, huh?
+op210: How may I assist you?\n...Please keep it brief.
+op210: Are you still here? You should return to your duties.
+op210: Now get going before I report you for disobeying orders.
+bs: Need any maintenance done? You've come to the right person!
+bs: Need any maintenance done?
+bs: My skills are first-class, even for a scanner model. You can count on me!
+cmd: Is something wrong?
+cmd: ...No? Good. Then carry on with your mission.

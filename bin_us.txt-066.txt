@@ -1,0 +1,100 @@
+resistance: Anyway, listen to me ramble. Thanks again for your help. Please take this, okay?
+resistance: I wonder what kind of civilization used to exist here...
+[[quest\q640\q640_ccd60068_scp.bin]]
+resistance: Hey, you're with YoRHa, right?
+resistance: Hmm...
+resistance: Look, I know this is a bit out of the blue, but can you help me? I've got something of an emergency on my hands.
+resistance: It seems that some machine lifeforms have stolen several plug-in chips containing classified data.
+resistance: If they realize what they have, we're going to be in big trouble. You have to help me get 'em back!
+sele: Lend a hand.
+sele: Refuse.
+resistance: Are you serious? That's cold.
+resistance: I have to get that classified info back from the machines. Please help me out!
+resistance: Thanks. I have to track down a total of three plug-in chips.
+resistance: I'll go ahead and send you the signal codes so you can track them.
+resistance: They're all located somewhere in this city, so hopefully it won't take too long.
+resistance: Thanks again for the help!
+pod042: Alert: Signal code detected for missing plug-in chip.
+pod042: Marking approximate location on map.
+pod153: Alert: Signal code detected for missing plug-in chip.
+pod153: Marking approximate location on map.
+pod042: Alert: Signal code detected for missing plug-in chip.
+pod042: It is likely in the possession of a machine lifeform.
+pod153: Alert: Signal code detected for missing plug-in chip.
+pod153: It is likely in the possession of a machine lifeform.
+pod042: Requested plug-in chip obtained.
+pod153: Requested plug-in chip obtained.
+pod042: Requested plug-in chip obtained.
+pod042: Alert: The specifications of this plug-in chip are unusual.
+a2b: Oh?
+pod042: This chip is a model used exclusively by YoRHa units.
+pod042: There is no reason for a non-YoRHa android to possess it.
+a2b: A YoRHa-only chip?
+pod153: Requested plug-in chip obtained.
+pod153: Alert: The specifications of this plug-in chip are unusual.
+a9s: How so?
+pod153: This chip is a model used exclusively by YoRHa units.
+pod153: There is no reason for a non-YoRHa android to possess it.
+a9s: A YoRHa-only chip, huh?
+pod042: Alert: Incoming message from Command.
+pod153: Alert: Incoming message from Command.
+cmd: All units, be on the lookout for a missing YoRHa in the city ruins.
+cmd: This unit was in possession of several plug-in chips that contain classified information.
+cmd: I need you to seek out whatever intel you can regarding their current whereabouts and status.
+a2b: Roger.
+a2b: Chips with classified data, is it?
+a9s: Understood.
+a9s: Chips with classified data, huh?
+resistance: Oh man, you really saved my bacon! I'll take those chips from you now.
+sele: Hand the chips over.
+sele: Refuse.
+resistance: Huh? Why not?
+resistance: You don't actually suspect me of something, do you?
+resistance: Come on! I need those chips!
+resistance: Thank you. Oh, and I know this isn't much, but please take it.
+resistance: I'm glad I can trust you guys. Next time we meet, I'll be sure to introduce you to my family!
+resistance: You're the guys who got those chips back for me, right? Boy, do I ever owe you one.
+resistance: Er, I suppose you noticed those chips were YoRHa, huh?
+resistance: Well, there's a reason for that. Let me introduce you to the new addition to my family.
+a2b: Your...family?
+a9s: Your...family?
+resistance: I always wanted family, you know? Or at least I was pretty sure I did.
+resistance: Seeing all the machines living together in the same area was starting to make me...lonely.
+resistance: So I went out and stole a broken-down YoRHa body.
+resistance: I'm hoping I can repair it and use it to kick off my very own family.
+ys: H-H-H-Hello?
+a2b: Unbelievable...
+a9s: You know this violates all kinds of regulations, right?
+resistance: I know it isn't right, but I don't care. I need someone I can live with. Someone I can protect.
+resistance: You won't tell anyone, will you?
+yolhaS: P-P-P-Pleeee...ase...
+a2b: ......
+a9s: ......
+a2b: Before I give you the chips, I need you to answer a question.
+a2b: Do you know anything about a missing YoRHa unit in the area?
+a9s: Before I give you the chips, I need you to answer a question.
+a9s: Do you know anything about a missing YoRHa unit in the area?
+resistance: ...No.
+a2b: You sure?
+a9s: Really?
+resistance: Look, just forget about the chips.
+resistance: See ya.
+resistance: What? You feel like giving me those plug-in chips now?
+pod042: Alert: Mail received from Command.
+pod153: Alert: Mail received from Command.
+[[quest\q650\q650_96497077_scp.bin]]
+resiman: Urgh... What to do, what to do?
+sele: Ask what's wrong.
+sele: Ignore the troubled fellow.
+resiman: I'm really in a bind here. What am I going to do?
+a9s: What's wrong?
+a9s: Maybe I can help you out.
+resiman: Say, you're from the Bunker, right?
+resiman: Well, turns out I have some packages that need transporting, but I can't get them out of storage.
+resiman: One of my superiors was in charge of it, but now I have to do it—and there's so much stuff that I can't possibly move it!
+resiman: She's gonna have my head for this...
+resiman: I gotta get those packages for transport out of there...
+resiman: Think you can get the goods for me?
+pod153: Marking objects likely to be the targeted packages.
+sele: Agree to help.
+a9s: I can't get them out like this...

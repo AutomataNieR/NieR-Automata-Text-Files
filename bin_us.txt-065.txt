@@ -1,0 +1,100 @@
+ppl: She was drinking. I think she finally passed out.
+ppl: She's been trying to cut back, but with things as rough as they are... Well, everyone needs a release, I suppose.
+a9s: As rough as they are?
+a2: What do you mean, "rough"?
+ppl: It's not easy being a defective model, you know?
+ppl: In the past, a pair of models identical to ours caused a major incident.
+dbl: Popola! POPOLAAAAA! My glassh ain't getting any fuller over here!
+dbl: Buncha no good... Razza frazza...
+ppl: Tee hee! Oh, Devola...
+ppl: She does love that particular spirit. She makes it with desert rose, actually.
+ppl: You're welcome to try some if you like.
+dbl: Huh? Whuzza? NO! Keep yer goddamn handsh off my BOOZE!
+dbl: It's MINE! Mine. I'm gonna...drink it all up!  Mee-YOW!
+a9s: ...Meow?
+a2: ...Meow?
+ppl: Heh. She can say some pretty odd things in her sleep.
+a9s: Aren't you going to drink anything?
+a2: So you gonna have a belt or what?
+ppl: Oh, maybe next time.
+ppl: When I drink... Well, it's not always a good thing. Let's leave it at that.
+ppl: Anyway, thank you again. You should take a bit of time to rest if you can.
+dbl: Nooooo... Can't drink any more.... Zzzzz...
+dbl: Think I'm gonna puke... Zzzzzz...
+dbl: It'sh...not our fault... Zzzzzz...
+dbl: Are you looking for something?
+[[quest\q590\q590_13ffe891_scp.bin]]
+resistance: Whoa whoa whoa! Watch your step around here!
+resistance: There might be ancient relics buried just beneath the surface.
+resistance: ...Hmm? Me? I'm researching the old world.
+resistance: You guys are with YoRHa, right?
+resistance: Say, if you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.
+resistance: Say, if you find anything in the desert that looks like an old-world relic, can you bring it to me? I'll find a way to reward you for the trouble.
+a2b: Relics from the old world, eh?
+pod042: Searching for relics in the desert without assistance might prove difficult.
+pod042: Proposal: Unit 2B should use the dynamic scanner.
+a9s: Relics from the old world...
+pod153: Searching for relics in the desert without assistance might prove difficult.
+pod153: Proposal: Unit 9S should use the dynamic scanner.
+a2: So I need to find junk from the old world now?
+pod042: Searching for relics in the desert without assistance might prove difficult.
+pod042: Proposal: Unit A2 should use the dynamic scanner.
+resistance: Hey, I haven't seen you before.
+resistance: I'm here conducting research on the old world.
+resistance: If you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.
+pod042: Old world material obtained.
+pod042: Hypothesis: Said material is likely a relic from an ancient civilization.
+pod153: Old world material obtained.
+pod153: Hypothesis: Said material is likely a relic from an ancient civilization.
+resistance: Did you find something for me?
+resistance: Hmm... Looks like some kind of staff.
+resistance: That's pretty incredible. Let me pay you for your help.
+resistance: This was likely a tool used for some kind of ceremony. I imagine it belonged to the nation that used to exist in this region.
+resistance: If you find any more relics, make sure to bring them to me.
+resistance: Ah! A stone tablet with laws written upon it! That's definitely worth a reward.
+resistance: This isn't the only tablet of its kind that we've found, either.
+resistance: I think the nation that once existed here lived under an almost impossible number of rules.
+resistance: The more they expanded their civilization, the more rules they had to come up with.
+resistance: They ended up living their lives bound by rules. Seems like a waste if you ask me...
+resistance: If you find any more relics, make sure to bring 'em to me!
+resistance: Oh, this is just lovely. Let me pay you for it!
+resistance: Huh, so it's some kind of mask. Judging by the design, it was intended to be worn by a female.
+resistance: According to legend, the nation that used to be here was wiped out quite suddenly.
+resistance: Apparently it had something to do with the passing of a beloved king.
+resistance: Perhaps this mask belonged to a princess or the like.
+resistance: If you find any more relics, make sure to bring 'em to me!
+robolarge: Hold! You cannot pass! It is unforgivable!
+robosmall: UNFORGIVABLE!!
+robolarge: Give us your money and your life!
+robosmall: AND YOUR LIFE!
+a2b: Enemies?
+a9s: Uh oh.
+a2: Well, crap.
+a2b: These enemies...
+pod042: Hostile machine lifeforms defeated.
+pod042: Analysis: Their garments were based on a subset of human culture.
+a2b: Explain.
+pod042: Examples of said clothing can be found in "motion pictures" that humans created for entertainment purposes.
+pod042: More specifically, they were from a genre known as "Westerns" that chronicled warfare in a certain region of the planet.
+a2b: Warfare was...entertainment?
+a9s: What the heck were those guys?
+pod153: The hostile machine lifeforms have been defeated.
+pod153: Analysis: Their garments were based on a subset of human culture.
+a9s: Human culture?
+pod153: Examples of said clothing can be found in "motion pictures" that humans created for entertainment purposes.
+pod153: More specifically, they were from a genre known as "Westerns" that chronicled warfare in a certain region of the planet.
+a9s: Warfare as entertainment? What were humans thinking?
+a2: What the hell were those guys?
+pod042: Hostile machine lifeforms defeated.
+pod042: Analysis: Their garments were based on a subset of human culture.
+a2: Er, run that by me again?
+pod042: Examples of said clothing can be found in "motion pictures" that humans created for entertainment purposes.
+pod042: More specifically, they were from a genre known as "Westerns" that chronicled warfare in a certain region of the planet.
+a2: Warfare as entertainment? Humans really were crazy.
+resistance: This is...a statue of a young woman.
+resistance: Hmm... The words "On Your Wedding Day" are carved into it.
+resistance: Perhaps this is a representation of the bride.
+resistance: This reminds me of something I've recently discovered in the course of my work.
+resistance: It appears that this area used to be known as "Facade."
+resistance: As the name suggests, the residents of Facade all wore masks, as well as unusual clothes.
+resistance: They also spoke a language unique to their people.

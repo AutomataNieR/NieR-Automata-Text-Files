@@ -1,0 +1,100 @@
+op: Hello. How goes the mission?
+op: If you need additional mission intel, you can find it on your HUD. Certain plug-in chips can also help you out.
+op: We're collaborating with the Resistance to gather intel and help our troops win the war for Earth.
+op: We're happy to be of service.
+op: Here's a piece of friendly advice: we've always got spare body materials stored at transport terminals.
+op: The materials are distributed to the different camps from the Bunker, and replenished by the Resistance.
+op: Then your personal data is transferred to a new body in a distant location, allowing you to travel there in instantly.
+op: Sometimes you may not be able to use a transport terminal if machine lifeforms are jamming it.
+op: If you take out the enemies, you can access the terminal and restore it, but it's a real pain in the butt.
+op: Info dump incoming! Did you know that you can change clothes at transport terminals?
+op: ...Wait, you did? Huh. So I guess you don't mind taking off your clothes outside.
+op: YoRHa outfits are so amazing!
+op: I mean, my uniform is fine and all, but I'd love to wear a cool helmet like they have!
+op: Androids and machines making peace? I won't stand for it!
+op: I'll hate those miserable piles of bolts until my last breath!
+op: And if any of them still resent us—even if it's just a few—that's enough reason to keep fighting!
+op: Don't waste your time talking to me.
+op: Do what needs to be done. On behalf of all those we've lost.
+op: Unlike you, when we operators get new bodies, our memories aren't reset.
+op: Meaning we remember the things you no longer can.
+op: I really should erase my junk data, but organizing's never been my strong point.
+op: Your body can export stored experiences in the form of plug-in chips.
+op: That means if you keep practicing something you're not good at, you'll eventually get better! Pretty sweet, no?
+op: Have you tried creating plug-in chips?
+op: The chip system lets you create a high-powered chip from the data of several lesser ones.
+op: The maintenance shop at the Resistance camp can help you out if you haven't tried it yet.
+op: Machines trying to make peace? I never thought I'd see the day!
+op: It's an amazing thing to overcome different ideologies and interests and join hands in friendship.
+op: Still, I bet there are plenty of folks out there who aren't wild about the idea.
+op: It's difficult to forget what the machines did to us...and what we did to them.
+op: But I still think we should try our best to prevent any more tragedies.
+op: "This is the Bunker. What's the status on that missing Pod?"
+op: "...You still haven't located it? Understood. It should be giving off a distress signal, so continue searching until you find it."
+op: Geez, I hope that poor little Pod didn't get buried in the sand somewhere.
+op: If you need something done, ask someone else. Having to sit in a chair all day is tougher than it looks.
+op: Pheeeew... I'm exhausted...
+op: Strange... We reported the alien signal to the moon immediately, but there still hasn't been a response to speak of.
+op: I'm guessing they have plenty of things to worry about. I shouldn't run around spouting off such petty concerns.
+op: We also didn't get instructions from headquarters about how to handle those humanoid machines.
+op: Maybe they're just trusting us to deal with it? Or maybe...
+op: I mean, what if they're just not interested in Earth anymore?
+op: We still don't know the whereabouts of that naked machine man, but we're looking as hard as we can.
+op: Every time we track him down, he manages to slip through our fingers. How does he keep doing that!?
+op: Sorry, but the investigation into the humanoid machines is stalled; I don't have any new information for you.
+op: The humanoid machines' battle abilities appear to be growing.
+op: The troops we sent out to investigate were completely wiped out.
+op: So don't let your guard down! If you run into one out there, destroy it at once!
+op: "This is the Bunker. What is your status?"
+op: "...Okay, copy that. I'll take care of it at once."
+op: Er, do you mind coming back later? I've got a lot on my plate right now.
+op: "Bunker here. I'm sending over the data now."
+op: ...Sorry, no time to talk. I'm busier than a one-legged machine in an ass-kicking contest.
+op: "Yes... Yes... Understood... One moment please..."
+op: Are you still here?
+op: I'm working right now. ...Which I figured was pretty obvious.
+op: Surely you have something better to do than harass a poor working girl?
+op: Is there a problem?
+op: Looks like things are pretty chaotic on Earth. Take care, all right?
+op: "This is the Bunker. Do you read? ...I repeat, do you read me?"
+op: ......
+op: You mind giving me a minute?
+op: Yeah, I'm working. A lot, actually. Maybe come back later.
+op: Don't you have some important mission to attend to?
+op: You must be really bored if you're hanging out here.
+op: Sorry, this isn't a good time. Maybe come back once everything's calmed down.
+op: It's great you came all this way just to see me, but I'm swamped! Maybe let's hook up later.
+op: The war is already so much work, and now we're in a state of emergency? I can't take this anymore!
+op: Ugh... I hope this blows over quickly.
+op: I hope the mission on Earth is going well. For now, you can report developments to the Commander through your assigned Operator.
+op: I wish you success. Good luck.
+op: "Enemy reinforcements approaching. I'm updating the map data and sendi—"
+op: I'm more than a little busy here! Come back later!
+op: "Bunker to Resistance Camp: We need a damage report ASAP. Please respond."
+op: ......
+[[quest\qc10\qc10_ea55109b_scp.bin]]
+n02: I...exist...this world...
+n02: My...life's meaning...
+n02: The meaning...of being born...
+[[quest\qc11\qc11_e05e7f97_scp.bin]]
+n02: To exist, I must be strong...
+n02: Merely destroying life will not win me approval...
+n02: But if so...what use are we to the world...?
+n02: It is painful... So painful...
+[[quest\qc12\qc12_9b9e9b86_scp.bin]]
+n02: Why were we...born...?
+n02: Why is life...so painful...?
+n02: Why won't anyone...help me...?
+n02: I don't need...this world...
+[[quest\qc30\qc30_fde14379_scp.bin]]
+a9s: Examining storage circuits... 88 percent... 92 percent... 98 percent...
+[[st1\r110\r110_4ebc3b22_scp.bin]]
+ppl: Guess what? Devola made more of her famous desert rose liquor!
+ppl: You're welcome to some if you like.
+a9s: Hey, so you craft new weapons from older models, right? But where do the older models come from?
+a2b: Hey, so where do you get these older weapon models from?
+a2: So where do all these older weapon models come from, huh?
+kj: Oh, the lady who owns the place sends 'em over every once in a while.
+kj: Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.
+kj: I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.
+kj: I don't know where she gets this stuff, but most of it's in pretty good condition!

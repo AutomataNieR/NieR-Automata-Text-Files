@@ -1,0 +1,100 @@
+sele: Reject the offer.
+a9s: Ooof. Better make a path first.
+resiman: Great. Thanks a million!
+a9s: Okay. That should be all of the packages.
+pod042: Proposal: Taking a break from this activity may lead to greater mental acuity.
+pod153: Proposal: Taking a break from this activity may lead to greater mental acuity.
+pod042: Proposal: Head outside to deliver the goods to the client.
+pod153: Proposal: Head outside to deliver the goods to the client.
+sele: Go outside.
+sele: Keep working.
+resiman: Hey. I'm glad you came here and all, but I need to focus on my duties right now.
+resiman: Come back once things calm down a little, okay?
+resiman: You went and found everything? Talk about a lifesaver!
+a9s: You really need to organize your storage area. I could barely walk in there!
+a9s: Seriously, you need to clean that place up.
+resiman: I know, I know. I'll take it up with my superior.
+resiman: Here's a little something for your trouble.
+resiman: I can't believe what a pain in the butt supply management is...
+pod042: Marking objects likely to be the targeted packages.
+[[quest\q651\q651_87a1f20b_scp.bin]]
+resiman: Think you can get the goods for me?
+sele: Agree to help.
+sele: Reject the offer.
+resiman: Great. Thanks a million!
+pod042: Proposal: Taking a break from this activity may lead to greater mental acuity.
+pod153: Proposal: Taking a break from this activity may lead to greater mental acuity.
+pod042: Proposal: Head outside to deliver the goods to the client.
+pod153: Proposal: Head outside to deliver the goods to the client.
+sele: Go outside.
+sele: Keep working.
+resiman: Hey again. Haven't seen you for a while.
+resiman: So this'll probably come as no surprise, but I have more packages that need to come out of storage.
+resiman: Don't suppose you'd lend a hand again?
+resiman: You're YoRHa, right? Or maybe ex-YoRHa?
+resiman: Perfect! See, I have some packages that need delivering, but they're too heavy for me to move out of storage.
+resiman: You mind lending a hand?
+sele: Help him out.
+sele: Refuse.
+resiman: Really? Man, my supervisor is really going to have my hide for this...
+resiman: Don't suppose you changed your mind about helping with those packages, eh?
+resiman: What, really?
+resiman: Thanks so much! My supervisor is a real hardass, so if this doesn't get done, I'm a dead man.
+resiman: Just grab all the stuff I need and get it out of there, okay?
+pod153: Marking objects likely to be the targeted packages.
+pod042: Marking objects likely to be the targeted packages.
+a9s: That should be everything.
+a2: That should be everything.
+resiman: You got the packages together for me? Oh, thank you!
+resiman: That storage area is in pretty sad shape. My supervisor came in earlier and really wrecked the place.
+resiman: Seems like I'm always having to clean up after her...
+resiman: Anyway, here's your payment. Thanks again.
+[[quest\q652\q652_4e20ab43_scp.bin]]
+resiman: You looking for the Resistance member who's usually here?
+resiman: Yeah, he stepped out. Said he had to make a delivery to the outpost near the desert.
+resiman: I thought he'd be back by now, honestly.
+resiman: Maybe you can check up on him next time you're out that way?
+sele: Agree to look into it.
+sele: Refuse.
+resiman: Really? Well, all right. Let me know if you change your mind.
+resiman: Hey, you mind checking on that guy who was making a delivery to the desert?
+resiman: Thanks. I appreciate it.
+resiman: There's a female Resistance member stationed in the desert who might know where he is.
+resiman: The guy who's usually here went to the desert to make a delivery. Hope you find him.
+jackas: What? That delivery guy? Yeah, he was here.
+jackas: He brought me a broken water purifier, which I already repaired and returned to him.
+jackas: We took it out to the storage facility forever ago. You telling me he's STILL not back?
+jackas: Our storage facility is over in the city ruins. Helps keep it safe from enemy attacks and all that noise.
+jackas: Hell, he could still be there for all I know. Lemme show you where it is.
+jackas: That guy you're looking for might be at our storage facility in the city ruins.
+a9s: This must be the Resistance storage facility.
+resiman: ...me...
+resiman: ...p me. Help me...
+pod153: Alert: Voice patterns detected from inside storage facility.
+a2: So this is all the crap the Resistance was storing, huh?
+resiman: ...me...
+resiman: ...lp me. Help me...
+pod042: Alert: Voice patterns detected from inside storage facility.
+resiman: Whew! Thanks a million.
+resiman: Sorry, but could you do me a favor and clear a path so I can get ouf of here?
+resiman: I hurt my leg trying to force my way out...
+resiman: Also, as you can see, I'm pretty big, so I'm gonna need plenty of space.
+resiman: I got trapped in there while trying to get everything organized.
+resiman: My supervisor tore through the place like a tornado and ended up boxing me in.
+resiman: I tell you what, I just can't keep up with her anym—
+jackas: Goddammit! THERE you are!
+jackas: I haven't seen you in who the hell knows how long, and now I find you sitting here on your ass!?
+jackas: And didn't I tell you to keep this place ORGANIZED!?
+resiman: Y-Yes, but you were throwing things all over the place and I got trapped—
+jackas: If something's in the way, just blow it up! This is NOT freakin' difficult!
+resiman: But I...don't have any explosives.
+jackas: Then build some! I mean, just LOOK at all the crap around here. I could build ten bombs with this.
+resiman: But there's no way to—
+jackas: Wah wah wah! Zip it already! Time to teach you some goddamn bomb-making skills.
+resiman: But I just work in storage! I don't need to know how to make a bo—
+jackas: Cram it! Even a lowly warehouse man needs to know how to blow things up!
+jackas: ...Sorry my useless subordinate caused you so much trouble.
+jackas: You can have this. Not much, I know, but whatever.
+jackas: Anyway, I'll see you later.
+jackas: Right now I have to spend all night teaching this idiot how to craft a simple bomb.
+resiman: All night!? What!?

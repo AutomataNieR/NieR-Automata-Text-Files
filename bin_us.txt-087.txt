@@ -1,0 +1,100 @@
+sele: Refuse.
+robomother: I understand. You must be so tired of coming to my rescue like this.
+robomother: Will you please help my son? He's locked himself inside yet again.
+a9s: Fine, whatever.
+robochild: Hee hee! You're going to love this one!
+a9s: You shouldn't be proud of hiding from the world! Besides, I thought you had a girlfriend.
+robochild: Maaaaaybe. But I'll tell you if you get my lock open!
+a9s: This is so stupid...
+robochild: You win!
+robomother: Do you even know how much trouble you've caused for everyone, young man? ...Well!? Do you!?
+a9s: Okay kid, spill it. What's your deal?
+robochild: I've been trying, okay?
+robochild: I went out and talked to everyone I saw. I even talked to the girl I liked! It was...fun.
+robochild: But then it got hard, 'cause you can't just talk to people, you know? You have to read between the lines and stuff.
+robochild: So I kinda decided that staying inside was way easier.
+robochild: But I have a dream now—I'm gonna be the best shut-in I can possibly be!
+robochild: Next time, I'm gonna make a lock you won't be able to break in a bajillion quintillion years!
+robomother: Will you listen to my darling boy? He has a goal now! How wonderful!
+robomother: And it's all thanks to you!
+a9s: D-don't mention it...
+a9s: Why do I have the feeling we're back to square one?
+[[st1\r140\r140_60377331_scp.bin]]
+n02: Stop! Do not kill!
+n02: No fighting! No fighting!
+n02: Don't kill! Don't kill!
+n02: We have done nothing bad!
+n02: I'm sorry! I'm sorry!
+villager: We are not your enemy.
+villager: We do not want to fight.
+villager: We will not fight.
+villager: Please be calm. We are not your enemy.
+villager: We surrender. We surrender.
+villager: The white flag means we surrender.
+villager: Waving the flag is fun.
+villager: We are not your enemy.
+villager: Ah, <SARU_JAN>...
+villager: Did something happen?
+[[st1\r140\r140_657c1219_scp.bin]]
+a2: No. Let's not go in here.
+pod042: According to the memory data of unit 2B,
+pod042: the residents of this village have been determined to be safe.
+a2: I'm not interested in killing a bunch of sad-sacks.
+[[st1\r140\r140_7e0bd84f_scp.bin]]
+pascal: Oh, hello there! Such a nice, quiet place here, isn't it? No distractions at all!
+pascal: Pity about all the junk, however. I keep trying to clear it away, but it seems to be never-ending.
+a2: Pascal, that's...
+pascal: Pascal? Hmm. That sounds oddly familiar.
+pascal: Ah, well.
+pascal: Would you like to take a look at my wares?
+pascal: Er, not that I'm sure what any of this actually does. Or why it was left here in the first place!
+a2: ......
+pascal: I've gathered up some of the junk from this place.\nWhat do you think?
+pascal: I really must do something about all this trash...
+a9s: Pascal, that's...
+a9s: ......
+[[st1\r140\r140_82d2caac_scp.bin]]
+n02: Stop! Do not kill!
+n02: No fighting! No fighting!
+n02: Don't kill! Don't kill!
+n02: We have done nothing bad!
+n02: I'm sorry! I'm sorry!
+papa: Please, we beg of you. Save him...
+sister: I heard my sister was...found in the desert.
+sister: I can't believe she's no longer functioning while I'm still here...
+robochild: This is sooo fuuuun!
+robostrange: ......
+pascal: Superb! Thank you for this valuable information.
+pascal: Please take this as a reward.
+robomother: Rrrrgh! What am I supposed to DO!?
+villager: Ah, <SARU_JAN>...
+villager: There is no meaning in war.
+villager: <SARU_JAN>'s right.
+villager: A while ago, I heard a terrible noise coming from the city ruins.
+villager: But wh-whatever happens, I'll protect the village!
+villager: I s-sure wish my shift would end already...
+villager: We're safe here! I think. Maybe.
+villager: I heard a loud noise in the distance.
+villager: Are you okay?
+villager: Make yourself at home!
+kj: That was some earthquake. Are you all right?
+kj: I've been told that providing is preventing. So buy whatever you like!
+kj: I hope that guy in the forest is okay.
+kj: Come see me any time.
+sp: It's good to see you in one piece. I was worried I'd lost a valuable customer.
+sp: Are you looking for something?
+sp: Come back and see me anytime.
+villager: The earthquake really caught me off guard! I actually dropped one of my torsos.
+villager: Dear me... Where could it have gone?
+villager: Hey, look at this torso I found lying on the ground!
+villager: Heh heh. How cool does this make me look!?
+villager: It's not enough! I want more!
+villager: There was a huge noise before, so I came here to see what's going on.
+villager: I hope the forest creatures are okay.
+villager: Facing dangers on your own makes you strong.
+villager: A solitary man is a true soldier!
+villager: But feel free to drop by whenever you want, okay?
+pascal: Say, are you all right? There was a huge earthquake, so I was worried.
+pascal: I'm glad you and the villagers are all okay.
+villager: I know there's not much to do here, but consider yourself at home.
+villager: I heard a really loud BOOOOOM! It was scary, but also kinda exciting.

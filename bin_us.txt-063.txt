@@ -1,0 +1,100 @@
+a9s: It's about the YoRHa soldiers who deserted.
+op210: Copy that, 9S. We've confirmed their status on this end.
+a9s: No, but I mean... The Resistance says that none of their supplies are actually missing.
+a9s: So what's going on here?
+op210: ...I lack access to the data concerning this mission.
+a9s: Huh?
+op210: The order came from the Commander herself.
+a9s: What? Operator, I don't understand—
+op210: Be careful, 9S.
+op210: I have no further information.
+a9s: Huh? Operator? ...Operator?
+a9s: The hell is that all about?
+a2b: Let's go.
+a9s: But—
+a2b: We're here to fight. That's all.
+[[quest\q550\q550_688e8050_scp.bin]]
+ys: You... You're an older YoRHa model.
+ys: Not that it matters.
+ys: You... You're a YoRHa unit! Then some of you survived?
+a9s: Yeah. I'm 9S, by the way.
+ys: Oh yeah, I've heard of you... You're the model people used to call "Nines", right?
+a9s: Yeah.
+ys: I'm 4S. It's impressive that you're still alive, 9S.
+a9s: You're a Type-4 model, eh? You guys were deployed pretty early on if I remember correctly.
+4s: I sure wasn't expecting to run into another Scanner model.
+4s: Not after what happened to the Bunker...
+a9s: So what are you doing here?
+4s: Gathering intel on the enemy.
+4s: YoRHa might be a thing of the past, but the Resistance is still around.
+4s: So as long as my body works, I figure I should make myself useful.
+4s: If you have any information about local enemies, can you share it with me? There's only so much I can do on my own.
+a9s: Sure. I'll give you everything I have at the moment.
+telo: You handed over the enemy data.
+4s: Thank you.
+4s: If you obtain further enemy data, please let me know. It's important for us to share what we have.
+4s: If you run into any new enemies, I'd very much like to look over your data.
+4s: New enemy data, is it? Thank you.
+4s: Oh, and there's no need to come all the way here every time you find a new enemy. Just swing by when you've collected a decent amount of data.
+4s: More enemy data, eh? I appreciate it.
+4s: Hmm... Interesting...
+4s: Comparing your data with mine reveals a number of individual differences between machines of late.
+4s: It looks like different regions have their own specialized machines. Almost like the environment is affecting them somehow. But of course that's absurd...
+4s: Oh, right. I should pay you for your trouble. Please take this.
+4s: Hey, by the way, would you mind if I called you "Nines" too, just like everyone else?
+a9s: Go ahead. Nobody calls me that anymore though.
+4s: Sore subject, is it? Sorry.
+4s: More enemy data, eh? I appreciate it.
+4s: I try my best, but I just can't cover all this ground on my own.
+4s: Thanks again, Nines. You're really helping out here.
+4s: Here's something for your trouble.
+4s: Let me know if you find any more data, all right?
+4s: More enemy data, eh? I appreciate it.
+4s: Hmm... I recognize a few of the enemies in this data. My team fought some of them a while back.
+4s: I used to have a big team...until the virus corrupted them all.
+4s: I was wounded in the battle before the virus attack, so I was in dormant mode when it was unleashed. That's how I survived.
+4s: But now I'm all alone...
+4s: Er, sorry. I'm rambling. Thanks again for the data, Nines.
+4s: Let me know if you find anything else.
+4s: More enemy data, eh? I appreciate it.
+4s: It's great having another Scanner helping me out. Thanks to you, I've gathered the data 60 percent faster than I'd planned.
+4s: ...I wonder how long we'll be doing this.
+4s: It's not like we YoRHa androids have a home to return to.
+a9s: Yeah, but gathering intelligence is still important. It's a huge support for the war effort.
+4s: I KNOW THAT!
+4s: ...Sorry, Nines. I didn't mean to yell at you.
+4s: Anyway, this chunk of data you brought means I've finally hit my goal.
+4s: I'd like you to have this. It belonged to an old friend, but I think he'd be happy to know that you're using it.
+4s: See you around, Nines. And remember: No regrets, okay?
+4s: We need to think about what we're going to do from this point forward.
+4s: Thanks for everything.
+[[quest\q560\q560_291dbe71_scp.bin]]
+dbl: Say, think you'd be able to give us a hand with a certain odd job?
+ppl: Devola, please.
+dbl: Well, what else can we do? Ever since that huge-ass Tower showed up, we've been short on people and supplies.
+dbl: If we keep getting distracted by the little things, we'll never get those Resistance members repaired.
+ppl: That's true, but—
+dbl: So there you have it! Anyway, mind lending us a hand?
+sele: Help the twins.
+sele: Decline.
+dbl: Pfft. I shoulda known.
+ppl: DEVOLA! ...Look, I'm sorry we're making all of these requests. I know your time is valuable. Please let us know if you're interested later.
+dbl: Soooo, any chance you might help us out?
+dbl: Great! Much appreciated. Okay, so all we need are some stripped screws, small gears, and machine oil.
+dbl: You can get stripped screws from the machines that look like they've been stacked on top of each other.
+dbl: I think you can get small gears from the small machines with the short legs.
+ppl: You should be able to find some machine oil near a deserted truck at the abandoned factory.
+ppl: Please don't put yourself in danger for this, all right?
+dbl: Have you tracked down those materials I was asking about?
+ppl: We need some stripped screws, small gears, and machine oil.
+a9s: Okay, that's everything the twins asked for.
+a2: That's everything those redhead twins wanted.\nGuess I'll hand it over.
+dbl: Let's see... Yep! That's everything. Thanks for the help.
+ppl: Then it's time for us to get to work, Devola.
+a9s: Er, what are you using that stuff for, anyway?
+a2: So what are you guys making?
+dbl: Isn't it obvious? Daily necessities.
+ppl: We're often asked to handle various odd jobs around the camp.
+a9s: Odd jobs? With all of your technical skill?
+a2: Why are they wasting the two of you on odd jobs?
+ppl: Oh, it's no bother! We're happy to help however we can.

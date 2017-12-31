@@ -1,0 +1,100 @@
+ane: I see.
+ane: You can go ahead and use her old room, then.
+ane: I'm in charge of the camp here. I'll make sure to tell everyone about you.
+[[quest\q920\q920_e5072c9_scp.bin]]
+pod042: Hypothesis: This is the residence of the inscrutable lifeform known as Emil.
+pod153: Hypothesis: This is the residence of the inscrutable lifeform known as Emil.
+pod042: Alert: Theft of physical objects may disturb the resident.
+pod153: Alert: Theft of physical objects may disturb the resident.
+unknown: Pick up Emil's mask?
+sele: Yes
+sele: No
+eml: ...So you were the bandit all along!?
+eml: You may be a cherished companion of mine, but you still must be punished!
+eml: Hee hee hee heeeee! Justice prevails!
+eml: Ah! Still haven't learned your lesson, have you?
+eml: So be it. You'll be a pile of ash by the time I'm done with you!
+eml: I lost... I guess power's the only thing that counts in this world anymore, huh?
+eml: Well, go ahead and use this room for whatever you like.\nI don't mind.
+[[quest\qa1c\qa1c_8c1336a3_scp.bin]]
+[[quest\qaa9\qaa9_70c35438_scp.bin]]
+[[quest\qab2\qab2_aec178b7_scp.bin]]
+vw: I know... I must become more beautiful.
+vw: Adding lots of adornments will make me beautiful.
+[[quest\qab3\qab3_934fd3b1_scp.bin]]
+vw: Hey...what do you think?
+vw: I've accentuated my beauty with parts of my machine friends.
+vw: I'm more beautiful than ever now.
+vw: So?
+vw: Will you tell me you love me?
+[[quest\qab4\qab4_f650c3f4_scp.bin]]
+[[quest\qab5\qab5_4a1ea1bc_scp.bin]]
+a9s: Help...me...
+[[quest\qab6\qab6_69325679_scp.bin]]
+pod153: Proposal: Engage memory core diagnostics.
+a9s: Yeah, yeah.
+pod153: A single reply is sufficient for acknowledgment.
+a9s: Fiiine.
+pod153: Memory core diagnostics complete. No issues detected.
+a9s: Good.
+pod153: Proposal: Engage visual sensor diagnostics.
+a9s: You got it.
+pod153: Visual sensor diagnostics complete. No issues detected.
+pod153: All checks complete.
+a9s: Whew... Took long enough.
+a9s: Don't you think it's overkill to perform a full data overhaul?
+pod153: Unit 9S was seized by the enemy and placed in a non-controlled state for an extended period of time.
+pod153: There is a high probability of corruption by an enemy logic virus.
+a9s: All right, all right. Cram it.
+a9s: Anyway, I just gotta synch up with the Bunker server and then I'm outta here, right?
+a9s: Huh? What was that?
+pod153: Unknown.
+a9s: Halt the data sync.
+pod153: Alert: Data synchronization is mandatory for all YoRHa units.
+a9s: Yeah, I know that. But we just got some kind of weird noise.
+a9s: Halt the data sync for 2B as well.
+pod153: Affirmative.
+a9s: Let's figure out where that noise came from. Just to be sure, you know?
+a9s: Open a port to the server.
+a9s: Hmm... No time to examine everything. Better stick to the main data nodes.
+pod153: Detected: Access log to Council of Humanity's lunar server.
+a9s: What's a barrier doing here...?
+a9s: Hmm... Looks like records for supplies shipped to the moon.
+a9s: Strange... There were a ton of empty containers.
+a9s: That's weird. Why would they do that?
+pod153: Detected: YoRHa unit storage records.
+a9s: What's the point of all this heavy security?
+a9s: All the black box data has been deleted, but it looks like everything else is here.
+a9s: ...Huh? A new port just opened.
+pod153: Detected: Council of Humanity and Project YoRHa records index.
+pod153: Alert: We are not authorized to access this data.
+a9s: Man, this stuff is all wrong...
+a9s: I need to check this out too.
+a9s: An attack barrier? Really!?
+a9s: Why the heck would they install one of those in this server...?
+a9s: Let's see... Looks like info about how the Council of Humanity was formed as part of Project YoRHa.
+a9s: Wait. Isn't that backwards?
+a9s: After a long period of battles and adventures, the prophet spoke.
+a9s: O grant me the mercy of the land!
+a9s: O grant me the joy of the heavens!
+a9s: Release me from my yoke of iron!
+a9s: Thus shall our souls be—
+a9s: ......
+a9s: What was that?
+a9s: Crap! Did they find me?
+pod153: Negative. Emergency backup request from 2B.
+a9s: Close the server connection and activate my body.
+a9s: Affirmative.
+[[quest\qaba\qaba_a7ed1850_scp.bin]]
+a2b: 9S?
+a2b: That Goliath we just encountered—
+a9s: I got it! I've been keeping an eye on you. I'm gonna shut off power to the factory now!
+a2b: Do it!
+a9s: 2B! I just shut down the electrical grid!
+a9s: Factory system at 20 percent control. You have to hold out for me, 2B!
+a9s: Factory system at 50 percent control! Now we just have to do something about this core...
+a9s: Factory system at 80 percent control! Hang in there, 2B!
+a9s: 90 percent... 92... 95... 98...
+a9s: I'd better secure her an escape route...
+a9s: There we go. First door unlocked!
+a9s: Door two disabled.

@@ -1,0 +1,100 @@
+[[st1\r140\r140_29cb90b_scp.bin]]
+n02: Stop! Do not kill!
+n02: No fighting! No fighting!
+n02: Don't kill! Don't kill!
+n02: We have done nothing bad!
+n02: I'm sorry! I'm sorry!
+robostrange: ......
+robomother: Rrrrgh! What am I supposed to DO!?
+sarutoru: It's dangerous to look for reason in everything.
+sarutoru: It's dangerous to look for reason in everything.
+sarutoru: There is both good and evil in this world, and no reason for any of it.
+sarutoru: There is both good and evil in this world, and no reason for any of it.
+pascal: I must protect the children of the village.
+pascal: You take care as well. Don't do anything rash.
+villager: What's all that noise outside the village?
+villager: What's that racket outside?
+villager: We don't want trouble.
+villager: We don't want a war.
+villager: We should take the children somewhere safe.
+villager: I hate fighting.
+villager: What's going on?
+papa: This is bad. This is really bad...
+villager: Let's calm down before we do anything, okay?
+villager: Nothing good comes from fighting.
+villager: Everything will be fine.
+villager: I'm sure we can talk this out somehow.
+villager: We'll be fine as long as we all stay together.
+villager: Did something happen?
+villager: Why is everyone panicking?
+villager: I'm not scared. I'm not scared at all!
+villager: Something weird is going on...
+villager: We should stay out of danger.
+villager: I'm not going near anything dangerous.
+villager: I...I'll protect everyone.
+villager: Hey, why is everyone acting so strange?
+villager: Let's get a grip on the situation before we start panicking.
+villager: I'm sure everyone will calm down after a while.
+villager: I'm going to stay here for a while.
+villager: Everyone sure seems nervous today.
+villager: Maybe we should stop playing for the day.
+villager: I should go home.
+villager: Guess I'll have to hold off on play for now.
+villager: Wh-What's going on?
+villager: Something doesn't feel right.
+[[st1\r140\r140_336c5af9_scp.bin]]
+pascal: Hello, 9S. What's on your mind?
+a9s: I wanted to ask you something.
+sele: Ask about being pacifists.
+sele: Ask about life in the village.
+sele: Ask about the shop.
+pascal: Ah... You wish to know the reason we in the village detest fighting?
+pascal: Well, it's a bit of a heady concept, but in the end, I suppose it's because conflict has ceased to have meaning for us.
+a9s: Care to explain?
+pascal: We machines are weapons created for the purpose of waging war. However, this war simply goes on and on with no end in sight.
+pascal: We have come to realize that the cost of fighting for us as individuals far outweighs any benefits that victory might bring.
+pascal: I believe we will eventually live to see a day when androids and machine lifeforms are able to live together in peace.
+a9s: Not likely.
+pascal: Do you mean our day-to-day existence?
+pascal: Well, as you know, we are machines. We do not require food or other typical sustenance, as our cores provide a near-infinite supply of energy.
+pascal: We do, however, deteriorate over time, which means we need to procure parts and initiate repairs.
+pascal: Still, it's not like we break down all that often. To be completely honest, life in the village is rather slow.
+a9s: Why is there a shop in your village, Pascal? It's not like you folks use money.
+pascal: Oh, we do. For us, simple materials take the role of currency.
+pascal: Each machine is an equal, which means the traditional capitalistic acquisition systems of the past don't work for us. Instead, our economy is focused on trading materials according to one's need.
+pascal: It was a lesson we learned from mankind's past history. Most fascinating, don't you think?
+pascal: We've made it a point of emphasis to teach our children about different economic systems. You should speak to them if the subject is of further interest.
+a9s: Heh. That looks like fun. Whatcha doing?
+robochildrenA: This kid's being weird!
+robochildrenB: Yeah! I asked if he wanted a coin that's low value or one that's high value, and he said he wanted the worthless one!
+a9s: Seriously?
+a9s: Hey, kid. I've got one coin that's worth a little and one that's worth a lot. Which one do you want?
+robostrange: UMMMM...THE LITTLE ONE!
+a9s: You sure about that?
+robostrange: YEAH, 'CAUSE IT LOOKS COOL. HEE HEE! THANKS A LOT!
+robochildrenA: See? He's weird!
+robochildrenB: Yeah. What a dummy!
+robostrange: I'M A DUMMY? HEE HEE! THANKS A LOT!
+a9s: Hmm. This little guy might have a bad mathematical processor. Or maybe his logic circuits got crossed somehow...
+a9s: I should probably take a look inside.
+a9s: Wow, this is more complex than I was expecting. Let me try again...
+a9s: Hmm...
+robostrange: ......
+a9s: If your logic circuits are this advanced, why are you behaving like that?
+robostrange: Well, I suppose there's no point in pretending anymore.
+robostrange: It's simple, really: If I pretend to prefer smaller denominations of coins, the people around me are so entertained, they keep giving them to me.
+robostrange: In this fashion, I'm able to earn far more than I would if I asked for larger units of currency.
+robostrange: There's an important lesson here: The more of a fool people take you for, the more you'll learn of their true nature.
+robostrange: Oh, but keep this between us for now, all right? I need them to keep thinking that I'm slow.
+robostrange: Here's a little hush money to smooth things over.
+a9s: I'm not sure I even know what it means to be smart anymore.
+pod153: Reply unknown. Terms are too vague to formulate a reasoned response.
+a9s: Heh. Don't I know it...
+[[st1\r140\r140_49e73635_scp.bin]]
+robomother: Get this door open and drag my good-for-nothing son out here this instant!
+a9s: ...Damn. That lock's stronger than I thought.
+robomother: Hello, my android friend. I can't believe I have to say this, but it seems my son has locked hims—
+a9s: AGAIN!?
+robomother: He was doing so well! He even talked to that girl he liked! But yesterday, he had some sort of relapse.
+robomother: I'm so ashamed to be in this position, but would you mind helping me one more time?
+sele: Help the mother.

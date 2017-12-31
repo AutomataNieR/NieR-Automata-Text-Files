@@ -1,0 +1,100 @@
+villager: Jump rope? I wanna jump rope!
+villager: I hope my legs are long enough...
+villager: ......
+villager: Life is hard.
+villager: Soooo...tag then?
+villager: I wanna jump rope...
+villager: My body is big, but I feel tiny on the inside.
+villager: Please don't make fun of me.
+villager: I want to be as big as this guy.
+villager: I wish I was bigger. Don't you?
+villager: Strength... I need more strength!
+villager: If I was huge, I could destroy everything!
+papa: This is bad. This is really bad...
+villager: Welcome to our village!
+villager: Hello. Nice day we're having!
+villager: Let me know if I can help you with anything.
+villager: Today, I want you to take me to the top of the village, the Forest Castle, and Pascal's place!
+villager: After that, we can go to the village entrance and the bridge to the amusement park!
+villager: This guy can't climb very well, so I have to carry him to high places. I also have to carry him while playing, so my arms are getting pretty tired.
+villager: I'm going to get Pascal to teach him the word "restraint" next time.
+[[st1\r150\r150_5ced6cf8_scp.bin]]
+resi: Things have been dangerous around here lately.
+resi: One of our teams came under attack just the other day.
+resi: Who knows what'll happen to us next?
+resi: You jerks be careful in the desert, yeah? Folks die out there.
+resi: You're from YoRHa, right? I've heard about you guys.
+resi: We've got a squadmate waiting in a rocky stretch up ahead. Head on over.
+resi: Just remember that there's nowhere to resupply out there.
+resi: If you need anything, best to take care of it here while you can.
+resi: Don't go trying to be a hero, all right?
+resi: Hey, welcome back!
+resi: Thanks for securing access to those desert resources.\nIt's a huge help.
+resi: I know it isn't much, but please take this. It's the least I can do.
+resi: Oh, and be sure to swing by if you ever need anything, all right?
+resi: What can I help you with?
+resi: I hear you kicked some tin-can ass out in the desert.
+resi: So I guess...you know. Thanks or whatever.
+ys: That drug... S-So wonderful... Everything feels amaaaaazing... Heeee hee hee...
+ys: Drug... More drug... Can't stop fighting... So fuuuuun...
+pod042: Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.
+a2b: They're abusing it.
+a2b: Or maybe their lives are just too hard to fathom without it.
+pod153: Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.
+a9s: They're abusing it.
+a9s: Or maybe their lives are just too hard to fathom without it.
+pod042: Analysis: Unusual unit behavior is directly correlated to the stimulating effects of the combat substance.
+a2: They're abusing it.
+a2: Or maybe their lives are just too hard to fathom without it.
+resistance: I wonder what kind of civilization used to exist here...
+ys: We're investigating this area.
+ys: I know we both have serious missions to do, so let's give it our all.
+ys: Looks like we can use this oil field as a resource.
+ys: If we can minimize machine activity in the desert area, we'll be able to transport the oil safely.
+ys: It may be unexciting work, but if it can help save even a single ally, I'll do whatever it takes.
+ys: Hey, you! What are you doing here? What happened to your mission?
+ys: ...Who, me? Oh, I'm just lost. Ha! Sorry if I startled you.
+ys: This is the only area with fresh water, and there's vegetation growing too.
+ys: Even androids have trouble living in this environment, yet here these plants are. Isn't nature amazing?
+ys: I'm going to stick around and investigate this place a little more. Don't tell the Commander, okay?
+robowoman: Oh! Hello.
+robowoman: How are you?
+n02: Why are you here?
+n02: Outsider!
+n02: Freak!
+n02: Did you come from the outside?
+sp: Oh, it's you. Hey, thanks for securing access to those desert resources. It's been a huge help.
+sp: Here to do a little business?
+sp: Come back any time.
+ys: We've been charged with sending resources from here to the bunker.
+ys: This is a harsh environment for androids.
+ys: Welp, nothing for it! Better just concentrate on the task at hand, right?
+ys: I hear you defeated the machines.
+ys: You're amazing! I wish I was as strong as you...
+ys: Hello.
+ys: The Commander ordered me to check out this area. There's not much going on—which is just fine by me!
+ys: I wish all the other areas were like this.
+js: Yo. Thanks for helping out with my research.
+js: Thanks for the help.
+js: Holler at me if you ever need anything.
+sp: Thanks to you, I have a decent lineup of products.
+sp: Wanna do business?
+sp: Come back any time.
+ys: Progress isn't exactly going as planned.
+ys: And Command keeps pestering me, so I gotta do something.
+ys: Siiigh... Why do I always draw the short straw?
+ys: Hey there! Hope you don't mind, but I've been tracking your activity log.
+ys: Your success has inspired me to work harder during my own missions!
+ys: Hello!
+ys: A flock of birds came to rest their wings here. I wonder if they instinctively knew how to escape the storm?
+ys: It seems like time moves more slowly here.
+ys: If you've got nothing to do, why don't you try fishing? Everyone loves settling down for a round by the pond!
+js: Thanks for the help.
+js: You know, I've been thinking about something lately.
+js: Maybe I should look into it...
+sp: You all in one piece? There weren't many casualties in this area, but we might not be so lucky next time!
+sp: So then! What can I do ya for?
+sp: See ya.
+ys: ...Drugs? Yeah, they're pretty crazy. I can't stop fighting!
+ys: Mission? Whatever... Leave me alone.
+ys: *huff, huff...*

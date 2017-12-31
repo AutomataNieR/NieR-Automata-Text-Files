@@ -1,0 +1,100 @@
+pod042: Proposal:
+a2: What now!?
+pod042: Utilize the enemy's logical learning function to formulate a weakness.
+a2: I don't know what that means!
+pod042: This Pod has serious concerns about unit A2's cognitive abilities.
+a2: SHUT UP AND EXPLAIN IT ALREADY!
+pod042: Said strategy would interrupt the enemy's logic circuits, causing a computational delay.
+a2: Meaning what!?
+pod042: Do not destroy the enemy.
+a2: Huh!?
+pod042: Striking at the logic circuit requires a certain number of enemies to remain extant for a certain period of time.
+a2: Oh, what the hell...
+pod042: The enemy's processing speed has returned to normal.
+pod042: Proposal: Do not destroy enemies.
+a2: I know, all right!?
+pod042: Consciousness data saturation rate 30 percent.
+girls: It's all so very amusing...
+pod042: Consciousness data saturation rate 60 percent.
+girls: The androids the human race left behind acted as if they wanted to be human.
+girls: The machine lifeforms the aliens left behind acted as if they wanted to be human.
+girls: We resemble each other so, but we are networked, and thus we are superior to you.
+pod042: Hypothesis: The enemy's defensive system is prompting an evolution of its logic.
+girls: Foolish androids... Why do you resist?
+girls: All things end with accepting death, do they not?
+pod042: Consciousness data saturation rate 90 percent.
+girls: We are one, and yet we are many.
+girls: We are finite, and yet we are infinite.
+girls: We are the embodiment of the perfect being.
+pod042: Hypothesis: The enemy has become aware of the diversity of life.
+girls: Ahh... I see it... The light...
+girls: We move on... Forward... To the future!
+pod042: Consciousness data saturation rate 100 percent.
+pod042: Hypothesis: The enemy's consciousness has begun to fracture.
+a2: What the—!?
+pod042: Analysis: The saturated consciousnesses are now in conflict with each other.
+a2: Huh...
+a2: They're acting like humans...
+[[quest\qaef\qaef_10112854_scp.bin]]
+a2: Pod...
+a2: We're going to repair 9S's logic circuits.
+pod042: Acknowledged.
+a2: Tell me where to find the virus corrupting 9S.
+pod042: Affirmative.
+pod042: YoRHa unit A2.
+pod042: Core data for 9S is stored ahead.
+pod042: Alert: Severe virus corruption. Probability of successful deletion extremely low.
+a2: I think I know a way...
+pod042: The idea under consideration is not recommended.
+pod042: This Pod is a YoRHa Tactical Support Unit.
+pod042: As such, it cannot approve of actions that would damage its supported unit.
+a2: You're not so bad, Pod. You know that?
+[[quest\qaf4\qaf4_e04e13b1_scp.bin]]
+pod153: 9S data system damaged. Access impaired.
+pod153: Redeploying in offline mode.
+a9s: Wh-where am I...?
+pod153: Recovery sector. Eliminate access impairments to all blocks.
+[[quest\qb20\qb20_42c8efa_scp.bin]]
+announce: Hello, and thank you for choosing Tower System Services!
+announce: We apologize for the inconvenience...
+announce: but locks on each sub-unit must be deactivated before accessing the main Tower.
+announce: Have a GREAT day!
+announce: Hello, and thank you for choosing Tower System Services!
+announce: Special authorization keys are required to access Tower sub-units.
+announce: We apologize for the inconvenience, but access is not permitted at this time.
+announce: However...
+announce: Today, we have a special gift for first-time visitors to this Tower:
+announce: A tour of our brand-new resource-recovery units!
+a9s: !!
+announce: We look forward to serving you again!
+a9s: The heck was that?
+pod153: A forced message from the enemy system.
+pod153: Said message relays the locations of objects known as "resource-recovery units".
+a9s: Now they're just messing with us...
+[[quest\qb20\qb20_91cf1fa5_scp.bin]]
+announce: Hello, and thank you for choosing Tower System Services!
+announce: We apologize for the inconvenience...
+announce: but locks on each sub-unit must be deactivated before accessing the main Tower.
+announce: Have a GREAT day!
+a9s: ......
+pod153: Query: What is the motive for a machine lifeform to provide such an announcement?
+a9s: There's no reason for anything they do.
+announce: Hello, and thank you for choosing Tower System Services!
+announce: Special authorization keys are required to access Tower sub-units.
+announce: We apologize for the inconvenience, but access is not permitted at this time.
+announce: However...
+announce: Today, we have a special gift for first-time visitors to this Tower:
+announce: A tour of our brand-new resource-recovery units!
+a9s: !!
+announce: We look forward to serving you again!
+a9s: The heck was that?
+pod153: A forced message from the enemy system.
+pod153: Said message relays the locations of objects known as "resource-recovery units".
+a9s: Now they're just messing with us...
+announce: Hello, and thank you for choosing Tower System Services!
+announce: We apologize for the inconvenience...
+announce: but special authorization keys are required to access Tower sub-units.
+announce: Have a WONDERFUL day!
+announce: Tower sub-unit access granted.
+announce: The Tower sub-unit lock has been deactivated.
+announce: Your current authorization key will now be disabled.

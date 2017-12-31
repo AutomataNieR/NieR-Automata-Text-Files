@@ -1,0 +1,100 @@
+a9s: Well, you've certainly taken damage, but it's nothing that can't be repaired.
+a9s: Just wait here, okay? I'll get what you need as soon as I can.
+pod042: Alert: Memory alloy required to repair this unit.
+pod153: Alert: Memory alloy required to repair this unit.
+a9s: Pascal? What are you doing here?
+pascal: I was concerned about the two androids who were staying in our village, so I decided to look for them.
+pascal: During my search, I noticed that one of their signals had suddenly grown quite weak.
+pascal: You have the material she needs, yes? If so, please give it to me so I can perform the repairs.
+a9s: You got it.
+pascal: ......
+a9s: Something wrong?
+pascal: This android is female. You are male... Perhaps you might close your eyes until I'm done?
+a9s: Oh! Right! Sure, yeah. Lemme just...close my eyes then.
+pascal: Excellent. I'll just take this here... Patch up this area...
+pascal: And done!
+pascal: Whew! She should be all right now.
+andwoman: Thank you for helping me. Do you have any information about my friend?
+a9s: He's fine. You don't need to worry—
+andman: You're alive! Oh, thank goodness!
+andwoman: Ah!
+andman: I'm sorry. I should have been stronger for you.
+andwoman: Please, don't. You're safe, and that's all that matters.
+andman: I'm sorry to have put this on you. I truly am.
+pascal: Oh, it's perfectly fine. However, what do you intend to do now?
+andman: Now? Well, I suppose we'll try to find someplace safe.
+andwoman: And then what? Continue being pursued by our former friends and hunted by machines?
+andwoman: I can't take that any more!
+andman: But...
+andwoman: If this is going to be my life, I'd rather return to the Resistance.
+andwoman: If we reformat ourselves and reset our memories, I'm sure Anemone will take us back.
+andman: But if we do that, I'll forget how I feel about you!
+andwoman: And if we don't, I'll eventually grow to hate you. Do you understand?
+andwoman: Even if I'm reformatted, I know I'll fall in love with you.
+andman: ...All right.
+andwoman: Will you help us one more time? Will you erase our memories and bring us back to the Resistance camp?
+sele: Agree to help.
+sele: Refuse.
+andwoman: Please. You must erase our memories.
+andman: Thank you. \n...You can begin with me.
+pascal: They must really love each other if they both want their memories erased...
+a9s: All right...
+a9s: ...Formatting complete. He should reboot here in a little while.
+a9s: Are you ready?
+andwoman: Me? No, I'm fine, thanks.
+a9s: What?
+andwoman: Your formatting procedure was perfect. I'd expect nothing less from a cutting-edge YoRHa model.
+a9s: Wait, what are you—
+andwoman: Don't you understand? We're too weak.
+andwoman: That's why I knew I had to convert one of us into a combat model. Then we'll never have to run from anything again!
+andwoman: But I can't do that without a complete system reset, which is why I had you format him. Now it's time to strengthen him up!
+andwoman: Hmm... While I'm at it, I'd better delete all of his namby-pamby ways. I need someone more forceful in my life, you know?
+a9s: ......
+andwoman: Oh, don't look at me like that! This is the sixth time I've had him formatted, and it's never been a problem.
+andwoman: I don't know if this is enough payment for all you've done, but please accept it.
+andwoman: Anyway, we'd better get going. The next time you see this guy, he's going to be incredible!
+pascal: Er, 9S? What was that about?
+a9s: Women can be pretty scary sometimes.
+pascal: I...see. I will bear that in mind...
+[[quest\q520\q520_afd5aa67_scp.bin]]
+pascal: Hello there! Er, so I was wondering if you might help me with a small project.
+pascal: I'd like you to collect and bring back any information you find regarding the old world during your travels.
+a9s: Really? Why?
+pascal: I'm hoping to use whatever knowledge remains of the old world to make life better for those here in the village.
+pascal: I'll be glad to share anything we find with you as well, of course. So would you be willing to assist us?
+sele: Help him out.
+sele: Don't bother.
+pascal: Thank you. Please show me anything of interest you find.
+pascal: Let me know if you find any data on the old world.
+pascal: Oh? But surely knowledge of the old world would benefit you as well. Is there any chance you might reconsider?
+pascal: Take pity on this poor old machine lifeform before you and lend us your aid!
+pascal: Please, my friend. Look inside yourself...
+pascal: Relics of the old world are certain to make life easier for our children. I do hope you will reconsider.
+a9s: Hey, Pascal? Is this the kind of old-world information you were looking for?
+pascal: Ah! Thank you so much. I find this data from mankind to be ever so fascinating...
+pascal: I know it's not much, but please take this as thanks.
+pascal: Superb! Thank you for this valuable information.
+pascal: Please take this as a reward.
+a9s: It's data from the old world, but it's...
+pod153: This data is related to the creation of nuclear fission weapons.
+a9s: Oh, geez. I wonder if we should really hand this over to Pascal...
+a9s: I mean, the Commander might want it, right?
+pod153: Only unit 9S is qualified to make that decision.
+pascal: Ah. Let me see...
+pascal: Oh my. This is valuable information indeed.
+a9s: Yeah...
+pascal: Nuclear fission technology is something that was lost to us long ago.
+pascal: It presents many technical challenges, not to mention the devastating effects it has on the environment. This is why our creators had the data sealed away.
+pascal: ...I'm sorry 9S, but I cannot accept this information. It is simply too dangerous.
+a9s: Oh?
+pascal: However, I thank you for bringing it to my attention.
+pascal: Allow me to repay you with this.
+pascal: 9S...
+pascal: If I reject the knowledge of nuclear weapons and our village is destroyed at some point in the future, do you think my people would resent me for it?
+a9s: I don't know, Pascal. That's not for me to decide.
+pascal: I see.
+cmd: Yes, 9S? What is it?
+a9s: Commander, I've discovered data from the old world that includes information on nuclear fission.
+a9s: I wasn't sure what to do with it, so...
+cmd: Nuclear armaments, is it?
+cmd: As you're likely aware, by order of the Council of Humanity, our use of nuclear weapons is restricted.

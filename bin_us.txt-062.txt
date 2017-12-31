@@ -1,0 +1,100 @@
+cmd: However, I've always been curious as to why the machines also seem to abide by the same restrictions.
+cmd: That's a riddle I may never solve, but at any rate, it's probably prudent for us to preserve the data.
+a9s: Understood.
+cmd: Good work, 9S. And while I shouldn't reward you for doing your duty, I'll at least send some maintenance resources to your room. Feel free to make use of them.
+a9s: Thank you, Commander.
+[[quest\q532\q532_65ff89bf_scp.bin]]
+resiitem: Hey, I know this is a bit out of left field, but you look like someone who cares very deeply about gastronomy.
+resiitem: See, I'm doing research about food for whenever the human race decides to return to Earth.
+resiitem: Those humans were always going on about eating, right? Well, also clothing and shelter. But mostly eating.
+resiitem: Anyway, I'm collecting ingredients from across the land for research purposes, and I'm betting you'd like to help me out! Er, right?
+sele: Help out.
+sele: Refuse.
+resiitem: Really? I thought I had you pegged as a foodie for sure. Well, let me know if you change your mind.
+resiitem: I need your help collecting ingredients from across the land. It's research for when humans come back and reclaim the Earth.
+resiitem: Thanks a million! So meat's at the top of the list, naturally, which means I need you to head out and find both moose and boar meat.
+resiitem: Just bring back whatever moose and boar meat you find, all right? And thanks!
+pod042: Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?
+a2b: Don't ask me.
+pod153: Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?
+a9s: Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then?
+a9s: Who knows. Maybe it's more of a feeling thing. Like, some people just want to eat it every now and then.
+pod153: It appears illogical.
+a9s: Hey, you got me.
+a9s: Whatever.
+pod042: Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?
+a2: Who knows? Maybe it's fun to eat. Or more fun than it looks, at any rate...
+a2b: That should be enough moose and boar meat.\nLet's get it back to the trader.
+a9s: That should do it for the moose and boar meat. Guess we should report back to the trader.
+a9s: That should do it for the meat. Let's get it to that trader.
+a2: This should be enough moose and boar meat. Time to unload it on that weirdo...
+resiitem: Okay, let's see... Moose meat... Boar meat... Yes, that's everything.
+resiitem: I tell you what, you fry this up with a little salt and pepper? Bam! Taste EXPLOSION! ...Er, allegedly.
+a2b: Have you tried it yourself?
+a9s: Have you ever eaten it before?
+a9s: You've had it before?
+a2: You're not seriously going to eat that?
+resiitem: It's actually pretty popular among Resistance combat models. Not that it has much of an effect...
+resiitem: Humans were so amazing, weren't they? Just their cooking knowledge alone is enough to blow my mind!
+resiitem: What do you think will happen to us androids once they finally come back?
+resiitem: I mean, we're built to fight, and if we don't need to do that...
+resiitem: ...
+resiitem: Ah, forget it. We've all got our own work to do, right?
+resiitem: I'm going to keep up with food research for as long as I can.
+resiitem: Marine life has returned in force to the oceans and rivers, after all.
+resiitem: So when humans return, I'll make sure to greet them with a glorious feast!
+resiitem: See you around!
+sp: This forest branch just opened for business today. Feel free to swing by if there's anything you need.
+sp: Welcome, and thank you for visiting my shop. Feel free to look around.
+[[quest\q540\q540_e1207097_scp.bin]]
+op210: Operator 21O to 9S. Be aware that the following transmission is classified Privilege Level 5.
+op60: Operator 6O to 2B. Be aware that the following transmission is classified Privilege Level 5.
+op210: A group of YoRHa fighters deployed to the city ruins have deserted. We need you to take care of them immediately.
+op60: A group of YoRHa fighters deployed to the city ruins have deserted. We need you to take care of them immediately.
+op210: And 9S? ...Be careful.
+op60: But don't get yourself hurt, all right?
+a9s: YoRHa members deserting? And attacking the Resistance, no less...?
+a2b: ......
+pod042: Proposal: Rogue YoRHa units should be captured and detained in order to keep collateral damage at a minimum.
+a9s: Detained? Easy for you to say.
+a2b: They're from YoRHa.
+pod042: Alert: Targets are rogue units 22B and 64B, currently designated for detention.\n\n(need to get "two two B" and "six four B" version)
+22b: Hey, is that—
+64b: They've come for us, idiot! Prepare to engage—and inform the captain!
+22b: Got it!
+64b: Damn it... I'll kill you!
+a2b: You're both currently wanted by Command for desertion. Disengage and surrender immediately.
+64b: Shut your trap!
+22b: Hold up! The captain is ordering a retreat!
+64b: Understood!
+a9s: They got away...
+22b: No... How could you!?
+64b: 22B! Ugh, damn it! Damn you to hell!
+a8b: 22B? 64B? What the hell...?
+pod042: Alert: Target is former YoRHa captain 8B, currently wanted for desertion.
+pod042: Proposal: Disable and detain at once.
+a8b: You... You did this!
+a9s: Please! You have to stop fighting!
+a8b: Shut up! You don't know anything!
+a2b: Nnngh...
+pod042: Analysis: Unit 8B specializes in close-quarters combat.
+pod042: Proposal: Destroy enemy with long-range attacks.
+a9s: ...Destroy? What happened to detain?
+pod042: All units destroyed. Black box signals confirmed offline.
+pod042: Mission complete.
+a9s: We...killed them. Our fellow units.
+a2b: ......
+a9s: Why the hell did they steal from the Resistance in the first place?
+a9s: You think Anemone might know something, 2B?
+a2b: Let's find out.
+ane: Yes? Can I help you?
+a9s: We need to check something with you, actually.
+a9s: Can you tell us about the YoRHa soldiers who were stealing your supplies?
+ane: This is the first I've heard of it.
+a9s: Huh?
+ane: I mean, we keep our supplies in multiple locations, but so far as I know, nothing's gone missing.
+a9s: I see. Well, thanks.
+a9s: So it turns out those soldiers didn't actually steal anything. Which means...what?
+a9s: ......
+a9s: 9S to Command, come in.
+op210: Operator 21O here. Go ahead.

@@ -1,0 +1,100 @@
+villager: What should we play next?
+villager: Everything was shaking so much! It was so loud!
+villager: I should probably be more careful while playing from now on.
+villager: Wow, that was a HUGE earthquake!
+villager: Are you okay? 'Cause I'm okay! I don't go down that easily!
+villager: In my house, everything's within arm's reach.
+villager: It's a comfortable life. I have everything I need.
+villager: I don't need a house.
+villager: Sure, sometimes it would be nice to be warm and cozy, but out here I'm always free.
+villager: I heard an explosion in the distance. Are you okay?
+villager: Stay out of trouble!
+villager: Hmmm...
+villager: I'm trying to think of games we can play with their stubby little legs...
+villager: Maybe we should just settle for tag.
+villager: Yeah, tag's not bad.
+villager: Just because I'm big doesn't mean I'm strong...
+villager: I wish I was as big as him!
+villager: O, powers that be! Grant me a bigger body!
+papa: This is bad. This is really bad...
+villager: Welcome to our village!
+villager: Hello. Nice day we're having!
+villager: Let me know if I can help you with anything.
+villager: I think I've had my fill of this place. I'd like to go somewhere else, but my carrier isn't showing up.
+villager: He just doesn't seem to care about punctuality at all! Or perhaps he's angry I keep asking him to carry me everywhere...
+villager: I'm so tired from carrying my friend. I just need a little rest.
+[[st1\r140\r140_9fbdc6a2_scp.bin]]
+papa: My son told me how you helped him. Thank you.
+papa: I fear this is in no small part my fault, for I put all the burden of raising him on my wife.
+papa: You certainly did!
+papa: I'm sorry, dear.
+papa: Yeah, Daddy! You should play with me more!
+papa: I'm sorry...
+papa: Well, as long as you've learned your lesson...
+papa: Yeah! Learned your lesson!
+papa: I was hoping one of you would take my side...
+papa: I suppose I should try to be more of a "family man," as they say.
+papa: But what does that entail, exactly...?
+papa: Thank you for saving my son.
+papa: I feel like I understand him better than before.
+papa: I know that raising a child is never easy, but I feel it's worth the struggle.
+child: Hey! Thanks for before!
+child: I'm a really good boy now. I listen to EVERYTHING Mommy says!
+child: Really!
+child: I'm good now! I'm really, REALLY good!
+child: Really! I mean it!
+[[st1\r140\r140_cd4fd96a_scp.bin]]
+n02: Stop! Do not kill!
+n02: No fighting! No fighting!
+n02: Don't kill! Don't kill!
+n02: We have done nothing bad!
+n02: I'm sorry! I'm sorry!
+a9s: ......
+sister: I heard my sister was...found in the desert.
+sister: I can't believe she's no longer functioning while I'm still here...
+robochild: This is sooo fuuuun!
+robochild: It's a thank-you present!
+robostrange: ......
+pascal: Superb! Thank you for this valuable information.
+pascal: Please take this as a reward.
+robomother: Will you listen to my darling boy? He has a goal now! How wonderful!
+robomother: And it's all thanks to you!
+robomother: Rrrrgh! What am I supposed to DO!?
+villager: Ah, <SARU_JAN>...
+villager: There is no meaning in war.
+villager: <SARU_JAN>'s right.
+villager: Hello. Nothing to report from the village today.
+villager: You can relax here for as long as you like.
+villager: Nothing much happens here, but that's what makes us so special!
+villager: Wander around. See the sights. It'll do you good.
+kj: Anything here catch your eye?
+kj: I'm going to go see the guy in the forest soon.
+kj: He taught me how to make things, and I can vouch for his talent.
+kj: Come see me again.
+ps: Look around as much as you like.
+ps: Come again!
+villager: When I woke up this morning, I'd lost another torso.
+villager: That guy found one just lying around, so I should probably go see what I can find.
+villager: You have no idea how tough it is having to search for body parts.
+villager: Look, look! I found another torso for my body!
+villager: It was right outside the village!
+villager: Can you believe it!?
+villager: I just need one more and I'll have my triple-belly!
+villager: I haven't seen any forest animals recently.
+villager: I hope they're doing okay.
+villager: You and I, we have the same smell about us.
+villager: And no, I don't mean the smell of machine oil.
+villager: You're the only one who keeps visiting me here. You sure are an odd one.
+villager: There's nothing to do here, although I can provide casual conversation if required.
+pascal: I saw a huge explosion far off in the sky.
+pascal: Forgive my intrusion, but...was it something connected with you?
+pascal: I realize this village could never replace your home, but please know that you are always welcome here.
+pascal: Please make yourself at home.
+villager: Heya! How ya been?
+villager: I've been fine. I'm always fine!
+villager: So do you wanna play with us?
+villager: Uncle Pascal always says your health is more important than anything!
+villager: You wanna play with us? It'll be healthy!
+villager: I decided to play with the rest of the kids after all.
+villager: They kept begging me to, so I had to oblige, ya know?
+villager: So what should we play today? Tag or hide-and-seek? I'm up for either!

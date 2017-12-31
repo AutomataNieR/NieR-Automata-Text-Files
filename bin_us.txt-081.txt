@@ -1,0 +1,100 @@
+kj: Do you need anything?
+kj: Right-o! This weapon is now Level 3.
+kj: That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.
+kj: If I ever met someone like that, I'd want them to teach me all they knew!
+toolshop: I'll back you up no matter what!
+toolshop: If you need anything at all, let me know.
+toolshop: Come back soon!
+dbl: Welcome back. You need anything?
+dbl: It's been getting more dangerous recently. Make sure you're ready.
+dbl: Take care.
+ppl: Welcome back. You need anything?
+ppl: It's not going to be easy, so we've got to be prepared.
+ppl: Take care.
+ane: Oh, it's you. Did you get the Goliath coordinate data?
+ane: With two machines like that around, you'd better be extra careful out there.
+ane: If you want, you can rest here. It's nothing fancy, but it's all we have.
+ane: It seems like a lot of androids went missing in the latest mission.
+ane: We set up a search party, but we can't get to the more dangerous areas, so the rescue mission isn't faring well.
+ane: I know you're in a hurry, but it'd be terrible if something happened to you. Make sure you're well prepared before setting out.
+ane: Everyone... They're all... No. Some of them must have managed to escape.
+ane: Sorry, but this is all I can give you at the moment.
+ane: Are you well? Any injuries?
+ane: I'm not quite back to normal, but I'm prepared, so I can support you.
+ane: If you need anything, make sure you pick it up before you go.
+ane: This will settle everything. ...Glory to mankind.
+ys: It's so relaxing to listen to music...don't you agree?
+sele: Yep.
+sele: Nope.
+ys: I could tell you were a connoisseur just by looking at you! Here, have this.
+ys: This is what people used to call a "jukebox," a machine that plays music.
+ys: You can play any song you like on it, as long as you have the necessary records. It's yours to use!
+ys: You don't? Hmm. That's too bad.
+[[st1\r110\r110_6b1cbecb_scp.bin]]
+manager: Sorry, but can you come back later?
+manager: I can't just sit here while everyone's fighting so hard around me. I need to shape up...
+manager: Up ahead is the material storage site. \nSorry, but it's off-limits.
+manager: This place is off-limits.
+manager: What a beautiful sound...I could listen to this all day...
+manager: You're free to come and go here whenever you please.
+resiman: We don't know where the enemy will attack from, so we have to keep watch at all times.
+resiman: We aren't very good at fighting. I'm jealous of you combat types.
+resiman: Nice weather we're having, eh?
+resiman: That guy really seems to like you. Don't worry—he's a good man at heart, though he sure likes to brag.
+resiman: I've heard a lot about you. You're doing great work!
+resiman: We may not be geared for battle, but we ARE good at investigating.
+resiman: You know about map data, right? We helped make that. In fact, I was one of— Hey! Are you leaving already!?
+resiwoman: ......
+resiwoman: Sorry. I have to concentrate on this or I'll screw it up.
+resiwoman: ...
+resiwoman: ......
+resiwoman: .........
+resiwoman: DO YOU MIND!?
+resiman: All of the Resistance members in this area are based in this camp.
+resiman: So we need to strictly manage everything and everyone that comes through here.
+resiman: If you're ever short on anything, go talk to the guy in charge of supplies over there.
+resiwoman: How are you? Do you like the camp? Do YoRHa soldiers ever get homesick? What do you think of the Resistance?
+resiwoman: Our leader's nice. Really nice. Super nice! Hey, don't look at me like that. It's because I talk so much, isn't it? It's a bad habit but
+resiwoman: I can't help it and everyone teases me for it but my thoughts just explode and when I try to speak it just all comes out at once in a big tidal wave of words so then
+resiwoman: I try to explain why I talk this way but I explain so quickly nobody seems to understand what I'm saying so that never gets me anywhere and
+resiwoman: everyone just stares blankly at me and it's really annoying because when I try to slow down to their level I can't get across what I wanna say but our leader is...
+a2b: (How can anyone possibly talk this much?)
+a9s: (Wow. Is she EVER going to stop?)
+resiwoman: What's wrong? Is something wrong? There is, isn't there? Don't be shy you can tell me and I'll support you as best I can even though
+resiwoman: there's nothing much I can do because I speak so fast I don't get along with the others and so maybe that's why my memory's not so good either which is why
+resiwoman: I'm mostly in the camp sorting supplies but recently I've been participating in the investigations around the area and just the other day I started...
+a2b: ......
+a9s: ......
+resiwoman: Before that whole thing happened with the moon, this area actually had a proper night time.
+resiwoman: She's a pretty odd gal, ain't she?
+resiwoman: I don't think we've met. Er, HAVE we met? Sorry. My memory circuit is corrupted, so I forget stuff all the time.
+resiwoman: 2B and 9S from YoRHa, eh? Nope, sorry, doesn't ring a bell.
+resiman: Hello!
+resiman: I've only just been assigned here, so...yeah. Can't really tell you much about this place.
+resiman: The abandoned factory is west of camp, and the desert is...northwest? Geez, I'm never gonna be able to remember all of this.
+resiman: Make sure you get regular maintenance. Also, if you want an upgrade, you should talk to the woman out front.
+resiman: YoRHa bodies are expensive, so don't go getting yourself hurt!
+resiman: I fixed the camp's transporter so that you can return to the Bunker. It's ready for you whenever.
+resiman: I'd like to fix other transporters as well, but I can't so long as the machines are in the way.
+resiwoman: I've been having this really weird feeling in my chest lately... I wonder what it could be.
+resiwoman: I was told there was nothing wrong with my body, but I'm sure this isn't normal for androids.
+resiman: My job is to look through the camp supplies and check our stock.
+resiman: When supplies are low, providers from each area send us what we need and leave it for us to manage.
+resiman: We've been doing lots of investigations lately, so I've been swamped.
+resiwoman: Psst... Uh-huh.
+resiwoman: ...Hmm? You wanna know what I'm saying? Well, it's none of your beeswax!
+resiwoman: Psst... Yes? Oh my!
+resiwoman: ...Hey! No eavesdropping!
+resiman: Geez, who made this mess?
+resiman: There's so much stuff here, it's hard to keep track of it all.
+resiman: Ahhh... I can't wait to have a drink after work.
+resiman: Humans used to have drinks and talk together after work. That's a tradition we should bring back!
+resiman: It must be tough having to spend every day of your life in combat.
+resiman: No matter how hard you push yourself, what will be will be. So take it easy!
+resiwoman: Hiya! Here to take a load off?
+resiwoman: I'm always telling him he should rest sometimes, but he never listens.
+resiwoman: As soon as he gets back from his investigations, he goes to help at the item shop. He takes on every little task, even if he's no good at it.
+resiman: So this goes here... Ummm...
+resiman: That's odd. Why isn't it moving?
+resiman: I'm endlessly carrying things, day after day after day. I need a break!
+resiman: There's so much work, my colleagues are useless, my superiors are tyrants, and this war shows no signs of ending!

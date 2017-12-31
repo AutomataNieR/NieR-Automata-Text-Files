@@ -1,0 +1,100 @@
+sele: Help the mother.
+sele: Refuse.
+robomother: Rrrrgh! What am I supposed to DO!?
+robomother: Get this door open and drag my good-for-nothing son out here this instant!
+a9s: All right, all right! Sheesh...
+a9s: Yep. That's an electronic lock, all right ...Um, hello in there? Hellooo?
+robochild: ......
+a9s: Your mother is worried about you. So how about you unlock the door and come out?
+robochild: ......
+a9s: Looks like he's ignoring me.
+pod153: Proposal: Destroy the core to open the electronic lock.
+a9s: That seems to be my only option.
+a9s: ...Damn. That lock's stronger than I thought.
+robochild: ......
+robomother: Foolish child! I was worried sick about you! Why on earth did you barricade yourself in there!?
+robochild: 'Cause I was scared.
+robochild: Now that we're cut off from the network, I dunno what people are thinking.
+robochild: They're like...monsters. It's scary!
+robomother: Oh, my darling boy. It will be all right. Mommy loves you.
+robochild: Waaaaaah! Mamaaaaa!
+a9s: Um... So can I go now, or...
+robomother: Oh! Yes, of course. Thank you for your help.
+robomother: And take this. I insist.
+robomother: I'll try to help my son deal with his fears better from now on.
+[[quest\q801\q801_6c8f629a_scp.bin]]
+robomother: Get this door open and drag my good-for-nothing son out here this instant!
+a9s: ...Damn. That lock's stronger than I thought.
+robomother: Wait! You're that kind android from before! I hate to admit this, but my son has locked himself inside again.
+a9s: I figured he'd be over that by now.
+robomother: He tried so hard. I know he did! But fear has gotten the better of him and... Well, here we are.
+robomother: The lock is even stronger this time—without your aid, I'll probably be standing here forever!
+sele: Help the mother.
+sele: Refuse.
+robomother: Fine then. I guess I'll just have to do it myself! ...Rrrrgh! Stupid lock!
+robomother: Open this lock and get my son out here for me. Please!
+a9s: Let me try hacking it open.
+robochild: ......
+robomother: You had me worried sick, young man! I can't believe you did this AGAIN!
+robochild: I was scared.
+robochild: See, after I left the house, I...started to like this one girl. I thought I was gonna short-circuit whenever I looked at her!
+robochild: I never felt that before and it was... It was... It was SCARY!
+robomother: There there. It's all right. Next time, we'll go see her together. All right?
+robochild: 'Kay.
+robomother: Thank you again. Truly.
+robomother: I don't have much to give you, but I hope this makes up for some of your troubles.
+robomother: Oh, and feel free to come visit my child anytime you like. He seems...fond of you.
+a9s: That kid's got issues...
+[[quest\q900\q900_626a2689_scp.bin]]
+eml: Wow, you've sure gotten strong! I doubt you'll be needing my help anymore.
+a2b: What do you mean?
+a9s: What do you mean?
+a2: What do you mean?
+eml: Um, nothing. Don't worry about it. Take care now!
+a2b: Emil sure is acting odd.
+a2b: Pod—
+pod042: Pursuit marker placed on map. Target is heading toward the desert.
+a2b: Nice work.
+a9s: Emil sure is acting kind of weird.
+a9s: Pod—
+pod153: Pursuit marker placed on map. Target is heading toward the desert.
+a9s: Heh. Nice work. Let's go find him.
+a2: That round guy is acting kind of strange.
+a2: Pod—
+pod042: Pursuit marker placed on map. Target is heading toward the desert.
+a2: Huh. Maybe you're not totally useless after all.
+a2b: Are these... Emil?
+a9s: Are these... Emil?
+a2: What in the goddamn...?
+a2b: Emil!
+a9s: Emil!
+a2: Round thing! You okay!?
+eml: Watch...out...
+eml: They're still...alive...
+a2b: Wha...
+a9s: What is THAT!?
+a2: Oh, are you kidding me?
+emls: 
+a2b: Dammit...
+a9s: What's happening!?
+a2: Okay, this is NOT good!
+pod042: Alert: Magical weapons from the old world detected.
+pod042: Magical elements have a high probability of penetrating all defense systems.
+pod042: Proposal: Evade.
+a2b: Sound advice.
+a9s: I know that!
+pod153: Alert: Magical weapons from the old world detected.
+pod153: Magical elements have a high probability of penetrating all defense systems.
+pod153: Proposal: Evade.
+a2: It's not that easy, you dumbass!
+emls: I... We're...
+emls: Eternity... It hurts... It really hurts...
+emls: Why just us... Why do we have to...
+emls: We... We must...kill them all!
+emls: We don't need it! We don't need this world!
+pod042: Alert: Elemental output of magical weapons has increased.
+a2b: No...
+pod153: Alert: Elemental output of magical weapons has increased.
+a9s: I don't know how much more of this I can take!
+pod042: Alert: Elemental output of magical weapons has increased.
+a2: This is batshit!

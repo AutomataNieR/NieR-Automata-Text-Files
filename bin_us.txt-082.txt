@@ -1,0 +1,100 @@
+resiman: It's just bad news everywhere you look.
+resiman: All clear to the right! All clear to the left!\nNothing to report today!
+resiman: I'm taking care of the guard duties. I won't let even a single mouse get in.
+resiman: Does it seem like the enemy's been more active lately? I hope it's just my imagination...
+resiman: I'm secretly training so I can protect everyone when the time comes. But I still have a long way to go.
+resiman: YoRHa soldiers are amazing. To think how you could destroy all those machines just like that!
+resiman: Let's be careful out there! ...I probably don't need to tell you that, but hey, just in case.
+resiman: You were really amazing with those Goliath units! If you keep it up, this war will be over in no time!
+resiman: Make good use of the intelligence we gathered...
+resiman: Intelligence gathering is dangerous, so many prefer to procure goods instead.
+resiwoman: ......
+resiwoman: I'm busy recording information on the area that collapsed. You mind leaving me alone?
+resiwoman: ...
+resiwoman: ......
+resiwoman: .........
+resiwoman: Okay, RUDE!
+resiman: Our leader is tough, but that doesn't mean she doesn't worry. So don't go upsetting her, understand!?
+resiman: Make sure you replenish what you need. It's important to take care of yourself.
+resiwoman: Strange things keep happening around here, but only in this little area. I'm worried. Very, very, very worried.
+resiwoman: I went outside recently and got attacked by some of those dinky little machines—which aren't much compared to a Goliath, I know, but it still surprised me—but thankfully
+resiwoman: I had a partner with me who managed to take 'em out, so I avoided serious injury. Thank goodness for friends, am I right sure I am friends are the
+resiwoman: best I'm so grateful for all the—I'm doing it again, aren't I? I'm talking too much. Well, YOU started it, so let's keep the conversation going!
+a2b: ......
+a9s: ......
+resiwoman: Oh, you've come back! I appreciate you coming here even though you're busy because everyone always ignores me since I talk so much but you always talk with
+resiwoman: me which is really nice and hey you know who else is nice? Our leader! She treated my wounds recently because I cut myself carrying some stuff which was dumb but
+resiwoman: she was really worried especially because there was a LOT of blood but it wasn't as bad as it looked so I felt bad for scaring her like that and now
+resiwoman: I always try to be careful but I'm often thoughtless which is bad even though androids can just be repaired and go back to normal but
+resiwoman: our leader says I should be careful anyway before I really hurt myself and I know she's right but also think she worries too much.
+a2b: ......
+a9s: ......
+resiwoman: Aren't you the YoRHa I keep hearing about? Everyone's talking about your successes.
+resiwoman: If you ever feel low on energy, maybe take some of hers. It's exhausting just being around her!
+resiwoman: I've started taking notes recently. If I write things down on paper, I can remember the things I've forgotten.
+resiwoman: But it's pretty scary to consider. I mean, when your memories disappear, you stop being yourself.
+resiman: You're doing great! And bit by bit, I feel like I'm getting used to this environment.
+resiman: Okay, so north of the camp is the forest, and northeast is the machine village. ...Er, right?
+resiman: Everyone's been so busy lately. I've been helping with maintenance when I can, but it's pretty tough!
+resiman: Aren't you tired? It's good you're trying your best, but don't overdo it.
+resiman: I've been trying to repair the surrounding transporters, but the enemy keeps breaking them as soon as I finish.
+resiman: There's no point in the vending machine camouflage anymore.
+resiman: If you find any machines near a transporter, make them pay!
+resiwoman: You two always look so close. Honestly, I'm jealous.
+resiwoman: It's a secret from the others, but there are some good machines out there...
+resiwoman: I wish all the machines would just die already.
+resiman: Hi there, YoRHa ace! We're making sure we're equipped to support you to the utmost so you can fight at your best.
+resiman: I'm working. ...Look, there they go!
+resiwoman: Psst... Oh, I see!
+resiwoman: ...Hmm? You want me to tell you what we're talking about? Heck no! I still don't know you well enough.
+resiwoman: So anyway, I says to her...
+resiwoman: Eavesdrop all you want. It's nothing important.
+resiman: Um, let's move that to the box over there...
+resiman: I'm happy we're trading with Pascal, but it's still a little weird swapping stuff with machines.
+resiman: I found some old alcohol when the center of the city ruins was blown off, so I tried a little. It's really good!
+resiman: Don't tell my boss!
+resiman: Data processing must get worse when you drink. I feel so out of it, plus nothing seems to matter anymore.
+resiman: It's like I'm in a dream.
+resiman: I've been so busy lately that I haven't had a proper break. You've got to rest sometimes.
+resiman: ...What's that? I look like I'm always resting? Hey, mind your business!
+resiwoman: Make sure you take it easy, all right?
+resiwoman: You always seem busy, but you've got to make time for your loved ones, too.
+resiwoman: You're not going to be together forever... Not that you'll listen to someone like me, though.
+resiman: So that goes in here...and connects to this...
+resiman: Hmm... Why are there so many parts?
+resiman: You're still alive?
+resiman: We must survive at all costs. This is no time to be fainthearted!
+resiman: So much has happened recently. You must be exhausted!
+resiman: I'll carry out my work until the bitter end. Everything depends on it.
+resiwoman: Psst... Uh-huh... You don't say!
+a2b: ......
+a9s: ......
+a2: Who you talking to?
+resiwoman: It's rude to eavesdrop!
+resiman: Man, booze is the BEST! ...Is it gone? Please tell me it's not all gone!
+resiman: ...What? You gotta problem with me!?
+resiman: Why did I survive...?
+resiman: I shouldn't have survived. It should've been someone better. Someone who took his job more seriously.
+resiman: You think so too, don't you?
+resiman: Even with things the way they are, I'm scared of fighting. I don't think I can even move.
+resiman: I wish I could give up and stop caring.
+resiwoman: Resistance Camp to bunker. I'm sending Earth data.
+resiwoman: ......
+resiman: You again? What happened? Also, you should be more careful!
+resiman: Make sure you replenish what you need. You have to take care of yourself.
+resiman: Another casualty?
+resiman: ...No? Well, that's a piece of good news! We can only do simple repairs here.
+resiman: There's no use saying don't push yourself too hard, but at least try to look after yourself.
+resiman: Are you saving your data regularly? Even if you get a replacement body, you're as good as dead if your data's lost.
+resiman: Have you been saving your data regularly? If not, do it before it's too late!
+resiwoman: I know these bodies are basically just shells, but it pains me to see them injured...
+resiwoman: Are you injured? If not, then stay that way! Don't do anything reckless, and make sure to get enough rest.
+resiman: Why are you lazing around here? Your friends need you!
+resiman: There's not much we can do, but I'm relying on you!
+resiman: What happened!? ...Oh, and don't worry—I'm protecting this place.
+resiman: This is all we can do. At the very least, we've got to push on.
+resiman: Why are you here? Are we...under attack!?\nOh no! I've got to carry out the supplies right away!
+resiman: ...Oh, we're not? Geez, don't scare me like that!
+resiman: Everyone's depending on these supplies. I must protect them with my life!
+[[st1\r110\r110_7a562cb9_scp.bin]]
+hennawresi: Hey, you're with YoRHa, right?

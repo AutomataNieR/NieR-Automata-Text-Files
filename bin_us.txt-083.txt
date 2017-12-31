@@ -1,0 +1,100 @@
+hennawresi: Hmm? My mask?
+hennawresi: It's an electromagnetic-wave shielding device. I wear it to limit unnecessary information from the world.
+hennawresi: ...Ha! Just kidding.
+hennawresi: So what do you want? Are you worried about something or whatever?
+hennawresi: It was fun talking with you. Come back anytime!
+hennawresi: If you're worried about anything, you can always talk to me.
+hennawresi: See you later then.
+hennawresi: It must've been tough for you YoRHa.
+hennawresi: Now we've got no Bunker, and we can't replenish our bodies. So if we die, there's no more recovery.
+hennawresi: If you die now, it's the end, so I'd recommend saving as much as possible.
+sele: How do I save?
+sele: What's an access point?
+sele: What should I do if I die?
+sele: Where should I go now?
+sele: I feel motion sick...
+sele: This game is too difficult!
+sele: Request unlocking you-know-what.
+sele: I'm good.
+hennawresi: First of all, remember that this game doesn't auto-save.
+hennawresi: You need to activate that access point over there in order to save.
+hennawresi: Once you activate a terminal, you can save from anywhere nearby so long as you're within range.
+hennawresi: When there's a connection icon displayed on the top right of your screen, you can go to the System Menu and quick save.
+hennawresi: You can also use the access point here to return to that orbiting space station thingy of yours.
+hennawresi: The other access points are still undergoing maintenance, but you should be able to use them for transport soon.
+hennawresi: But—and I can't repeat this enough—don't forget that there's no auto-save!
+hennawresi: Connectivity is limited to certain areas, but you should be able to save in more locations by activating access points.
+hennawresi: Oh, and let me say it again... There's no auto-save!
+hennawresi: An access point is a piece of YoRHa equipment.
+hennawresi: More specifically, it's that thing.
+hennawresi: You can save and check your mail there.
+hennawresi: They're all disguised as wrecked vending machines outside the camp.
+hennawresi: They have a couple other functions, but I guess you'll learn about that when you use 'em.
+hennawresi: Sometimes enemies will attack terminals. In those cases, you won't be able to use them again until you get rid of the enemies.
+hennawresi: When you're walking, there should be a mini map on the bottom right. The <MAP_GOAL> icon there shows your next destination.
+hennawresi: You'll be fine so long as you follow the red marker.
+hennawresi: ...That's a good philosophical question.
+hennawresi: After a YoRHa body is destroyed, only its memory data is transferred to the new body.
+hennawresi: That means items aren't transferred—so if you die, you need to recover plug-in chips from your previous body.
+hennawresi: If you die again before recovering your plug-in chips, they'll all be lost, so take care.
+hennawresi: Basically, you need to recover everything from your previous body immediately.
+hennawresi: If you have any system-related questions, ask Maintenance.
+hennawresi: They handle everything from body maintenance to Pod adjustments.
+hennawresi: You can change the game difficulty at any time on the System Menu.
+hennawresi: In Easy mode, enemies are weaker and you can use special auto chips. Equip them and <KC_LOCKON> will activate automatic attacks and evades.
+hennawresi: Normal mode is a standard level of difficulty.
+hennawresi: The enemy gets stronger in Hard mode and you can't use any lock-on features.
+hennawresi: In Very Hard mode, not only is lock-on disabled, but the enemies are... Well, they're kind of insane.
+hennawresi: It's almost stupid difficult, but more daring players seem to like it.
+hennawresi: And hey, just between you and me, if you go to "Intel" and select "Tutorials," you may find out some things you didn't know.
+hennawresi: May be worth checking out if you're ever bored out of your skull!
+hennawresi: Oh, it's you.
+hennawresi: The truth is, I've opened a little side business. Gotta be real hush-hush about it though.
+hennawresi: See, there are certain...accolades given to a select few who really give their all. You know what I'm getting at.
+hennawresi: They're super tough to earn, which frustrates a lot of androids.
+hennawresi: So, with the help of some select volunteers, my company unlocks them.
+hennawresi: It's a secret, but check it out if you like...
+hennamresi: Ahh, this is amazing... This head is...amazing!
+hennamresi: Put this on, and you can see the whole world!
+hennamresi: Ask me something! Anything! I'm omniscient, I'm omnipotent, fire a question at me!
+hennamresi: You can ask me questions any time you want.
+hennamresi: Ooooh....You're a Scanner, aren't you?
+hennamresi: I know everything...
+hennamresi: ...Okay, maybe not EVERYTHING, but you can ask me anything you want to know about hacking.
+hennamresi: Ask me something again, sometime, okay? Promise?
+hennamresi: Go on, ask me about something. Like, I dunno, hacking?
+hennamresi: Ask me a question! Ask me a question! Come ooooon!
+hennamresi: Come back and ask me something if you're on your own. It gets so lonely!
+sele: Reading mail is inconvenient.
+sele: It's hard to see the 3D map...
+sele: What's the currency in this world?
+sele: What's a black box?
+sele: Teach me about hacking.
+sele: I don't have any questions.
+hennamresi: Well, it's true that you can only read mail at access points.
+hennamresi: Also, you can't send mail directly to other YoRHa units—that's to prevent secret information from getting out.
+hennamresi: Still, there are a lot of androids who use mail because they like how retro it is. Kind of a hipster thing, I guess.
+hennamresi: Ah, that's where satellite information is put into map data.
+hennamresi: The satellite camera doesn't have very good resolution, so you can't see fine details or tell what's underground.
+hennamresi: Other androids are also dissatisfied with it, but that's the way it is, I'm afraid.
+hennamresi: Some choose to walk on their own two feet and discover things for themselves... Hint, hint!
+hennamresi: You'll just have to get used to it.
+hennamresi: Basically, we take apart the enemies we destroy, and use their reconstructed parts.
+hennamresi: It's much easier than digging up the iron ourselves.
+hennamresi: Worth is decided according to weight of the enemy and value of the parts you obtained. We call that unit 'G'.
+hennamresi: ...Huh? What does 'G' stand for?
+hennamresi: Sorry! That's classified.
+hennamresi: You're asking me? It's something you YoRHa have inside you. I'm not that familiar with it.
+hennamresi: The black box is a fusion reactor installed in all YoRHa units.
+hennamresi: But we Resistance folks don't know much about its construction. Apparently it uses some kind of mysterious material...
+hennamresi: Say, maybe you'd let me rip it out of you and take it apart for analysis!
+hennamresi: ...No? Hey, fair enough. Can't blame a guy for trying.
+hennamresi: Since you're a Scanner, if you get close to an enemy, <KC_HEAVY_ATK> should appear. ...Er, I think.
+hennamresi: You can start hacking by pressing and holding <KC_HEAVY_ATK>, but there's a secret trick you can do as well.
+hennamresi: If you sneak up behind the enemies without being detected and hack into them...
+hennamresi: You can take over their systems and control them remotely!
+hennamresi: Not only that, but if you use that enemy to hack another, you can keep taking over one enemy after the next!
+hennamresi: You can even use them to disguise yourself as a machine when infiltrating areas they control.
+hennamresi: Give it a try sometime if you're interested.
+[[st1\r110\r110_7fe2a715_scp.bin]]
+select: Select a file.

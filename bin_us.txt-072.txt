@@ -1,0 +1,100 @@
+eml: Those are...what happened to my clones...
+eml: Years of multiplying...  Years of fighting in wars... Their sense of self just...deteriorated.
+eml: I need to settle things with them. On my own.
+a2b: Enough!
+a9s: Stop it! You have to stand down!
+a2: Shut up already, kid!
+emls: La la...la...
+emls: La la la...la la...la la la...
+emls: La la la la la la la la la la la...
+emls: I...
+emls: We tried our best!
+emls: In the rain. in the wind. In the storm.
+emls: Even when our companions died, we kept fighting.
+emls: But the eternal war... Our eternal pain... The eternal pain!
+emls: It screamed at us!
+emls: It told us there was nothing of value to protect in this world...
+emls: The world had no meaning! It SCREAMED at us!
+emls: 
+emls: 
+a2b: Aaaaah!
+a9s: STOP!
+a2: Shit!
+emls: You... All of you...
+emls: This pain!
+emls: This sadness!
+emls: This desperation!
+emls: You know nothing about it!
+eml: But even so! All of this is WRONG!
+eml: No matter how hard or how painful...
+eml: They never gave up.
+eml: They kept fighting because they believed they could overcome someday!
+eml: Isn't that right, Kainé!?
+eml: Even if it's pointless, you still have to do it!
+eml: Because this is the world my friend tried to save!
+emls: ......!
+eml: I think...this is it for me.
+eml: I can't believe I remembered something so important...right at the end.
+a2b: Emil...
+a9s: Emil...
+a2: Emil...
+eml: I was running...from the memories of losing those close to me...
+eml: It was so hard... So painful...
+eml: At the end...I did a lot of bad things to you, 2B.
+eml: At the end...I did a lot of bad things to you, 9S.
+eml: At the end...I did a lot of bad things to you, A2.
+eml: But now I get to see them again... Really soon...
+a2b: You'll be all right. We can repair you.
+a9s: Hold on, Emil. We'll repair you and get you back to normal.
+a2: Cram it already, kid. I'm sure we'll have you back up and running in no time.
+eml: Oh...hey! There you are...
+eml: I'm so glad...I got to see you all again...
+a2b: Emil...
+a9s: Emil...
+a2: Emil...
+pod042: Alert: Exiting the planned operational area.
+pod042: Proposal: Return to the operational area immediately.
+pod153: Alert: Exiting the planned operational area.
+pod153: Proposal: Return to the operational area immediately.
+eml: Oh! Heya!
+[[quest\q910\q910_8d8ebfae_scp.bin]]
+kj: Hmm? Haven't seen you before.
+toolshop: Who are you?
+adjuster: ......
+resiwomanB: Have I seen you somewhere before?
+resimanA: Hey, you gonna be all right with those wounds?
+pascal: Help! Help me!
+a2: Are those machines fighting each other?
+pascal: Thank you so much for saving me.
+a2: You're a machine too...
+pascal: Wait, please! I have no intention of harming you!
+pascal: My name is Pascal. And while it's true that I am a machine lifeform, I also detest fighting of any kind.
+a2: Uh huh. And?
+a2: Machines don't have souls. They're just murder bots with a fancy name.
+a2: They killed so many of us...and I swore to make them pay.
+pascal: Ah...I see.
+pascal: If that will save your soul, then so be it.
+sele: Destroy Pascal.
+sele: Let Pascal live.
+pascal: You...aren't going to kill me?
+a2: Just shut up and leave before I change my mind.
+pascal: You...
+pascal: ...
+pascal: No. Never mind.
+pascal: You have my thanks.
+ane: Number Two! You're still alive.
+a2: Sorry I haven't been in touch, Anemone.
+ane: You survived. That's all that matters.
+ane: Though I fear that all of your fighting companions are long gone.
+ane: I had to kill Number 21 with my own hands.
+a2: ......
+a2: I'm sorry.
+ane: No, it's...
+ane: Oh, that's right! Did you know there was a YoRHa member here named 2B that looked just like you? She's—
+a2: She's dead.
+ane: What?
+a2: 2B is dead. I killed her. She was infected with a logic virus.
+ane: Oh...
+ane: Well, please make yourself at home in our camp. I'll have someone show you aro—
+a2: Not necessary.
+a2: Her memories are contained in this sword.

@@ -1,0 +1,100 @@
+sele: Alien Manifestation
+sele: Significance
+sele: Emil's Shop
+sele: Humming version
+sele: Shop version
+sele: Random version
+sele: Instrumental version
+sele: Normal
+sele: J’Nique Nicole
+sele: Marina Kawano
+sele: Emi Evans
+sele: Music Box
+sele: Etc.
+sele: Chorus
+sele: Chorus & Strings
+sele: Strings
+sele: Rebirth & Hope
+sele: Crumbling Lies (Front)
+sele: Crumbling Lies (Back)
+sele: Guitar
+sele: Become a God
+sele: Become a God
+sele: This cannot continue
+[[st1\r130\r130_12b5a85a_scp.bin]]
+pascal: I...see. I will bear that in mind...
+[[st1\r130\r130_e5cfdb23_scp.bin]]
+a9s: We can rest easy now, huh?
+a2b: ...Yeah.
+a2b: What's this? Some kind of crystal?
+pod042: Analysis: It is a core fragment from the machine lifeform.
+pod042: It is similar in structure to a plant cell.
+a2b: A plant cell?
+a2b: It's just a statue.
+a9s: It's not moving. Maybe just a statue?
+a9s: No response...
+a2: Guess it's just a statue.
+rabit: Hey! Whaddya think yer doin' there!?
+a2b: It moved!
+a9s: Agh!
+a9s: Die!
+a2: You little...!
+pod042: Proposal: Defeat the giant machine lifeform.
+pod153: Proposal: Defeat the giant machine lifeform.
+rabit: Why y'all swingin' at cute ol' me now!? Ain't you androids got no respect what fer livin' things!?
+rabit: Fer cryin' out loud, when it comes to cute, I'm the goldurn BOSS'a cute, ya hear!?
+pod042: Enemy silenced. Threat has been neutralized.
+pod153: Enemy silenced. Threat has been neutralized.
+n02: Let's be happy together!
+n02: Together! Together!
+n02: Accept my love!
+n02: Thank you! Thank you!
+n02: Congratulations! You're our first customer!
+n02: Welcome! Welcome!
+n02: Oh, what fun! Oh, what fun!
+n02: Oh, what fun! Oh, what fun!
+n02: Throw down your weapons! Surrender to love!
+n02: Hey! Hey!
+n02: Welcome!
+n02: Welcome!
+husenoto: Have fun!
+n02: Come again!
+n02: See you! See you!
+n02: Break time!
+n02: Don't look at me!
+n02: Don't come closer!
+n02: You have business here? No?
+n02: Nothing here, you know.
+n02: Dangerous beyond here! Broken!
+n02: Junk! Danger!
+n02: Junk! Disappeared!
+junk: Shhh! Don't shout!
+junk: Can I help you?
+junk: Thank you!
+robowoman: Oh! Hello.
+robowoman: How are you?
+n02: Oh dear...
+n02: ¢% □◆!
+n02: Give...give...me...
+n02: ...Guh...
+n02: You'll be...the □◆£ ¢%th one...
+n02: ...Guh...
+n02: Fun...
+n02: ...Guh...
+n02: ...M-Machines...where...wh-whe...re...
+n02: ...Guh...
+n02: ...Please...die...
+n02: It...hu...it...it...hurts...
+n02: ...Guh...
+n02: ...Cust...om...er...augh...
+n02: ...Guh...
+n02: All...acting...strange!
+n02: I'm glad I rested.
+n02: Break time!
+n02: ...You...meat...vegetables...
+n02: ...Guh...
+n02: Jun...k...bro...ken... I... I...
+n02: ...Guh...
+junk: Shhh! Don't shout! What if they find us!?
+junk: Can I help you?
+junk: See you later. Hang in there!

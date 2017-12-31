@@ -1,0 +1,100 @@
+select: YoRHa Pearl Harbor Descent Personal Record—Part 1
+select: YoRHa Pearl Harbor Descent Personal Record—Part 2
+select: YoRHa Pearl Harbor Descent Personal Record—Part 3
+a2: Number 16... Number 21...Number 4...
+a2: I'm...sorry I'm still alive.
+a2: But I'll be joining you as soon as I finish some things up.
+a2: ......
+sele: Quit
+[[st1\r110\r110_be7ebe38_scp.bin]]
+a9s: This is pretty big. You sure it's okay for us to get a room like this?
+a2b: We have permission, remember? Plus, we'll probably be stationed here for a while, so a bed won't go amiss.
+a9s: Then I guess there's no point turning it down!
+a9s: Whew! I'm beat.
+a2b: We're heading right back out once you rest a little.
+a9s: Yeah, yeah...
+a9s: It's nice having a home to go back to, don't you think?
+a2b: What's this about?
+a9s: No, it's just... I'm starting to understand why humans lived in houses, is all.
+a2b: You have your own room in the Bunker.
+a9s: Yeah, but it's hard to relax in the Bunker, you know?
+a9s: Shall we rest a bit?
+a2b: ...All right.
+a2b: Let's take a break.
+a9s: Sounds great to me.
+a2b: It won't open...
+a9s: It won't open...
+pod042: Do you want to take a break?
+pod153: Do you want to take a break?
+sele: Yes
+sele: No
+pod042: Do you want to save?
+pod153: Do you want to save?
+sele: Yes
+sele: No
+pod042: Do you want to continue the game?
+pod153: Do you want to continue the game?
+sele: Yes
+sele: No
+[[st1\r110\r110_dd7422a2_scp.bin]]
+jukeBox: Which song would you like to play?
+sele: Stage
+sele: Battle
+sele: Scenario
+sele: Other
+sele: Stop Playback
+sele: Quit
+jukeBox: Which melody would you like?
+sele: Quiet
+sele: Medium
+sele: Dynamic
+sele: 8-bit
+sele: Back
+jukeBox: Which melody would you like?
+sele: With vocals
+sele: Without vocals
+jukeBox: Which song would you like to play?
+sele: Wretched Weaponry
+sele: Fortress of Lies
+sele: City Ruins (Rays of Light)
+sele: Peaceful Sleep
+sele: Memories of Dust
+sele: Amusement Park
+sele: Pascal
+sele: War & War
+sele: City Ruins (Shade)
+sele: End of the Unknown
+sele: Forest Kingdom
+sele: Previous
+sele: Next
+sele: Dark Colossus (Kaiju)
+sele: Copied City
+sele: The Tower
+sele: Song of the Ancients (Popola)
+sele: Possessed by Disease
+sele: Birth of a Wish
+sele: Emil (Despair)
+sele: Grandma (Destruction)
+sele: Bipolar Nightmare
+sele: A Beautiful Song
+sele: Dependent Weakling
+sele: The Sound of the End
+sele: Vague Hope (Cold Rain)
+sele: Voice of no Return
+sele: Mourning
+sele: Faltering Prayer (Dawn Breeze)
+sele: Faltering Prayer (Starry Sky)
+sele: The Color of Depression
+sele: Blissful Death
+sele: Broken Heart
+sele: Widespread Illness
+sele: Song of the Ancients (Atonement)
+sele: Treasured Times
+sele: Kainé (Salvation)
+sele: Emil (Sacrifice)
+sele: English Version - J’Nique Nicole
+sele: Kowaretasekainouta - Marina Kawano
+sele: Nouveau-FR Version - Emi Evans
+sele: the End of YoRHa
+sele: 8-bit
+sele: Weight of the World

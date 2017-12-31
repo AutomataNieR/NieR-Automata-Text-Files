@@ -1,0 +1,100 @@
+kj: Say, if you ever happen to run into her, say hello from me, all right?
+ane: You've changed, Number Two. The way you talk and act is completely different from how you were in the past.
+a2: And you've become a true leader.
+ane: I'm nothing compared to Rose.
+ane: ......
+ane: Actually, I... Well, I have the records stored on that external drive.
+ane: I thought I should preserve memories of the time we fought together.
+ane: And I also think you have a right to see them.
+a2: ......
+ane: You and I must never forget.
+a2: ...I know.
+ane: How's it going? You hanging in there?
+ane: If you're bored, there are plenty of people here who could use your help.
+kj: Hey there! I'm here for all your weapon-related needs.
+kj: Do you need weapons?
+kj: Don't be a stranger!
+toolshop: Welcome. What are you buying?
+toolshop: What would you like to buy?
+toolshop: Come back soon!
+ys: If there's something you want to listen to, feel free to change the song.
+ys: I like calm songs because they're soothing, but intense songs get you ready to kick some tail!
+bs: Hello. You're with YoRHa, aren't you?
+bs: This is the Maintenance Shop. I service and consult on all types of android bodies.
+bs: Can I help you with anything?
+bs: You can greatly increase your combat abilities with just a few tweaks here and there.
+bs: If you obtain any new chips or programs, make sure to try them out!
+bs: Need any maintenance?
+bs: Come back any time!
+sele: Shop
+sele: Ask for Advice
+sele: Never Mind
+bs: What would you like advice on?
+sele: Android Bodies
+sele: Upgrading Pods
+sele: Acquiring Additional Pods
+sele: Weapons
+sele: Motion Sickness
+sele: Back
+bs: Android bodies are just that: bodies that belong to YoRHa androids.
+bs: There are two ways to enhance them: experience points or plug-in chips.
+bs: Everyone knows what experience points are, so I'm not going to waste your time with a long-winded explanation.
+bs: Plug-in chips are items that enhance bodies. They have various functions.
+bs: However, we recognize that the process can be a tad confusing, and we don't want you rage-quitting over it.
+bs: So, I can actually recommend a chip setup based on what you're carrying right now. Wanna give it a try?
+sele: Yes
+sele: No
+bs: What do you want to focus on?
+sele: Balance
+sele: Attack
+sele: Defense
+sele: Never Mind
+bs: Got it. I'll get you set up right away.
+bs: Okay, you're all set.
+bs: There's a lot of depth to plug-in chips, so if you're interested, try experimenting with different setups to see how they work.
+bs: Pods are tactical support units provided to YoRHa. There are two ways to upgrade them.
+bs: The first is to take them to a maintenance shop like this one right here.
+bs: It'll cost money and materials, but you'll end up with a stronger Pod.
+bs: The second way is to equip them with new Pod Programs.
+bs: There are various types of Pod Programs, and they do everything from firing attack lasers to jamming enemy movements.
+bs: I've got a couple on sale here if you're interested.
+bs: You can equip multiple Pods at the same time, but they're pretty rare, so we don't ever get them in stock here at the shop.
+bs: If you manage to find another Pod or two, however, it'll make your life a lot easier!
+bs: I sometimes hear about Pods lying around in the desert or being dropped in the sea...
+bs: The latest YoRHa models can equip weapons from the Weapons tab in the System Menu, which is accessed by pressing <KC_MENU>.
+bs: You can equip two different sets with two weapons each, so try a few combinations to see what works for you.
+bs: Oh, and you can switch weapon sets using the <KC_SHORTCUT> shortcut menu.
+bs: Yikes! Well, before you barf everywhere...
+bs: Try going to System → Settings → Camera in the <KC_MENU> System Menu and changing the camera's behavior.
+bs: Alternately, I can just adjust your camera for you. What kind of setting would you like?
+sele: Reduce Motion Sickness
+sele: Restore Normal Settings
+sele: Never Mind
+bs: Okay, I'll adjust your camera settings.
+bs: There, all done! You can fine-tune things yourself later if you want.
+bs: You're the boss.
+ane: Welcome back. If you're running low on something, you can replenish it here.
+ane: Are you tired? Why don't you rest a little?
+kj: It's been tough lately, but it's important to get rest. Make sure you keep your weapons in good order, too.
+kj: Oh, do you need a weapon?
+kj: Come again!
+toolshop: Welcome. We have loads of good stuff here!
+toolshop: Are you looking for something?
+toolshop: Come back soon!
+dbl: Welcome. Is there anything you need?
+dbl: Are you looking for something?
+dbl: Good luck.
+ppl: Welcome. Is there anything you need?
+ppl: What do you need?
+ppl: I'm rooting for you.
+ys: Are you here to listen to music?
+ys: Long ago, the humans used to gather in places where music played. ...Just like us.
+ane: I'm so glad you made it back safely.
+ane: Do you need anything? It's dangerous outside, so be on your guard.
+kj: You can upgrade the weapons you buy here.
+kj: How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.
+kj: Give it a try if you like.
+kj: It sounds rough out there, so I bet you need weapons, right? Take your time and look around.
+kj: How did you...get that weapon...?
+kj: Oh, they died...?
+kj: YoRHa weapons save the external memories of whoever uses them. Please take extra care of...her.

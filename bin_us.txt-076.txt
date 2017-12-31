@@ -1,0 +1,100 @@
+a9s: Two to go...
+a9s: Seems like we'll need three authorization keys in total.
+announce: Congratulations! You've unlocked ALL of the sub-units!
+announce: That means a special prize is waiting for you inside the Tower!
+announce: We look forward to serving you!
+pod153: Alert: Enemy caution level rising.
+pod153: Cause is most likely concern over unit 9S gaining access to Tower.
+a9s: Outta my way!
+a9s: Damn it, they won't stop coming!
+pod153: Alert: Allied signal detected.
+a9s: Allies?
+[[quest\qb40\qb40_9403a9bc_scp.bin]]
+ys: Everything's proceeding smoothly. \nThere's no sign anyone's noticed any—
+ys: What's your problem? Get outta my face before I rearrange yours!
+ys: Back off! This is none of your business!
+ys: ...Yeah, just a minor annoyance. Nothing to get your undies in a twist over.
+ys: Hey, didn't you hear me the first time? Make like a machine and get outta here!
+ys: Man, these operators are so fussy! Wish they'd just get me the data I need and let me do my thing!
+ys: My partner seems...tense. Do you think it's something I did?
+ys: The operators try hard to explain everything, but I'm still so confused. ...I just hope I don't get in anyone's way.
+ys: Yeah, sorry, but I don't really get it. Can you explain it again? Maybe go a little slower this time?
+op: That concludes your mission summary. As for the detailed breakdown, the first thing to remember is...
+op: Um, unless something is literally on fire, please go away. I'm in the middle of a critical mission briefing.
+op: This unit was only manufactured recently, so she's still quite nervous.
+op: You aren't a full-fledged operator until you can summarize information accurately and concisely.
+op: She can relax a little, though. I'll cover for her. She's my partner, after all. You guys know what that's like.
+ys: Don't worry, I can take care of myself. I've got plenty of recovery items.
+ys: Uuuurgh...
+ys: Look, I'm grateful that people are concerned about me, but at some point they need to just let me go on a mission!
+op: Are you feeling all right?
+op: Do you have enough recovery items? How are your vital signs? It's critical to deal with injuries right away!
+op: I'm so worried... Maybe I should talk to one of the operators and request a model change.
+ys: Listen up! The future of the human race is in our hands! Now get out there and complete your missions!
+ys: If you come across any machines, show no mercy and grant no quarter! Their evil must not be forgiven!
+ys: Glory to mankind!
+ys: Just like our commanding officer, my dream is to kill scores of machines and contribute to humanity's great victory.
+ys: Glory to mankind!
+ys: Fighting isn't really my thing, but they assigned me to combat duty anyway. Wonder if I can transfer to being an operator...
+ys: Glory to mankind...
+ys: Our commanding officer loooves formalities. Me? I'd rather just get the orders over with and start the mission already.
+ys: Glory to mankind.
+op: They're so obsessed with giving orders, they forget to provide details about the actual mission! I sure hope we're going to be okay...
+op: Still, I'll be managing things once everyone's on Earth, so at least I know THAT part will go smoothly.
+op: Glory to mankind!
+ys: Do you believe... I mean, do you even know who this war is FOR at this point?
+ys: Er, never mind. I've said too much.
+ys: ...You don't have to watch me like that, you know? I'm not planning a rebellion or anything.
+ys: Feel free to report me to Command if you feel like it.
+ys: They wouldn't listen even if you did.
+ys: Hey, how's it going? ...Hmm? Us? Uh, we're fine, I guess.
+ys: Better than we were at the beginning, although we still have a ways to go. Lots of hard work ahead for sure.
+ys: Missions seem easier now—or maybe I'm just more used to them. I mean, I still get in the way sometimes, but I'm learning.
+ys: Mission received loud and clear! I won't let you down!
+op: ...And that concludes the mission briefing. I'll contact you later with further details.
+op: ...What? Why are you looking at me like that?
+op: Lately, she's been doing all her work perfectly. I'm actually starting to miss when she needed help.
+op: You guys always seem to be synched up. We're gonna make sure we are, too!
+ys: When you're fighting alongside your comrades, you can't just run away when things get hairy.
+ys: That's why I make sure to back up my data regularly and repair any injuries right away. ...So someone tell those operators to just relax already!
+ys: Combat troops exist to fight.
+ys: My comrades and I want only to contribute to humanity's great victory. Can I assume you feel the same?
+op: Don't ever let your guard down, you hear me?
+op: If you're in danger, back off and wait for reinforcements. Also, whenever— Hey! Are you listening to me!?
+op: You were damn lucky to escape unharmed the other day, you know? Next time things might not turn out so well.
+op: Maybe I should change to a combat model so I can help you out...
+ys: You did great in the last mission. Such efforts are how we will win this war and bring glory to mankind!
+ys: Justice cannot fail. We must endure on behalf of those who have fallen before us.
+ys: Glory to mankind!
+ys: I want to contribute to the victory of mankind, but right now, I just hold everyone back. I hope I finally get a chance to make a difference someday...
+ys: Glory to mankind!
+ys: I hate the thought of dying for humans when I've never even seen one.
+ys: I just want to keep living here with my friends. Is that too much to ask?
+ys: Glory to mankind...
+ys: If one of us is going to get hit, the commanding officer steps in to take it in their place.
+ys: But each time that happens, the officer's data resets—which means she never remembers any of us or what she did. It's so stupid.
+ys: Glory to mankind.
+op: If we made peace with the machines, no one else would have to die. Yet that's a trade-off some of us still aren't willing to make.
+op: Glory to mankind.
+op: "This is the Bunker. I'm uploading the data required for your next mission."
+op: ...What the hell are YOU doing here?
+op: We're fighting a war on Earth, you know? And you need to get down there and help out NOW!
+op: "This is the Bunker."
+op: "We're reading a sudden decrease in your vital signs. Please make sure you don't push yourself too hard."
+op: ...You know, while you sit here lazing about and eating bon-bons, someone is probably down on Earth stealing your glory!
+op: "This is the Bunker."
+op: "Are you experiencing anything unusual?"
+op: " Your vital signs appear normal, but there's always the possibility of undetected errors. It's about time you returned for maintenance."
+op: "No, wait! Stay on the line!"
+op: ...Dammit! I can't get through! What if something's happening?
+op: "This is the Bunker! Come in! ...Do you read me!?"
+op: "This is the Bunker. I'm uploading updated mission intel to you now."
+op: "Make sure to listen to your commanding officer, and don't push yourself too hard."
+op: Hmm? Done with your mission already? Must be nice!
+[[quest\qb40\qb40_b490bdc_scp.bin]]
+op: I never get tired of looking at Earth...
+op: The hangar? You can get to it from the elevator to my left.
+op: I hope we can return to Earth soon, together with mankind...
+opa: Hello there.
+opa: You're starting to get quite the reputation.\n...Oh, but don't worry! It's all good!
+opb: The way you used your black boxes to blow up those Goliaths was so awesome!

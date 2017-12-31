@@ -1,0 +1,100 @@
+villager: I'm getting tired of looking at the same view every day.
+villager: Maybe I'll go for a walk. It's been a while since I last went outside.
+villager: All I do is fly through the sky all day. Sometimes I just want to try something else.
+villager: I've been thinking about maybe getting a house.
+villager: I saw the sky go super bright!
+villager: I bet it was one of them shooting star thingies. I should make a wish!
+villager: Okay! Sooo...I wish to live happily with everyone in the village for ever and ever!
+villager: I'm not done playing yet!
+villager: So what should we play next?
+villager: Let's play red light, green light!
+villager: Even with a body this big, there are still ways for me to help people.
+villager: If I must, I'll even fight to protect my fellow villagers.
+villager: My neck hurts from looking up all the time.
+villager: And I don't even know where my neck is!
+villager: The world's too small for me.
+villager: And my neck's tired from looking up all the time!
+papa: This is bad. This is really bad...
+villager: Welcome to our village!
+villager: Hello. Nice day we're having!
+villager: Let me know if I can help you with anything.
+villager: I was having so much fun being carried around, I think it made my friend angry. Since I don't have arms myself, I never really thought about how I might be putting him out.
+villager: We're friends again, but I wonder if he'd be willing to carry me more if I gave him some oil for his arms...
+villager: It's no fun playing on your own.
+villager: That's why I made up with my friend. We agreed I only have to carry him three times a day.
+[[st1\r140\r140_dc76121c_scp.bin]]
+mama: My husband still hasn't returned. He went to look for our son some time ago, and...
+mama: Well, I just hope the two of them are all right.
+[[st1\r140\r140_ea0da2aa_scp.bin]]
+sister: Thank you for bringing my sister home.
+youngsister: I promise not to make my sister worry any more.
+[[st1\r140\r140_f82d8b66_scp.bin]]
+n02: Stop! Do not kill!
+n02: No fighting! No fighting!
+n02: Don't kill! Don't kill!
+n02: We have done nothing bad!
+n02: I'm sorry! I'm sorry!
+robochild: This is sooo fuuuun!
+robostrange: ......
+robomother: Rrrrgh! What am I supposed to DO!?
+villager: This is our village. I keep it safe.
+villager: I'm ready to change shifts.
+villager: Welcome to our village...
+villager: Er, make yourself at home...
+kj: Welcome! Even though none of the villagers want to fight, I have weapons here just in case.
+kj: Care to take a look?
+kj: Back again? Feel free to look around.
+kj: I learned how to make weapons from a legendary swordsmith in the forest.
+kj: I wish he'd come to the village...
+kj: I love peace, but I also love weapons. ...I guess that doesn't make a whole lot of sense.
+kj: Come back any time you like.
+sp: Welcome. Are you looking for anything?
+sp: Come back whenever you like. No need to be shy.
+villager: Ah, <SARU_JAN>...
+villager: What's so amazing about this <SARU_JAN> guy?
+villager: I don't get what's so special about this <SARU_JAN> fellow at all.
+villager: Look at him and his three-tier belly! That's so cool!
+villager: I want to add more tiers to my belly...
+villager: I'm standing watch to prevent miscreants from entering the village!
+villager: This path leads to the Forest Castle.
+villager: I love this place. It's so quiet.
+villager: Solitude makes you stronger.
+villager: It's important for people to have time to themselves, don't you think?
+villager: I'm not sure if machines count as "people," however.
+villager: Just to be clear, I'm not standing here by myself because I don't have any friends.
+pascal: The villagers here are all gentle and peace-loving.
+pascal: I love watching the children play. They're so full of energy!
+villager: Uncle Pascal! Let's play!
+villager: Come play with us!
+villager: Okay, but after we're done, you have to study.
+villager: Do you promise?
+villager: Okay! I'll study later!
+villager: Yeah! We'll study later!
+villager: So what do you wanna do?
+villager: Ummm...I dunno. I didn't think that far ahead.
+villager: Playing is kind of like studying in a way.
+villager: Don't you think?
+villager: I can play on my own. I'm all grown up!
+villager: Listen to them. It's all "Uncle Pascal this" and "Uncle Pascal that." What a bunch of babies!
+villager: What? Do you...want to play with me?
+villager: Well, if you reeeeeally want to, I guess I'll do you a favor. But just this once!
+villager: There is no meaning in war.
+villager: <SARU_JAN>'s right.
+villager: I like staying inside.
+villager: I love lazing about the house and enjoying the view.
+villager: I love being outside so much!
+villager: Flying through the forest... Listening to the leaves rustle...
+villager: I guess you'd only really understand if you could fly.
+villager: The view from the sky is awesome!
+villager: Ahhhhh... I love hanging out in high places!
+villager: Do you like heights too? The view from here is incredible!
+villager: I'd love to go to that castle in the forest, but Pascal said it's too dangerous.
+villager: Pascal made this slide just for us!
+villager: I love it so much! It's an addiction!
+villager: So this is that "slide" I keep hearing so much about, eh?
+villager: It's quite...fascinating.
+villager: I'll just look at it a bit more...from a safe distance.
+villager: N-not that I'm scared or anything!
+villager: What should we do today?
+villager: Play tag!
+villager: Um...um...jump rope!

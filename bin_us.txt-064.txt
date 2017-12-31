@@ -1,0 +1,100 @@
+dbl: Frankly, we're thankful to just have a job of any kind.
+dbl: Anyway, enough gabbing. Here's your reward.
+a9s: Oh, I couldn't possibly take this much.
+a2: Uh, guys? This is a LOT.
+dbl: Just take it already! It's not like we have anything to spend it on.
+ppl: Go on. You earned it.
+dbl: Maybe you'll agree to help us again later?
+dbl: Are you looking for something?
+[[quest\q561\q561_74b9a716_scp.bin]]
+ppl: Hello again.
+ppl: I'd love to sit here and chat, but we need to head out and take care of a job.
+ppl: Things are a little crazy around here at the moment. I need to get these materials post-haste and...
+dbl: Hey, Sis? Just ask already.
+a9s: You want me to get the materials for you?
+a2: Let me guess: You need a scrap collector.
+ppl: Oh, we couldn't possibly ask!
+sele: Agree to secure the materials.
+sele: Ignore the hint.
+dbl: Look, I'll be honest—I'm worried about sending Popola out to find this stuff.
+dbl: I was really hoping you might pitch in.
+dbl: Please? Pretty please? With cream on top?
+dbl: Thanks. This is a HUGE help.
+ppl: Devola, we can't keep asking people to—
+dbl: Yes we CAN, Sis! Let's just be grateful for the help.
+dbl: Anyway, I just need you to track down some desert roses.
+dbl: It's a pretty rare plant, but I'd start by searching around the old ruins in the desert.
+ppl: Sorry to put you through this. And please be careful! Some of the desert enemies are quite strong.
+a9s: Those desert roses the twins wanted should be around here somewhere.
+a9s: Finding one in a place like this won't be easy.
+a9s: Why are those two engaged in such dangerous work anyway?
+a2: Those desert roses the twins wanted should be around here somewhere, but finding them is gonna be a serious pain.
+a2: Why are they running such dangerous missions in the first place?
+a9s: That's the last desert rose. Better get these back to Devola and Popola.
+a2: That's it for the desert roses. Time to head back.
+dbl: Hey, thanks! This'll be more than enough desert roses.
+ppl: I know this wasn't easy. Thank you.
+a9s: Those two sure draw some difficult assignments, huh?
+pod153: Hypothesis: Continued difficult assignments will eventually have a deleterious effect on the entire organization.
+a9s: Hmm. Maybe I should talk this over with Anemone.
+a2: I don't get it. Why are the twins being stuck with all these crap jobs?
+pod042: Hypothesis: Continued "crap jobs" will eventually have a deleterious effect on the entire organization.
+a2: I'd better talk to the lady in charge about this.
+ane: Yes? What is it? ...And why are you scowling at me like that?
+ane: Ah. I see. This is about Devola and Popola.
+ane: I understand how unfair it must seem for them to keep getting our most difficult and dangerous assignments.
+ane: But I'm afraid that's going to continue for a while.
+ane: The others here... Well, they still haven't forgiven them.
+a9s: I don't understand. Forgiven them for what?
+a2: Forgiven them for what? And just who the hell are they, anyway?
+ane: That...
+ane: That's something you should ask them directly.
+dbl: Are you looking for something?
+[[quest\q562\q562_e10ec9ab_scp.bin]]
+ppl: Hello again.
+dbl: Hey! You have a second? I've got a little favor to ask.
+dbl: We need some tree sap to repair a tent, but there are some super strong enemies guarding it.
+dbl: We can't even dent the things with the flimsy little weapons we have, so maybe you can—
+a9s: Hey, Devola? Why do you two keep getting all these incredibly dangerous odd jobs?
+a9s: If fighting is involved, there are plenty of androids more suited for the task.
+dbl: I...
+dbl: ...
+dbl: I'm sorry...
+a2: Shut up for a second. Why do you two keep getting assigned the most dangerous jobs?
+a2: You're not exactly equipped to handle this kind of thing.
+dbl: We really should be handling our own tasks.
+ppl: Devola...
+sele: Help the twins out.
+sele: Do nothing.
+a9s: No! It's not that! Honestly, I'm happy to help you guys if you need it.
+a9s: I'm YoRHa, remember? I'm way more suited to this line of work than you are anyway.
+a9s: What was it you needed again? Tree sap?
+a2: Stop it. I'll take the job.
+a2: I'm better at killing crap than you, anyway.
+a2: What was it you needed again? Tree sap?
+dbl: That's okay. We'll handle this one ourselves.
+ppl: Devola, I think we should accept the assistance.
+dbl: Come on, Sis! We can't keep—
+ppl: Thank you. You have no idea how much this helps.
+dbl: Sorry we had to ask this of you...
+a9s: Oh shoot! I forgot to ask Devola where to find that tree sap she wanted.
+a9s: Pod, search for regions where I might be able to obtain tree sap.
+pod153: Search already performed. Regions rich in tree sap marked on map.
+a2: Aw, crap. I forgot to ask the redhead where to find tree sap.
+a2: Where the heck am I gonna find that?
+pod042: Search already performed. Regions rich in tree sap marked on map.
+a2: Well, aren't YOU a helpful little box?
+pod153: Alert: Hostile machine lifeforms detected.
+a9s: The ones Devola mentioned, maybe?
+a9s: What's with the crazy shape?
+pod042: Alert: Hostile machine lifeforms detected.
+a2: Well, let's get it over with.
+a2: Huh. That's...something.
+a9s: Now I just need to collect some tree sap.
+a2: Now that the fun's over, it's time to collect some tree sap.
+a9s: Hopefully this is enough sap.
+a2: That oughta be enough sap. Time to head back.
+ppl: Hello again. Did you manage to secure the tree sap?
+ppl: Thank you. I know this must have been difficult.
+a9s: Is Devola...sleeping?
+a2: Is Devola...sleeping?

@@ -1,0 +1,100 @@
+[[quest\q660\q660_f737718_scp.bin]]
+roborece: Hello hello! Welcome to the amusement park!
+roborece: Here's your stamp card. If you collect all the stamps, you'll win a free prize!
+roborece: You'll find the stamps inside the amusement park. Make sure to search high and low!
+roborece: And just between you and me, I hear that the prizes are more than just free—they're DELUXE!
+roborece: Off you go then. Good luck, and have fun!
+pod042: Stamp discovered.
+pod042: It is advisable to recover as many of these collectible items as possible.
+pod042: Proposal: Imprint the stamp upon the card.
+a2b: You mean "stamp it"?
+pod153: Stamp discovered.
+pod153: It is advisable to recover as many of these collectible items as possible.
+pod153: Proposal: Imprint the stamp upon the card.
+a9s: You're taking this pretty seriously.
+pod042: Stamp discovered.
+pod042: Proposal: Imprint the stamp upon the card.
+pod153: Stamp discovered.
+pod153: Proposal: Imprint the stamp upon the card.
+robozombie: Leeeet's...plaaaaay...
+pod042: Stamp discovered inside enemy body.
+pod042: Proposal: Destroy the enemy and imprint the stamp upon the card.
+a2b: Easy for you to say.
+pod153: Stamp discovered inside enemy body.
+pod153: Proposal: Destroy the enemy and imprint the stamp upon the card.
+a9s: Why the heck is there a stamp INSIDE a machine?
+robozombie: Plaaaay...with meeeee...
+robozombie: Play...
+robozombie: Plaaaaay...
+robozombie: Thaaanks...for plaaaaying...with meeeee...
+jyuri1: O Romeo, Romeo, wherefore art thou, Romeo?
+romi1: Ah, Juliet, Juliet, wherefore art thou, Juliet?
+jyuri2: O Romeo, Romeo, which one of thou art Romeo?
+romi2: Ah Juliet, Juliet, I am not wholly sure!
+jyuri3: O Romeo, Romeo, then let us cull thy numbers!
+romi3: Ah Juliet, Juliet, then I shall take thy life!
+jyuri1: Die, Romeo! Thou stupid asshole!
+romi1: I shall make thee regret the day of thy birth!
+jyuri2: I shall make thee taste dirt!
+romi2: Diiiieeeeeee!
+jyuri3: Meet thy doom, O wretched man!
+romi3: Begone from this world forever, wench!
+jyuri1: I'll kill thee!
+jyuri2: I'll tear the shit out of thee!
+jyuri3: Owwww! Aaaah!
+romi1: Destroy!
+romi2: Die die die!
+romi3: Pisseth off!
+jyuri3: ......
+jyuri3: My Romeos are no more. I have slain them each and all.
+jyuri3: I must join them anon!
+reception: Ummm... Well, I suppose this marks the end of our production of "Romeos and Juliets."
+reception: Please watch your step as you exit.
+reception: If you'd like to have your card stamped, please come this way.
+reception: Right then. Here you are.
+reception: Hmm? You've already received the stamp for this attraction.
+audience: Oh, Juliet, Juliet... Just thinking of you makes my core all warm and fuzzy.
+audience: This play doesn't make any sense at all.
+audience: Bravo! Truly a most spectacular performance!
+audience: So we started out with 3 Romeos and 3 Juliets, and now there are none...
+audience: Wait! It's all starting to make sense now!!
+audience: So this is a piece of literature from the old world? Hmmm. I believe it speaks of the cruelty of mankind.
+audience: I came all the way here from the village to see this play everyone's been talking about.
+audience: I haven't been this deeply moved by anything before! I'm going to go home and tell all my friends!
+roboeerie: Saaaay. You...you wanna stamp?
+roboeerie: Here... Take it... Eh heh heh heh...
+roboyell: Yahoo! Stamps! Stamps stamps stamps!
+roboyell: One stamp, comin' up! Oh yeah, I love stamps. Let's do this thing!
+robosmail: Aaaah ha ha ha! The world is hilarious!
+robosmail: A stamp? Sure! I'll stamp whatever you want! Aaaaah ha ha ha!
+robocry: *sniff* S-So sad... I g-guess you want a dumb stamp, huh?
+robocry: Fine... I'll stamp it with m-m-my tears! Waaaaaah!
+robokiller: BACK OFF, ASSHOLE! WE MACHINES ARE ALIVE! YOU GOT THAT?
+robokiller: YOU SHOULD DIE! ALL OF YOU SHOULD DIE! AND THIS GODDAMN STAMP SHOULD DIE TOO!
+pod042: Alert: All stamps have been obtained.
+pod042: Proposal: Return to the entrance and secure the promised "deluxe prize."
+a2b: Deluxe, huh?
+pod153: Alert: All stamps have been obtained.
+pod153: Proposal: Return to the entrance and secure the promised "deluxe prize."
+a9s: Deluxe? We'll see...
+roborece: Hey, you got all the stamps! Great job!
+roborece: Did you enjoy your time here? Or maybe not?
+roborece: Well, it doesn't really matter. Though I'm sure you realize that by now.
+roborece: Whether or not you enjoy something simply depends on your own heart.
+roborece: This place is but a mirror that reflects one's true self back at them.
+roborece: Anyway, here you go: One deluxe prize, coming up.
+roborece: Come again anytime!
+[[quest\q680\q680_51d704e4_scp.bin]]
+n02: Hello! You're an android, are you not?
+n02: Let me ask you something: Do you think the world is full of love?
+sele: Er, it might be?
+sele: No.
+n02: Don't you think we all need to express more happiness in our daily lives?
+sele: I suppose?
+sele: No.
+n02: Exactly! In which case...
+n02: You seem like just the person to help me make this world a better place!
+sele: Sure, I guess.
+sele: No.
+n02: ...Really?
+n02: Do you believe in the dream of connecting the entire world with love?

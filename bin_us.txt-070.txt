@@ -1,0 +1,100 @@
+robolarge: SEIZE THEM! KILL THEM! DESTROY THEM ALL!
+robomedium: Violence rules this world! Violence is all!
+robosmall: KILL EACH AND EVERY ONE!
+robolarge: TEAR APART THOSE WHO RESIST US!
+robomedium: Kill! Kill! Kill kill KILL KILL!
+robosmall: BURN THEM TO DEATH! CRUSH THEM TO DEATH!
+robolarge: DRAIN THEIR BLOOD! EVERY DROP!
+robomedium: Another sacrifice for the altar!
+robosmall: I FEEL SO...SO ALIVE!
+robolarge: YOU WILL DIE WRITHING IN PAAAAAAIN!
+robomedium: All hail the machines!
+robosmall: GYA HA HA HA HAAAAAA!
+robolarge: EEEEE HEE HEE!
+pod153: Alert: This is one of the Resistance members we were asked to locate.
+pod153: No vital signs detected. The unit is deceased.
+a9s: Damn...
+pod153: Analysis: All missing Resistance members are deceased.
+a9s: I suppose we'd better return their belongings.
+resiman: ...Your face tells me everything I need to know. They didn't make it, did they?
+a9s: No. I'm sorry.
+resiman: I...see.
+a9s: This is what's left of their personal effects.
+resiman: Thank you.
+resiman: Now I'll just place these flowers with them...
+a9s: Er, flowers?
+resiman: Ah, yeah, I'm just imitating an old ritual.
+resiman: The human race had many traditions when it came to mourning their dead. I know that may not mean much to us, but...
+resiman: Well, I just want their souls to find some peace. That's the wish I'm putting into these flowers, at any rate.
+resiman: Thank you again for your help.
+resiman: Can I admit something? I'm...relieved that I was too injured to fight.
+resiman: I'm relieved because it allowed me to escape.
+resiman: Was there something I could have done?
+a9s: A tradition of mourning the dead...
+a9s: 2B...
+a9s: 2B.
+a9s: I'm not quite sure what it means to mourn, or even if we have a soul to concern ourselves with...
+a9s: But I hope you're at rest, 2B. Sweet dreams.
+a9s: I'll be with you before long.
+pod153: Target location data obtained. Marking on map.
+[[quest\q770\q770_59f68d25_scp.bin]]
+kj: Oh, you must be with YoRHa. I heard about what happened.
+kj: I deal in weapons, if you're interested in that type of thing.
+a9s: What kind of weapons?
+kj: Basically, I rebuild and repair relics from the old world.
+kj: Although to be honest, my tools are in pretty sad shape at the moment.
+kj: But if I can get the servicing device in that toolbox up and running, I could start fixing and selling weapons again. Take a look at it, will you?
+a9s: That looks busted, all right.
+kj: You know it! And as I bet you can tell, I'm no good at that sort of delicate repair.
+sele: Help him out.
+sele: Leave him to his own devices.
+kj: If I can't get that servicing device repaired, I won't be long for this line of work...
+kj: You mean it? That'd be a huge help!
+a9s: Looks like the servicing device shorted out. Must have put too much load on it.
+a9s: I'm thinking four complex gadgets will be enough to fix it.
+a9s: Any idea where I'd find complex gadgets?
+kj: Folks say you can find 'em over in the city ruins—although I also hear the place is crawling with incredibly aggressive machines.
+a9s: This is the place that weapons trader was talking about...
+a9s: Uh oh. I'm picking up hostile machine lifeforms.
+pod042: Hostile machine lifeforms destroyed.
+a9s: Whew! That was a slog and a half.
+a9s: Let's see if we can find any of those complex gadgets the weapons trader was after.
+a9s: That should be enough. Let's get these back to the trader.
+a9s: I think this should be enough to fix your broken device.
+kj: Well, how do you like that? Looks like I'm back in business!
+a9s: Good to hear.
+kj: You know it! I make these weapons to keep my friends safe, after all.
+kj: Although sometimes I wonder...
+kj: What if my weapons are just making my friends die all the faster?
+a2b: ......
+kj: Ah, never mind. Forget I said anything.
+kj: Anyway, come back in a little while, all right? I should have some new gear for you then.
+kj: Hey, it's you!
+robocreator: Oh, I almost forgot. I still owe you a reward.
+kj: I wanted to say thanks for helping me get things up and running again, so I whipped you up some upgrade materials.
+robocreator: Wanna try 'em out?
+sele: You bet!
+sele: Not this time.
+robocreator: Come to me whenever you need help with your weapons.
+a9s: Hey, so you craft new weapons from older models, right? But where do the older models come from?
+a2b: Hey, so where do you get these older weapon models from?
+a2: So where do all these older weapon models come from, huh?
+kj: Oh, the lady who owns the place sends 'em over every once in a while.
+kj: Her name's Accord, and she's the proprietor of this here business. I just tend to customers and keep all the repair devices humming.
+kj: I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.
+kj: I don't know where she gets this stuff, but most of it's in pretty good condition!
+kj: Say, if you ever happen to run into her, say hello from me, all right?
+kj: You can upgrade the weapons you buy here.
+kj: How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.
+kj: Give it a try if you like.
+kj: Right-o! This weapon is now Level 3.
+kj: That's as far as we can take it here, but there are craftsmen in the world who can raise it to Level 4.
+kj: If I ever met someone like that, I'd want them to teach me all they knew!
+[[quest\q800\q800_bc7a2755_scp.bin]]
+robomother: You there! You must help me at once!
+a9s: What, me?
+robomother: My son put some kind of electronic lock on our house and holed his fool self inside.
+robomother: I've been standing out here for ages, and he's simply not responding to me at all!
+a9s: Er, I think what you need is a family counselor. I mean, not that machines have "families" to begin with...
+robomother: I insist that you help me get this stupid door open!
+robomother: Just break it down and get my son out of there.

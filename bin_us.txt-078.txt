@@ -1,0 +1,100 @@
+cmd: How is your mission progressing?
+op60: Hey, welcome back! ...So, um, can you show me the new data you brought?
+op60: Hmmm...
+op210: Yes? What do you need?
+op210: I'm busy trying to analyze the alien signal—but I'm not really getting anywhere.
+op210: I have an almost...insatiable interest in Earth, even though I'd never go there myself.
+op210: I'm an operator, you see. I'm more comfortable examining data in a setting such as this.
+bs: Need some maintenance? Maybe an enhancement or two? Lemme know!
+cmd: No matter how trivial it seems, report back any information from Earth at once!
+cmd: What are you doing here?
+cmd: We're in emergency protocol! Get yourself to the field immediately!
+op60: What are you guys still doing here? You should have made planetfall already! Come on, don't make me report you!
+op60: What are you doing? Get back to the mission immediately!
+op210: Your mission is on Earth. Not here.
+op210: Your continued presence here is a gross violation of orders.
+op210: Get back to your mission at once!
+cmd: I'm glad you're safe, 2B.
+cmd: However, we lost contact with some of our units while out on a mission. Do you think you could go look for them?
+cmd: We've taken serious casualties; we can't withstand another attack of the same scale.
+op60: I'm sorry, but we don't have any new intel on 9S.
+op60: Don't do anything rash, okay, 2B?
+op210: Operator 21O to 9S. Do you read me?
+op210: Repeat, this is Operator 21O to 9S. Do you read, 9S?
+cmd: 9S! 2B's been trapped by the enemy! Go help her right away!
+cmd: Her life is in your hands...
+op60: 9S, please take care of 2B...
+op60: Please be safe, 2B...
+op210: If you head down the corridor, you'll find the server administration room opposite the command room.
+op210: In that room, you can interact with systems on Earth even from up here in the Bunker.
+op210: Excessive activity after repairs isn't recommended. Please refrain from overexerting yourself.
+cmd: All YoRHa to battle stations! Stay alert and report any unusual Earth-based activity at once!
+cmd: Dammit! What's going on?
+op60: I'm glad you're safe.
+op60: Communications with Earth are incredibly unstable. Please don't do anything too crazy, okay?
+op60: Be careful!
+op210: You tend to act recklessly. Please be cautious going forward.
+op210: Be careful.
+cmd: The mission is going well, but stay vigilant.
+cmd: All of our existence has been leading up to this day. Show them what you're capable of!
+cmd: Do not let this mission fail.
+op60: Hey, why are you still here? Do you want to get caught for violating orders!?
+op60: Are you still here? Hurry up and get to Earth!
+op60: I'll make up some sort of excuse for the Commander.
+op210: Why are you here? Is there a problem?
+op210: Return to your mission once you're ready.
+bs: Do you need some maintenance?
+bs: If you ever feel dissatisfied with your body's performance, just swing on by! We'll have you right as rain in no time.
+[[quest\qb40\qb40_f7708d83_scp.bin]]
+pod042: Do you want to take a break?
+pod153: Do you want to take a break?
+sele: Yes
+sele: No
+pod042: Do you want to save?
+pod153: Do you want to save?
+sele: Yes
+sele: No
+pod042: Do you want to continue the game?
+pod153: Do you want to continue the game?
+sele: Yes
+sele: No
+[[quest\qb40\qb40_ff6d92e9_scp.bin]]
+op: Want a piece of advice from someone who's been in your shoes before? Back up your data whenever you can.
+op: If you do that, it doesn't matter if you lose your body. You can just upload the back-up data to a new body and be on your merry way.
+op: Oh, and if you register your personal info at a transport terminal, you can back up data from Earth as well.
+op: Well, so long as you're within transmission range, anyway.
+op: Are you checking your mail regularly?
+op: Sometimes important mails sit around for weeks because the recipient doesn't know how to check 'em.
+op: So don't be that person! Check your mail regularly at a transport terminal, all right?
+op: When you've got a complicated mission, explaining it all verbally is tough on both us and you, you know?
+op: That's why we use a mail system. That way, you have a permanent record of all the details.
+op: Your bodies automatically register information from slain enemies to the database.
+op: It was a practical design decision to allow combat units to also collect intelligence.
+op: ...Yes? Do you need something? If not, I suggest conserving your energy for more important matters.
+op: Hi there. Boy, you two are thick as thieves, aren't you?
+op: I know you're only working together by coincidence, but it's still nice that you've become friends.
+op: Have you gotten used to engaging in missions on Earth? There's only so much we can do from here, but we'll back you up as best we can.
+op: Good luck!
+op: Did you know you can install plug-in chips to improve your body's performance?
+op: If you want to install a bunch of chips, go talk to the S-type model in the server administration room.
+op: Plug-in chips remain in your body after you die.
+op: So don't forget to recover your body if want them back.
+op: Say, I've got a question for you: Are you using your Pod effectively?
+op: Random, I know! But the thing is, you can install these things called Pod Programs that let you use special attacks.
+op: There are a bunch of different ones, so start tinkering and see which work best for you.
+op: Oh, and once you find a program you like, don't forget to set it!
+op: "This is the Bunker. Go ahead.\n...Say again? You lost your Pod!?"
+op: "Uh huh... Uh huh... Yes, I see..."
+op: "Well, a lost Pod will emit a distress signal, so try to locate that and then search the surrounding area. Bunker, out."
+op: And maybe don't LOSE IT NEXT TIME! Honestly...
+op: ...Oh. Hello there. Sorry you had to hear that.
+op: But yes, apparently one of my units managed to misplace her Pod somewhere in the desert.
+op: If you happen to find it, make sure it to give it a good home, all right?
+op: Do you need something? ...No? All right then.
+op: Urgh... I'm so tired...
+op: Only the Commander can approve communications with the Council of Humanity. YoRHa soldiers aren't allowed to make individual contact.
+op: For the most part, I'm the operator in charge of communicating with the Council.
+op: They don't contact us much, so most of my job is just keeping them up-to-date on the latest Earth happenings.
+op: They must really trust us, huh?
+op: You were fantastic in that battle the other day! I'm looking forward to seeing what you do next.
+op: Oh my gosh, this day is lasting foreeeeeeever...

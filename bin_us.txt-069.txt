@@ -1,0 +1,100 @@
+sele: I do.
+sele: No.
+n02: Ah. I see.
+n02: I see, I see. Then perhaps I can believe in you.
+n02: You see, there are many machines who detest fighting.
+n02: As such, I have decided to gather them together in order to hold a parade.
+n02: It will be a parade of love and friendship for all!
+n02: However, as it turns out, there are many among us who frown upon such outspoken expressions of peace.
+n02: Therefore, I'm hoping you will protect our parade in order to ensure the successful dispensation of its wonderful message.
+sele: Agree to guard the parade.
+sele: Turn down the request.
+n02: A pity. Well, if you change your mind, do let me know.
+n02: I wish to hold a parade to march to the Resistance camp as a symbol of our friendship. Would you be willing to help?
+n02: Thank you for your support!
+n02: If you could keep my companions safe while we conduct the parade, I would be ever so happy!
+n02: Now then... Let us show everyone the power of friendship!
+robos: Share in the happiness!
+robos: No more fighting!
+robos: Spread love throughout the world!
+robos: Live to have fun!
+robos: Abandon all hatred!
+n02: Ahhh! Help me! Please help me!
+n02: We did not come here to fight!
+n02: Please help!
+n02: All we need is love!
+n02: Noooooo!
+n02: Haaaaaalp!
+n02: I don't want to fight!
+n02: Happiness to all!
+n02: Thank you very much.
+n02: We managed to complete the parade without being annihilated.
+n02: I know this isn't much of a reward, but please accept it.
+n02: Ooooh... Why did such violence have to occur?
+n02: Still, I refuse to give up. I will try again!
+n02: This time, I swear to hold a parade that brings peace to the world!
+sele: Help the parade.
+sele: Refuse.
+n02: Don't be that way. Come, let's get going!
+n02: How wonderful! I think our joy really came across this time.
+n02: We'll soon be holding another parade elsewhere. I hope we can count on your support for that as well.
+n02: So do you...
+n02: Do you think us fools?
+n02: ......
+n02: I'm sorry. I hope to see you again.
+n02: Ah. It's you.
+n02: I'm afraid I was simply no longer able to deal with it.
+n02: Joy? Love? What is the point? Happiness wasn't going to keep me from getting killed, now was it?
+n02: ...Hmm? You wish to know where the rest of the paraders went?
+n02: They took off on some kind of journey. "To bring joy to the ends of the earth!" was their cry, if I remember correctly.
+n02: I lost contact with them once they reached the deep desert.
+n02: I imagine they're now dead by the side of some road.
+n02: No doubt they were rambling on about love and happiness to the bitter end. What madness...
+pod042: Requested mission failed.
+pod042: Alert: Exiting the planned operational area.
+pod042: Proposal: Return to the operational area immediately.
+pod153: Requested mission failed.
+pod153: Alert: Exiting the planned operational area.
+pod153: Proposal: Return to the operational area immediately.
+[[quest\q720\q720_bbe0d32e_scp.bin]]
+pod153: The hostile machine lifeforms have been defeated.
+resiman: Have you seen these folks, perchance?
+a9s: Hmm... Nope, sorry.
+resiman: They were part of my squad, but I lost contact when they went out for field research. If anything has happened to them...
+resiman: Well, to put it bluntly...if they're dead, I need to know so I can mourn them properly.
+a9s: Have you tried searching for them?
+resiman: I'd go myself, but my motor systems were heavily damaged some time back.
+resiman: Still, I just can't stop wondering what happened...
+sele: Help with the search.
+sele: Decline the request.
+resiman: I understand. Sorry to spring this on you.
+resiman: I want to search for them, but I can't abandon my work here...
+a9s: I'll look for them.
+resiman: You will?
+a9s: Sure. Can you give me an idea where to start?
+resiman: Last time I heard from them, they were in the flooded city.
+resiman: I'll give you their ID codes. We all wield dual weapons, so you should be able to find them easily.
+resiman: If they're dead, I'd appreciate if you could retrieve any personal articles you find.
+resiman: I lost contact with my friends in the flooded city. If they're dead, could you please retrieve their personal items for me?
+resiman: They were carrying two weapons, so they should be easy enough to spot.
+pod153: Alert: This is one of the Resistance members we were asked to locate.
+resiman: I appreciate the help.
+resiman: So he didn't make it, huh?
+resiman: You picked up other signals as well, right? The others might still be alive... Could you go and help them, please?
+a9s: I was afraid we'd find this.
+a9s: The only personal items are these dog tags...
+a9s: Analysis: Remaining transmission records indicate the Resistance members were attempting to retreat from battle.
+a9s: Analysis of final coordinates complete. Marking locations on map.
+a9s: Let's go take a look. Maybe some of them will still be alive.
+pod153: Alert: This is one of the Resistance members we were asked to locate.
+pod153: No vital signs detected. The unit is deceased.
+a9s: Man, there's blood everywhere. Whatever happened must've happened right here.
+a9s: Talk about a bad way to go...
+pod153: Alert: Emergency support request found in transmission records.
+a9s: When was it sent?
+pod153: Approximately twelve minutes ago.
+a9s: That means they're still alive. Let's go!
+a9s: Over there! Initiating rescue!
+robolarge: REVENGE! CLAIM YOUR REVENGE!
+robomedium: Avenge the pain of our comrades!
+robosmall: I HATE ANDROIDS! HATE THEM!
