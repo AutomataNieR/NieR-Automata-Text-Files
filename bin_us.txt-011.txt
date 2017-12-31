@@ -1,0 +1,100 @@
+a2b: Why them?
+adam: Because they are an enigma!
+adam: They killed uncountable numbers of their own kind, and yet loved in equal measure!
+adam: It's fascinating, don't you think? What could possibly drive such behavior?
+adam: We have dedicated ourselves to unraveling this riddle of humanity...
+adam: And now we will allow you to assist us.
+adam: You were made in their image, after all.
+a2b: Assist you with what?
+adam: It's simple...
+adam: We need you to locate the humans on the moon and bring them to us.
+adam: We will then dissect and analyze them in order to drag their secrets forth into the light!
+adam: Surely you see the attraction in this.
+a9s: Are you insane!? We'd never do that!
+a9s: Can you believe this, 2B? This guy's bonkers!
+adam: Well. I suppose this concludes negotiations.
+adam: The only remaining option...is to destroy you.
+adam: The same way we destroyed these pathetic little aliens.
+[[ph2\p200\p200_c3ab84c7_scp.bin]]
+a9s: 2B! You okay?
+pod153: Alert: All communications are currently being jammed.
+a9s: We'd better hurry...
+pod153: Goliath-class enemy sighted.
+a9s: Where's 2B!?
+pod153: 2B's black box signal detected nearby.
+pod153: She is likely engaged in combat.
+[[ph2\p200\p200_c44b75b3_scp.bin]]
+a2b: Damn it...!
+pascal: I was right. This IS shady!
+pascal: Fascinating, though...
+pascal: I've never seen machines with such...unique perspectives.
+pascal: I wonder if there's a way to collect some samples and—
+a2b: Less talk. More running.
+a9s: Don't do anything too reckless, 2B. We'll meet up later on.
+a2b: 2B to Bunker.
+a2b: We've had a run-in with hostile machines in the abandoned factory.
+a2b: We need an immediate escape route.
+prst: You also must die and become gods!
+prst: The afterlife is wonderful!
+prst: Death brings final tranquility!
+prst: Die and become gods!
+prst: Let us become gods together!
+prst: We shall become gods! We shall!
+op60: Op...here. What...2B?
+pod042: Communications are currently unstable.
+a2b: Loop a distress signal!
+pod042: Affirmative.
+a2b: Damn it!
+a2b: We're locked in...!
+pascal: 2B! The door on the other side of the room just opened!
+pascal: Let's check it out.
+rbot9s: Whoa, whoa, whoa, whoa, whoa! 2B!
+rbot9s: It's me! 9S!
+a2b: ...9S!?
+a9s: I hacked into this machine from the Bunker. I'm controlling it!
+a9s: I'm gonna break into this factory's systems and get you outta here!
+a2b: Appreciated.
+[[ph2\p200\p200_c544d6ad_scp.bin]]
+a9s: Um...
+a9s: Let's hear them out. Maybe we'll learn more about the machine lifeforms.
+pascal: Oh! It's 9S and 2B, yes?
+pascal: Those machines caused quite the ruckus, don't you think?
+a2b: We need to talk.
+pascal: Of course. I'll help however I can.
+sele: Ask about Pascal's pacifism.
+sele: Ask about the aliens.
+sele: Ask about the other machines.
+sele: Leave.
+pascal: Okay. Let me know if there's anything you want to talk about.
+a2b: Pascal. Why did you choose not to fight?
+pascal: We have been alive for hundreds of years.
+pascal: We lost countless friends, time and time again.
+pascal: But losing friends isn't what scares me.
+pascal: What scares me is the fact that I've grown used to seeing those I care about die all around me.
+pascal: That's why I decided I'd had enough.
+a2b: Do you know anything about the aliens?
+pascal: The...aliens? You mean the ones who created us?
+pascal: I'm sorry. There's not much I can tell you.
+pascal: We've been fighting for centuries without a single message from them.
+pascal: I guess you could say that the fact they never give us orders anymore is also a reason why we quit fighting.
+a2b: Pascal?
+pascal: Yes, 2B?
+a2b: Aside from this village, are there any other machines that are cut off from the network?
+pascal: Hmm...
+pascal: I suppose that unpleasant songstress you so kindly defeated in the amusement park wasn't part of the network.
+a9s: You mean that singing thing?
+pascal: Oh, and of course there's the forest kingdom, but—
+a2b: Forest kingdom?
+pascal: Yes. It's a vast woodland area not far from here.
+pascal: There's a group of machines there attempting to build a nation of sorts.
+pascal: They're quite hostile to outsiders, however. We can't so much as go near the place.
+a2b: Where is it?
+pascal: Northeast of the city ruins.
+pascal: You should be able to reach it by passing through the ruins of the commercial facility.
+pascal: If you go, however, be careful. Things have been rather rough there lately.
+a9s: This...forest kingdom sounds like something we should check out.
+[[ph2\p200\p200_c7ba8911_scp.bin]]
+pascal: That enormous machine is an ancient weapon.
+pascal: It was designed to help annihilate the androids, but it wound up going out of control.
+pascal: I was part of the machines' network when it happened, so I remember it.
+pascal: The moment it reached land, it went berserk and began attacking everything in sight.

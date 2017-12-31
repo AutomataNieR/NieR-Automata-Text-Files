@@ -1,0 +1,100 @@
+sele: No
+[[ph3\p300\p300_802d17e9_scp.bin]]
+a2: This tower is a giant cannon that's aimed at the human server on the moon.
+a2: ......
+a2: If we don't do something, all of humanity's remaining data will be destroyed.
+a9s: Ha ha ha...ha ha ha hah!
+a9s: So what?
+a9s: None of it matters.
+a9s: Or didn't you know?
+a9s: We aren't required in this world anymore.
+a9s: Humanity is extinct.
+a9s: That moon server you're so worried about was invented to give us androids something to fight for.
+a9s: And YoRHa was created to perpetuate the lie.
+a9s: But in order to make sure no one ever learned the truth, we were DESIGNED to be killed.
+a9s: They built a back door in the Bunker and programmed it to activate after a certain amount of time.
+a9s: The Commander? Me? 2B?
+a9s: Sacrificial lambs. All of us.
+a9s: Isn't that HILARIOUS!? Doesn't it make you LAUGH!?
+a2: 9S, we—
+a9s: Shut up!
+a9s: You killed 2B.
+a9s: That's all we need to kill each other.
+a2: ......
+a2: 2B hated to keep killing you.
+a2: It caused her so much pain.
+a9s: ......
+a2: The 9S type is a high-end model. They knew you'd discover the truth eventually.
+a2: But the model designation "2B" was just a cover.
+unknown: Please make your choice.
+sele: 9S
+sele: A2
+unknown: Are you sure?
+unknown: Understood.
+sele: Yes
+sele: No
+[[ph3\p300\p300_8352dd61_scp.bin]]
+a2b: Commander...
+pod042: Alert: Multiple pursuers detected.
+a2b: Hostiles?
+a9s: No... Oh no...
+a9s: This signal, it's...
+a2b: It's YoRHa!
+a2b: Ungh...
+a9s: Aaaaugh!
+a2b: All right, enough of this shit...
+a2b: 9S, I need to take over your controls!
+a9s: You need to WHAT!?
+a2b: I'm getting us out of here!
+a9s: Um, o-okay...
+pod153: Flight controls transferred to unit 2B.
+pod042: Flight controls established for unit 9S.
+pod042: Setting automatic course.
+pod042: Entering escape route from combat zone.
+a9s: Huh? W-Wait, what are you...?
+a9s: No!
+a2b: Stealth function released!
+pod042: YoRHa unit 2B's stealth function unlocked.
+a9s: Wait! ...2B!
+a9s: 2B!
+pod042: Alert: Critical damage to flight unit.
+pod042: Proposal: Eject immediately.
+a2b: Gotta find a way to land this thing...
+pod042: Alert: Reactor core temperature rising.
+pod042: Alert: FFCS and NFCS systems unresponsive.
+pod042: Analysis: Offensive functionality lost.
+a2b: God damn it...
+[[ph3\p300\p300_838131a5_scp.bin]]
+a9s: Huh? What's going on here...?
+a9s: My body...
+a9s: Those are...my memories.
+a9s: But why?
+a9s: Stay the hell out...
+a9s: of my GOD DAMN MEMORIES!
+a9s: These belong to me and me alone!
+a9s: Get away from them!
+a9s: ...You're going down.
+[[ph3\p300\p300_8f18b72c_scp.bin]]
+n02: Kill...me... Kill...
+n02: Kiiiiiiii...ll...
+n02: What did...we ever do...
+n02: Kill...me! Do it! Kill...me! Do it!
+n02: Kill me, coward! Kill me! Kill me! Kill me! Kill me!
+a9s: 
+[[ph3\p300\p300_95a183ba_scp.bin]]
+a2: What's the purpose of this structure?
+pod042: Unknown.
+pod042: Proposal: Gather additional data.
+a2: Someday I need to teach you how to be helpful.
+a2: This is a YoRHa corpse...
+pod042: Hypothesis: The corpse is likely a result of YoRHa unit 9S's advance through the area.
+a2: ...Let's go.
+[[ph3\p300\p300_969b4cd4_scp.bin]]
+a2: Who are you?
+pod042: Tactical Support Unit Pod 042.
+pod042: This Pod has been tasked with providing firing support for YoRHa unit A2.
+a2: I didn't ask for help.
+pod042: Affirmative. No request was received from unit A2.
+pod042: Rather, it was the final order from this Pod's previous support assignment, unit 2B.
+a2: Well, it's unnecessary.
+pod042: YoRHa unit A2 lacks the authority to override this order.

@@ -1,0 +1,100 @@
+[[ph2\p200\p200_8118914c_scp.bin]]
+a2b: Protecting unit 9S while he hacks the system!
+pod042: The enemy is connected to a vast network.
+pod042: Analysis: The actions of unit 9S have an unacceptably low probability of success.
+pod042: Proposal: Unit 2B should abandon unit 9S and save—
+a2b: Shut up!
+a2b: If 9S says he can do it, then he will!
+pod042: Enemy unit cut off from network functionality.
+[[ph2\p200\p200_8182a35a_scp.bin]]
+a9s: You see? Total slave driver.
+a2b: If she didn't order others around, what kind of leader would she be?
+a9s: Hmm... If you say so.
+[[ph2\p200\p200_8767f81e_scp.bin]]
+a9s: !!
+a9s: ......
+a9s: Those were the words I heard in the moon server.
+a9s: But why...?
+pod153: Alert: 2B has defeated the Goliath-class heavy-weapon unit.
+a9s: Hm? Ah, right.
+a9s: Okay, good.
+cmd: 9S.
+a9s: Commander?
+cmd: I'm sorry. You're needed back at Command.
+a9s: ...Understood.
+cmd: ......
+cmd: You left quite a trail when you accessed the main server.
+a9s: That's what I wanted to speak with you about, Commander.
+cmd: ......
+a9s: I found records stating that the Council of Humanity was established as part of Project YoRHa.
+a9s: But I'd always heard it was the other way around.
+a9s: So did YoRHa actually create the Council of Humanity?
+cmd: ......
+cmd: Yes.
+cmd: We installed the Council of Humanity's server on the surface of the moon.
+a9s: But that means...
+cmd: Mankind no longer exists.
+a9s: !!
+cmd: In truth, humans never went to the moon at all.
+cmd: Any transmissions received from the moon are just dummy signals we set up in advance.
+cmd: The only thing there is a small bit of data relating to the human genome.
+a9s: But why would you—
+cmd: Humans were already extinct when the aliens attacked.
+cmd: All the details are stored on this memory chip.
+cmd: If you want to look at it, I won't stop you.
+a9s: Wait, you're just giving me this? But why?
+cmd: ......
+cmd: No one fights without a reason.
+cmd: And we need a god worth dying for.
+[[ph2\p200\p200_8806bcb7_scp.bin]]
+n02: We shall become gods!
+n02: You shall also become gods!
+n02: Everyone shall die and become gods!
+n02: Gods! Gods! Gods! Gods! Gods!
+n02: Goooooood!
+n02: Machines! People! Androids! Every one of them, a god!
+n02: Why do you flee from us!?
+n02: Don't you see? You can become gods now!
+n02: No! Please don't kill me!
+n02: Rejoice! You have all been chosen!
+n02: With your death, you will become gods!
+n02: Somebody help us!
+osoware: Thanks for the help...
+osoware: Thank you. Here, take this.
+osoware: Thank you very much. \nHere is a token of my appreciation.
+osoware: Please, take this...
+osoware: Everyone has gone crazy...\nBe careful out there...
+osoware: Thank you, thank you!
+osoware: Here...as a thank you.
+osoware: May our God have mercy on us...
+osoware: Why did this have to happen!?
+osoware: Where did we go wrong?
+osoware: ...
+osoware: Why would anyone choose death over life?
+osoware: I don't wanna die, I don't wanna die...
+osoware: Why would anyone kill their friends? I don't get it...
+[[ph2\p200\p200_886c2178_scp.bin]]
+a9s: The ground is caved in...
+a9s: There must have been a hollow down there this whole time.
+a9s: This hallway looks pretty old...
+[[ph2\p200\p200_8ab55e6_scp.bin]]
+[[ph2\p200\p200_8cbb3f1e_scp.bin]]
+largerobot: I'll never let you pass!
+largerobot: Die, androids!
+[[ph2\p200\p200_92dddd6e_scp.bin]]
+a9s: Look at all these dead machines...
+a9s: Seems like they've been here for a long time.
+a2b: What is this place?
+a9s: I don't know. There's nothing like it in the database.
+[[ph2\p200\p200_96e13a06_scp.bin]]
+a2b: 9S, why did you ask Pascal about A2?
+a9s: Huh?
+a2b: It's not recommended to interface with machines without consulting Command.
+a9s: Yeah, I know. I'm sorry.
+a2b: Though I suppose such intense curiosity can be admirable... In its own way.
+a9s: Heh.
+a9s: Thanks, 2B.
+a2b: Still, machines are the enemy. Don't forget it.
+ane: Oh, 2B! Your timing is impeccable.
+ane: Our android forces currently have a carrier deployed in the Pacific Ocean.
+ane: It should be back here to resupply before too long.

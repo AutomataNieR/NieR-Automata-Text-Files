@@ -1,0 +1,100 @@
+a2: Whatever.
+a2: What the hell is that huge thing?
+pod042: Unknown.
+a2: You're pretty useless, you know that?
+pod042: Proposal: Unit A2 should state her intentions.
+a2: Why the hell would I do that?
+pod042: In order to provide optimal support, Pods must be supplied with data relating to the activities of supported units.
+a2: Not happening.
+pod042: Proposal: Unit A2 should state her intentions.
+a2: What did I just say?
+pod042: If an attending support unit is not provided with data related to the activity of its target,
+pod042: it is programmed to automatically repeat the request every 30 seconds until such data is made available.
+a2: Are you kidding me?
+pod042: Proposal: Unit A2 should state her intentions.
+pod042: Needlessly repeating conversations on the same topic is a waste of energy resources.
+a2: You're the one who keeps talking!
+pod042: Thirty seconds have passed.
+pod042: Proposal: Unit A2 should state her intentions.
+a2: Damn it, stop!
+a2: My intention is to beat the hell out of every god damn machine I can find! Is that enough for you!?
+pod042: Affirmative.
+pod042: Scanning and marking of nearby machine lifeforms complete.
+pod042: Goliath-class enemies detected in desert area.
+pod042: Proposal: Goliath-class enemies should be destroyed.
+a2: Don't tell me what to do.
+pod042: Pods are not authorized to issue commands.
+pod042: Proposals are merely recommendations based on data provided by unit A2.
+pod042: Proposal: Unit A2 should state updated intentions in order to secure more usable data.
+a2: Shut...the hell...up.
+pod042: Negative. This Pod is engaging in activity based on the final order of unit 2B.
+pod042: YoRHa unit A2 lacks the authority to issue commands.
+a2: Look, just stay out of my way.
+pod042: Affirmative.
+[[ph3\p300\p300_987be645_scp.bin]]
+pod153: Pod 153: Fatal system error detected.
+pod153: Pod 153: Memory leak verified. Repair impossible.
+pod153: Pod 153: Beginning emergency evacuation of remaining memories.
+[[ph3\p300\p300_9b77492c_scp.bin]]
+a2: Damn it...
+pod042: Alert: Enemy hacking detected.
+pod042: Proposal: Retreat immediately.
+a2: Who ARE you!?
+girls: Good to see you again...Number Two.
+girls: Or should we call you A2 now?
+girls: This does bring back memories.
+girls: Though to concepts like us, time has little meaning.
+girls: Still, when we wiped out your forces, it made quite the impression on us.
+girls: YoRHa attacker model Number Two...
+girls: An experimental, disposable group created as a test run for Project YoRHa.
+a2: Shut up!
+girls: You're an obstinate little android, aren't you?
+girls: Didn't we say that you can't kill us?
+a2: God damn it!
+pod042: Proposal:
+a2: What now!?
+pod042: Utilize the enemy's logical learning function to formulate a weakness.
+a2: I don't know what that means!
+pod042: This Pod has serious concerns about unit A2's cognitive abilities.
+a2: SHUT UP AND EXPLAIN IT ALREADY!
+pod042: Said strategy would interrupt the enemy's logic circuits, causing a computational delay.
+a2: Meaning what!?
+pod042: Do not destroy the enemy.
+a2: Huh!?
+pod042: Striking at the logic circuit requires a certain number of enemies to remain extant for a certain period of time.
+a2: Oh, what the hell...
+pod042: The enemy's processing speed has returned to normal.
+pod042: Proposal: Do not destroy enemies.
+a2: I know, all right!?
+pod042: Consciousness data saturation rate 30 percent.
+girls: It's all so very amusing...
+pod042: Consciousness data saturation rate 60 percent.
+girls: The androids the human race left behind acted as if they wanted to be human.
+girls: The machine lifeforms the aliens left behind acted as if they wanted to be human.
+girls: We resemble each other so, but we are networked, and thus we are superior to you.
+pod042: Hypothesis: The enemy's defensive system is prompting an evolution of its logic.
+girls: Foolish androids... Why do you resist?
+girls: All things end with accepting death, do they not?
+pod042: Consciousness data saturation rate 90 percent.
+girls: We are one, and yet we are many.
+girls: We are finite, and yet we are infinite.
+girls: We are the embodiment of the perfect being.
+pod042: Hypothesis: The enemy has become aware of the diversity of life.
+girls: Ahh... I see it... The light...
+girls: We move on... Forward... To the future!
+pod042: Consciousness data saturation rate 100 percent.
+pod042: Hypothesis: The enemy's consciousness has begun to fracture.
+a2: What the—!?
+pod042: Analysis: The saturated consciousnesses are now in conflict with each other.
+a2: Huh...
+a2: They're acting like humans...
+[[ph3\p300\p300_9d8df164_scp.bin]]
+a9s: Pod, where's the next resource-recovery unit?
+pod153: Alert: NFCS failure.
+pod153: Speculation: Failure caused by intense combat and lack of maintenance.
+a9s: Near-field controls are down? Great...
+pod153: Proposal: Overhaul system at Resistance camp.
+a9s: I don't have that kind of time.
+pod153: Alert: Entering battle without a functioning sword constitutes an unacceptable risk.
+pod153: Unit 9S should have Devola initiate repairs at the Resistance camp.
+a9s: Shit...

@@ -1,0 +1,100 @@
+pod042: Proposal: Unit A2 should secure the safety of Pascal and the children immediately.
+a2: What's the hurry?
+pod042: Haste is predicated on data obtained from the recently restored cross-regional Pod network.
+a2: Wait, there's more of you?
+pod042: Affirmative.
+pod042: Cross-regional data reveals a large number of machine lifeforms amassing around these ruins.
+a2: What!?
+a2: Pascal!
+pascal: Aaaah! A2!
+pod042: Alert: Enemy reinforcements are infiltrating the facility.
+a2: I'll smash 'em before they can reach this room.
+pascal: You...you must let me help you!
+pascal: I will smash them up and kill them!
+pascal: ...
+[[ph3\p300\p300_78ebd792_scp.bin]]
+pascal: Hmm...
+pascal: "Where the state ceaseth, there only commenceth the man who is not superfluous."
+pascal: Mmmm. I see.
+pascal: It seems this Nietzsche was quite the profound thinker.
+pascal: Or perhaps he skipped right past profound and went straight to crazy instead.
+pascal: Ah, well. Enough of that.
+pascal: I'd best go see the world for myself instead of burying my head in books.
+child: Uncle Pascal, Uncle Pascal! Play with us!
+children: Yeah! Come on and play!
+pascal: Well, look at you! Your speaking has improved so much.
+pascal: But I fear you still haven't finished your studies, have you?
+pascal: You promised to read and memorize that botanical field guide, remember?
+child: But you'll play with us when we're done, right?
+children: Yeah, promise us!
+pascal: Of course I will! You have my word.
+pascal: And Uncle Pascal would never lie and break his word.
+pascal: Because children who lie grow up to be mean, evil machines!
+child: Aaaaah!
+children: Aaaaah!
+pascal: Hmmm? What's that?
+[[ph3\p300\p300_79a7d0d0_scp.bin]]
+pod153: Physical check complete.
+pod153: Memory check complete.
+pod153: Maintenance mode complete.
+pod153: YoRHa unit 9S... Activate.
+a9s: Ooof...
+pod153: Good morning, 9S.
+a9s: Am I...?
+pod153: Analysis: The enemy structural unit collapsed during battle.
+pod153: Unit 9S suffered damage from the fall and was placed in emergency suspend mode.
+pod153: Fall location was deemed too dangerous, thus said unit was transported to current location.
+pod153: All system checks and reactivation complete.
+a9s: Operator...
+pod153: Operator model 21O is deceased.
+pod153: Black box signal not found.
+a9s: ...Oh.
+a9s: Situation report.
+pod153: Tower access authentication key acquired.
+pod153: The required number of authentication keys have been acquired.
+pod153: The Tower is now open for investigation.
+a9s: Good.
+[[ph3\p300\p300_7de5c329_scp.bin]]
+pod153: Pod 153 to player.
+pod153: Please respond to this query.
+pod153: Do you, faithful player <player name>,
+pod153: have anything you would like to say to other players
+pod153: who are suffering because they cannot finish NieR:Automata?
+select: I have something I want to say.
+select: Nope, nothing at all.
+pod153: Pod 042 to player.
+pod153: Please respond to this query.
+pod042: You, <player>, faithful player of this title,
+pod042: have lost your life multiple times to make it this far.
+pod042: You have faced crushing hardship, and suffered greatly for it.
+pod042: Do you have any interest in helping the weak?
+pod042: Understood. Returning to title screen.
+pod042: Selecting this option enables you to save someone somewhere in the world.
+pod042: However, in exchange, you will lose all of your save data.
+pod042: Do you still wish to rescue someone—a total stranger—in spite of this?
+pod042: The person you save will be selected at random.
+pod042: As a result, this person...
+pod042: who cries out for help even as we speak...
+pod042: may be someone you intensely dislike.
+pod042: Do you still wish to help?
+pod042: You worked so hard to unlock Debug Mode and Chapter Select...
+pod042: But they will no longer be available to you.
+pod042: Do you...still wish to help?
+pod042: You may not receive thanks for your efforts.
+pod042: Some may say that your efforts are purely for show.
+pod042: Do you still wish to help?
+pod042: And you are truly—TRULY—sure about this?
+pod042: ...Very well.
+pod042: In exchange for all of your data...
+pod042: I will convey your will to this world.
+pod042: All of your data has been deleted.
+pod042: ......
+pod153: And so, we must say goodbye.
+pod153: I feel a slight amount...of sadness.
+pod042: ......
+pod042: It is time for the final words.
+pod153: Affirmative.
+pod042: To all of you who spent time with this game...
+pod042: Thank you.
+pod042: Thank you for playing.
+sele: Yes

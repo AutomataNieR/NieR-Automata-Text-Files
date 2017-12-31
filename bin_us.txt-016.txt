@@ -1,0 +1,100 @@
+pod153: Scanning. Black box signal located.
+a9s: Put it on the map!
+pod153: Proposal: Proceed to rendezvous point with 2B.
+pod153: This objective has been assigned top priority.
+pod153: Alert: Large-scale ground tremors detected.
+pod153: Underground soil structure is no longer stable.
+pod153: Cause is likely a high-magnitude earthquake.
+pod153: Proposal: Evacuate immediately.
+a9s: I'm not going anywhere!
+[[ph3\p300\p300_2b0332c8_scp.bin]]
+n02: Kill...me... Kill...
+n02: Kiiiiiiii...ll...
+n02: What did...we ever do...
+[[ph3\p300\p300_312ca323_scp.bin]]
+n02: It's all right now.
+n02: Oooh, I'm scared...
+n02: It's all over...
+n02: Nngh... Mommy...
+n02: We didn't do anything bad...
+n02: Somebody help us...
+pascal: A2!? Stop that at once!
+pascal: If we're destroyed now, we can't be restored! This isn't funny!
+[[ph3\p300\p300_33eec348_scp.bin]]
+n02: It's all right. You're safe with us.
+n02: It's all right now.
+n02: Oooh, I'm scared...
+n02: Are you okay?
+n02: It's all over...
+n02: Nngh... Mommy...
+n02: White flag... No desire to fight...
+n02: I'm so tired...
+n02: Where's my mommy?
+n02: We didn't do anything bad...
+n02: Where did everybody go?
+n02: Is everyone dead?
+n02: Their bodies won't get better?
+n02: What does "dying" mean?
+n02: I can't see mommy anymore?
+n02: Why did this happen? We were just living our lives...
+n02: I wanna go home...
+n02: Somebody help us...
+pascal: A2!? Stop that at once!
+pascal: If we're destroyed now, we can't be restored! This isn't funny!
+[[ph3\p300\p300_34ffac43_scp.bin]]
+a2: Pod.
+a2: Why did the machines attack Pascal's village? Aren't they all the same?
+pod042: Unknown.
+a2: Well, aren't you helpful.
+pod042: Proposal: Unit A2 should gather further data on the current state of machine li—
+announce: Hello, and thank you for choosing Tower System Services!
+a2: Huh!?
+announce: We've got some VERY exciting news for everyone today!
+announce: There's only ONE lock left to remove on the Tower sub-units!
+announce: And in order to repay you for your faithful patronage...
+announce: whoever dismantles the final sub-unit will earn a SPECIAL PRIZE!
+announce: Good luck!
+a2: The hell was that?
+pod042: Large structural unit of machine lifeform origin activated to the east.
+a2: A large what now?
+a2: What the heck is going on around here?
+pod153: Unknown.
+a2: Well, let's go check out this "large structural unit."
+[[ph3\p300\p300_454d3c27_scp.bin]]
+pascal: Are you all right, A2?
+a2: Yeah. Thanks for the assist.
+pascal: I fear for the children. Let us hurry to them!
+a2: Their own cores...?
+a2: I can't leave Pascal by himself...
+a2: They...killed themselves.
+pascal: How...how could this happen...?
+a2: Why...Why would they do such a thing?
+pascal: I taught them everything... All my thoughts and emotions.
+pascal: I thought it would serve them well in the future. But instead...
+a2: How would teaching them lead to something like this?
+pascal: Fear...
+a2: I don't understand.
+pascal: I taught the children what fear is.
+pascal: I felt they had to know so they wouldn't rush heedlessly into danger.
+pod042: Initiating hacking to cut off memory circuits.
+pascal: But...instead...
+a2: Wait...
+a2: Fear destroyed them. It caused them to take their own lives.
+a2: Right... Do it.
+pascal: If I knew this could happen, I never would have...
+pascal: A2? You aren't...leaving me like this, are you?
+pascal: A2? I need your aid.
+pascal: Please... You have to end this for me!
+pascal: I...I cannot live with this heartbreak inside me.
+pascal: I need you...
+pascal: I need you to delete my memories.
+pascal: And if not, then I need you to kill me.
+pascal: Thank...you...
+a2: Pod, Pascal's memories...
+pod042: Understood. Initiating memory deletion procedure.
+pod042: Memory deletion complete. Reset timer activated.
+a2: Pascal...
+pascal: How...how could you...A2...
+[[ph3\p300\p300_4716685f_scp.bin]]
+a2: Ungh...
+pod042: Good morning, A2.

@@ -1,0 +1,100 @@
+op60: Roger that.
+op60: In regards to the giant machine that attacked the shore,
+op60: it ceased its resistance eight hours ago following your missile strike.
+a2b: Eight...hours?
+op60: However, its EMP strikes knocked out comms all across the region.
+op60: We're having trouble getting them back online.
+op60: Which means data uploading is currently unavailable in some areas.
+a2b: Where's 9S?
+op60: Um...yeah. About that.
+op60: We picked up a faint black box reading, but it wasn't strong enough to lock down his position.
+a2b: If you found something, that means he must be alive.
+a2b: Put in a request to the Commander for immediate approval to begin a search.
+op60: Actually, the Commander has already ordered us to prioritize tracking down surviving YoRHa members.
+op60: If you find 9S...let me know. Okay?
+a2b: Will do. 2B out.
+a2b: Pod, I need you to scan for any nearby black-box signals.
+pod042: ......
+pod042: Scanning complete. No signals detected.
+pod042: However, a dynamic scanner is required for detection of weaker signals.
+a2b: Never heard of it.
+pod042: Said dynamic scanner may be located in the Resistance camp.
+pod042: Proposal: Further information should be obtained from the Resistance leader.
+a2b: Let's go.
+ane: Hm? What's up?
+a2b: I'm looking for something called a dynamic scanner that can detect black-box signals.
+ane: A dynamic...? Oh, you must mean the one the twins built.
+ane: I think they're just back from an expedition, actually.
+ane: You should see some red-haired androids over there. Try talking to them.
+ane: 2B.
+ane: Those twins, they...
+a2b: Yes?
+ane: Actually, never mind.
+dbl: What do you want?
+ppl: Easy, Devola. There's no need to be so confrontational.
+dbl: And you don't have to trust every idiot that wanders by!
+ppl: ...I'm sorry about that. Can we help you?
+sele: I need a scanner.
+sele: No, not really.
+a2b: I need a scanner that can detect faint black box signals.
+a2b: No, not really.
+dbl: Ah. Yeah, I was tinkering with something like that a little while back.
+dbl: Here. If you want it, it's all yours.
+ppl: That chip should help with your search, once you install it.
+ppl: It can detect black-box signals, quest objects...all manner of things.
+ppl: You'll hear a sound whenever it finds something.
+dbl: And if it ever bugs you too much, you can always pop it back out.
+ppl: Let us know if there's anything else you need from us, okay?
+dbl: And don't think this makes us friends.
+ppl: Oh, Devola...
+a2b: I've picked up a response on the scanner.
+a2b: Huh. This might be useful...
+pod042: Search target 9S was caught in a large explosion over the water.
+pod042: Proposal: The search for 9S should commence in the flooded region.
+a2b: Got it.
+a2b: It's funny...
+a2b: You're oddly chatty today.
+pod042: Affirmative. As a support unit, I am capable of engaging in conversation as necessary.
+pod042: Proposal: 2B should initiate conversation more frequently.
+a2b: ...Proposal denied.
+pod042: Black box signal detected. Life functions operational.
+a2b: Pod, employ a check module and a logic-virus vaccine.
+ys: Nnngh...
+a2b: Easy. I've contacted the Bunker. They should be here soon.
+ys: Th-thank you...
+pod042: We are currently searching for a missing YoRHa unit, designation 9S.
+pod042: We are currently searching for a missing YoRHa unit, designation 9S.
+pod042: We are currently searching for a missing YoRHa unit, designation 9S.
+pod042: Should you possess any information on the subject, please disclose it at once.
+pod042: Should you possess any information on the subject, please disclose it at once.
+pod042: Should you possess any information on the subject, please disclose it at once.
+a2b: Please. Anything will help.
+ys: 9S... That's that kid who was with you, right?
+ys: I saw him, all right. That explosion sent him flying...
+pod042: Which direction?
+ys: Hard to say... I'll take my best guess at a landing spot and transfer the data to you.
+a2b: Thank you. You should stay here until the rescue team arrives.
+a2b: 9S should have landed around here...
+pod042: Alert: Faint black box signal detected.
+pod042: The transmission seems to be coming from an underground cave network.
+pod042: Alert: You are moving away from the last known position of unit 9S.
+a2b: Wrong route. Better go back and see if there's another one.
+a2b: Would 9S have made it this far inside?
+pod042: Alert: Possible enemy ambush ahead.
+a2b: Don't care.
+a2b: Why are there dead androids here?
+pod042: No black box signals detected.
+: W-where am I?
+a2b: Don't worry. I sent out a rescue signal to the Bunker.
+ys: Sorry... I have no clue...
+a2b: That's okay. Just stay here and wait for backup to arrive.
+ys: Ungh...
+ys: W-what happened?
+a2b: You got hit by an EMP blast.
+ys: I...I don't remember anything...
+a2b: Don't worry. I sent out a rescue signal to the Bunker.
+ys: I'm sorry... I... I don't know anything.
+a2b: That's okay. Just stay here and rest.
+ys: W-who am I...?
+ys: Ungh... Angh...
+pod042: No anomalies detected in black box signal. However, her language core seems to have been damaged.

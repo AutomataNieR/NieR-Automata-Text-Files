@@ -1,0 +1,100 @@
+a9s: Why don't we rest a little bit, 2B? It's been a while.
+a2b: I'll rest if I feel like it.
+a9s: Man, this job can be pretty rough sometimes, huh?
+a2b: We don't get to choose our assignments.
+a2b: And you should work on keeping your opinions in check.
+a2b: YoRHa aren't allowed to be emotional, remember?
+a9s: I think some of us are better at that than others...
+a9s: Speaking of emotion, those Adam and Eve units sure seemed less than logical.
+a2b: I'm heading to the transporter.
+a9s: Fiiine.
+[[ph2\p200\p200_a68c4ea9_scp.bin]]
+a9s: 2B!
+a9s: I'm going to see if we can use those missiles back on the shore.
+a9s: But I need you to destroy the EMP unit on that thing's back.
+a9s: Otherwise they're just going to go off course.
+a2b: On it.
+[[ph2\p200\p200_aad478cc_scp.bin]]
+n02: We have come to know the existence of God.
+n02: And by His word, all living things are to be considered equal.
+n02: Stop! We have no desire to fight you!
+pascal: Please, you must be calm! We have come to negotiate peace with you!
+pascal: We should at least hear them out.
+prst: That door leads to the sanctum of His Grace.
+prst: Once I accepted God into my heart, I was filled with serenity....
+prst: How I yearn for His Grace to light the path forward for all...
+prst: May hardship and conflict be forever banished from this world...
+pascal: Um, hello. My name is Pascal.
+pascal: I'm here to discuss the...peace treaty?
+[[ph2\p200\p200_ad4026af_scp.bin]]
+a9s: There sure are a lot of hostile enemies here.
+a9s: Why are some machines so aggressive, while others couldn't care less about us?
+a9s: The bedrock here was bombed out in the last war.
+a9s: Looks like the whole city is starting to sink as a result.
+pod042: Target missiles sighted.
+a2b: Is that what we need to protect?
+a9s: Let's take 'em out already so I can be home in time for dinner and a bath!
+a2b: Androids don't need to bathe.
+a2b: As long as you perform regular cleaning and maintenance, bathing is unnecessary.
+a9s: Yeah, but come on, 2B, it still FEELS good!
+a9s: I think that's the last of the machines.
+cmd: 2B? 9S? Come in.
+a9s: Commander?
+cmd: Emergency orders incoming.
+cmd: The carrier ship that was sent to resupply has come under attack.
+cmd: It's currently being engaged by a swarm of machines.
+cmd: I've asked all YoRHa troops in the city ruins for assistance, and I'll need you to provide backup as well.
+cmd: I'm sending flight units and coordinates now.
+cmd: Good luck. Out.
+[[ph2\p200\p200_b4fc12d6_scp.bin]]
+prst: Die and become gods!
+n02: Ahh... Why did this happen?
+n02: I thought we were going to forge peace...
+n02: Your Grace...
+n02: How could God allow this?
+n02: Why did something so cruel have to happen?
+n02: We had almost completed the road to peace...
+n02: O God, please restore them to their senses...
+n02: What happened to everyone?
+n02: Somebody help me...
+n02: I’m scared...
+n02: Ooooh...
+n02: It's over... It's all over...
+prst: Ahhh... Why did this happen...?
+prst: Dying won't make us gods...
+prst: How am I supposed to live now...?
+n02: His Grace... His Grace...
+n02: God, I'm scared... What's going to happen to us if we die?
+n02: Help me, O God... Please, my God...
+n02: No... I don't want to die...
+n02: We shall become gods!
+n02: Everyone shall die and become gods!
+n02: Gods! Gods! Gods! Gods! Gods!
+n02: Goooooood!
+n02: Ahh, how did it come to this!? Please stop all the killing!
+[[ph2\p200\p200_b99094bd_scp.bin]]
+a2b: The aliens were already dead.
+a9s: Yeah. We'd better get back to the Bunker.
+[[ph2\p200\p200_bb51fdfc_scp.bin]]
+a2b: You!
+a9s: 2B! Look out!
+adam: Heh. Aren't you quite the pair?
+adam: Perhaps we can discuss our current situation.
+eve: Hey, can I kill 'em yet?
+adam: Relax, Eve.
+adam: We're still negotiating here.
+eve: Rrrr... Fine.
+adam: My name is Adam.
+adam: The aliens you seek are no longer here.
+adam: They were wiped out centuries ago.
+adam: ...By us. The machines.
+a2b: Wiped out?
+adam: And who knows? Perhaps we'll wipe out the androids next.
+adam: Machines are weapons capable of evolution. We can grow. We can become...aware.
+adam: Eventually, the intelligence within our network began to surpass that of our creators.
+adam: You'd probably be surprised at how quickly it happened.
+a9s: You destroyed your own creators!?
+adam: Oh, there's no need to fret about them.
+adam: They were simple. Infantile. Almost like...plants, I guess you'd say.
+adam: They held no value to us.
+adam: But the humans on the moon? Now THEY are interesting.

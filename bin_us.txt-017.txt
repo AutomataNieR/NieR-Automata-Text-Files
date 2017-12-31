@@ -1,0 +1,100 @@
+a2: What the...?
+pod042: Analysis: YoRHa unit A2 was restarted five minutes and forty-two seconds ago.
+pod042: The cause was excessive strain due to battle against a large machine lifeform.
+a2: All this goddamn sand is starting to piss me off.
+pod042: Alert: Fuel filter performance deteriorating.
+pod042: Fine particulate matter seems to have entered the filter while fighting in the desert.
+pod042: Proposal: Replace the faulty part immediately.
+a2: You make it sound so easy.
+pod042: Records indicate said part was once used at the Resistance camp.
+a2: The Resistance camp...
+pod042: It is located at—
+a2: I know where it is.
+toolshop: You need a fuel filter? Sorry, but I'm all out!
+toolshop: You'll have to ask Anemone when new stock is going to arrive.
+kj: A fuel filter? I'm a weapons trader, what are you asking me for!?
+kj: Try the supply trader.
+bs: You need a fuel filter? Why don't you ask the supply trader over there?
+a2: Hey, Anemone. Got a question for you.
+a2: Any chance you could spare a fuel filter?
+ane: A fuel filter? I'm afraid our supply recently ran out.
+ane: Pascal makes them for us, so you could go pick up one directly if you'd like.
+a2: Pascal!?
+ane: You know him?
+a2: You TRADE with the enemy!?
+ane: His village is different. They've never caused us any harm.
+a2: No way. Forget it.
+ane: This may be hard to understand, but we forged an alliance and trade materials when the need arises.
+ane: We can't be picky about how we reach our goals around here.
+ane: And besides, we aren't so far gone that we kill machine lifeforms after they surrender.
+a2: ......
+pod042: Alert: A broken filter will cause significant problems with fuel distribution.
+pod042: Proposal: Replace the faulty part immediately.
+a2: Yeah. I know.
+pod042: Coordinates confirmed for a colony centered around the machine lifeform known as Pascal.
+pod042: Location marked on map.
+a2: You don't know when to shut up, do you...
+[[ph3\p300\p300_4a0a3acc_scp.bin]]
+spider: Net...work...
+spider: An...droids...
+a2: Is this thing SERIOUSLY still kicking!?
+pod042: Speculation: It is driven by remaining data located within enemy servers.
+a2: So this just keeps going until I kill 'em all!?
+spider: We...we are...
+spider: Bonds...are lost.
+spider: Someone... This hole...
+spider: Fill in this hole...
+a2: This is messed up.
+a2: What the hell is this thing going on about?
+pod042: Analysis: It appears to be a leak of the enemy's past memories.
+spider: I believed you, I believed you, I beLIEved you...
+spider: Become a god, become a god, become a god, who has become?
+spider: Take their... Take their lives... Take their...
+spider: Become as gods!
+spider: As gods! As gods! ...as gods!
+spider: Lose what is precious...
+spider: Lost...destroyed...
+spider: So we destroy you too...
+spider: Look...at the stars...
+spider: Sing...a song...
+spider: Dedicate...now...
+spider: We are machines.
+spider: We are machines.
+spider: You are androids.
+spider: You are androids.
+spider: Mutual enemies.
+spider: Doomed to fight.
+spider: Why do you live?
+spider: Why do we exist?
+spider: I see...light.
+spider: The light.
+spider: We will soar through the sky.
+a2: What's all this junk?
+pod042: Speculation: It is a resource of some kind.
+a2: Used to make what?
+pod042: Unknown.
+[[ph3\p300\p300_4ac43a7f_scp.bin]]
+a9s: Now they're just messing with us...
+a9s: There's something written here, too...
+pod153: Analysis: Access to elevator control system blocked by external factor.
+pod153: It reads "soul box."
+pod153: Proposal: Hack into devices blocking elevator controls.
+a9s: ...No enemies?
+a9s: What's this?
+a9s: Oh, I get it.
+pod153: Analysis: There are two blocking devices on this floor.
+a9s: I have to break the system protection before I can reach the core.
+pod153: Proposal: Hack into all blocking devices.
+a9s: Huh. So that's how it works.
+pod153: Analysis: There are three blocking devices on this floor.
+a9s: That huge structure is some kind of launch platform.
+a9s: Yeah, and I hack into all of 'em, right?
+a9s: A structure that size could probably shoot something into space pretty easily.
+pod153: All elevator controls unlocked.
+a9s: ......
+pod153: Proposal: Investigate the next area.
+a9s: So this is some kind of cannon aimed at the human server on the moon?
+pod153: Hypothesis: This area should be investigated in order to meet the mission objective.
+pod153: Insufficient data. Cannot confirm or deny.
+announce: We have a special present for you—a token of appreciation for all the machine lifeform requests you completed!
+a9s: Damn it!

@@ -1,0 +1,100 @@
+pod153: Alert: Obstacle ahead.
+pod153: A collision at this speed is not recommended.
+a9s: Well aware, thank you!
+[[ph2\p200\p200_e8fce7cc_scp.bin]]
+a9s: We've got mortars lining the shoreline here.
+a9s: All the EMP shielding in the world won't help against close-range mortar fire.
+a2b: Got it.
+a9s: I'll help aim!
+a2b: Ngh... This thing's armor is too thick. We need more firepower.
+a9s: 2B! Let's try for a more "direct" approach!
+a2b: Direct...? Oh, right!
+a9s: That's right! Lay down some fire in its stupid mouth!
+[[ph2\p200\p200_f1f22ca2_scp.bin]]
+pascal: Where are you going, 2B? The machine lifeforms wishing to form an alliance are in the abandoned factory.
+pascal: The machines who seek to form an alliance with my village are hiding out here.
+pascal: Still, you should probably be careful.
+pascal: We machines can be rather...unpredictable.
+a2b: Even you?
+pascal: In truth, yes.
+pascal: Now that we're cut off from the network, we no longer share data with each other.
+pascal: We can speak, of course, but I find that language contains many ways to hide one's true intentions.
+a2b: It certainly does.
+n02: You enter the domain of God!
+n02: We have come to know the existence of God.
+n02: And by His word, all living things are to be considered equal.
+n02: His Grace wishes to form a pact of peace with your people.
+n02: We, his humble priests, will guide you to him. This way.
+pascal: This all seems pretty shady if you ask me...
+a2b: So why are you still here?
+n02: Stop! We have no desire to fight you!
+pascal: Well, I brought you this far, didn't I?
+pascal: Please, you must be calm! We have come to negotiate peace with you!
+pascal: It's my duty to see this through to the end.
+a2b: ...Appreciated.
+prst: Down this corridor, if you would.
+prst: Please board this elevator to access His Grace's sanctum.
+pascal: We should at least hear them out.
+prst: You don't have to hurry so! His Grace won't run from you.
+[[ph2\p200\p200_f764463b_scp.bin]]
+pascal: That enormous machine is an ancient weapon.
+pascal: It was designed to help annihilate the androids, but it wound up going out of control.
+pascal: I was part of the machines' network when it happened, so I remember it.
+pascal: The moment it reached land, it went berserk and began attacking everything in sight.
+pascal: No one could figure out how to stop it.
+pascal: We eventually marooned it deep in the ocean, but it seems to be searching for a way back.
+a2b: Huh.
+a9s: Hey, 2B?
+a9s: I think I have another idea!
+a9s: You keep that thing right where it is, okay!?
+a2b: What!?
+a9s: Please, 2B! This is gonna work!
+pod042: 9S is leaving the front lines.
+pod042: Proposal: 9S should be reported to Command as a deserter.
+a2b: No!
+a2b: He has a plan. Just hold on.
+a9s: 2B!
+a9s: I'm going to see if we can use those missiles back on the shore.
+a9s: But I need you to destroy the EMP unit on that thing's back.
+a9s: Otherwise they're just going to go off course.
+a2b: On it.
+[[ph2\p200\p200_ff3d446f_scp.bin]]
+kdc: Aim for the enemy androids!
+kdc: Engage battle mode!
+kdc: Now fight for your king!
+all: For the king!
+a9s: Here they come...
+a9s: Better keep your guard up!
+a2b: I'm aware of how to fight.
+a2b: You just be careful.
+a9s: I will, 2B!
+a2b: These machines...
+a9s: They were talking about a king, right?
+a9s: I saw what looked to be a castle further in. Maybe we should take a look.
+a9s: So those machines had a king?
+a9s: But how can a concept like loyalty be understood by a machine?
+a9s: How are we supposed to reach that castle?
+n02: We must protect our king and kingdom!
+n02: We will protect them!
+n02: We must show our foes what we royal knights are made of!
+n02: We will show them!
+n02: We must fulfill our obligation to the king!
+n02: We will fulfill!
+n02: Er...but what is an "obligation"?
+n02: But what is it!?
+a9s: Looks like the freakshow's in town...
+n02: No falling back! Fight!
+n02: You have lived your whole life for this singular moment!
+n02: For the Forest King!
+n02: The Forest King!
+a2b: What is with these guys...
+a9s: Don't listen to what they're saying, 2B.
+[[ph3\p300\p300_10112854_scp.bin]]
+a2: Pod...
+a2: We're going to repair 9S's logic circuits.
+pod042: Acknowledged.
+a2: Tell me where to find the virus corrupting 9S.
+pod042: Affirmative.
+pod042: YoRHa unit A2.
+pod042: Core data for 9S is stored ahead.
+pod042: Alert: Severe virus corruption. Probability of successful deletion extremely low.

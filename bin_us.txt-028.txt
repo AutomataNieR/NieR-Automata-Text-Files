@@ -1,0 +1,100 @@
+pod153: ............
+pod153: Not sure what we should do, however.
+pod042: Agreed.
+pod042: Proposal: Rest, combined with data checking and maintenance.
+pod153: Agreed.
+pod153: I will make the suggestion immediately.
+[[ph3\p300\p300_e47baab_scp.bin]]
+telo: Two Weeks Later...
+pod042: Data exchange engaged.
+pod042: Black-box signal for YoRHa unit 2B offline.
+pod042: Death confirmed.
+pod153: YoRHa unit 9S has completed repair and reconstruction of all damaged areas.
+pod153: Unit is ready for reactivation.
+pod042: YoRHa unit A2 also ready for reactivation.
+pod153: ......
+pod153: Proposal: Illuminate surrounding area.
+pod042: Analysis: Units 9S and A2 are safe.
+pod153: No problems detected.
+pod042: Only one issue remains.
+pod042: We comprise the YoRHa support system.
+pod042: If the A2 and 9S units are operational, we are required to attend and support.
+pod153: Agreed.
+pod042: Displaying positions of units A2 and 9S.
+[[ph3\p300\p300_e4c7a829_scp.bin]]
+ys: Oh, hold on a second, 2B's here...
+ys: Hey, don't you have something to do? Get the lead out!
+ys: I've figured out how to deal with her. Just let her say all she wants to say first and then ask only about the points that don't make sense.
+ys: Her explanations are comprehensive, so that works best.
+ys: I realized that my sensory settings were making me hear operator speech as background noise for some reason!
+ys: That's why I was having such a hard time understanding stuff. But they made a couple of tweaks and now I'm good to go!
+ys: I think my problems are over now!
+op: She's been picking things up quickly lately. It makes my job a lot easier!
+op: She really can do anything if she puts her mind to it.
+op: I guess my voice was being processed as static or something? I don't really get the details—I'm just glad it's solved.
+op: Her heart's always been in the right place regardless, so I'm happy I stuck with it.
+ys: In the end, Eve was defeated without my help. I know I should be happy regardless, but I just...
+ys: Well anyway, thanks.
+op: If she was in perfect condition, she would have taken Eve or anyone else down in one hit! Still, it's the end result that counts.
+op: We'll make sure she's ready for the next attack!
+ys: Listen up! Make sure you download every last bit of data from 2B and 9S's battle into your heads!
+ys: Those machines are going to be piles of scrap with this intel at our fingertips!
+ys: We'll make good use of your battle data.
+ys: Glory to mankind!
+ys: You guys are amazing. Seriously, I could never have done that...
+ys: I'm still going to keep trying my best, though. Even if my best is only about 1/47 as good as your best...
+ys: Glory to mankind.
+ys: Wait... This isn't our commanding officer's battle data! Well, I guess it'll still be useful.
+ys: Glory to mankind.
+op: I feel like this team's grown a lot. They probably won't even need my help soon.
+op: Yep. This team is going to be fine without me.
+ys: ...Sorry, someone needs to speak with me.
+ys: Just get going, okay? I'll be right behind you.
+ys: It's go time!
+ys: I understand the plan and agree with it completely. Now we all just have to do our part!
+ys: Let's be in this thing to win this thing!
+ys: Thanks to my operator, I understand the plan perfectly.
+op: I've done my part. Now it's in her hands.
+op: ...You know what? We make a pretty darn good team!
+op: I've given her all the information I have. Now it's up to her.
+op: I know she can do it... I know it!
+ys: What do you mean, I can't head out yet? Find the problem and fix it already!
+op: Uh-oh... These readings don't look good...
+op: Good luck.
+ys: Listen up, you lot! It's time to show me what you've learned!
+ys: Glory to mankind!
+ys: We'll make good use of your battle data.
+ys: Glory to mankind!
+ys: I owe everything to my commanding officer, so I'll do my best for her sake.
+ys: Glory to mankind!
+ys: Time to show them what we can do...
+ys: Glory to mankind!
+op: All we can do now is hope.
+op: Glory to mankind!
+[[ph3\p300\p300_e6cf440a_scp.bin]]
+a2: There's machines everywhere...
+pod042: Analysis: This is a colony of pacifistic machine lifeforms led by the unit known as Pascal.
+pod042: It is logical for a large number of machine lifeforms to be present.
+pod042: This Pod has concerns regarding YoRHa unit A2's predictive skills.
+a2: I'd be more concerned about me smashing your face if I were you.
+pascal: Ah! It's the woman from before!
+pascal: Thank you again for rescuing me.
+a2: ......
+pascal: Now then! How can I help you?
+a2: ......
+pascal: Um...
+pod042: Summary: YoRHa unit A2 possesses a faulty fuel filter.
+pod042: She has obtained information from Anemone, leader of the Resistance camp.
+pod042: She has traveled to this village in order to obtain a new filter. End summary.
+pod042: Request: One functional fuel filter.
+a2: Do you really need to spell it all out like that?
+pod042: Analysis: A2's lack of verbal communication made this Pod's assistance necessary.
+a2: Shut. Up.
+pascal: Ah, I see, I see.
+pascal: Sadly, I'm a bit short on materials right now.
+pascal: I need rigid tree bark to create a filter, but the only location I know of is guarded by ferocious machine lifeforms.
+pascal: I apologize, but I'm afraid I can't make a filter at the moment.
+pod042: Confirmation: Unit A2 will secure and deliver rigid tree bark.
+a2: Don't confirm that by yourself!
+pascal: I need some rigid tree bark to create a filter, but I can't fetch any at the moment.
+pod042: Areas where rigid tree bark is available marked on map.

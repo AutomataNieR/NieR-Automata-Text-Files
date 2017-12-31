@@ -1,0 +1,100 @@
+a2: I think I know a way...
+pod042: The idea under consideration is not recommended.
+pod042: This Pod is a YoRHa Tactical Support Unit.
+pod042: As such, it cannot approve of actions that would damage its supported unit.
+a2: You're not so bad, Pod. You know that?
+[[ph3\p300\p300_11e5dbfa_scp.bin]]
+[[ph3\p300\p300_157c0c19_scp.bin]]
+spider: We are not bad machines...
+spider: I... We...
+a9s: What's going on?
+pod153: Analysis: Enemy AI destroyed.
+spider: I... I... I... I... I...
+a9s: So those red AIs are dead?
+spider: YoRHa...forces...
+spider: Destroy the...Resistance...
+spider: Adam...
+spider: Born...children...
+spider: Play... song... sing...
+spider: I want...to be beauti...
+spider: Collect...corpses...
+spider: Creator... star... traveler...
+spider: Ship...grave...
+spider: Play...play...play...play...play...
+spider: There's a scary monster...in the sea...
+spider: Mother, mother, mooother...
+spider: Lonely... So very cold...
+a9s: Goddamn machine...
+a9s: Shut the hell up!
+[[ph3\p300\p300_1c94bbb3_scp.bin]]
+a2: Who are you?
+pod042: Tactical Support Unit Pod 042.
+pod042: This Pod has been tasked with providing firing support for YoRHa unit A2.
+a2: I didn't ask for help.
+pod042: Affirmative. No request was received from unit A2.
+pod042: Rather, it was the final order from this Pod's previous support assignment, unit 2B.
+a2: Well, it's unnecessary.
+pod042: YoRHa unit A2 lacks the authority to override this order.
+a2: Whatever.
+a2: What the hell is that huge thing?
+pod042: Unknown.
+a2: You're pretty useless, you know that?
+pod042: Proposal: Unit A2 should state her intentions.
+a2: Why the hell would I do that?
+pod042: In order to provide optimal support, Pods must be supplied with data relating to the activities of supported units.
+a2: Not happening.
+pod042: Proposal: Unit A2 should state her intentions.
+a2: What did I just say?
+pod042: If an attending support unit is not provided with data related to the activity of its target,
+pod042: it is programmed to automatically repeat the request every 30 seconds until such data is made available.
+a2: Are you kidding me?
+pod042: Proposal: Unit A2 should state her intentions.
+pod042: Needlessly repeating conversations on the same topic is a waste of energy resources.
+a2: You're the one who keeps talking!
+pod042: Thirty seconds have passed.
+pod042: Proposal: Unit A2 should state her intentions.
+a2: Damn it, stop!
+a2: My intention is to beat the hell out of every god damn machine I can find! Is that enough for you!?
+pod042: Affirmative.
+pod042: Scanning and marking of nearby machine lifeforms complete.
+pod042: Goliath-class enemies detected in desert area.
+pod042: Proposal: Goliath-class enemies should be destroyed.
+a2: Don't tell me what to do.
+pod042: Pods are not authorized to issue commands.
+pod042: Proposals are merely recommendations based on data provided by unit A2.
+pod042: Proposal: Unit A2 should state updated intentions in order to secure more usable data.
+a2: Shut...the hell...up.
+pod042: Negative. This Pod is engaging in activity based on the final order of unit 2B.
+pod042: YoRHa unit A2 lacks the authority to issue commands.
+a2: Look, just stay out of my way.
+pod042: Affirmative.
+[[ph3\p300\p300_1cc46857_scp.bin]]
+pod042: Alert: Virus infection detected.
+a2b: Remove the contamination...and reset...
+pod042: Analysis: Virus is transforming and progressing its own algorithm with abnormal speed. Removal will be difficult.
+pod042: Alert: Virus contamination rate 70 percent.
+pod042: Infiltrating system-protected region.
+pod042: Alert: Virus contamination rate 90 percent.
+pod042: Alert: Unusual heat generation in central nervous system. Internal combustion imminent.
+pod042: Proposal: Administer vaccine immediately.
+pod042: Analysis: Abnormality detected in visual sensors.
+pod042: Alert: Deterioration found in black box.
+pod042: Alert: Damage to data backup system.
+pod042: Said damage will make it difficult to retain self-consciousness upon backup.
+a2b: Bunker's gone... There's...no point in backing up anyway.
+a2b: Ungh...
+a2b: 9...S...
+pod042: Alert: Virus contamination rate up to 16 percent.
+a2b: My body is...
+pod042: Malfunction detected in FFCS circuit.
+pod042: Alert: Virus contamination rate up to 21 percent.
+pod042: Malfunction detected in visual processing system.
+a2b: I have to keep it...from spreading to other androids...
+a2b: Pod, give me a location that's low on android signals.
+pod042: Searching...
+pod042: Analysis: The area near the abandoned commercial facility meets the desired parameters.
+pod042: Alert: YoRHa unit 2B will sustain serious damage unless the virus is eliminated.
+a2b: You don't say...
+pod042: Alert: Virus contamination rate up to 32 percent.
+pod042: Malfunction detected in NFCS circuit.
+pod042: Alert: Virus contamination rate up to 57 percent.

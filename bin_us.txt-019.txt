@@ -1,0 +1,100 @@
+a9s: Now shut up...shut up, SHUT UP!
+a9s: SHUT UUUUPPPP!
+a9s: Machine parts...
+pod153: Speculation: Perhaps these are raw materials from the structure itself. Possibly useful for creating weapons.
+a9s: Weapons, eh?
+core: Help... Please...
+core: Help me... I'm scared...
+core: Help...me...
+[[ph3\p300\p300_5f56e621_scp.bin]]
+a2: So much for "Goliath" class. That was over before it started.
+pod042: Negative. Enemy machines remain in the area.
+[[ph3\p300\p300_62973173_scp.bin]]
+a9s: Corrupted YoRHa units!
+announce: Hello, and thank you for choosing Tower System Services!
+announce: We're so pleased you've chosen to visit the Tower today!
+announce: Don't forget about the special prize for the guest who unlocks the last sub-unit in the room just ahead.
+announce: You're going to LOVE IT!
+a9s: I'm gonna kill you...
+[[ph3\p300\p300_68b9c234_scp.bin]]
+pod042: Alert: Functionality reduced due to hacking activity.
+pod042: Proposal: Destroy YoRHa unit 9S.
+a2: Damn it!
+[[ph3\p300\p300_69ab2de6_scp.bin]]
+op60: 2B, the operation will begin at a point southwest of the city ruins.
+op60: Use your flight unit to travel there and meet up with 9S.
+a2b: Will do.
+op60: We've repaired and reinstalled the weapons damaged in the fight against Eve.
+op60: Be careful, okay? The mission will be in full swing by the time you get there.
+a2b: I will... And thanks.
+human: The Council of Humanity has a message for all of our brave androids fighting on the surface.
+human: Our elite YoRHa forces, the pride of humanity, have defeated two enemy network units known as Adam and Eve.
+human: This victory is a giant leap forward in our quest to reclaim Earth.
+human: The moon rings out with the cheers of the entire human race!
+human: We look forward to your continued combat exploits.
+human: Glory to mankind.
+[[ph3\p300\p300_6f88066d_scp.bin]]
+pascal: I'll kill you... I'll kill you!
+pascal: I must protect the children!
+[[ph3\p300\p300_7220e53d_scp.bin]]
+smachine: Please... Big brother...
+smachine: Spare him...
+smachine: Don't hurt him...
+smachine: Spare our big brother...
+lmachine: Don't...touch...my brothers...
+lmachine: Please...
+[[ph3\p300\p300_73ee82d4_scp.bin]]
+pod153: Pod 153: Displaying current coordinates.
+pod042: Pod 042: Select unit to support.
+sele: Support A2.
+sele: Support 9S.
+pod042: Pod 042: Affirmative.
+pod042: Pod 042: Commencing support of unit A2.
+pod042: Pod 042: It appears that A2's memory region
+pod042: Pod 042: Currently monitoring progress
+pod153: Pod 153: Pod 153 will continue to support
+pod042: Pod 042: Proposal: Pod 153 should periodically review the mental state of unit 9S.
+pod153: Pod 153: Acknowledged.
+pod153: Pod 153: unit 9S.
+pod042: Pod 042: has combined with 2B's data.
+pod042: Pod 042: to analyze effect.
+pod153: Pod 153: Select unit to monitor.
+sele: Monitor A2.
+sele: Monitor 9S.
+pod153: Pod 153: Hold, Pod 042.
+pod153: Pod 153: Issue detected in your conversational functionality.
+pod153: Pod 153: Numerous machine lifeforms whose network functions
+pod153: Pod 153: were destroyed remain out of control.
+pod153: Pod 153: Please take caution.
+pod042: Pod 042: Affirmative.
+pod042: Pod 153: Analysis: Unit 9S has destroyed the core of a resource recovery unit.
+pod042: Pod 153: He has obtained an authorization key
+pod042: Pod 153: But I am concerned about his worsening psychological state.
+pod042: Pod 153: Care should be taken to prevent unit 9S from coming into contact with unit A2.
+pod153: Pod 042: Affirmative.
+pod153: Pod 042: Likewise, this Pod will take care to see that unit A2 avoids contact with unit 9S.
+pod042: Pod 153: in the process.
+[[ph3\p300\p300_7677d46d_scp.bin]]
+a2: Pascal! Are you okay?
+pascal: Oh, A2...
+a2: So what exactly happened?
+pascal: I don't know. Some of the villagers just started to...feed on each other.
+pascal: If you hadn't come along, I'm sure we would have met the same grim fate.
+pascal: Thank you.
+select: Can't you regenerate your dead villagers?
+select: Is this factory safe?
+select: We really need more info...
+pod042: Query: We understand that machine lifeforms can regenerate as long as they possess the required materials. Is this accurate?
+pascal: Unfortunately, we cannot regenerate our cores.
+pascal: Cores contain the data which forms our self-consciousness.
+pascal: If one is destroyed, there is no way to restore it.
+pascal: We usually store our cores in safe places,
+pascal: but this time, the villagers had their cores destroyed as well as their bodies.
+a2: I see...
+a2: So is this factory safe?
+pascal: It was once occupied by a cadre of fellow machines that had gone berserk.
+pascal: However, 2B took care of that threat.
+pascal: It is quite safe now.
+pascal: We've been using it for storage for some time.
+a2: All right.
+a2: Still, if we're gonna hole up here, I wish we had more info to work with...

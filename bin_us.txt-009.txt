@@ -1,0 +1,100 @@
+ane: The Resistance is assisting with the mission...
+ane: So I'd like to ask you to run a little guard duty.
+a2b: Seriously?
+ane: Dead serious. There's a stockpile of missiles down at the shoreline that needs to be loaded on the carrier.
+ane: And with all the machine activity lately, we need to stay on our toes.
+ane: Of course, if you're already working on something for YoRHa, I don't mind if that takes priority.
+ane: Anyway, thanks in advance.
+op60: Operator 6O to 2B. It is time for your regularly-scheduled contact.
+a2b: This is 2B. Nothing to report.
+op60: Listen, 2B. I was looking at images of flowers today and—
+a2b: Flowers?
+op60: Yeah. There wasn't much left in the Bunker's records, but I found one called a lunar tear.
+op60: I bet you'd look really nice if you put one of those in your hair, 2B. It'd suit your stylish looks!
+a2b: Don't need it.
+op60: Aw, don't be a stick in the mud. What kind of girl doesn't want to look good sometimes?
+op60: I'll let you know if I find anything else cute, okay?
+a2b: I don't need to hear about—
+op60: Operator 6O out.
+a2b: ......
+op210: Operator 21O to 9S. This is your regularly-scheduled contact.
+a9s: Yeah, yeah. No problems here.
+op210: Copy that. I also need to inform you that the Commander offers her personal praise for your recent achievements.
+op210: As a direct result, we are currently considering boosting production of your model.
+a9s: Really? I'm happy to hear it.
+a9s: I couldn't have done it without your support, Operator. You're always so cool under fire, not to mention beautiful and—
+op210: Flattery is unnecessary.
+op210: Operator 21O out.
+a9s: I really meant it though...
+[[ph2\p200\p200_99454795_scp.bin]]
+a9s: Nice.
+a9s: Now I just have to unlock the door where 2B is...
+a9s: That machine looks a lot tougher than this one...
+a9s: I should hack it and take control of it now while it's not suspecting anything.
+a9s: If I want to reach 2B...I'll need to reach the factory's lower level first.
+a9s: Uh oh... I'd better get to 2B fast!
+a9s: Damn it! Maybe I should've taken over something with a little more power...
+a9s: Look at all these broken machines...
+a9s: A few still look usable. Better send these coordinates to the Bunker, just in case.
+n02: Stop!
+n02: We shall become gods!
+n02: What are you thinking!? Have your circuits failed you!?
+n02: We shall become gods! We shall become gods! We shall become gods!
+n02: What happened to all of you?
+[[ph2\p200\p200_9a8a8724_scp.bin]]
+a9s: Exit route secured!
+a2b: Thanks!
+[[ph2\p200\p200_9dd3606e_scp.bin]]
+a9s: Damn it! They're here too!
+pascal: 9S!
+pascal: It seems the machines on the network have gone berserk.
+pascal: We've sealed off the entrance to the village and are trying to hold them off, but...
+pascal: With these weapons, there's only so much we can do...
+a2b: Let's take these guys out first.
+pascal: You saved us! Oh, thank you so much...
+a2b: What happened here?
+pascal: The machines on the network all went berserk at the same moment.
+pascal: I think the unit presiding over them may have gone mad.
+a9s: It's Eve. It's got to be.
+a2b: If we destroy this presiding unit, will it stop the rest?
+pascal: Most likely, yes...
+a2b: Pod, I need you to locate Eve's current position.
+pod042: Location has been detected and placed on map.
+a2b: We'll take care of Eve.
+a9s: You just worry about keeping the village safe, okay?
+pascal: Do be careful!
+pascal: You saved us! Oh, thank you so much...
+pascal: The machines on the network all went berserk at the same moment.
+pascal: I think the unit presiding over them may have gone mad.
+pascal: Most likely, yes...
+[[ph2\p200\p200_a1e11071_scp.bin]]
+a9s: We've got mortars lining the shoreline here.
+a9s: All the EMP shielding in the world won't help against close-range mortar fire.
+a2b: Got it.
+a9s: I'll help aim!
+a2b: Ngh... This thing's armor is too thick. We need more firepower.
+a9s: 2B! Let's try for a more "direct" approach!
+a2b: Direct...? Oh, right!
+a9s: That's right! Lay down some fire in its stupid mouth!
+[[ph2\p200\p200_a2a7da53_scp.bin]]
+pod042: This is Tactical Support Unit Pod 042, assigned to 2B.
+pod153: This is Tactical Support Unit Pod 153, assigned to 9S.
+pod042: We Pods often participate in the same battles.
+pod042: Exchanging our situational data would theoretically allow us to plan combat strategies in a more efficient manner.
+pod042: Proposal: Data should be transferred regularly between Pod 042 and Pod 153.
+pod153: Analysis: This idea is sound. Proposal accepted.
+pod153: Records will be organized in time for the next situational exchange.
+[[ph2\p200\p200_a3d6d2f5_scp.bin]]
+a2b: ...That concludes our report on the events surrounding the alien wreckage.
+cmd: Then they were dead this whole time...
+cmd: The Council of Humanity needs time to formulate a plan.
+cmd: Until then, this information must be kept confidential.
+cmd: Speak of it to no one.
+a2b: Of course.
+cmd: Your next mission is to gather additional intel on the individual known as "Pascal."
+a9s: You mean that freaky machine we ran into?
+cmd: This order comes directly from the Council.
+cmd: Knowledge of such unique individuals is essential for the success of future missions.
+a2b: Understood.
+a9s: Man, the Commander sure is a slave driver, huh?
+a9s: And now we have to go back to the city ruins.

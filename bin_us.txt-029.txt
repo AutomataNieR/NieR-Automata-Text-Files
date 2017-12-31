@@ -1,0 +1,100 @@
+a2: Goddammit...
+pod042: Analysis: Hostility toward the peaceful machine lifeform Pascal is pointless from an energy-usage standpoint.
+pod042: Proposal: Form a friendly relationship immediately.
+a2: You have GOT to be kidding me.
+a2: Guess I'll go back to that machine...
+a2: Here's your stuff.
+pascal: Ah! Thank you so much.
+pascal: I'll make a filter right away. Please just give me one moment.
+a2: He can fly?
+pod042: Alert: The machine lifeform Pascal has returned.
+a2: ......
+[[ph3\p300\p300_e9106cc6_scp.bin]]
+op60: 2B, we've sighted new enemies in the region.
+op60: They've got Attack Squadron Omega surrounded and are giving them one hell of a fight.
+op60: Can you get over there and provide support ASAP?
+a2b: We're on it.
+a9s: Man, this is tougher than I thought it would be.
+a2b: We need to hurry.
+a2b: This is unit 2B.
+a2b: We're in position to provide support for Attack Squadron Omega.
+a8b: Are we ever glad to see you!
+a8b: They came out of nowhere. We were fighting for our damn lives!
+a2b: If this keeps up, we can win.
+a2b: 9S? Scan the area to see if any reinforcements are on the way.
+a9s: You got it.
+a2b: What was that?
+a9s: Are you okay?
+a9s: Damn it! There's no end to them!
+a2b: Let...my guard down... EMP hit me point-blank...
+a9s: I gotta finish 'em off and help 2B!
+a2b: I gotta...reboot...
+a9s: I'll provide backup!
+a9s: They...they have visual camouflage!?
+a9s: What the hell's going on here!?
+a9s: I have to protect 2B!
+a9s: This viral attack... The EMP must have triggered it!?
+a2b: Nnghn...
+a9s: I gotta do something...
+a9s: You okay?
+a9s: I have to save 2B!
+a9s: I'll remove the virus right now. Hold on.
+a9s: They've been infected and taken over!
+a2b: 9S, kill my identification circuit. I can't attack them like this.
+a2b: No...
+a2b: Wait, what!?
+a9s: Got it!
+a2b: Attack functions aren't working!
+a9s: That's because of their YoRHa IDs!
+a9s: 2B, I need to hack into you and fry your identification circuit!
+a2b: Do it!
+pod042: Alert: Exiting the planned operational area.
+pod042: Proposal: Return to the operational area immediately.
+pod153: Alert: Exiting the planned operational area.
+pod153: Proposal: Return to the operational area immediately.
+[[ph3\p300\p300_ebb2aa60_scp.bin]]
+n02: I...I'll kill you!
+a9s: "I'll kill you?" ...Heh.
+a9s: That's my line.
+[[ph3\p300\p300_f0e6bd59_scp.bin]]
+pod042: Alert: The structure known as the Tower has opened its gate.
+a2: Let's check it out.
+dbl: Ah... A2, right?
+dbl: We...went ahead and opened the Tower.
+dbl: 9S is already inside.
+a2: I see.
+dbl: S-Say...
+dbl: Did we...
+dbl: Did we manage to help?
+a2: ...You did.
+[[ph3\p300\p300_f29af5ee_scp.bin]]
+a9s: Hey, Pod.
+a9s: Give me a rundown on what happened while I was resting.
+pod153: Affirmative. Relevant data concerns the massive facility you just accessed.
+pod153: It appears to be machine-related in origin, though further details are unknown.
+pod153: Additionally, the large structural units launched from the facility have been detected in multiple areas.
+a9s: Large structural units?
+pod153: Said units were marked as goals earlier. They are believed to be so-called "resource-recovery units".
+a9s: What do these units do?
+pod153: Unknown.
+a9s: Where's A2?
+pod153: Unit A2's position and current status are unknown.
+a9s: All right.
+a9s: Mark the positions of those units on my map, will you?
+pod153: Proposal: Unit 9S should state his intentions.
+a9s: I'm going to wipe out the machines.
+pod153: With the Bunker destroyed, previous orders to YoRHa units would be suspended.
+pod153: Proposal: Rendezvous with Resistance forces and confirm chain of command.
+a9s: I don't care about chain of command.
+a9s: I have one goal now.
+a9s: I'm going to kill every last machine.
+a9s: And then...
+a9s: I'm going to kill A2.
+pod153: Proposal: Investigate the marked resource recovery units.
+a9s: I know.
+a9s: Is that one of our large units?
+pod153: Affirmative.
+pod153: Said unit appears to be delivering something to the giant facility.
+pod153: Hypothesis: This facility may be designed to transport some kind of resource.
+a9s: What's the resource it's transporting?
+pod153: Unknown.

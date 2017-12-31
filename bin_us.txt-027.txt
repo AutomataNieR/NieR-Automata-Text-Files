@@ -1,0 +1,100 @@
+cmd: None of our ground units reported anything about a virus.
+a9s: That's because all communication with the Bunker has been severed.
+cmd: And why did you leave the battlefield anyway? I didn't order a retreat.
+a2b: We're telling you, YoRHa has gone berserk!
+cmd: ......
+cmd: No.
+cmd: If anyone is acting infected here, it's you.
+a9s: Are you NUTS!?
+[[ph3\p300\p300_d7fb6a72_scp.bin]]
+pod042: It appears to be a machine lifeform that has adapted to the desert environment.
+pod042: Proposal: Destroy the enemy machine.
+a2: Yeah, that's REAL helpful!
+a2: Damn! He's tough.
+a2: Time to bust out B-Mode.
+pod042: Alert: The use of B-Mode to increase nuclear fusion output carries unacceptable levels of risk.
+pod: Any offensive boost is offset by lowered defense and increased maintenance costs.
+pod: The feature was removed from newer models for this reason.
+a2: Guess it's too bad I'm not a newer model.
+pod042: Older attacker models such as the YoRHa A2 are not equipped with ranged weaponry.
+pod042: Proposal: Unit A2 should take advantage of her support Pod, which is equipped with helpful long-range attack features.
+a2: Don't patronize me.
+[[ph3\p300\p300_d86d80b1_scp.bin]]
+pod153: Pod 153: Alert: Data records discovered for units Devola and Popola.
+pod153: Pod 153: Do you wish to open this data now?
+sele: Open it now.
+sele: Open it later.
+pod153: Pod 153: Acknowledged.
+pod153: Pod 153: Data saved to archive.
+pod153: Pod 153: "The failure to manage the area...
+pod153: Pod 153: "resulted in the collapse of the Gestalt System,
+pod153: Pod 153: "which led to the decimation of the human race."
+pod153: Pod 153: Due to the discovery of its instability,
+pod153: Pod 153: the Twin System was removed
+pod153: Pod 153: from future android production designs.
+pod153: Pod 153: Following the incident, the Devola and Popola models were not dismantled.
+pod153: Pod 153: However, in order to prevent further unexpected behavior,
+pod153: Pod 153: they underwent a memory wipe.
+pod153: Pod 153: Furthermore, they were reprogrammed to generate constant feelings of guilt.
+pod153: That is all that remains from their personal record during the era in which they were referred to as administrators.
+a9s: I see.
+pod153: Query: Why do the androids Devola and Popola seem to prefer death over surviving alone?
+pod153: There was a very high probability that at least one could have escaped.
+a9s: I...
+a9s: ......
+a9s: I hope you never have to understand.
+pod153: ...Affirmative.
+[[ph3\p300\p300_d913dcc1_scp.bin]]
+announce: YoRHa unit 9S!
+girls: YoRHa unit 9S!
+announce: Welcome to the Tower!
+girls: Welcome to the Tower!
+a9s: You bastards...!
+girls: Because you made it this far, we have a special announcement just for you...
+girls: We'll reveal it once you destroy all the machine lifeforms here.
+girls: You did it.
+girls: You did it.
+girls: Now let us show you what we promised.
+[[ph3\p300\p300_dd8b37bd_scp.bin]]
+pod042: I noticed something while providing support to A2.
+pod042: Enemy machine lifeforms have begun sharing data with each other.
+pod153: We'd better look into that.
+pod042: I'll share the data with you, so see what you can find out.
+pod153: Affirmative.
+pod153: I also have a separate report about 9S...
+pod042: What is it?
+pod153: I'll share the data. His psychological state has deteriorated to a grave level.
+pod042: We'd better handle that quickly, too.
+pod153: Agreed.
+pod042: ......
+pod153: ............
+pod153: Not sure what we should do, however.
+pod042: Agreed.
+pod042: Proposal: Rest, combined with data checking and maintenance.
+pod153: Agreed.
+pod153: I will make the suggestion immediately.
+[[ph3\p300\p300_df90c81a_scp.bin]]
+girls: We are conceptual human personalities created within the machine network.
+girls: We cannot be destroyed.
+girls: YoRHa unit 9S...
+girls: Your attack is meaningless.
+girls: Your existence is meaningless.
+a9s: Shut up!
+a9s: Keep 'em coming...
+a9s: I'll destroy them all...
+a9s: All of them...AND this Tower!
+[[ph3\p300\p300_e3d05ab7_scp.bin]]
+pod042: This is the current status of unit 9S?
+pod153: Affirmative. His mental state has become dangerously unstable.
+pod153: Action must be taken immediately.
+pod042: I noticed something while providing support to A2.
+pod042: Enemy machine lifeforms have begun sharing data with each other.
+pod153: We'd better look into that.
+pod042: I'll share the data with you, so see what you can find out.
+pod153: Affirmative.
+pod153: I also have a separate report about 9S...
+pod042: What is it?
+pod153: I'll share the data. His psychological state has deteriorated to a grave level.
+pod042: We'd better handle that quickly, too.
+pod153: Agreed.
+pod042: ......

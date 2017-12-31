@@ -1,0 +1,100 @@
+[[ph3\p300\p300_a34d9d8a_scp.bin]]
+a2b: A...2...
+[[ph3\p300\p300_a60ff1fc_scp.bin]]
+a2b: Pod, report our status to Command!
+pod042: Alert: All communications are currently being jammed.
+a2b: God damn it!
+a9s: 2B!
+a9s: I located the unit that's jamming our comms.
+a2b: Got it.
+a9s: The jamming is coming from that thing!
+a9s: That should take care of the jamming.
+a2b: Pod, send an emergency distress signal to Command!
+pod042: ......
+a2b: Pod!
+pod042: Alert: Connection lost. Unable to reach Command.
+a2b: Damn it, they're STILL jamming us?
+pod042: Negative. Signal reception is clear.
+pod042: Connection lost due to server-side authentication failure.
+pod042: No responses coming from Command on any channel.
+a2b: Shit. What happened to the Bunker?
+a2b: I can't keep doing this forever!
+a9s: 2B! I have an idea!
+a9s: It's possible to access the Bunker through a backdoor in the system.
+a9s: I can use that to initiate an emergency upload of our personal log data.
+a9s: Then we set our black boxes to self-destruct and take 'em all out at once!
+a2b: ...Sounds good!
+a9s: Data upload 30 percent complete.
+a9s: 50 percent complete!
+a9s: We just hit 70 percent!
+a2b: Are you done yet!?
+a9s: Almost! We're at 92 percent!
+a9s: 2B! Your black box!
+pod042: Target location data obtained. Marking on map.
+pod042: Alert: Exiting the planned operational area.
+pod042: Proposal: Return to the operational area immediately.
+[[ph3\p300\p300_a80afa1d_scp.bin]]
+pod042: Pod 153. Commencing data sharing.
+pod153: Affirmative. Launching compressed conversation mode.
+pod042: 
+pod153: 
+pod153: Compressed conversation mode complete.
+pod153: Affirmative.
+pod153: Awaiting report on the effects of unit 2B's memory data on unit A2's self-consciousness.
+pod042: Understood.
+pod042: Updating as reference data for support activity.
+[[ph3\p300\p300_abb0feab_scp.bin]]
+a2: What the hell?
+a2: The machines are...eating each other!?
+a2: Pod, where's Pascal!?
+pod042: Unknown. Cannot establish connection.
+pascal: Aaaah! A2!
+a2: What happened!?
+pascal: I don't know.
+pascal: Some of the villagers suddenly went mad.
+pascal: They began attacking their friends.
+pascal: I managed to help the children flee to safety.
+pascal: But I fear everyone else is...
+a2: You need to get out of here before you're next.
+a2: Just go. Run! I'll figure out how to handle this!
+pascal: But what about you?
+a2: These guys can't touch me.
+a2: Now move your ass!
+pascal: R-Right!
+a2: I can't leave this village to fend for itself.
+a2: Is that all of them?
+a2: Pod, scan for survivors.
+pod042: Scanning. No life signs detected.
+a2: None, huh...?
+a2: Pascal, can you hear me?
+pascal: Ah! A2!
+pascal: How is my village? My people?
+a2: I'm sorry. I couldn't help them.
+pascal: Oh no....
+a2: Are the children all right?
+pascal: I've taken them to the abandoned factory.
+a2: All right. I'm on my way.
+[[ph3\p300\p300_abb1d768_scp.bin]]
+op210: ...And those are your orders. Do you understand?
+op210: The target is thought to be in a high location with good network reception. Try examining the rooftops of buildings.
+a9s: Um...
+a9s: Roger.
+a9s: The Scanners are going to hack into the enemy's anti-air system and shut it down in advance of an all-out assault, right?
+op210: Please refrain from destroying the target. If you do, another one will simply take its place.
+op210: That's right. Good job, 9S!
+a9s: No killing the target. Got it.
+a9s: Why are you talking to me like I'm a child?
+op210: Be advised, the target's appearance is identical to that of a standard enemy. Once you approach, however, a marker will appear.
+op210: What? That must be your imagination.
+a9s: Is it me, or does it seem like they're getting smarter?
+op210: Look for machines that are receiving signals from the anti-air system.
+op210: Hmph! You destroyed it again.
+op210: They should be located in elevated areas with good signal reception.
+op210: You have to hack 'em! Hack-hack-hack!\nThey'll substitute another enemy soon, so try again.
+op210: I've forwarded the general positions of the machine lifeforms you need to hack.
+a9s: Roger.
+a9s: Got it.
+a9s: Whoops!
+op210: I see your hacking was successful. Way to go!
+op210: Unit 9S, your orders are to hack in to enemy units, not destroy them.
+a9s: You're totally treating me like a kid.

@@ -1,0 +1,100 @@
+pascal: Information about this A2 android is indeed contained within our archives.
+pascal: We all understand her to be rather dangerous.
+pascal: However, she's never visited our village in person.
+pascal: My apologies. That's all the information I have.
+a9s: I see... All right, thanks.
+a2b: Let's stay sharp and head back to the Resistance camp.
+a2b: We should run a check on our consciousness data and resupply.
+[[ph2\p200\p200_71c59d9f_scp.bin]]
+telo: Four Hours Ago...
+smallrobot: His Majesty hasn't grown at all.
+smallrobot: No. Not in the slightest.
+smallrobot: How can we make him bigger?
+smallrobot: I don't know...
+smallrobot: We're too dumb to figure that out.
+smallrobot: Sure is a cutie, though!
+smallrobot: Yeah! So tiny and cute!
+smallrobot: We'd better keep him safe.
+smallrobot: Right. Can't let anyone into the forest kingdom...
+smallrobot: D-Danger! Danger!
+smallrobot: Everyone get out now!
+smallrobot: Intruders in the kingdom!
+smallrobot: Don't let them in here!
+[[ph2\p200\p200_7398bbfd_scp.bin]]
+a9s: Looks like the forest is just ahead.
+[[ph2\p200\p200_7793b6d6_scp.bin]]
+n02: Ah ha ha ha ha ha ha ha hah!
+n02: It feels good! It feels good! It feels sooo gooooood!
+n02: God God God God God God God God God...
+n02: Farewell! Farewell!
+n02: Bye-bye! Bye-bye!
+n02: The moment we've pined for is here! Let us all go together!
+n02: We will become gods and be freed from our torment!
+prst: Why did this happen...?
+prst: The only option left is to die...
+prst: I'm scared... I'm so scared...
+prst: We must die...and become gods!
+prst: Yes, let us die now!
+pod042: Proposal: Proceed toward the guide marker.
+[[ph2\p200\p200_78334de1_scp.bin]]
+a9s: This must be the commercial structure Pascal was talking about.
+a9s: The records say it was once a facility known as a "shopping center."
+a2b: No getting through here.
+a9s: Maybe there's some kind of mechanism we could engage?
+a9s: If we were human, we probably would have gone shopping and such here, right?
+a2b: More meaningless conjecture.
+a9s: Ha ha! You're so serious, 2B. You know that?
+pod042: Alert: Multiple machine lifeforms detected above our position.
+n02: All hail the Forest King!
+n02: All hail the Forest King!
+a9s: Who the heck is the Forest King?
+a2b: You're getting distracted.
+a9s: Well, what do you expect? I'm a Scanner.
+a9s: Combat was never meant to be my forte.
+n02: All hail the Forest King!
+a9s: Check this guy...
+a9s: He's just running away.
+[[ph2\p200\p200_7914bf_scp.bin]]
+n02: Stop! We have no desire to fight you!
+a2b: The connection's too unstable to use the transporter.
+n02: Ahh... Why did this happen?
+n02: I thought we were going to forge peace...
+n02: Your Grace...
+n02: How could God allow this?
+n02: Why did something so cruel have to happen?
+n02: We had almost completed the road to peace...
+n02: O God, please restore them to their senses...
+n02: What happened to everyone?
+n02: Somebody help me...
+n02: I’m scared...
+n02: Ooooh...
+n02: It's over... It's all over...
+prst: Ahhh... Why did this happen...?
+prst: Dying won't make us gods...
+prst: Why did His Grace have to die...?
+prst: How am I supposed to live now...?
+n02: His Grace... His Grace...
+n02: God, I'm scared... What's going to happen to us if we die?
+n02: Help me, O God... Please, my God...
+n02: No... I don't want to die...
+n02: No! Please don't kill me!
+n02: Nngh... He... He killed all of them...
+n02: Ahh, how did it come to this!? Please stop all the killing!
+n02: I'll provide you with anything you need!
+n02: Do you need anything?
+n02: Please... Please save me.
+[[ph2\p200\p200_7a5876f7_scp.bin]]
+a2b: There are still enemies here—we can't just leave!
+pod042: Alert: Exiting the planned operational area.
+pod042: Proposal: Return to the operational area immediately.
+[[ph2\p200\p200_7c0c6f18_scp.bin]]
+a9s: Man, this job can be pretty rough sometimes, huh?
+a2b: We don't get to choose our assignments.
+a2b: And you should work on keeping your opinions in check.
+a2b: YoRHa aren't allowed to be emotional, remember?
+a9s: I think some of us are better at that than others...
+a9s: Say, 2B?
+a2b: What?
+a9s: When do you think you'll be willing to call me "Nines"?
+a2b: 9S works just fine.
+a9s: Well, yeah, but...

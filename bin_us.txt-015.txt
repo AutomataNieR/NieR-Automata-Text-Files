@@ -1,0 +1,100 @@
+pod042: Alert: Exiting the planned operational area.
+human: The Council of Humanity has a message for all of our......fighting on the surface.
+human: Today, I have wonderful......
+human: The Council of Humanity has decided to increase the production of new.......
+human: This will enable us to deal a powerful blow to......enemies.
+human: The light of hope is near......closer than ever to it.
+human: We look forward to future......and know that you will be the ones to bring it to us.
+human: Glory to......
+[[ph3\p300\p300_22633b31_scp.bin]]
+cmd: Have you met with 9S yet? He's waiting in his room.
+cmd: 9S is waiting in his room. You should go see him.
+op60: I don't know how you managed to beat Eve, but you did!  Now go take a nap or something. You totally earned it!
+op60: I'm so glad I got to work with you, 2B! Here's to many more successful missions!
+op210: Thank you for supporting 9S. Please continue to look after him.
+op210: Actually, have you spoken with 9S yet? He's waiting in his room.
+[[ph3\p300\p300_2460bab4_scp.bin]]
+pod153: Alert: Excessive combat activity will put unacceptable strain on your body.
+a9s: Shut up!
+pod153: Negative. This support unit is assigned to YoRHa unit 9S.
+pod153: As such, being concerned for said unit's well-being is a requirement.
+a9s: Ugh! Whatever.
+[[ph3\p300\p300_249dcf6a_scp.bin]]
+a9s: 2B...
+a9s: 2B!
+a9s: Don't worry...
+a9s: I'm going to kill you now!
+pod153: Alert: Enemies detected.
+a9s: Still a few stragglers, huh...
+[[ph3\p300\p300_24fd47f4_scp.bin]]
+a2: What's up with this place?
+pod042: Hypothesis: It is a representation of a library.
+a2: What's that?
+pod042: A library is a data-storage facility constructed by past human civilizations.
+a2: Hmm.
+a2: I suppose we have to hack in to look at the data, yeah?
+a2: Help me out, Pod.
+pod042: Affirmative.
+pod042: Hacking-interface access rights granted to YoRHa unit A2.
+a2: Peachy.
+a2: This Tower looks like a data-gathering system for the machines.
+a2: These records are from the human server on the moon...
+a2: The machines hacked that deep into the system, huh?
+a2: Some records on old humans...
+a2: Damn it, this is useless. There's too many of them.
+a2: Huh? What's that?
+a2: "Operational Summary of Model Number Two in Project YoRHa."
+[[ph3\p300\p300_26ad4903_scp.bin]]
+a9s: Damn! The doors!
+a9s: Did the virus infiltrate the Bunker itself?
+op60: Oooo! Bingo AGAIN!
+a9s: Operator, what—
+a2b: That's not the Operator. It's—
+op60: We are your beloved machine lifeforms.
+op60: We speak to you through the network and the virus.
+cmd: How is that even possible!?
+op60: We've had a great deal of fun watching you squirm.
+op60: But I'm afraid the end has come for this outpost.
+op60: Ah ha! Aaaaah ha ha ha!
+op60: Ah ha! Aaaaah ha ha ha!
+a9s: 2B, it's open!
+pollutions: G-G-Glory to...m-mankind...
+pollutions: All YoRHa units...launch...
+pollutions: Reporting...current status...
+pollutions: Commander...it is an honor...
+a2b: They're still...conscious...
+a9s: Stay focused, 2B!
+pollutions: This food...isn't very good.
+pollutions: Hee hee! When does the war end? End?
+op60: Two-Bee, I...am Operator 6O.
+op60: ThANk you for...foR the FLOWErs.
+op60: Desert FLOWErs are BEAUTIF, arEN't thEY... Th-Th-thank You... SoMEdAy I...
+a2b: !!
+pollutions: Why... I... Operator!
+pollutions: Mankind... Man...kind...?
+a9s: The transport terminal is corrupted. We need to get to the hangar and get some flight units!
+pollutions: Mission...accomplished.
+pollutions: Co...Commander... Thank you...
+cmd: Damn it!!
+a2b: Commander, the Bunker is lost.
+a2b: We have to evacuate.
+cmd: But tell me—why weren't you two infected?
+a2b: I don't know!
+a9s: It's probably because I deferred our data sync.
+a9s: I noticed some weird noise in the Bunker's server data, so I paused the upload.
+cmd: I see.
+a2b: Commander, we need to get some flight units from the hangar and get out of here.
+a2b: Commander!
+cmd: I, too, was synched up with the server...
+a2b: But 9S can hack into your systems and—
+cmd: There's no time!
+cmd: You two are the last remaining members of YoRHa.
+cmd: It's your duty to survive.
+a9s: But Commander...
+cmd: Besides, this is my command.
+cmd: Let me at least fulfill my duty here to the end...
+a9s: 2B, this place is lost!
+a2b: Commander!
+cmd: Move it, 2B! That's an order!
+[[ph3\p300\p300_2ac25a34_scp.bin]]
+a9s: Where the hell is 2B!?

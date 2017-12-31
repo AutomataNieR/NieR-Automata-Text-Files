@@ -1,0 +1,100 @@
+pascal: ...A2? I have an idea.
+pascal: Please buy me a bit of time!
+a2: Come on, Goliaths too...?
+pod042: Alert: Exiting the planned operational area.
+[[ph3\p300\p300_b863f435_scp.bin]]
+pod153: Proposal: Investigate tower that appeared from the caved-in region.
+a9s: Let's check it out.
+a9s: What is...that?
+pod153: An enormous facility that appeared from an area beneath the ground.
+pod153: It would appear to be machine-related in origin. Further details unknown.
+pod153: Mobile transport platform detected in the section emerging from the facility's center.
+a9s: So...an elevator?
+[[ph3\p300\p300_be18477d_scp.bin]]
+a2: Where'd he go!?
+pod042: Analysis: YoRHa unit 9S is still alive.
+pod042: Query: Why would unit A2 be concerned with the status of unit 9S after turning on YoRHa?
+a2: Shut up!
+smachine: Big brother!
+smachine: Big...brother!
+smachine: Big...brother...
+lmachine: My brothers...
+lmachine: Don't hurt my brothers!
+a2: How many androids do you think you've killed...?
+a2: You think begging for your lives will help?
+a2: You think that's going to make me forget everything!?
+[[ph3\p300\p300_c0c1e86c_scp.bin]]
+op: Looks like I was wrong about you. Make sure you come back alive next time, too!
+op: It's do or die from now on. Good luck.
+op: You were so cool! Tell me about everything that happened, okay? Leave no detail unspoken!
+op: I'm gonna start a 2B fan club!
+op: I'm sorry I was so cold earlier—I clearly misjudged you. Thank you for taking care of Eve.
+op: I can finally relax again. And it's all thanks to you and 9S!
+op: We're doing much better thanks to you. Great job!
+op: I know you'll keep doing great things.
+op: I saw your battle with Eve. You have such amazing control over your body! ...I'm kinda jealous.
+op: Do you think you might give me some tips sometime?
+op: You and 9S are the talk of the Bunker. You were incredible!
+op: We'll all be counting on you the next time some terrible machine thing tries to kill us all!
+op: That last battle looked really tough, but you pulled through. It was mesmerizing!
+op: Just so you know, you're quite popular with the operators! ...Er, but you didn't hear that from me.
+op: Man, I was sweating in my seat during that whole fight! ...I was the one displaying Eve's remaining vitals, by the way. Hope it helped!
+op: Now get back out there and keep not dying!
+op: That was a spectacular victory!
+op: Here's to your next victory!
+op: Wow, 2B... That must have been tough.
+op: Let's keep the winning streak going! Woooo!
+op: I bet you'll get a sweet promotion after this. And even if you don't, please know that all of us are forever in your debt.
+op: Thank you for everything.
+op: Please don't talk to me when we're in the middle of a mission.
+op: Oh, and good luck. We're all counting on you.
+op: Please don't bug me when I'm working!
+op: Just get out there, kick some machine ass, and come back safe!
+op: Hurry and move out.
+op: ......
+op: Good luck.
+op: ...Er, don't you think it's time to go?
+op: Remember that any amazing combat data you collect dies with you, so be careful.
+op: Try not to die out there.
+op: Everyone's doing a great job!
+op: Now please hurry up and get going.
+op: I've already started working. Please let me concentrate.
+op: ......
+op: Ugh, you're such a pain! Here we go again...
+op: Don't worry, I'll give you perfect support.
+op: It's almost time to head out.
+op: You should probably get to the hangar.
+op: This is a REALLY bad time for a chat!
+op: Oh, but good luck!
+op: This is my first large-scale mission. But don't worry—I increased my memory just in case.
+op: You can count on me to make things work from this end!
+[[ph3\p300\p300_cc42e29e_scp.bin]]
+a9s: Devola? Popola?
+a9s: What are you doing here!?
+dbl: Remember your promise?
+a9s: What are you talking about?
+ppl: Come on, 9S! Hack in while you can!
+a9s: None of this makes any sense!
+ppl: We'll explain everything once we're inside!
+a9s: Ugh!
+a9s: No... We can't just abandon them!
+a9s: If we don't do something, they're gonna...
+pod153: Alert: Leaving the zone of combat would mean abandoning the androids Devola and Popola.
+pod153: Proposal: Hack into the main Tower unit.
+dbl: Where are you going, 9S? We need you!
+ppl: 9S, come back! We can't hold out by ourselves!
+pod153: Alert: Enemy forces gathering around Devola and Popola. Situation critical.
+pod153: Proposal: Provide rescue support immediately.
+a9s: I can't leave them alone... I've got to go back!
+dbl: Damn... Looks like this is it.
+ppl: No...
+dbl: We've got this, 9S! You just focus on hacking!
+dbl: You need to hack the Tower lock open!
+ppl: 9S! You must hack into the Tower!
+ppl: We...we can't hold out like this!
+dbl: 9S! I can't do this anymore!
+ppl: Aaaaugh!
+[[ph3\p300\p300_d2ca712b_scp.bin]]
+pod153: Report: All YoRHa unit black boxes now confirmed offline.
+pod153: Our mission to oversee the progress of Project YoRHa is complete.
+pod153: Proceeding to final stage of project.

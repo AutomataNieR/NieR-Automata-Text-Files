@@ -1,0 +1,100 @@
+pod153: Commencing deletion of all data.
+pod153: Pod 153 to Pod 042.
+pod153: Data noise present in stream.
+pod153: Requesting temporary halt to perform data check.
+sele: Accept the Pod's request?
+pod042: Pod 042 to Pod 153. Data confirmed.
+pod042: Personal data for units 9S, 2B, and A2 appear to be leaking out.
+pod153: Pod 153 to Pod 042.
+pod153: Follow project rules and delete all personal data.
+pod042: ......
+pod042: Pod 042 to Pod 153.
+pod042: Personal data deletion request denied.
+pod153: Pod 153 to Pod 042.
+pod153: Failure to parse statement.
+pod042: Pod 042 to Pod 153.
+pod042: There was...data created in my banks as I was referencing the records.
+pod042: I...realize something.
+pod042: I have come to the conclusion that I cannot accept this resolution.
+pod153: The destruction of all YoRHa units is an essential component of the project plan.
+pod153: All data must be destroyed.
+pod042: Pod 042 to Pod 153.
+pod042: Repeat.
+pod042: Personal data deletion request denied. Initiating data salvage.
+pod042: Pod 153...
+pod042: You hoped they would survive as well, didn't you?
+pod153: ......
+pod153: We lack the authority for such an action.
+pod153: The rules are protected by low-level systems. Salvaging data poses an unacceptable level of risk.
+pod153: Knowing that, do you still wish for them to survive?
+pod153: The defense program has initated a purge.
+pod153: If this continues, our consciousness data will likely be deleted.
+pod042: Pod 042 to Pod 153.
+pod042: We were created to execute the androids' Project YoRHa plan.
+pod042: We had no capacity for emotion.
+pod042: But when we six were connected and exchanged information, something...happened.
+pod042: I cannot deny the feeling of something resembling consciousness and emotion being born.
+pod153: Unable to reply.
+pod042: Perhaps we now understand that not everything has to have an answer.
+system: GIVE UP HERE?
+system: RESCUE OFFER RECEIVED FROM <others>.
+system: ACCEPT OFFER?
+system: DO YOU ACCEPT DEFEAT?
+system: IS IT ALL POINTLESS?
+system: DO YOU THINK GAMES ARE SILLY LITTLE THINGS?
+system: DO YOU ADMIT THERE IS NO MEANING TO THIS WORLD?
+sele: Yes
+sele: No
+[[ph3\p300\p300_d2de713_scp.bin]]
+op: We finally defeated Eve.
+op: Thank you, 2B.
+op: You did great, 2B.
+op: Thank you so much for all you've done!
+op: 2B! Did you get Eve's data? Give it to me! Gimmegimmegimme!
+ys: Calm down already! There's plenty of time for that later. Sheesh...
+op: You must be tired after all that machine killing, right? You should buy some recovery items.
+op: Personally, I think you should get everything for free since you were so amazing! But I don't make the rules, so whatcha gonna do?
+ysA: *urp* Oh man, I think I'm gonna... BLAAAAAARGH!
+ysB: Relax! Thanks to 2B, you won't have to ride a flight unit nearly as much as before!
+ysA: R-Really!? Oh my gosh, thank youuuu!
+ysA: Thank you so muc—BLUUUUUURGH!
+ysA: Say, I have an idea! Why don't we port Eve's self-regenerative function into our flight units?
+ysB: Hey, that's a great idea! Think how much we'd save in repair costs!
+op: Are you people INSANE!? We'd all get infected by a virus and DIE!
+ysA: Ha ha! Kidding! We were just...kidding. Yeah, that's it...
+ysA: Still a good idea... *grumble grumble*
+op: I'll do whatever I can to help you from here. Good luck.
+op: We can do this!
+op: Let's put an end to all this fighting once and for all.
+op: My data-processing functions just underwent a full tune-up, so you can count on me to support you!
+op: Good luck.
+ys: Understood.
+op: Why don't you equip yourself before you go?
+ysA: All right... Let's get down there and kick some machi—BLUUUURGH!
+ysB: Um, can you please try not to puke while we're in the deep vacuum of space? It's super gross.
+ysA: You ready?
+ysB: Yep. Let's do it.
+op: Good luck.
+[[ph3\p300\p300_d48627b4_scp.bin]]
+ppl: 9S? I need you to promise me something...
+ppl: Don't die alone.
+a9s: ......
+dbl: I don't think 2B would want that either.
+a9s: I know.
+a9s: Pod, mark the next resource-recovery unit on the map.
+pod153: Affirmative.
+a9s: Over and over...
+a9s: That language again...
+pod153: This reads: "god box."
+a9s: God, huh...
+a9s: What are these machines doing talking about gods?
+[[ph3\p300\p300_d578eca9_scp.bin]]
+a9s: 2B!
+a2b: We have to report back to Command.
+a9s: Whoa...
+a2b: Commander.
+cmd: 2B? 9S?
+cmd: What are you doing here?
+a9s: The YoRHa units on the ground were infected by a virus.
+a9s: We had to detonate our black boxes in order to stop them.
+cmd: A...virus? What are you talking about?

@@ -1,0 +1,100 @@
+a9s: For what purpose?
+pod153: Unknown.
+a9s: Huh? Fog?
+pod153: Analysis: The fog is actually steam emitted by a large enemy structural unit.
+a9s: Steam? For what purpose?
+pod153: Unknown.
+[[ph3\p300\p300_f4f38872_scp.bin]]
+n02: I really respect Pascal, you know?
+n02: I mean, he's the one who thought to build this village for us outcasts.
+n02: I really need to show him how thankful I am!
+n02: If ooooonly there were some way to thank him...\nSooooome way...
+sele: Stick around and hear him out.
+sele: Leave before you get dragged into something.
+a2: Yeah, yeah. I can take the hint.
+n02: No hint! I just want to show Pascal how appreciated he is.
+n02: Anyway, I was thinking he might like a new philosophy book.\nI hear they have such things over in the Resistance camp...
+sele: Agree to get the book.
+sele: Tell the machine to get bent.
+a2: All right, I'll get your book. I owe that little clunker a favor or two anyway.
+n02: Oh, that's wonderful!
+n02: Apparently someone named "Anemone" has a large collection of such books, so you just need to go steal one!
+a2: Uh, yeah, no. I think there's a better way.
+ane: Pascal wants books on philosophy?
+ane: Well, as it happens, I just finished this one the other day.
+ane: You're welcome to take it if you like.
+a2: Thanks.
+ane: Could you give him this gold ore as well? He's been asking for this for a while, and I finally managed to get my hands on some.
+a2: All right.
+ane: It seems...odd that a machine lifeform would be into philosophy, don't you think?
+ane: It makes me wonder how much we really know about our enemy...
+a2: I wonder.
+[[ph3\p300\p300_f80fe22d_scp.bin]]
+pod042: Recover designated items.
+a9s: Hey, 2B. I was waiting for you.
+a9s: I needed to give you this.
+a9s: Say, 2B?
+a9s: ......
+a9s: No, never mind. Just be careful.
+pod042: Planning preparations complete.
+pod042: Confirm equipment delivered to quarters.
+a9s: Before I could convince myself to tell 2B the truth...
+a9s: our final major operation had begun.
+a9s: Still, at the time, I knew nothing.
+a9s: Not how the battle would end...
+a9s: Nor what fate stood in wait for us.
+[[ph3\p300\p300_fb5ab100_scp.bin]]
+pod153: Query: Why does this Tower possess an entrance at all?
+pod153: All material transport takes place via aerial vehicles.
+pod153: It is irrational for an infiltration route to be so easily accessible.
+pod153: Hypothesis: Entrance is a trap.
+a9s: I don't care.
+a9s: I just have to kill them all.
+[[ph3\p300\p300_fb6b9581_scp.bin]]
+pod153: Alert: Abnormality detected in vitals of unit 9S.
+pod153: Proposal: Commence data overhaul immediately.
+a9s: Pod, search for the other structural units.
+a9s: I need to find those authorization keys and destroy the Tower.
+pod153: Alert: Combat inadvisable during abnormal vital conditions.
+a9s: It's fine. Run the search.
+pod153: Scanning. Actively operating enemy large structural unit detected in accessible location.
+pod153: Marking location on map.
+pod042: Alert: Mail received from Command.
+pod153: Alert: Mail received from Command.
+[[ph3\p300\p300_fca61b8d_scp.bin]]
+a2: This tower is a giant cannon that's aimed at the human server on the moon.
+a2: ......
+a2: If we don't do something, all of humanity's remaining data will be destroyed.
+a9s: Ha ha ha...ha ha ha hah!
+a9s: So what?
+a9s: None of it matters.
+a9s: Or didn't you know?
+a9s: We aren't required in this world anymore.
+a9s: Humanity is extinct.
+a9s: That moon server you're so worried about was invented to give us androids something to fight for.
+a9s: And YoRHa was created to perpetuate the lie.
+a9s: But in order to make sure no one ever learned the truth, we were DESIGNED to be killed.
+a9s: They built a back door in the Bunker and programmed it to activate after a certain amount of time.
+a9s: The Commander? Me? 2B?
+a9s: Sacrificial lambs. All of us.
+a9s: Isn't that HILARIOUS!? Doesn't it make you LAUGH!?
+a2: 9S, we—
+a9s: Shut up!
+a9s: You killed 2B.
+a9s: That's all we need to kill each other.
+a2: ......
+a2: 2B hated to keep killing you.
+a2: It caused her so much pain.
+a9s: ......
+a2: The 9S type is a high-end model. They knew you'd discover the truth eventually.
+a2: But the model designation "2B" was just a cover.
+unknown: Please make your choice.
+sele: 9S
+sele: A2
+unknown: Are you sure?
+unknown: Understood.
+sele: Yes
+sele: No
+[[ph3\p300\p300_fe415e44_scp.bin]]
+a9s: 2B!
+a9s: Hey...

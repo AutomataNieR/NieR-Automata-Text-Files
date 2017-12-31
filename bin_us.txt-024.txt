@@ -1,0 +1,100 @@
+op210: Destroyed units will simply be replaced. Attacking is pointless.
+op210: Now move onto the next one!
+op210: Try to sneak up behind your foes, keep out of sight, and then...
+a9s: Fiiiine.
+op210: Boom! Hack 'em up good.
+op210: Defensive system operation confirmed to be declining.
+a9s: Um, okay.
+a9s: Almost there.
+a9s: ..."Boom?" Is she serious?
+op210: Enemy defense system fully offline.\nI knew you could do it.
+pod153: Analysis: It is not possible to hack directly into the target Goliath-class machine lifeform.
+pod153: Special software protection detected. Enemy is refusing access from anything other than machine lifeforms.
+pod153: Proposal: Unit 9S should commandeer a smaller enemy and use it to hack the large one.
+a9s: A little multi-level hacking, huh?
+op210: Looks like it's going well down there.
+a9s: I-I always do...
+op210: Every Scanner in the force is involved in this operation.
+op210: That really was brilliant work, which means I've got a special surprise for you.
+op210: So let's try not to fall behind.
+op210: I'll leave it in my room so you can pick it up later.
+a9s: Yeah, yeah. No falling behind. Got it.
+a9s: ...A surprise?
+op210: 9S?
+a9s: What is it?
+op210: Make sure to do whatever is necessary to avoid combat.
+a9s: And how will I provide support to the squad if I don't fight?
+op210: Scanner units such as yourself are not designed for battle.
+a9s: Aw, are you worried about me?
+op210: No. I'm merely pointing out that you would be a liability on the battlefield.
+a9s: Wow, that's...harsh.
+a11s: 11S to 9S, come in.
+a9s: 9S here. Go ahead.
+a11s: I'm just about wrapped up here. How about you?
+a9s: Um, just one left, I think.
+a11s: Roger.
+a11s: Be sure to head back to the Bunker when you're done so you can sync your data.
+a9s: Oh, right. I forgot about that.
+a11s: Until your combat data is uploaded, none of the Scanner modules can run updates.
+a9s: Okay. I'll take care of it as soon as I'm done here.
+a11s: Appreciated.
+a9s: Whew... That looks like everything.
+a9s: Here we go...
+pod153: Proposal: Unit 9S should rendezvous with unit 2B before the combat situation worsens.
+a9s: Sounds like a plan.
+a9s: Lemme just mark the point on the map. Aaaand...there.
+pod153: Alert: Exiting the planned operational area.
+pod153: Proposal: Return to the operational area immediately.
+[[ph3\p300\p300_ac91bbe4_scp.bin]]
+announce: YoRHa unit 9S!
+girls: YoRHa unit 9S!
+announce: Welcome to the Tower!
+girls: Welcome to the Tower!
+a9s: You bastards...!
+announce: Because you made it this far, we have a special announcement just for you...
+girls: Because you made it this far, we have a special announcement just for you...
+girls: We'll reveal it once you destroy all the machine lifeforms here.
+girls: You did it.
+girls: You did it.
+girls: Now let us show you what we promised.
+girls: We are conceptual human personalities created within the machine network.
+girls: We cannot be destroyed.
+girls: YoRHa unit 9S...
+girls: Your attack is meaningless.
+girls: Your existence is meaningless.
+a9s: Shut up!
+a9s: Keep 'em coming...
+a9s: I'll destroy them all...
+a9s: All of them...AND this Tower!
+[[ph3\p300\p300_ae2eada6_scp.bin]]
+cmd: Have you met with 9S yet? He's waiting in his room.
+cmd: 9S is waiting in his room. You should go see him.
+op60: I don't know how you managed to beat Eve, but you did!  Now go take a nap or something. You totally earned it!
+op60: I'm so glad I got to work with you, 2B! Here's to many more successful missions!
+op210: Thank you for supporting 9S. Please continue to look after him.
+op210: Actually, have you spoken with 9S yet? He's waiting in his room.
+bs: You seem a bit worn down. Let me take a look.
+bs: Need any maintenance?
+bs: Afraid I can't even give heroes a discount, but I can probably arrange a special bit of tuning if you'd like.
+cmd: This could be the final mission. I'm depending on you.
+cmd: Head out from the hangar.\n...And good luck.
+op60: We're expecting a fierce battle. Please be careful!
+op60: I...I don't want you to die!
+op210: 9S has gone ahead and started the mission. Everything is proceeding well at the moment.
+op210: Join up with him on-site and lend support however you can.
+bs: Need some last-minute maintenance?
+bs: Good luck.
+[[ph3\p300\p300_af5fb37c_scp.bin]]
+ppl: Oh dear. What happened to you?
+pod153: Wounded in battle. NFCS not functioning.
+dbl: I'm amazed you were even able to drag yourself here.
+dbl: This is gonna take a bit, so just hang tight.
+ppl: This is terrible! Your motor cortex is full of holes.
+ppl: I can't believe you even managed to walk here.
+dbl: All right, you're all good.
+system: NFCS fully recovered.
+[[ph3\p300\p300_b01535dd_scp.bin]]
+pascal: Why are they coming after us? Why!?
+a2: We can sort it out later.
+a2: Right now we have to take 'em down!
+a2: These bastards won't stop!

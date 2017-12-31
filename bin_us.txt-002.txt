@@ -1,0 +1,100 @@
+pod042: EMP generator target confirmed. Marking on map.
+pod042: Proposal: Destroy the generator quickly.
+pod042: Enemy data obtained from Command.
+a2b: Go ahead.
+pod042: The only known record of this machine lifeform is a lone sighting 320 years ago.
+pod042: Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.
+pod042: All Resistance fighters in the vicinity were annihilated.
+a2b: So basically, if this thing reaches land, we're screwed.
+pod042: Affirmative.
+op210: Confirmed elimination of electromagnetic interference.
+op210: Stand by for incoming satellite laser strike.
+[[ph2\p200\p200_2311697b_scp.bin]]
+eve: Why did you kill my brother!?
+eve: 
+eve: I... I...!
+pod042: Alert: Massive energy signature detected.
+a9s: What is it?
+pod042: The energy seems to be coming from a large number of linked machine lifeforms.
+a2b: He's absorbing the lifeforce of whatever's left on the network.
+a9s: Damn it! We'll never get anywhere like this.
+a9s: I'm going to try hacking into Eve and shutting him down!
+a9s: Back me up, 2B!
+a2b: On it.
+[[ph2\p200\p200_24125524_scp.bin]]
+a9s: Um...what's that?
+eml: Hey there, guys! What's up!?
+a9s: This thing's weird, 2B. Let's kill it.
+eml: Wait, what? No! Hold on!
+a2b: Good idea.
+eml: Noooooooo!
+a9s: Okay, what WAS that?
+[[ph2\p200\p200_24194e13_scp.bin]]
+eve: Why must we read all of these books, brother?
+adam: Knowledge expands horizons and enriches existence.
+eve: But can't we just transfer all this data over instantly?
+adam: Into your head, perhaps. But not to your heart.
+eve: Hmm. I guess.
+eve: ......
+eve: Hey, so...
+adam: Yes?
+eve: My name? Eve? This book says it's a woman's name.
+eve: Shouldn't we be called Cain and Abel or something instead?
+adam: Humans wouldn't change names so easily.
+adam: Besides, you should be proud of the name Eve.
+eve: Huh...
+eve: Well, if that's what you think, then I'm fine with it.
+adam: Glad to hear it.
+eve: Ummm...
+adam: Is there something else?
+eve: After we're done reading, can we go out and play?
+eve: I'm sure it'll be TONS of fun!
+adam: All right. But only after we're finished.
+eve: You mean it!?
+eve: Then I'm gonna try extra hard to finish this!
+eve: Extra EXTRA hard!
+adam: You do that.
+[[ph2\p200\p200_27db07bb_scp.bin]]
+cap: Attention! This is carrier Blue Ridge II.
+cap: Requesting support from any friendly units in range.
+cap: We've come under heavy fire from the enemy.
+cap: Our escort ship has taken damage and is unable to engage.
+cap: We're currently resisting with all remaining support fighters, but we can't hold them off for long.
+cap: I repeat, this is carrier Blue Ridge II.
+cap: We need immediate backup from any available android forces.
+a9s: I'm picking up a large-scale enemy inbound!
+a9s: Looks to be 2.8 klicks southwest of us!
+a2b: Enemy aerial unit destroyed.
+a2b: Reverting back to area reconnai—
+a9s: Wait!
+a9s: I'm still picking up a large enemy presence!
+a2b: Didn't I kill that already?
+a9s: What on...? If it's that big, we should be able to see it...
+[[ph2\p200\p200_2bfce9ed_scp.bin]]
+a9s: Yep, this looks like a king's castle, all right...
+a9s: Watch out for hostile enemies, 2B.
+a2b: Roger that, Nine...ze.
+a9s: Huh!? Wait, what did you just say!?
+a2b: Roger that, 9S.
+a9s: Wait, no! That's not what you said! You said "Nines"!\nOr at least something close to—
+a2b: Cut the chatter, and engage the enemy.
+a9s: Ugh!
+[[ph2\p200\p200_2e8bdcb0_scp.bin]]
+cmd: YoRHa, this is your Commander.
+a2b: What is this?
+pod042: Analysis: It is a cave-in caused by the collapse of an open space underground.
+a9s: Why is there such a huge cavern beneath the city?
+cmd: For the first time in centuries, we've intercepted a signal belonging to the aliens.
+cmd: These are the creatures that are in direct command of the machine lifeforms on this planet.
+cmd: If we can destroy them, we can end this long and arduous war once and for all!
+cmd: Our intel team is hard at work attempting to analyze the source of the signal, but we're not there yet.
+cmd: We need more data.
+cmd: All YoRHa units are hereby ordered to prioritize data collection above all else.
+cmd: We can't let this chance slip through our fingers!
+cmd: ...Glory to mankind.
+a9s: That's a weird-looking enemy.
+a9s: I used Command's data to determine the signal's source and marked it on the map.
+a9s: But it seems to be underground. Like, way underground.
+a2b: Guess we'll see once we get there.
+a2b: ...If we're lucky.
+a9s: You're not much for plans, are you, 2B?

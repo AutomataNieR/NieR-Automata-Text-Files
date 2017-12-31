@@ -1,0 +1,100 @@
+announce: Congratulations! As thanks for all the android requests you completed, we have a special present for you!
+a9s: The YoRHa black box circuitry...
+announce: As a reward for trying to understand machine lifeforms via frequent hacking sessions, we have a special present for you!
+a9s: It's made from cores from the machines?
+announce: It's wonderful to see your interest in the things of this world.\nThe collection you've amassed has earned you a special present!
+a9s: That's... No.
+announce: Goodness! You've died an astonishing number of times.\nYou deserve a special present!
+a9s: That can't be true.
+announce: Oh my! Look at all the machine lifeforms you've murdered!\nSuch dogged persistence is worthy of a special present!
+announce: Heavens, you've used a veritable mountain of items, haven't you?\nPlease have this special present as a reward!
+announce: You've recovered an army's worth of corpses!\nWe have just the thing for someone like you!
+[[ph3\p300\p300_4fce2323_scp.bin]]
+a2: Right. Now I just have to bring this to Pascal...
+pascal: A2, can you hear me!?
+a2: Oh, perfect. I have the materials you asked me to—
+pascal: Help, A2! The village is in great trouble!
+pascal: The villagers are— Oh, no...!
+a2: Pascal? Pascal, are you there!?
+a2: What the hell is going on!?
+pod042: Hypothesis: The valuable source of information known as Pascal has encountered difficulty.
+pod042: Proposal: Unit A2 should investigate Pascal's village immediately.
+a2: I'm on my way!
+pod042: Proposal: Unit A2 should investigate the status of Pascal's village immediately.
+a2: I know.
+[[ph3\p300\p300_50eb25b8_scp.bin]]
+a9s: Ungh...
+pod153: Alert: Virus detected in locomotion region. High probability that infection source is transplanted parts from corrupted units.
+pod153: Proposal: Hack into self and eliminate virus.
+a9s: On it...
+pod153: Virus eliminated.
+pod153: Ninety-five percent of functionality restored.
+[[ph3\p300\p300_52095a27_scp.bin]]
+pod042: Unknown.
+a2: Whoa. What's that?
+a2: You're useless.
+[[ph3\p300\p300_540e0da_scp.bin]]
+pod042: This is the current status of unit 9S?
+pod153: Affirmative. His mental state has become dangerously unstable.
+pod153: Action must be taken immediately.
+[[ph3\p300\p300_544f9315_scp.bin]]
+a9s: It doesn't matter. None of this matters!
+a2: 9S...
+a9s: But if it doesn't matter...why do I long for humans like this!?
+a9s: Why do I desire the touch of something that no longer exists!?
+a2: It's how we were made.
+a2: Androids were designed to protect their human masters.
+a2: Our core programming demands that we—
+a9s: Shut up, shut up, shut UP, SHUT UP!
+a9s: Fine then... I'll just destroy it!
+a9s: Hee hee... If it all goes away, that'll solve everything!
+a2: Damn it!
+[[ph3\p300\p300_54b1765c_scp.bin]]
+girls: Ah ha ha ha ha ha ha ha hah!
+girls: Kill! Kill!
+a2: Huh? Who are they?
+girls: Ah ha ha ha ha ha ha ha hah!
+girls: Ah ha ha ha ha ha ha ha hah! Ha ha ha hah!
+[[ph3\p300\p300_58e3f469_scp.bin]]
+a9s: I'm in...the Resistance camp?
+ppl: That's right. You've been unconscious for nearly two weeks.
+dbl: A little thank-you for saving your butt would be nice!
+a9s: Where's 2B?
+ppl: ......
+dbl: You know that better than anyone, no?
+dbl: Her black box signal...disappeared.
+a9s: ...Oh.
+pod153: Devola and Popola are rare android models designed for medical treatment and maintenance.
+pod153: Without the Bunker, they are the only remaining way for unit 9S to initiate repairs.
+pod153: Proposal: A word of appreciation is appropriate.
+a9s: ......
+a9s: ...Thanks.
+dbl: Yeah, there used to be lots of our models around.
+dbl: Apparently, we were put here to oversee some kind of large-scale system that was in place.
+a9s: Apparently? What does that mean?
+dbl: It means we don't know. All the records from that era have been deleted.
+dbl: Our model kinda went nutso at some point in the past. It ended badly.
+ppl: Most of our kind were disposed of after that.
+ppl: But we were spared.
+ppl: They used us as a sort of control group in order to ensure such a thing couldn't happen again.
+dbl: So yeah, we're lab rats. But at least we get to be here helping out friends.
+dbl: I'd like to think that we're atoning in some way for our past sins.
+a9s: ......
+ppl: Try not to overdo it, 9S.
+[[ph3\p300\p300_59a32047_scp.bin]]
+a9s: Is this entire building made of machines, even on the inside?
+pod153: Analysis: Many useless parts unrelated to machine lifeform functionality detected.
+pod153: The reason for using said parts is unknown.
+a9s: There's no meaning to anything they do.
+a9s: Is this writing?
+a9s: I can't read it.
+pod153: Analysis: Writing is an ancient language known as Angelic.
+pod153: It reads "meat box."
+a9s: Oooo-kay then.
+n02: This forest...is our forest...
+n02: Y-Y-Your...Majesty...
+n02: R-Revenge...reveeeeenge...
+n02: Pain! So much pain!
+n02: Pain pain pain...
+n02: I do not...want to die...
+a9s: Machines can't feel pain.

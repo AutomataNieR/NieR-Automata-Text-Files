@@ -1,0 +1,100 @@
+[[ph2\p200\p200_17d05835_scp.bin]]
+a9s: Operator? What happened?
+pod153: Use of server administration room requested.
+op210: Ah. 9S.
+pod153: Request granted. You may now use the device in this room.
+op210: We recently detected large numbers of machine lifeforms throughout the factory area.
+op210: We received a support request from 2B soon thereafter, but have been unable to respond due to poor reception.
+a9s: All right. I'll try to gain access from the main terminal.
+[[ph2\p200\p200_1cc100aa_scp.bin]]
+adam: I—or we machine lifeforms, I suppose—have a keen interest in humanity.
+adam: Love. Family. Religion. War.
+adam: The more human records I unearth, the more charmed I am by their complexity.
+adam: This city is one of many areas I created out of a desire to understand—to know—humans.
+adam: It's grand, don't you think? Almost...spiritual. And yet it's currently nothing more than an android graveyard!
+adam: I seek to learn and adopt all facets of humanity!
+adam: Some desired love! Others family!
+adam: Only then did I realize the truth...
+adam: The core of humanity...is conflict.
+adam: They fight. Steal. Kill. THIS is humanity in its purest form!
+a2b: You know nothing about humanity.
+adam: Have I offended you, little android? Did I speak ill of your beloved humans?
+adam: The truth can be so painful.
+adam: I strive to attain nothing less than the essence of humanity itself.
+adam: We machines exist in a connected network. We are immortal. Invincible.
+adam: And yet, within all those infinite bits of data, there exists not even the merest flicker of being. Of life.
+adam: Death—even the concept of death—has no meaning to us.
+adam: Is that all you've got, little android!?
+adam: Hate me! Despise me!
+adam: Did I not festoon this area with the corpses of your friends?
+a2b: Bastard...
+pod042: Alert: Enemy provocation detected. Emotional turmoil rising.
+a2b: I know!
+a2b: I don't have time for you...
+a2b: I need...to find 9S!
+adam: Ah, 9S...
+adam: 
+adam: 
+adam: Both our kinds share a mad love of humanity, do we not?
+adam: Perhaps we're not so different after all.
+adam: 
+adam: But alas, it was all in vain.
+adam: I'm sure you've realized it by now.
+a2b: .....
+adam: The fact humanity is already...extinct?
+a2b: Shut up!
+pod042: Alert: Enemy deception detected.
+a2b: You shut up too!
+adam: 
+adam: 
+[[ph2\p200\p200_1de99b24_scp.bin]]
+a9s: I'm going to try hacking into Eve and shutting him down!
+[[ph2\p200\p200_1fcb850d_scp.bin]]
+rbot9s: Whoa, whoa, whoa, whoa, whoa! 2B!
+rbot9s: It's me! 9S!
+a2b: ...9S!?
+a9s: I hacked into this machine from the Bunker. I'm controlling it!
+a9s: I'm gonna break into this factory's systems and get you outta here!
+a2b: Appreciated.
+pod153: Pod 153: Hacking into factory system.
+a9s: Uh oh... I'd better get to 2B fast!
+a9s: Damn it! Maybe I should've taken over something with a little more power...
+a9s: Look at all these broken machines...
+a9s: A few still look usable. Better send these coordinates to the Bunker, just in case.
+a9s: All right. If I can hack this elevator and get it running, I can get 2B and everyone else out of here!
+[[ph2\p200\p200_20084f1f_scp.bin]]
+op60: 2B, this is Operator 6O.
+a9s: Back this way again? What a pain.
+a2b: Stop complaining.
+a9s: Yeah, yeah.
+op60: We now have an operational transporter in the city ruins.
+jackas: You should be able to zap yourself here from other transporters now.
+jackas: You're certainly...active in a lot of areas, aren't you?
+jackas: Shut the hell up. \n...You'll make me blush.
+op60: We're attempting to deploy them at other points as well.
+a9s: About time we had access to those!
+a2b: Care to fill me in?
+a9s: Transporters? They let you transfer your consciousness to a temporary body back in the Bunker.
+a9s: I heard some tech guys talking about it a while ago, but I didn't know they'd finally got it working.
+a9s: Anyway, I'll mark the positional data on the map.
+jackas: Hey. How's it hangin'?
+a2b: You again...
+jackas: Your commander told me to build a new access point, so...here ya go.
+jackas: Oh, and I got the stupid transporter up and running too.
+a9s: Um, thank you?
+jackas: I've known the Commander for a while now. She sure is good at pawning work off on people.
+jackas: Next time you see her, give her some lip for me, will ya?
+a2b: So this has a transporter now, huh?
+a9s: Still, transporters ARE pretty handy!
+a9s: They're WAY faster than flight units when it comes to travelling between Earth and the Bunker.
+a9s: Flight units also leave us open to attack, and they're expensive to operate, too.
+[[ph2\p200\p200_20cd934d_scp.bin]]
+a2b: Is that...a machine?
+a9s: It's freakin' HUGE...
+a9s: Crap! It's blocking close-range attacks with EMP blasts.
+a9s: We've got to find another way to damage it.
+op210: Operator 21O to 9S.
+op: Command has decided to stage a direct satellite laser strike on the hostile.
+op210: We need you to destroy the enemy EMP generator so we can lock on to the target.
+a9s: EMP generator?
+op210: Sending the coordinates to your map now.

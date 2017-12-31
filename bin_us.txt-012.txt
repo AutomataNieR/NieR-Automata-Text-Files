@@ -1,0 +1,100 @@
+pascal: No one could figure out how to stop it.
+pascal: We eventually marooned it deep in the ocean, but it seems to be searching for a way back.
+a2b: Huh.
+a9s: Hey, 2B?
+a9s: I think I have another idea!
+a9s: You keep that thing right where it is, okay!?
+a2b: What!?
+a9s: Please, 2B! This is gonna work!
+[[ph2\p200\p200_cc694d55_scp.bin]]
+ane: 2B!
+a2b: You okay?
+ane: They came out of nowhere. Overran the entire camp.
+ane: We tried to fight back, but our shots have no effect!
+pod042: Alert: Energy shields detected on multiple enemy fighters.
+pod042: Physical attacks recommended.
+a2b: Got it. You get the other androids out of here!
+ane: Good luck!
+ane: 2B, you...you saved our lives.
+a2b: What's going on here?
+ane: I have no idea. They came out of nowhere and just—
+a2b: Huh!?
+ane: That was outside the camp!
+[[ph2\p200\p200_d0a7f4dc_scp.bin]]
+pascal: Well, THAT was certainly something.
+pascal: I had no idea such a vast space existed beneath the abandoned factory!
+pascal: I need to return and investigate as soon as possible.
+pascal: When I do, perhaps you'd be willing to join me?
+a2b: No thanks.
+a2b: I'm heading back to the Resistance camp.
+a2b: What about you?
+pascal: Oh, I'll probably wander back to the village. I have plenty on my plate there.
+a2b: I see.
+ane: This...Resistan...camp!
+a2b: Say again? I'm not receiving.
+pod042: Scanning for interference.
+ane: ...Machines......!
+ane: Requesting...backup...forces! Please......
+a2b: Let's move.
+a2b: Why are their numbers increasing like this?
+pod042: Cause unknown.
+a2b: Try contacting the Bunker via laser relay system.
+pod042: Affirmative.
+resiman: No... Nooooo!
+resiwoman2: Somebody help me!
+resiman: Get out of here now!
+[[ph2\p200\p200_d0b71b3b_scp.bin]]
+telo: 128 Years Ago...
+smallrobot: His Majesty. He's...dead.
+smallrobot: The king who gave all for us...
+smallrobot: So benevolent and kind... And now he's dead.
+smallrobot: This sure is sad.
+smallrobot: It sure is.
+smallrobot: But we Royal Knights still have a mission.
+smallrobot: We placed His Majesty's memory—his final memento—into this tiny child.
+smallrobot: And now we must raise this child so he might one day be our new king.
+smallrobot: He deserves a royal upbringing...
+smallrobot: He deserves protection...
+[[ph2\p200\p200_d41c8dff_scp.bin]]
+[[ph2\p200\p200_d5ac1e7d_scp.bin]]
+pod042: Proposal: Prioritize search for 9S.
+a2b: I know. Let's move.
+a2b: What is this?
+pod042: Analysis: This area is composed of crystallized silicon and carbon.
+pod042: Further details unknown.
+a2b: Who built it?
+pod042: Unknown.
+a2b: What's with the corpses?
+pod042: It is unlikely the YoRHa units came this far on their own.
+pod042: Hypothesis: The enemy must have placed them here deliberately.
+[[ph2\p200\p200_d75fa9d2_scp.bin]]
+a2b: You again?
+pod042: Alert: Local machine lifeforms are converging on the area.
+a2b: This is never going to end...
+pod042: Hypothesis: The Goliath-class enemy's scream has summoned the local machine lifeforms.
+pod042: Proposal: Destroy the Goliath.
+[[ph2\p200\p200_dad50fa7_scp.bin]]
+a9s: 2B! You okay!?
+a2b: I'm fine...
+a2b: Let's take this bastard down.
+a9s: Right!
+a9s: What do we do? There's too many!
+pascal: 2B?
+pascal: 2B, can you hear me?
+pascal: Our village is under—
+pascal: Aaaaaaaah!
+a9s: Pascal! Come in, Pascal!
+a2b: Shit...
+[[ph2\p200\p200_e723b449_scp.bin]]
+a9s: Oh, COME ON! Its got an electromagnetic barrier over its whole body!?
+a4b: Heh. Having trouble over there?
+a9s: ...Are you YoRHa?
+a4b: Hunter squadron, deploying out of North 12C Defense HQ.
+a4b: I'm the commanding officer, 4B.
+a4b: Don't worry—we'll take it from here.
+a9s: 2B!
+a9s: Let's leave this area to the reinforcements.
+a9s: I have an idea.
+a9s: You and I should meet up at the spot I just marked.
+[[ph2\p200\p200_e8cf2a5c_scp.bin]]
+a9s: I didn't think...this would be...so hard to control!

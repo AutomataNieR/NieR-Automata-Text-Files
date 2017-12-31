@@ -1,0 +1,100 @@
+a9s: 2B, we picked up the signal under the caved-in area.\nLet's go check it out.
+pod042: Analysis: Strong software locks detected. Access impossible.
+[[ph2\p200\p200_2fb68036_scp.bin]]
+a9s: I must have been corrupted when Eve detached from the network...
+a2b: No...
+a9s: It's okay. I can always reload my backup data from the Bunker.
+a2b: But you'll lose you. The you that exists at this very moment.
+a9s: Guess so...
+a9s: But we can't upload this corrupted data to the Bunker, so...
+a2b: 9S...
+[[ph2\p200\p200_3456f87_scp.bin]]
+a2b: Protecting unit 9S while he hacks the system!
+pod042: The enemy is connected to a vast network.
+pod042: Analysis: The actions of unit 9S have an unacceptably low probability of success.
+pod042: Proposal: Unit 2B should abandon unit 9S and save—
+a2b: Shut up!
+a2b: If 9S says he can do it, then he will!
+pod042: Enemy unit cut off from network functionality.
+[[ph2\p200\p200_398cde2c_scp.bin]]
+ane: Damn... 9S really went through hell.
+ane: But you're the boss. You want him sent up to Command body and all, I'll make it happen.
+a2b: Thanks...
+ane: Oh!
+a2b: What?
+ane: Nothing, just...you've never been much for gratitude, you know?
+a2b: ......
+ane: Not that I mind or anything.
+ane: Oh, um, I also have a message for you.
+ane: Command needs you to contact them ASAP.
+a2b: Got it.
+a2b: This is 2B. Patch me through to the Commander.
+op60: Oh, hey, 2B. Roger that.
+op60: Gimme just a second here...
+cmd: 2B.
+cmd: Good job destroying that machine.
+cmd: Upon further analysis, we learned that the machine—code named Adam—was responsible for managing half of their entire network.
+cmd: A disruption of this magnitude to their network should weaken the machines significantly.
+a2b: What's going to happen to 9S?
+cmd: He'll undergo a full data overhaul up here.
+cmd: Assuming we don't encounter any problems, we're planning to partner him with you again.
+a2b: Thank you.
+cmd: In the meantime, I have another mission for you.
+cmd: I've mailed you the briefing. Go ahead and take a look.
+a2b: Understood.
+a2b: "Analyze current trends among the machines?" ...Huh.
+a2b: Something tells me this is going to involve a lot of killing.
+pod042: Proposal: Procure information from the machine lifeform known as Pascal.
+a2b: Hmm. I suppose he might know something.
+a2b: Pascal? Can you hear me?
+pascal: Oh, hello, 2B. Do you need something?
+a2b: I need to know if you've seen any new trends or behaviors among the machines.
+pascal: New...trends? Hmm...
+pascal: Well, two days ago I was contacted by some machines that disconnected themselves from the network.
+pascal: They wanted to discuss a peace treaty.
+a2b: No kidding.
+pascal: Apparently, they're seeking to form an alliance of some kind with our village.
+a2b: If that's what they want, why don't they move in?
+pascal: I believe they're working on building a colony of their own.
+a2b: You don't say.
+pascal: Indeed. Apparently, it's located in the abandoned factory.
+pascal: I can give you the coordinates if you'd like.
+a2b: Please.
+pascal: I was actually planning to go speak with them myself, you know.
+pascal: Maybe we can meet up over there?
+a2b: Sounds good.
+pascal: Oh, 2B! Hello!
+pascal: Are you ready to go?
+pod042: Report: Mail notification received from access point.
+pod042: Target location data obtained. Marking on map.
+[[ph2\p200\p200_3c562f91_scp.bin]]
+kdc: Aim for the enemy androids!
+kdc: Engage battle mode!
+kdc: Now fight for your king!
+all: For the king!
+a9s: Here they come...
+a9s: Better keep your guard up!
+a2b: I'm aware of how to fight.
+a2b: You just be careful.
+a9s: I will, 2B!
+a2b: These machines...
+a9s: They were talking about a king, right?
+a9s: I saw what looked to be a castle further in. Maybe we should take a look.
+a9s: So those machines had a king?
+a9s: But how can a concept like loyalty be understood by a machine?
+a9s: How are we supposed to reach that castle?
+n02: We must protect our king and kingdom!
+n02: We will protect them!
+n02: We must show our foes what we royal knights are made of!
+n02: We will show them!
+n02: We must fulfill our obligation to the king!
+n02: We will fulfill!
+n02: Er...but what is an "obligation"?
+n02: But what is it!?
+a9s: Looks like the freakshow's in town...
+n02: No falling back! Fight!
+n02: You have lived your whole life for this singular moment!
+n02: For the Forest King!
+n02: The Forest King!
+a2b: What is with these guys...
+a9s: Don't listen to what they're saying, 2B.

@@ -1,0 +1,100 @@
+a2b: Poor thing... You're going to be fine, don't worry.
+ys: Ah...
+a2b: Pod, send a rescue signal to the Bunker.
+pod042: Affirmative.
+ys: Eh... Oh...
+ys: ...
+a2b: No response.
+pod042: Limited functionality detected in black box.
+a2b: So she's still alive. Contact the Bunker.
+pod042: Affirmative.
+ys: ...
+ys: Eek! Who are you!?
+a2b: Don't worry, I'm—
+ys: N-no... Get away from me! I don't like the look of you!
+pod042: Proposal: remove fear functionality.
+ys: No! Stay away! I hate you! I...hate...
+a2b: Sorry to startle you. Just stay here and wait for help.
+ys: Urrrgh....
+ys: So...scared...
+pod042: Target location data obtained. Marking on map.
+op60: Bunker to 2B.
+a2b: 2B here.
+op60: We've got a number of broken-down access points on the field.
+op60: The cause appears to be an EMP attack from a gigantic machine lifeform.
+op60: If you encounter any offline access points, please repair them for us.
+a2b: Understood.
+pod042: Access point repairs complete.
+[[ph2\p200\p200_5a63902e_scp.bin]]
+pod042: Alert: NFCS destroyed. Close-range combat no longer operable.
+a9s: 
+pod153: Alert: NFCS destroyed. Close-range combat no longer operable.
+pod042: Alert: FFCS destroyed. Ranged combat no longer operable.
+pod153: Alert: FFCS destroyed. Ranged combat no longer operable.
+[[ph2\p200\p200_5dfcaace_scp.bin]]
+a2b: Is that...a machine?
+a9s: It's freakin' HUGE...
+a9s: Crap! It's blocking close-range attacks with EMP blasts.
+a9s: We've got to find another way to damage it.
+op60: 2B, Command is attempting to launch a satellite laser strike on your target!
+op60: But the enemy's electromagnetic camouflage is making it impossible to aim.
+op60: We need you to find the emitter and take it out!
+a2b: Oh, is that all?
+op60: I know, I know! But it's the only way!
+pod042: EMP generator target confirmed. Marking on map.
+pod042: Proposal: Destroy the generator quickly.
+pod042: Enemy data obtained from Command.
+a2b: Go ahead.
+pod042: The only known record of this machine lifeform is a lone sighting 320 years ago.
+pod042: Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.
+pod042: All Resistance fighters in the vicinity were annihilated.
+a2b: So basically, if this thing reaches land, we're screwed.
+pod042: Affirmative.
+op60: Electromagnetic interference eliminated!
+op60: Preparing for satellite laser strike!
+[[ph2\p200\p200_61d73740_scp.bin]]
+[[ph2\p200\p200_647d1cd7_scp.bin]]
+telo: 256 Years Ago...
+largerobot: This forest we are stationed in...
+largerobot: It is hot. Humid. Unhygienic. A punishing hell for machine lifeforms.
+largerobot: None should have to live in such a place.
+largerobot: ......
+largerobot: I have decided.
+largerobot: I shall make this our kingdom and declare our independence!
+smallrobot: Ummm...
+smallrobot: What's a kingdom?
+largerobot: Well, it's sort of like a large house.
+largerobot: And inside this house, all our people live together as family.
+smallrobot: Fam...ily...
+smallrobot: I suppose a family might be...good?
+smallrobot: Yeah! Families are good!
+[[ph2\p200\p200_67909aeb_scp.bin]]
+pod042: Alert: Energy shield detected over enemy unit.
+pod042: Physical defense shield detected.
+pod042: Analysis: Both long- and close-range attacks are ineffective.
+a2b: Oh, now what?
+pod042: Large energy supply detected within this factory.
+pod042: Proposal: Energy source should be destroyed.
+a2b: 9S?
+a2b: That Goliath we just encountered—
+a9s: I got it! I've been keeping an eye on you. I'm gonna shut off power to the factory now!
+a2b: Do it!
+a9s: 2B! I just shut down the electrical grid!
+pod042: Enemy shield deactivated.
+a9s: Factory system at 80 percent control! Hang in there, 2B!
+a9s: 90 percent... 92... 95... 98...
+[[ph2\p200\p200_6aa3f28e_scp.bin]]
+eve: Brother... My...brother...
+eve: Brother...brother...
+a2b: What is this?
+a9s: Looks like he's bombarding the area with forced connections...
+a9s: I think all these transmissions are making the machines go haywire.
+a9s: We have to find Eve and destroy him!
+a2b: On it.
+a9s: Now what?
+[[ph2\p200\p200_6ae550e0_scp.bin]]
+pascal: I was surprised you wished to speak with me personally. Whatever is the matter?
+a9s: It'll be faster if you just take a look at this recording.
+sele: Transfer data.
+sele: Don't transfer.
+pascal: ...I see.

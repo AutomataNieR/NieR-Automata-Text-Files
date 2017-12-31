@@ -1,0 +1,100 @@
+[[ph2\p200\p200_40b3c93d_scp.bin]]
+a9s: The human race is...gone.
+cmd: 9S, I need you to deploy now.
+op: What's going on!?
+cmd: What are you doing? Deploy!
+op: I don't know...
+op: What's happening!?
+op: Save that for later!
+op: ......
+op: What in the world...?
+a9s: ......
+a9s: How do I tell 2B?
+bcast: Emergency Protocol, code F2.
+bcast: All YoRHa members are to report to combat stations immediately.
+bcast: Repeat. Emergency Protocol, code F2.
+bcast: All YoRHa members are to report to combat stations immediately.
+a9s: Combat stations? I'd better get a move on.
+pod153: Alert: Mission orders received.
+pod153: Rendezvous with and support unit 2B near the Resistance camp.
+a9s: Any details?
+pod153: Large numbers of machine lifeforms are rampaging through the city ruins.
+a9s: What? How? They're supposed to be weakened...
+pod153: Cause unknown.
+pod153: Goliath-class enemies also confirmed. Immediate action advised.
+bs: Need any maintenance done? You've come to the right person!
+op60: I'm glad you're safe.
+op60: Communications with Earth are incredibly unstable. Please don't do anything too crazy, okay?
+op60: Be careful!
+op210: You tend to act recklessly. Please be cautious going forward.
+op210: Be careful.
+[[ph2\p200\p200_48a7f0fd_scp.bin]]
+n02: You will go no further!
+n02: We will protect the king with our very lives!
+n02: Don't give them a single inch!
+n02: All hail the king!
+n02: This is our beloved nation!
+a9s: 2B! That's...an android!
+a9s: A YoRHa-type android!
+pod042: Alert: This unit is currently wanted by YoRHa. Annihilation recommended.
+pod153: Alert: This unit is currently wanted by YoRHa. Annihilation recommended.
+a9s: Annihilation? But why!?
+a2b: Let's go, 9S.
+a9s: 2B!
+cmd: Bunker to 2B and 9S.
+cmd: We've picked up a signal from the black box of a fugitive known as A2.
+cmd: What you see in front of you...is your enemy.
+a9s: But she's—
+cmd: She deserted us. She's destroyed multiple pursuit androids.
+cmd: Now kill her before she kills you!
+a9s: Operator, this is 9S. Patch me through to the Commander.
+a9s: Let's go after her, 2B!
+a2b: She's gone...
+op210: Roger that, 9S.
+a9s: I'm sorry, Commander. We failed to defeat the fugitive.
+pod042: Proposal: Pursue the deserter A2.
+cmd: I see.
+a9s: Damn! She got away.
+cmd: Well, at least you're both safe.
+cmd: That's an incredibly powerful unit you just faced.
+a9s: That must be the gate Pascal opened for us.
+cmd: You should probably keep your distance in the future.
+n02: We have been expecting you.
+a9s: Commander, why did A2 desert the force?
+n02: Pascal told us about you.
+cmd: ......
+n02: We will open the gate.
+cmd: I'm afraid that's classified.
+n02: Please pass through.
+a9s: Oh? Huh.
+n02: We will continue to stand guard.
+a9s: ...2B.
+a2b: Yeah?
+a9s: Let's go ask Pascal about A2.
+a9s: He might know something.
+a2b: All right.
+a9s: Um, Pascal? This is 9S.
+pascal: Oh! You survived! How wonderful.
+a9s: Yeah, we're fine. But there's something we want to ask you about.
+pascal: Of course! Anything.
+a9s: Actually, it needs to be in person.
+pascal: Hmm. Understood.
+pascal: I'll open the gate we built to deter enemy invaders.
+pascal: You'll be able to reach the village through there.
+[[ph2\p200\p200_4b245f40_scp.bin]]
+a9s: We gotta bail, 2B! This is bad!
+[[ph2\p200\p200_56645a4b_scp.bin]]
+a9s: 2B! Keep going straight!
+a2b: Will do.
+a9s: The door's open! Keep moving!
+a2b: All right.
+[[ph2\p200\p200_58623dde_scp.bin]]
+a2b: 2B to Bunker, come in. Over.
+dbl: ......
+op60: Operator to...2B!? 2B, are you all right!?
+ppl: ......
+a2b: Running system diagnostics... Core functionality appears intact.
+dbl: Once you approach a target, the scanner can make it visible.
+op60: Thank goodness!
+resiman: Sorry, this terminal is out-of-order right now.
+a2b: Never mind that—I need a status report.
